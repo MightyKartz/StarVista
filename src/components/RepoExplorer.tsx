@@ -225,7 +225,9 @@ function RepoCard({ repo, baseUrl }: { repo: ManifestRepo; baseUrl: string }) {
         )}
         <div className="repo-card__title">
           <h2>
-            <a href={detailHref}>{repo.name}</a>
+            <a href={detailHref} aria-label={`View ${repo.id} on StarVista`}>
+              {repo.id}
+            </a>
           </h2>
           <p className="repo-card__owner">{repo.owner}</p>
         </div>

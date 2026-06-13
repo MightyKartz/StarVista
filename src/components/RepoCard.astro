@@ -39,7 +39,7 @@ const updatedLabel = repo.pushedAt
       )
     }
     <div class="repo-card__title">
-      <h2><a href={detailHref}>{repo.name}</a></h2>
+      <h2><a href={detailHref} aria-label={`View ${repo.id} on StarVista`}>{repo.id}</a></h2>
       <p class="repo-card__owner">{repo.owner}</p>
     </div>
   </div>
