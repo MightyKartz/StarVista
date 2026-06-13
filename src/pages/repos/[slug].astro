@@ -1,13 +1,10 @@
 ---
-import manifestJson from '../../../fixtures/sample-manifest.json';
-import sampleRepoJson from '../../../fixtures/sample-repo.json';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import type { Manifest, ManifestRepo, RepoDetails } from '../../lib/types';
-
-const sampleRepo = sampleRepoJson as RepoDetails;
+import { loadManifest, loadRepoDetails } from '../../lib/data';
+import type { Manifest, ManifestRepo } from '../../lib/types';
 
 export function getStaticPaths() {
-  const manifest = manifestJson as Manifest;
+  const manifest = loadManifest() as Manifest;
 
   return manifest.repos.map((repo) => ({
     params: { slug: repo.slug },
@@ -20,7 +17,7 @@ interface Props {
 }
 
 const { repo } = Astro.props;
-const details = repo.slug === sampleRepo.slug ? sampleRepo : null;
+const details = loadRepoDetails(repo.slug);
 const title = `${repo.name} by ${repo.owner} | StarVista`;
 const description = repo.description ?? `Visual profile for ${repo.id}.`;
 const homeHref = import.meta.env.BASE_URL;

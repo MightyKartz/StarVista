@@ -1,10 +1,9 @@
 ---
-import manifestJson from '../../fixtures/sample-manifest.json';
 import RepoGrid from '../components/RepoGrid.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import type { Manifest } from '../lib/types';
+import { loadManifest } from '../lib/data';
 
-const manifest = manifestJson as Manifest;
+const manifest = loadManifest();
 const description =
   'A visual discovery surface for high-interest open-source repositories.';
 ---
