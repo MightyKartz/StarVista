@@ -1,5 +1,5 @@
 ---
-import RepoGrid from '../components/RepoGrid.astro';
+import RepoExplorer from '../components/RepoExplorer';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { loadManifest } from '../lib/data';
 
@@ -20,6 +20,6 @@ const description =
       </a>
     </header>
 
-    <RepoGrid repos={manifest.repos} />
+    <RepoExplorer client:load repos={manifest.repos} baseUrl={import.meta.env.BASE_URL} />
   </main>
 </BaseLayout>

@@ -1,0 +1,29 @@
+---
+import type { RepoRelease } from '../lib/types';
+
+interface Props {
+  releases: RepoRelease[];
+}
+
+const { releases } = Astro.props;
+const dateFormatter = new Intl.DateTimeFormat('en', {
+  month: 'short',
+  day: 'numeric',
+  year: 'numeric',
+});
+---
+
+{
+  releases.length > 0 ? (
+    <ol class="release-timeline">
+      {releases.map((release) => (
+        <li>
+          <strong>{release.name || release.tag}</strong>
+          <span>{release.publishedAt ? dateFormatter.format(new Date(release.publishedAt)) : release.tag}</span>
+        </li>
+      ))}
+    </ol>
+  ) : (
+    <p class="empty-state">No recent releases published through GitHub Releases.</p>
+  )
+}

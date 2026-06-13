@@ -1,5 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import ReleaseTimeline from '../../components/ReleaseTimeline.astro';
+import Sparkline from '../../components/Sparkline.astro';
 import { loadManifest, loadRepoDetails } from '../../lib/data';
 import type { Manifest, ManifestRepo } from '../../lib/types';
 
@@ -21,6 +23,8 @@ const details = loadRepoDetails(repo.slug);
 const title = `${repo.name} by ${repo.owner} | StarVista`;
 const description = repo.description ?? `Visual profile for ${repo.id}.`;
 const homeHref = import.meta.env.BASE_URL;
+const repoHref = details?.links.repo ?? `https://github.com/${repo.id}`;
+const homepageHref = details?.links.homepage;
 ---
 
 <BaseLayout title={title} description={description}>
@@ -37,7 +41,10 @@ const homeHref = import.meta.env.BASE_URL;
         <h1>{repo.name}</h1>
         <p>{description}</p>
       </div>
-      <a class="source-link" href={`https://github.com/${repo.id}`}>GitHub</a>
+      <div class="detail-actions">
+        <a class="source-link" href={repoHref}>GitHub</a>
+        {homepageHref && <a class="source-link" href={homepageHref}>Homepage</a>}
+      </div>
     </section>
 
     <section class="detail-stats" aria-label={`${repo.id} statistics`}>
@@ -61,20 +68,40 @@ const homeHref = import.meta.env.BASE_URL;
 
     {
       details && (
-        <section class="detail-section">
-          <h2>Project Snapshot</h2>
-          <p>{details.summary.text}</p>
-          <div class="language-list" aria-label={`${repo.id} language breakdown`}>
-            {Object.entries(details.languages).map(([language, share]) => (
-              <div class="language-list__row">
-                <span>{language}</span>
-                <meter min="0" max="1" value={share}>
-                  {Math.round(share * 100)}%
-                </meter>
+        <>
+          <section class="detail-section detail-section--wide">
+            <h2>Project Snapshot</h2>
+            <p>{details.summary.text}</p>
+            {details.readmeExcerpt && <p>{details.readmeExcerpt}</p>}
+          </section>
+
+          <section class="detail-panel-grid">
+            <div class="detail-section">
+              <h2>Languages</h2>
+              <div class="language-list" aria-label={`${repo.id} language breakdown`}>
+                {Object.entries(details.languages).map(([language, share]) => (
+                  <div class="language-list__row">
+                    <span>{language}</span>
+                    <div class="language-list__track">
+                      <span style={`width: ${Math.round(share * 100)}%`} />
+                    </div>
+                    <strong>{Math.round(share * 100)}%</strong>
+                  </div>
+                ))}
               </div>
-            ))}
-          </div>
-        </section>
+            </div>
+
+            <div class="detail-section">
+              <h2>Star History</h2>
+              <Sparkline points={details.starHistory} />
+            </div>
+          </section>
+
+          <section class="detail-section">
+            <h2>Recent Releases</h2>
+            <ReleaseTimeline releases={details.releases} />
+          </section>
+        </>
       )
     }
   </main>
