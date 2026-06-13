@@ -1,0 +1,68 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: data
+          path: public/data
+
+      - name: Initialize data branch
+        run: |
+          if [ ! -d public/data/.git ]; then
+            rm -rf public/data
+            mkdir -p public/data
+            git -C public/data init
+            git -C public/data checkout --orphan data
+            git -C public/data remote add origin "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY.git"
+          else
+            git -C public/data checkout data || git -C public/data checkout -b data
+          fi
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DATA_DIR: public/data
+        run: npm run data:update
+
+      - name: Commit data branch
+        run: |
+          git -C public/data config user.name "github-actions[bot]"
+          git -C public/data config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C public/data add manifest.json repos snapshots
+          if git -C public/data diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git -C public/data commit -m "chore: update StarVista data"
+            git -C public/data push origin HEAD:data
+          fi

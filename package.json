@@ -10,6 +10,10 @@
     "dev": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
+    "fetch": "tsx scripts/fetch-repos.ts",
+    "snapshot": "tsx scripts/write-snapshot.ts",
+    "build:data": "tsx scripts/build-data.ts",
+    "data:update": "npm run fetch && npm run snapshot && npm run build:data",
     "test": "vitest run",
     "test:watch": "vitest",
     "lint": "eslint .",
@@ -19,6 +23,7 @@
   "dependencies": {
     "@astrojs/react": "latest",
     "@astrojs/sitemap": "latest",
+    "@octokit/rest": "^22.0.1",
     "astro": "latest",
     "react": "latest",
     "react-dom": "latest"
@@ -31,6 +36,7 @@
     "@types/react-dom": "latest",
     "eslint": "latest",
     "prettier": "latest",
+    "tsx": "^4.22.4",
     "typescript": "latest",
     "typescript-eslint": "latest",
     "vitest": "latest"

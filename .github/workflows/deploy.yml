@@ -3,6 +3,9 @@ name: Deploy
 on:
   push:
     branches: [main]
+  workflow_run:
+    workflows: [Update Data]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -16,10 +19,20 @@ concurrency:
 
 jobs:
   build:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout source
         uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: data
+          path: public/data
 
       - name: Setup Node
         uses: actions/setup-node@v4
