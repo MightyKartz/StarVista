@@ -9,6 +9,7 @@ import type {
 } from '../src/lib/types';
 import { createGitHubClient, isNotFound, withGitHubRetry } from './lib/github';
 import { ensureDir, getDataDir, readJsonIfExists, writeJson } from './lib/io';
+import { mergeManifestRepos } from './lib/manifest';
 import {
   createTemplateSummary,
   extractReadmeExcerpt,
@@ -36,17 +37,40 @@ async function main(): Promise<void> {
   const dataDir = getDataDir();
   const reposDir = path.join(dataDir, 'repos');
   await ensureDir(reposDir);
+  const existingManifest = await readJsonIfExists<Manifest>(
+    path.join(dataDir, 'manifest.json'),
+  );
 
   const octokit = createGitHubClient();
   const repos = await searchRepositories(octokit);
-  const manifestRepos: ManifestRepo[] = [];
+  const currentSearchRepos = new Map(
+    repos.map((repo) => [repo.full_name, repo] as const),
+  );
+  const currentManifestRepos = repos.map((repo) => normalizeManifestRepo(repo));
+  const manifestRepos = mergeManifestRepos(
+    currentManifestRepos,
+    existingManifest?.repos ?? [],
+  );
+  const writtenManifestRepos: ManifestRepo[] = [];
 
-  for (const searchRepo of repos) {
-    const manifestRepo = normalizeManifestRepo(searchRepo);
-    manifestRepos.push(manifestRepo);
-
+  for (const manifestRepo of manifestRepos) {
+    const searchRepo = currentSearchRepos.get(manifestRepo.id);
     const detailPath = path.join(reposDir, `${manifestRepo.slug}.json`);
     const existing = await readJsonIfExists<RepoDetails>(detailPath);
+
+    if (!searchRepo) {
+      if (!existing) {
+        console.warn(
+          `Missing historical detail data for ${manifestRepo.id}; skipping manifest entry`,
+        );
+        continue;
+      }
+
+      await writeJson(detailPath, mergeExistingDetails(manifestRepo, existing));
+      writtenManifestRepos.push(manifestRepo);
+      continue;
+    }
+
     const shouldRefreshDetails =
       !existing ||
       existing.pushedAt !== manifestRepo.pushedAt ||
@@ -62,12 +86,13 @@ async function main(): Promise<void> {
           );
 
     await writeJson(detailPath, details);
+    writtenManifestRepos.push(manifestRepo);
   }
 
   const manifest: Manifest = {
     generatedAt: new Date().toISOString(),
-    repoCount: manifestRepos.length,
-    repos: manifestRepos,
+    repoCount: writtenManifestRepos.length,
+    repos: writtenManifestRepos,
   };
 
   await writeJson(path.join(dataDir, 'manifest.json'), manifest);
