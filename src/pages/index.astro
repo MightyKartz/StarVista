@@ -1,9 +1,13 @@
 ---
 import RepoExplorer from '../components/RepoExplorer';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { loadManifest } from '../lib/data';
+import { loadManifest, loadSnapshots } from '../lib/data';
+import { deriveRepoFirstSeenDates } from '../lib/trends';
 
 const manifest = loadManifest();
+const snapshots = loadSnapshots();
+const firstSeenDates = deriveRepoFirstSeenDates(snapshots);
+const today = manifest.generatedAt.slice(0, 10);
 const description =
   'A visual discovery surface for high-interest open-source repositories.';
 ---
@@ -20,6 +24,12 @@ const description =
       </a>
     </header>
 
-    <RepoExplorer client:load repos={manifest.repos} baseUrl={import.meta.env.BASE_URL} />
+    <RepoExplorer
+      client:load
+      repos={manifest.repos}
+      baseUrl={import.meta.env.BASE_URL}
+      firstSeenDates={firstSeenDates}
+      today={today}
+    />
   </main>
 </BaseLayout>

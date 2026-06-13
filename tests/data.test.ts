@@ -2,8 +2,8 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { afterEach, describe, expect, it } from 'vitest';
-import { loadManifest, loadRepoDetails } from '../src/lib/data';
-import type { Manifest, RepoDetails } from '../src/lib/types';
+import { loadManifest, loadRepoDetails, loadSnapshots } from '../src/lib/data';
+import type { Manifest, RepoDetails, Snapshot } from '../src/lib/types';
 
 let tempDirs: string[] = [];
 
@@ -80,5 +80,27 @@ describe('loadRepoDetails', () => {
     expect(loadRepoDetails('vercel-next.js', tempDataDir())?.id).toBe(
       'vercel/next.js',
     );
+  });
+});
+
+describe('loadSnapshots', () => {
+  it('loads generated snapshots sorted by date', () => {
+    const dir = tempDataDir();
+    const later: Snapshot = {
+      date: '2026-06-13',
+      repos: { 'owner/project': { stars: 2, forks: 1, openIssues: 0 } },
+    };
+    const earlier: Snapshot = {
+      date: '2026-06-12',
+      repos: { 'owner/project': { stars: 1, forks: 1, openIssues: 0 } },
+    };
+    writeJson(path.join(dir, 'snapshots', '2026-06-13.json'), later);
+    writeJson(path.join(dir, 'snapshots', '2026-06-12.json'), earlier);
+
+    expect(loadSnapshots(dir)).toEqual([earlier, later]);
+  });
+
+  it('returns an empty list when generated snapshots are absent', () => {
+    expect(loadSnapshots(tempDataDir())).toEqual([]);
   });
 });

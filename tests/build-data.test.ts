@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest';
 import {
   applySnapshotHistory,
   deriveStarHistory,
+  downsampleSnapshots,
 } from '../scripts/lib/build-data';
 import type { RepoDetails, Snapshot } from '../src/lib/types';
 
@@ -67,6 +68,30 @@ describe('deriveStarHistory', () => {
       { date: '2026-06-13', stars: 1_000 },
     ]);
   });
+
+  it('samples long history across the full range instead of keeping only the tail', () => {
+    const longSnapshots = Array.from({ length: 120 }, (_, index) => {
+      const date = new Date(Date.UTC(2026, 0, index + 1))
+        .toISOString()
+        .slice(0, 10);
+
+      return {
+        date,
+        repos: {
+          'owner/project': {
+            stars: index,
+            forks: 0,
+            openIssues: 0,
+          },
+        },
+      } satisfies Snapshot;
+    });
+    const history = deriveStarHistory('owner/project', longSnapshots);
+
+    expect(history).toHaveLength(90);
+    expect(history[0]).toEqual({ date: '2026-01-01', stars: 0 });
+    expect(history.at(-1)).toEqual({ date: '2026-04-30', stars: 119 });
+  });
 });
 
 describe('applySnapshotHistory', () => {
@@ -79,5 +104,37 @@ describe('applySnapshotHistory', () => {
         { date: '2026-06-13', stars: 1_000 },
       ],
     });
+  });
+});
+
+describe('downsampleSnapshots', () => {
+  it('keeps recent daily snapshots and one latest older snapshot per week', () => {
+    const oldSameWeekA: Snapshot = {
+      date: '2026-01-05',
+      repos: { 'owner/project': { stars: 100, forks: 10, openIssues: 1 } },
+    };
+    const oldSameWeekB: Snapshot = {
+      date: '2026-01-08',
+      repos: { 'owner/project': { stars: 120, forks: 10, openIssues: 1 } },
+    };
+    const oldNextWeek: Snapshot = {
+      date: '2026-01-15',
+      repos: { 'owner/project': { stars: 130, forks: 10, openIssues: 1 } },
+    };
+    const recentA: Snapshot = {
+      date: '2026-04-01',
+      repos: { 'owner/project': { stars: 150, forks: 10, openIssues: 1 } },
+    };
+    const recentB: Snapshot = {
+      date: '2026-06-13',
+      repos: { 'owner/project': { stars: 200, forks: 10, openIssues: 1 } },
+    };
+
+    expect(
+      downsampleSnapshots(
+        [recentB, oldSameWeekA, recentA, oldNextWeek, oldSameWeekB],
+        now,
+      ).map((snapshot) => snapshot.date),
+    ).toEqual(['2026-01-08', '2026-01-15', '2026-04-01', '2026-06-13']);
   });
 });

@@ -1,12 +1,16 @@
 import { useMemo, useState } from 'react';
 import type { CSSProperties } from 'react';
+import { compareByStarDelta, filterReposForTrendView } from '../lib/trends';
 import type { Activity, ManifestRepo } from '../lib/types';
+import type { TrendView } from '../lib/trends';
 
-type SortMode = 'stars' | 'updated';
+type SortMode = 'stars' | 'updated' | 'growth';
 
 interface Props {
   repos: ManifestRepo[];
   baseUrl: string;
+  firstSeenDates: Record<string, string>;
+  today: string;
 }
 
 const numberFormatter = new Intl.NumberFormat('en', {
@@ -21,7 +25,13 @@ const dateFormatter = new Intl.DateTimeFormat('en', {
   timeZone: 'UTC',
 });
 
-export default function RepoExplorer({ repos, baseUrl }: Props) {
+export default function RepoExplorer({
+  repos,
+  baseUrl,
+  firstSeenDates,
+  today,
+}: Props) {
+  const [view, setView] = useState<TrendView>('all');
   const [language, setLanguage] = useState('all');
   const [topic, setTopic] = useState('all');
   const [activity, setActivity] = useState<Activity | 'all'>('all');
@@ -40,23 +50,73 @@ export default function RepoExplorer({ repos, baseUrl }: Props) {
     () => uniqueSorted(repos.map((repo) => repo.activity)) as Activity[],
     [repos],
   );
+  const trendOptions = useMemo(
+    () =>
+      [
+        { value: 'all', label: 'All', count: repos.length },
+        {
+          value: 'rising',
+          label: 'Rising',
+          count: filterReposForTrendView(repos, {
+            view: 'rising',
+            firstSeenDates,
+            today,
+          }).length,
+        },
+        {
+          value: 'new-today',
+          label: 'New today',
+          count: filterReposForTrendView(repos, {
+            view: 'new-today',
+            firstSeenDates,
+            today,
+          }).length,
+        },
+      ] satisfies Array<{ value: TrendView; label: string; count: number }>,
+    [firstSeenDates, repos, today],
+  );
 
   const visibleRepos = useMemo(() => {
-    return repos
+    return filterReposForTrendView(repos, { view, firstSeenDates, today })
       .filter((repo) => language === 'all' || repo.primaryLanguage === language)
       .filter((repo) => topic === 'all' || repo.topics.includes(topic))
       .filter((repo) => activity === 'all' || repo.activity === activity)
       .toSorted((a, b) => {
+        if (view === 'rising' || sort === 'growth') {
+          return compareByStarDelta(a, b);
+        }
+
         if (sort === 'updated') {
           return pushedTime(b) - pushedTime(a);
         }
 
         return b.stars - a.stars;
       });
-  }, [activity, language, repos, sort, topic]);
+  }, [activity, firstSeenDates, language, repos, sort, today, topic, view]);
 
   return (
     <section className="repo-explorer" aria-label="Repository explorer">
+      <div className="view-tabs" aria-label="Repository views">
+        {trendOptions.map((option) => (
+          <button
+            key={option.value}
+            type="button"
+            className={option.value === view ? 'is-active' : undefined}
+            aria-pressed={option.value === view}
+            onClick={() => {
+              setView(option.value);
+
+              if (option.value === 'rising') {
+                setSort('growth');
+              }
+            }}
+          >
+            <span>{option.label}</span>
+            <strong>{option.count.toLocaleString('en')}</strong>
+          </button>
+        ))}
+      </div>
+
       <div className="filter-bar" aria-label="Repository filters">
         <label>
           <span>Language</span>
@@ -112,6 +172,7 @@ export default function RepoExplorer({ repos, baseUrl }: Props) {
             onChange={(event) => setSort(event.target.value as SortMode)}
           >
             <option value="stars">Stars</option>
+            <option value="growth">7d growth</option>
             <option value="updated">Updated</option>
           </select>
         </label>
@@ -120,9 +181,15 @@ export default function RepoExplorer({ repos, baseUrl }: Props) {
       </div>
 
       <div className="repo-grid">
-        {visibleRepos.map((repo) => (
-          <RepoCard key={repo.id} repo={repo} baseUrl={baseUrl} />
-        ))}
+        {visibleRepos.length > 0 ? (
+          visibleRepos.map((repo) => (
+            <RepoCard key={repo.id} repo={repo} baseUrl={baseUrl} />
+          ))
+        ) : (
+          <p className="empty-state repo-grid__empty">
+            No repositories in this view yet.
+          </p>
+        )}
       </div>
     </section>
   );
@@ -190,6 +257,11 @@ function RepoCard({ repo, baseUrl }: { repo: ManifestRepo; baseUrl: string }) {
         )}
         {repo.license && <span className="badge">{repo.license}</span>}
         <span className="badge badge--activity">{repo.activity}</span>
+        {repo.starDelta7d !== null && (
+          <span className="badge badge--growth">
+            {formatDelta(repo.starDelta7d)} 7d
+          </span>
+        )}
         <a className="badge" href={repoHref}>
           GitHub
         </a>
@@ -225,4 +297,10 @@ function uniqueSorted<T extends string>(
 
 function pushedTime(repo: ManifestRepo): number {
   return repo.pushedAt ? Date.parse(repo.pushedAt) : 0;
+}
+
+function formatDelta(delta: number): string {
+  const prefix = delta > 0 ? '+' : '';
+
+  return `${prefix}${numberFormatter.format(delta)}`;
 }

@@ -80,6 +80,47 @@ a {
   gap: 16px;
 }
 
+.view-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.view-tabs button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 38px;
+  border: 1px solid #cfd7df;
+  border-radius: 8px;
+  padding: 8px 12px;
+  background: #ffffff;
+  color: #27313b;
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.view-tabs button.is-active {
+  border-color: #18202a;
+  background: #18202a;
+  color: #ffffff;
+}
+
+.view-tabs strong {
+  min-width: 26px;
+  border-radius: 999px;
+  padding: 2px 7px;
+  background: #eef2f6;
+  color: #27313b;
+  font-size: 0.78rem;
+  text-align: center;
+}
+
+.view-tabs button.is-active strong {
+  background: #ffffff;
+}
+
 .filter-bar {
   display: grid;
   grid-template-columns: repeat(4, minmax(150px, 1fr)) auto;
@@ -244,6 +285,11 @@ a {
   color: #166534;
 }
 
+.badge--growth {
+  background: #eef6ff;
+  color: #174ea6;
+}
+
 .repo-card__topics {
   display: flex;
   flex-wrap: wrap;
@@ -259,6 +305,16 @@ a {
   background: #f4f6f8;
   color: #52606d;
   font-size: 0.78rem;
+}
+
+.repo-grid__empty {
+  grid-column: 1 / -1;
+  min-height: 140px;
+  display: grid;
+  place-items: center;
+  border: 1px dashed #cfd7df;
+  border-radius: 8px;
+  background: #ffffff;
 }
 
 .detail-page {

@@ -1,6 +1,7 @@
 import path from 'node:path';
+import { unlink } from 'node:fs/promises';
 import type { Manifest, RepoDetails, Snapshot } from '../src/lib/types';
-import { applySnapshotHistory } from './lib/build-data';
+import { applySnapshotHistory, downsampleSnapshots } from './lib/build-data';
 import {
   getDataDir,
   listJsonFiles,
@@ -19,7 +20,10 @@ async function main(): Promise<void> {
     );
   }
 
-  const snapshots = await readSnapshots(path.join(dataDir, 'snapshots'));
+  const snapshotsDir = path.join(dataDir, 'snapshots');
+  const snapshots = await readSnapshots(snapshotsDir);
+  const retainedSnapshots = downsampleSnapshots(snapshots);
+  await pruneSnapshotFiles(snapshotsDir, snapshots, retainedSnapshots);
   const repos = [];
 
   for (const manifestRepo of manifest.repos) {
@@ -34,7 +38,7 @@ async function main(): Promise<void> {
       continue;
     }
 
-    const updatedDetails = applySnapshotHistory(details, snapshots);
+    const updatedDetails = applySnapshotHistory(details, retainedSnapshots);
     await writeJson(detailPath, updatedDetails);
     repos.push({
       ...manifestRepo,
@@ -50,7 +54,9 @@ async function main(): Promise<void> {
     repos,
   });
 
-  console.log(`Built snapshot history from ${snapshots.length} snapshot(s)`);
+  console.log(
+    `Built snapshot history from ${retainedSnapshots.length} retained snapshot(s)`,
+  );
 }
 
 async function readSnapshots(snapshotsDir: string): Promise<Snapshot[]> {
@@ -62,6 +68,25 @@ async function readSnapshots(snapshotsDir: string): Promise<Snapshot[]> {
   return snapshots
     .filter((snapshot): snapshot is Snapshot => snapshot !== null)
     .sort((a, b) => a.date.localeCompare(b.date));
+}
+
+async function pruneSnapshotFiles(
+  snapshotsDir: string,
+  snapshots: Snapshot[],
+  retainedSnapshots: Snapshot[],
+): Promise<void> {
+  const retainedDates = new Set(
+    retainedSnapshots.map((snapshot) => snapshot.date),
+  );
+  const staleSnapshots = snapshots.filter(
+    (snapshot) => !retainedDates.has(snapshot.date),
+  );
+
+  await Promise.all(
+    staleSnapshots.map((snapshot) =>
+      unlink(path.join(snapshotsDir, `${snapshot.date}.json`)),
+    ),
+  );
 }
 
 await main();
