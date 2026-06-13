@@ -21,23 +21,20 @@ jobs:
         with:
           ref: main
 
-      - name: Checkout data branch
-        uses: actions/checkout@v6
-        continue-on-error: true
-        with:
-          ref: data
-          path: public/data
-
-      - name: Initialize data branch
+      - name: Prepare data branch
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
-          if [ ! -d public/data/.git ]; then
+          rm -rf public/data
+          data_remote="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads "$data_remote" data >/dev/null 2>&1; then
+            git clone --depth 1 --branch data "$data_remote" public/data
+          else
             rm -rf public/data
             mkdir -p public/data
             git -C public/data init
             git -C public/data checkout --orphan data
-            git -C public/data remote add origin "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY.git"
-          else
-            git -C public/data checkout data || git -C public/data checkout -b data
+            git -C public/data remote add origin "$data_remote"
           fi
 
       - name: Setup Node

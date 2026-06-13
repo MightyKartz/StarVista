@@ -27,12 +27,18 @@ jobs:
         with:
           ref: main
 
-      - name: Checkout data branch
-        uses: actions/checkout@v6
-        continue-on-error: true
-        with:
-          ref: data
-          path: public/data
+      - name: Restore data branch
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          rm -rf public/data
+          data_remote="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads "$data_remote" data >/dev/null 2>&1; then
+            git clone --depth 1 --branch data "$data_remote" public/data
+            rm -rf public/data/.git
+          else
+            mkdir -p public/data
+          fi
 
       - name: Setup Node
         uses: actions/setup-node@v6
