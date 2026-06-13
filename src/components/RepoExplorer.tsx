@@ -18,6 +18,7 @@ const dateFormatter = new Intl.DateTimeFormat('en', {
   month: 'short',
   day: 'numeric',
   year: 'numeric',
+  timeZone: 'UTC',
 });
 
 export default function RepoExplorer({ repos, baseUrl }: Props) {
