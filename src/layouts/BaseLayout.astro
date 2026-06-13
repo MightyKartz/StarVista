@@ -4,9 +4,10 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description: string;
+  image?: string;
 }
 
-const { title, description } = Astro.props;
+const { title, description, image } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site ?? 'https://mightykartz.github.io');
 ---
 
@@ -22,6 +23,9 @@ const canonical = new URL(Astro.url.pathname, Astro.site ?? 'https://mightykartz
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonical} />
+    {image && <meta property="og:image" content={image} />}
+    {image && <meta name="twitter:card" content="summary_large_image" />}
+    {image && <meta name="twitter:image" content={image} />}
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
   </head>

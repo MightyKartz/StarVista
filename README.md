@@ -1,5 +1,7 @@
 # StarVista Project Brief
 
+[![MightyKartz/StarVista StarVista card](https://mightykartz.github.io/StarVista/embed/starvista.svg)](https://github.com/MightyKartz/StarVista)
+
 Date: 2026-06-13
 
 GitHub repository: [MightyKartz/StarVista](https://github.com/MightyKartz/StarVista.git)

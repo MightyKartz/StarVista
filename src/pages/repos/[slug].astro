@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ReleaseTimeline from '../../components/ReleaseTimeline.astro';
 import Sparkline from '../../components/Sparkline.astro';
 import { loadManifest, loadRepoDetails } from '../../lib/data';
+import { createEmbedMarkdown, createOgImageUrl } from '../../lib/embed';
 import type { Manifest, ManifestRepo } from '../../lib/types';
 
 export function getStaticPaths() {
@@ -25,9 +26,12 @@ const description = repo.description ?? `Visual profile for ${repo.id}.`;
 const homeHref = import.meta.env.BASE_URL;
 const repoHref = details?.links.repo ?? `https://github.com/${repo.id}`;
 const homepageHref = details?.links.homepage;
+const siteUrl = new URL(import.meta.env.BASE_URL, Astro.site ?? 'https://mightykartz.github.io').toString();
+const ogImage = createOgImageUrl(repo, siteUrl);
+const embedMarkdown = createEmbedMarkdown(repo, siteUrl);
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} image={ogImage}>
   <main class="page-shell detail-page">
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href={homeHref}>StarVista</a>
@@ -100,6 +104,14 @@ const homepageHref = details?.links.homepage;
           <section class="detail-section">
             <h2>Recent Releases</h2>
             <ReleaseTimeline releases={details.releases} />
+          </section>
+
+          <section class="detail-section">
+            <h2>Embed This Card</h2>
+            <textarea class="embed-code" readonly rows="3">{embedMarkdown}</textarea>
+            <div class="embed-preview">
+              <img src={`${import.meta.env.BASE_URL}embed/${repo.slug}.svg`} alt={`${repo.id} StarVista card`} loading="lazy" />
+            </div>
           </section>
         </>
       )

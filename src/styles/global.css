@@ -450,6 +450,35 @@ a {
   margin: 0;
 }
 
+.embed-code {
+  width: 100%;
+  min-height: 88px;
+  resize: vertical;
+  border: 1px solid #cfd7df;
+  border-radius: 8px;
+  padding: 12px;
+  background: #f7f8fa;
+  color: #18202a;
+  font:
+    0.9rem ui-monospace,
+    SFMono-Regular,
+    Menlo,
+    Consolas,
+    monospace;
+  line-height: 1.5;
+}
+
+.embed-preview {
+  margin-top: 16px;
+}
+
+.embed-preview img {
+  display: block;
+  width: min(100%, 760px);
+  height: auto;
+  border-radius: 8px;
+}
+
 @media (max-width: 720px) {
   .site-header {
     display: block;

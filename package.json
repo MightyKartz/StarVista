@@ -23,10 +23,13 @@
   "dependencies": {
     "@astrojs/react": "latest",
     "@astrojs/sitemap": "latest",
+    "@fontsource/inter": "^5.2.8",
     "@octokit/rest": "^22.0.1",
+    "@resvg/resvg-js": "^2.6.2",
     "astro": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "satori": "^0.26.0"
   },
   "devDependencies": {
     "@astrojs/check": "latest",
