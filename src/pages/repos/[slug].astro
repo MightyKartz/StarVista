@@ -74,7 +74,10 @@ const embedMarkdown = createEmbedMarkdown(repo, siteUrl);
       details && (
         <>
           <section class="detail-section detail-section--wide">
-            <h2>Project Snapshot</h2>
+            <div class="section-heading">
+              <h2>Project Snapshot</h2>
+              {details.summary.mode === 'llm' && <span class="ai-badge">AI generated</span>}
+            </div>
             <p>{details.summary.text}</p>
             {details.readmeExcerpt && <p>{details.readmeExcerpt}</p>}
           </section>

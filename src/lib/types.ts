@@ -43,6 +43,7 @@ export interface RepoDetails extends ManifestRepo {
 export interface RepoSummary {
   mode: 'template' | 'llm';
   text: string;
+  readmeHash?: string;
 }
 
 export interface RepoRelease {

@@ -49,6 +49,8 @@ jobs:
       - name: Generate data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           DATA_DIR: public/data
         run: npm run data:update
 

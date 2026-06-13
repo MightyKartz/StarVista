@@ -23,8 +23,9 @@
   },
   "readmeExcerpt": "Next.js is a React framework for building full-stack web applications.",
   "summary": {
-    "mode": "template",
-    "text": "next.js is a TypeScript project focused on The React Framework."
+    "mode": "llm",
+    "text": "Next.js is a React framework for building full-stack web applications.",
+    "readmeHash": "sha256:3ac849d703d15d8a144bb79b543402ddea0abeea20bc5215c57b1c9a77e44d4e"
   },
   "releases": [
     {

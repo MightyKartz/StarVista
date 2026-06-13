@@ -95,6 +95,7 @@ Date: 2026-06-13
   "summary": {
     "mode": "template", // "template" | "llm"
     "text": "next.js is a TypeScript project focused on ...",
+    "readmeHash": "sha256:...", // 仅 llm 摘要使用；README 内容不变时复用
   },
   "releases": [
     // 最近 5 个

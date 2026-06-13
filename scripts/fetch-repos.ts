@@ -5,6 +5,7 @@ import type {
   ManifestRepo,
   RepoDetails,
   RepoRelease,
+  RepoSummary,
 } from '../src/lib/types';
 import { createGitHubClient, isNotFound, withGitHubRetry } from './lib/github';
 import { ensureDir, getDataDir, readJsonIfExists, writeJson } from './lib/io';
@@ -15,9 +16,17 @@ import {
   normalizeManifestRepo,
   type GitHubSearchRepo,
 } from './lib/normalize';
+import { createReadmeHash, resolveRepoSummary } from './lib/summary';
 
 const REPO_LIMIT = Number(process.env.STARVISTA_REPO_LIMIT ?? 100);
 const RECENT_PUSH_DAYS = Number(process.env.STARVISTA_RECENT_PUSH_DAYS ?? 30);
+const AI_SUMMARY_API_KEY = process.env.OPENAI_API_KEY;
+const AI_SUMMARY_MODEL = process.env.OPENAI_MODEL || undefined;
+
+interface ReadmeProfile {
+  excerpt: string | null;
+  hash: string | null;
+}
 
 async function main(): Promise<void> {
   if (!process.env.GITHUB_TOKEN) {
@@ -38,10 +47,19 @@ async function main(): Promise<void> {
 
     const detailPath = path.join(reposDir, `${manifestRepo.slug}.json`);
     const existing = await readJsonIfExists<RepoDetails>(detailPath);
+    const shouldRefreshDetails =
+      !existing ||
+      existing.pushedAt !== manifestRepo.pushedAt ||
+      (Boolean(AI_SUMMARY_API_KEY) && !hasReusableLlmSummary(existing.summary));
     const details =
-      existing && existing.pushedAt === manifestRepo.pushedAt
+      existing && !shouldRefreshDetails
         ? mergeExistingDetails(manifestRepo, existing)
-        : await fetchRepoDetails(octokit, searchRepo, manifestRepo);
+        : await fetchRepoDetails(
+            octokit,
+            searchRepo,
+            manifestRepo,
+            existing ?? undefined,
+          );
 
     await writeJson(detailPath, details);
   }
@@ -84,19 +102,28 @@ async function fetchRepoDetails(
   octokit: Octokit,
   searchRepo: GitHubSearchRepo,
   manifestRepo: ManifestRepo,
+  existing?: RepoDetails,
 ): Promise<RepoDetails> {
   const [owner, repo] = manifestRepo.id.split('/');
-  const [languages, readmeExcerpt, releases] = await Promise.all([
+  const [languages, readmeProfile, releases] = await Promise.all([
     fetchLanguages(octokit, owner, repo),
-    fetchReadmeExcerpt(octokit, owner, repo),
+    fetchReadmeProfile(octokit, owner, repo),
     fetchReleases(octokit, owner, repo),
   ]);
+  const summary = await resolveRepoSummary({
+    repo: manifestRepo,
+    readmeExcerpt: readmeProfile.excerpt,
+    readmeHash: readmeProfile.hash,
+    existingSummary: existing?.summary,
+    apiKey: AI_SUMMARY_API_KEY,
+    model: AI_SUMMARY_MODEL,
+  });
 
   return {
     ...manifestRepo,
     languages,
-    readmeExcerpt,
-    summary: createTemplateSummary(manifestRepo),
+    readmeExcerpt: readmeProfile.excerpt,
+    summary,
     releases,
     starHistory: [],
     links: {
@@ -126,11 +153,11 @@ async function fetchLanguages(
   }
 }
 
-async function fetchReadmeExcerpt(
+async function fetchReadmeProfile(
   octokit: Octokit,
   owner: string,
   repo: string,
-): Promise<string | null> {
+): Promise<ReadmeProfile> {
   try {
     const response = await withGitHubRetry(
       () => octokit.rest.repos.getReadme({ owner, repo }),
@@ -138,17 +165,22 @@ async function fetchReadmeExcerpt(
     );
 
     const content = Array.isArray(response.data) ? null : response.data.content;
-    return content
-      ? extractReadmeExcerpt(Buffer.from(content, 'base64').toString('utf8'))
+    const markdown = content
+      ? Buffer.from(content, 'base64').toString('utf8')
       : null;
+
+    return {
+      excerpt: extractReadmeExcerpt(markdown),
+      hash: createReadmeHash(markdown),
+    };
   } catch (error) {
     if (isNotFound(error)) {
       console.warn(`${owner}/${repo} has no README`);
-      return null;
+      return { excerpt: null, hash: null };
     }
 
     console.warn(`${owner}/${repo} README unavailable: ${formatError(error)}`);
-    return null;
+    return { excerpt: null, hash: null };
   }
 }
 
@@ -187,8 +219,17 @@ function mergeExistingDetails(
   return {
     ...existing,
     ...manifestRepo,
-    summary: createTemplateSummary(manifestRepo),
+    summary:
+      AI_SUMMARY_API_KEY && hasReusableLlmSummary(existing.summary)
+        ? existing.summary
+        : createTemplateSummary(manifestRepo),
   };
+}
+
+function hasReusableLlmSummary(
+  summary: RepoSummary | undefined,
+): summary is RepoSummary & { mode: 'llm'; readmeHash: string } {
+  return summary?.mode === 'llm' && Boolean(summary.readmeHash);
 }
 
 function formatError(error: unknown): string {
