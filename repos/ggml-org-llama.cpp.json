@@ -1,0 +1,89 @@
+{
+  "id": "ggml-org/llama.cpp",
+  "slug": "ggml-org-llama.cpp",
+  "owner": "ggml-org",
+  "name": "llama.cpp",
+  "description": "LLM inference in C/C++",
+  "archived": false,
+  "primaryLanguage": "C++",
+  "languageColor": "#f34b7d",
+  "stars": 116267,
+  "forks": 19518,
+  "openIssues": 1844,
+  "pushedAt": "2026-06-13T00:44:47Z",
+  "topics": [
+    "ggml"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134263123?v=4",
+  "languages": {
+    "C++": 0.57,
+    "C": 0.14,
+    "Python": 0.08,
+    "Cuda": 0.06,
+    "TypeScript": 0.03,
+    "HTML": 0.03,
+    "Svelte": 0.02,
+    "Metal": 0.02,
+    "Jinja": 0.01,
+    "GLSL": 0.01,
+    "Shell": 0.01,
+    "CMake": 0.01,
+    "WGSL": 0.01,
+    "Go Template": 0.01,
+    "Objective-C": 0,
+    "Dockerfile": 0,
+    "Nix": 0,
+    "CSS": 0,
+    "JavaScript": 0,
+    "PowerShell": 0,
+    "MDX": 0,
+    "Makefile": 0,
+    "Batchfile": 0,
+    "SCSS": 0
+  },
+  "readmeExcerpt": "Manifesto / ggml / ops",
+  "summary": {
+    "mode": "template",
+    "text": "llama.cpp is a C++ project focused on LLM inference in C/C++. It is tagged with ggml."
+  },
+  "releases": [
+    {
+      "tag": "b9616",
+      "name": "b9616",
+      "publishedAt": "2026-06-12T22:19:54Z"
+    },
+    {
+      "tag": "b9611",
+      "name": "b9611",
+      "publishedAt": "2026-06-12T14:03:47Z"
+    },
+    {
+      "tag": "b9610",
+      "name": "b9610",
+      "publishedAt": "2026-06-12T13:33:29Z"
+    },
+    {
+      "tag": "b9608",
+      "name": "b9608",
+      "publishedAt": "2026-06-12T10:01:17Z"
+    },
+    {
+      "tag": "b9606",
+      "name": "b9606",
+      "publishedAt": "2026-06-12T08:45:47Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 116267
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/ggml-org/llama.cpp",
+    "homepage": "https://llama.app"
+  }
+}

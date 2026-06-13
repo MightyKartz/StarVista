@@ -1,0 +1,84 @@
+{
+  "id": "denoland/deno",
+  "slug": "denoland-deno",
+  "owner": "denoland",
+  "name": "deno",
+  "description": "A modern runtime for JavaScript and TypeScript.",
+  "archived": false,
+  "primaryLanguage": "Rust",
+  "languageColor": "#dea584",
+  "stars": 107039,
+  "forks": 6060,
+  "openIssues": 1377,
+  "pushedAt": "2026-06-13T00:19:56Z",
+  "topics": [
+    "deno",
+    "javascript",
+    "rust",
+    "typescript"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/42048915?v=4",
+  "languages": {
+    "Rust": 0.59,
+    "TypeScript": 0.27,
+    "JavaScript": 0.12,
+    "C": 0.01,
+    "HTML": 0,
+    "CSS": 0,
+    "Nix": 0,
+    "C++": 0,
+    "WebAssembly": 0,
+    "Svelte": 0,
+    "Mustache": 0,
+    "Dockerfile": 0,
+    "Python": 0,
+    "Astro": 0,
+    "Vento": 0,
+    "Nunjucks": 0
+  },
+  "readmeExcerpt": "Deno (/ˈdiːnoʊ/, pronounced dee-no) is a JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience. It's built on V8, Rust, and Tokio.",
+  "summary": {
+    "mode": "template",
+    "text": "deno is a Rust project focused on A modern runtime for JavaScript and TypeScript. It is tagged with deno, javascript, and rust."
+  },
+  "releases": [
+    {
+      "tag": "v2.8.3",
+      "name": "v2.8.3",
+      "publishedAt": "2026-06-11T15:57:47Z"
+    },
+    {
+      "tag": "v2.8.2",
+      "name": "v2.8.2",
+      "publishedAt": "2026-06-03T13:41:42Z"
+    },
+    {
+      "tag": "v2.8.1",
+      "name": "v2.8.1",
+      "publishedAt": "2026-05-27T12:56:27Z"
+    },
+    {
+      "tag": "v2.8.0",
+      "name": "v2.8.0",
+      "publishedAt": "2026-05-22T10:51:19Z"
+    },
+    {
+      "tag": "v2.7.14",
+      "name": "v2.7.14",
+      "publishedAt": "2026-04-28T16:49:55Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 107039
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/denoland/deno",
+    "homepage": "https://deno.com"
+  }
+}

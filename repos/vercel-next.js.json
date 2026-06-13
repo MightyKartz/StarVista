@@ -1,0 +1,92 @@
+{
+  "id": "vercel/next.js",
+  "slug": "vercel-next.js",
+  "owner": "vercel",
+  "name": "next.js",
+  "description": "The React Framework",
+  "archived": false,
+  "primaryLanguage": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 139959,
+  "forks": 31217,
+  "openIssues": 4070,
+  "pushedAt": "2026-06-13T01:17:24Z",
+  "topics": [
+    "blog",
+    "browser",
+    "compiler",
+    "components",
+    "hybrid",
+    "nextjs",
+    "node",
+    "react",
+    "server-rendering",
+    "ssg",
+    "static",
+    "static-site-generator",
+    "universal",
+    "vercel"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+  "languages": {
+    "JavaScript": 0.53,
+    "TypeScript": 0.32,
+    "Rust": 0.14,
+    "CSS": 0.01,
+    "MDX": 0.01,
+    "Shell": 0,
+    "Python": 0,
+    "SCSS": 0,
+    "Dockerfile": 0,
+    "HTML": 0,
+    "Batchfile": 0,
+    "WebAssembly": 0,
+    "Sass": 0,
+    "Pug": 0
+  },
+  "readmeExcerpt": "Next.js",
+  "summary": {
+    "mode": "template",
+    "text": "next.js is a JavaScript project focused on The React Framework. It is tagged with blog, browser, and compiler."
+  },
+  "releases": [
+    {
+      "tag": "v16.3.0-canary.50",
+      "name": "v16.3.0-canary.50",
+      "publishedAt": "2026-06-13T00:10:31Z"
+    },
+    {
+      "tag": "v16.3.0-canary.49",
+      "name": "v16.3.0-canary.49",
+      "publishedAt": "2026-06-12T00:20:45Z"
+    },
+    {
+      "tag": "v16.3.0-preview.3",
+      "name": "v16.3.0-preview.3",
+      "publishedAt": "2026-06-10T14:15:07Z"
+    },
+    {
+      "tag": "v16.3.0-canary.48",
+      "name": "v16.3.0-canary.48",
+      "publishedAt": "2026-06-10T22:49:47Z"
+    },
+    {
+      "tag": "v16.3.0-preview.2",
+      "name": "v16.3.0-preview.2",
+      "publishedAt": "2026-06-09T22:11:32Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 139959
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/vercel/next.js",
+    "homepage": "https://nextjs.org"
+  }
+}

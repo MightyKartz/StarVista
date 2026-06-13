@@ -1,0 +1,79 @@
+{
+  "id": "twbs/bootstrap",
+  "slug": "twbs-bootstrap",
+  "owner": "twbs",
+  "name": "bootstrap",
+  "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+  "archived": false,
+  "primaryLanguage": "MDX",
+  "languageColor": null,
+  "stars": 174313,
+  "forks": 78822,
+  "openIssues": 447,
+  "pushedAt": "2026-06-12T18:29:35Z",
+  "topics": [
+    "bootstrap",
+    "css",
+    "css-framework",
+    "html",
+    "javascript",
+    "sass",
+    "scss"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2918581?v=4",
+  "languages": {
+    "MDX": 0.29,
+    "JavaScript": 0.26,
+    "Astro": 0.19,
+    "SCSS": 0.11,
+    "CSS": 0.09,
+    "HTML": 0.05,
+    "TypeScript": 0.01,
+    "Shell": 0
+  },
+  "readmeExcerpt": "Bootstrap",
+  "summary": {
+    "mode": "template",
+    "text": "bootstrap is a MDX project focused on The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. It is tagged with bootstrap, css, and css-framework."
+  },
+  "releases": [
+    {
+      "tag": "v5.3.8",
+      "name": "v5.3.8",
+      "publishedAt": "2025-08-26T02:04:48Z"
+    },
+    {
+      "tag": "v5.3.7",
+      "name": "v5.3.7",
+      "publishedAt": "2025-06-17T16:16:45Z"
+    },
+    {
+      "tag": "v5.3.6",
+      "name": "v5.3.6",
+      "publishedAt": "2025-05-05T19:26:30Z"
+    },
+    {
+      "tag": "v5.3.5",
+      "name": "v5.3.5",
+      "publishedAt": "2025-04-04T18:23:13Z"
+    },
+    {
+      "tag": "v5.3.4",
+      "name": "v5.3.4",
+      "publishedAt": "2025-04-03T16:10:57Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 174313
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/twbs/bootstrap",
+    "homepage": "https://getbootstrap.com"
+  }
+}

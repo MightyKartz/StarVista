@@ -1,0 +1,83 @@
+{
+  "id": "fatedier/frp",
+  "slug": "fatedier-frp",
+  "owner": "fatedier",
+  "name": "frp",
+  "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+  "archived": false,
+  "primaryLanguage": "Go",
+  "languageColor": "#00add8",
+  "stars": 107294,
+  "forks": 15063,
+  "openIssues": 48,
+  "pushedAt": "2026-06-03T06:08:49Z",
+  "topics": [
+    "expose",
+    "firewall",
+    "frp",
+    "go",
+    "http-proxy",
+    "nat",
+    "p2p",
+    "proxy",
+    "reverse-proxy",
+    "tunnel"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7346661?v=4",
+  "languages": {
+    "Go": 0.81,
+    "Vue": 0.14,
+    "TypeScript": 0.03,
+    "CSS": 0.01,
+    "Shell": 0.01,
+    "SCSS": 0,
+    "Makefile": 0,
+    "JavaScript": 0,
+    "HTML": 0
+  },
+  "readmeExcerpt": "README | 中文文档",
+  "summary": {
+    "mode": "template",
+    "text": "frp is a Go project focused on A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. It is tagged with expose, firewall, and frp."
+  },
+  "releases": [
+    {
+      "tag": "v0.69.1",
+      "name": "v0.69.1",
+      "publishedAt": "2026-06-01T10:17:17Z"
+    },
+    {
+      "tag": "v0.69.0",
+      "name": "v0.69.0",
+      "publishedAt": "2026-05-21T17:11:56Z"
+    },
+    {
+      "tag": "v0.68.1",
+      "name": "v0.68.1",
+      "publishedAt": "2026-04-13T17:37:42Z"
+    },
+    {
+      "tag": "v0.68.0",
+      "name": "v0.68.0",
+      "publishedAt": "2026-03-20T06:05:18Z"
+    },
+    {
+      "tag": "v0.67.0",
+      "name": "v0.67.0",
+      "publishedAt": "2026-01-31T06:12:29Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 107294
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/fatedier/frp",
+    "homepage": null
+  }
+}

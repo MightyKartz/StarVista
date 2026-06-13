@@ -1,0 +1,73 @@
+{
+  "id": "anomalyco/opencode",
+  "slug": "anomalyco-opencode",
+  "owner": "anomalyco",
+  "name": "opencode",
+  "description": "The open source coding agent.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 173744,
+  "forks": 20932,
+  "openIssues": 7007,
+  "pushedAt": "2026-06-13T01:53:00Z",
+  "topics": [],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66570915?v=4",
+  "languages": {
+    "TypeScript": 0.69,
+    "MDX": 0.28,
+    "CSS": 0.03,
+    "HTML": 0,
+    "JavaScript": 0,
+    "Astro": 0,
+    "Shell": 0,
+    "Nix": 0,
+    "Dockerfile": 0,
+    "PowerShell": 0
+  },
+  "readmeExcerpt": "The open source AI coding agent.",
+  "summary": {
+    "mode": "template",
+    "text": "opencode is a TypeScript project focused on The open source coding agent."
+  },
+  "releases": [
+    {
+      "tag": "v1.17.4",
+      "name": "v1.17.4",
+      "publishedAt": "2026-06-12T02:19:40Z"
+    },
+    {
+      "tag": "v1.17.3",
+      "name": "v1.17.3",
+      "publishedAt": "2026-06-10T18:00:28Z"
+    },
+    {
+      "tag": "v1.17.2",
+      "name": "v1.17.2",
+      "publishedAt": "2026-06-10T16:42:56Z"
+    },
+    {
+      "tag": "v1.17.1",
+      "name": "v1.17.1",
+      "publishedAt": "2026-06-10T11:38:01Z"
+    },
+    {
+      "tag": "v1.17.0",
+      "name": "v1.17.0",
+      "publishedAt": "2026-06-10T03:12:35Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 173744
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/anomalyco/opencode",
+    "homepage": "https://opencode.ai"
+  }
+}

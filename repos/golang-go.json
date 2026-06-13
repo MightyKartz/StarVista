@@ -1,0 +1,54 @@
+{
+  "id": "golang/go",
+  "slug": "golang-go",
+  "owner": "golang",
+  "name": "go",
+  "description": "The Go programming language",
+  "archived": false,
+  "primaryLanguage": "Go",
+  "languageColor": "#00add8",
+  "stars": 134661,
+  "forks": 19005,
+  "openIssues": 10229,
+  "pushedAt": "2026-06-12T23:50:58Z",
+  "topics": [
+    "go",
+    "golang",
+    "language",
+    "programming-language"
+  ],
+  "license": "BSD-3-Clause",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4314092?v=4",
+  "languages": {
+    "Go": 0.9,
+    "Assembly": 0.05,
+    "HTML": 0.04,
+    "C": 0,
+    "Shell": 0,
+    "Perl": 0,
+    "Python": 0,
+    "JavaScript": 0,
+    "Batchfile": 0,
+    "Dockerfile": 0,
+    "Makefile": 0,
+    "Awk": 0
+  },
+  "readmeExcerpt": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
+  "summary": {
+    "mode": "template",
+    "text": "go is a Go project focused on The Go programming language. It is tagged with go, golang, and language."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 134661
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/golang/go",
+    "homepage": "https://go.dev"
+  }
+}

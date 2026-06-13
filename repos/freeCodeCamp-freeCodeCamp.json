@@ -1,0 +1,60 @@
+{
+  "id": "freeCodeCamp/freeCodeCamp",
+  "slug": "freeCodeCamp-freeCodeCamp",
+  "owner": "freeCodeCamp",
+  "name": "freeCodeCamp",
+  "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 446710,
+  "forks": 44902,
+  "openIssues": 176,
+  "pushedAt": "2026-06-12T20:08:41Z",
+  "topics": [
+    "careers",
+    "certification",
+    "community",
+    "curriculum",
+    "d3",
+    "education",
+    "freecodecamp",
+    "javascript",
+    "learn-to-code",
+    "math",
+    "nodejs",
+    "nonprofits",
+    "programming",
+    "react",
+    "teachers"
+  ],
+  "license": "BSD-3-Clause",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9892522?v=4",
+  "languages": {
+    "TypeScript": 0.77,
+    "JavaScript": 0.17,
+    "CSS": 0.05,
+    "Dockerfile": 0,
+    "HCL": 0,
+    "Shell": 0,
+    "HTML": 0
+  },
+  "readmeExcerpt": "freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy adults transition into tech. Our community has already helped more than 100,000 people get their first developer job.",
+  "summary": {
+    "mode": "template",
+    "text": "freeCodeCamp is a TypeScript project focused on freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. It is tagged with careers, certification, and community."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 446710
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "homepage": "https://contribute.freecodecamp.org"
+  }
+}

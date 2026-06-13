@@ -1,0 +1,72 @@
+{
+  "id": "axios/axios",
+  "slug": "axios-axios",
+  "owner": "axios",
+  "name": "axios",
+  "description": "Promise based HTTP client for the browser and node.js",
+  "archived": false,
+  "primaryLanguage": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 109078,
+  "forks": 11708,
+  "openIssues": 145,
+  "pushedAt": "2026-06-12T06:38:11Z",
+  "topics": [
+    "hacktoberfest",
+    "http-client",
+    "javascript",
+    "nodejs",
+    "promise"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32372333?v=4",
+  "languages": {
+    "JavaScript": 0.9,
+    "TypeScript": 0.09,
+    "HTML": 0.01
+  },
+  "readmeExcerpt": "💎 Platinum sponsors <a href=\"https://thanks.dev/?utmsource&#x3D;axios&amp;utmmedium&#x3D;sponsorlist&amp;utmcampaign&#x3D;sponsorship\" style=\"padding: 10px; display: inline-block\" target=\"blank\" > <img width=\"90px\" height=\"90px\" src=\"https://images.opencollective.com/thanks-dev/360b917/logo/256.png?height=256\" alt=\"Thanks.dev\" /> <p align=\"center\" > We're passionate about making open source sustainable. Scan your dependency tree to better understand which open source projects need funding. <...",
+  "summary": {
+    "mode": "template",
+    "text": "axios is a JavaScript project focused on Promise based HTTP client for the browser and node.js. It is tagged with hacktoberfest, http-client, and javascript."
+  },
+  "releases": [
+    {
+      "tag": "v1.17.0",
+      "name": "v1.17.0",
+      "publishedAt": "2026-06-03T06:14:01Z"
+    },
+    {
+      "tag": "v1.16.1",
+      "name": "v1.16.1",
+      "publishedAt": "2026-05-13T16:19:58Z"
+    },
+    {
+      "tag": "v0.32.0",
+      "name": "v0.32.0",
+      "publishedAt": "2026-05-04T17:15:03Z"
+    },
+    {
+      "tag": "v1.16.0",
+      "name": "v1.16.0",
+      "publishedAt": "2026-05-02T12:31:06Z"
+    },
+    {
+      "tag": "v1.15.2",
+      "name": "v1.15.2",
+      "publishedAt": "2026-04-21T17:51:16Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 109078
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/axios/axios",
+    "homepage": "https://axios-http.com"
+  }
+}

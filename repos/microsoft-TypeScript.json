@@ -1,0 +1,71 @@
+{
+  "id": "microsoft/TypeScript",
+  "slug": "microsoft-TypeScript",
+  "owner": "microsoft",
+  "name": "TypeScript",
+  "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 109211,
+  "forks": 13429,
+  "openIssues": 5036,
+  "pushedAt": "2026-06-12T20:10:40Z",
+  "topics": [
+    "javascript",
+    "language",
+    "typechecker",
+    "typescript"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+  "languages": {
+    "TypeScript": 1,
+    "JavaScript": 0,
+    "Shell": 0
+  },
+  "readmeExcerpt": "TypeScript is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript. Try it out at the playground, and stay up to date via our blog and Twitter account.",
+  "summary": {
+    "mode": "template",
+    "text": "TypeScript is a TypeScript project focused on TypeScript is a superset of JavaScript that compiles to clean JavaScript output. It is tagged with javascript, language, and typechecker."
+  },
+  "releases": [
+    {
+      "tag": "v6.0.3",
+      "name": "TypeScript 6.0.3",
+      "publishedAt": "2026-04-16T23:43:08Z"
+    },
+    {
+      "tag": "v6.0.2",
+      "name": "TypeScript 6.0",
+      "publishedAt": "2026-03-23T16:19:11Z"
+    },
+    {
+      "tag": "v6.0-rc",
+      "name": "TypeScript 6.0.1 RC",
+      "publishedAt": "2026-03-06T17:56:53Z"
+    },
+    {
+      "tag": "v6.0-beta",
+      "name": "TypeScript 6.0 Beta",
+      "publishedAt": "2026-02-18T18:11:46Z"
+    },
+    {
+      "tag": "v5.9.3",
+      "name": "TypeScript 5.9.3",
+      "publishedAt": "2025-10-01T19:06:07Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 109211
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/microsoft/TypeScript",
+    "homepage": "https://www.typescriptlang.org"
+  }
+}

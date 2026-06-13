@@ -1,0 +1,49 @@
+{
+  "id": "iluwatar/java-design-patterns",
+  "slug": "iluwatar-java-design-patterns",
+  "owner": "iluwatar",
+  "name": "java-design-patterns",
+  "description": "Design patterns implemented in Java",
+  "archived": false,
+  "primaryLanguage": "Java",
+  "languageColor": "#b07219",
+  "stars": 94119,
+  "forks": 27368,
+  "openIssues": 134,
+  "pushedAt": "2026-06-12T21:54:08Z",
+  "topics": [
+    "awesome-list",
+    "design-patterns",
+    "hacktoberfest",
+    "java",
+    "principles",
+    "snippets",
+    "snippets-collection",
+    "snippets-library"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/582346?v=4",
+  "languages": {
+    "Java": 0.99,
+    "HTML": 0,
+    "CSS": 0
+  },
+  "readmeExcerpt": "Read in different language : zh, zh-TW ,ko, fr, tr, ar, es, pt, id, ru, de, ja, vi, bn, np, it, da",
+  "summary": {
+    "mode": "template",
+    "text": "java-design-patterns is a Java project focused on Design patterns implemented in Java. It is tagged with awesome-list, design-patterns, and hacktoberfest."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 94119
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/iluwatar/java-design-patterns",
+    "homepage": "https://java-design-patterns.com"
+  }
+}

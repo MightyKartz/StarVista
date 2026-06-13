@@ -1,0 +1,83 @@
+{
+  "id": "openclaw/openclaw",
+  "slug": "openclaw-openclaw",
+  "owner": "openclaw",
+  "name": "openclaw",
+  "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 378410,
+  "forks": 79148,
+  "openIssues": 7986,
+  "pushedAt": "2026-06-13T02:32:55Z",
+  "topics": [
+    "ai",
+    "assistant",
+    "crustacean",
+    "molty",
+    "openclaw",
+    "own-your-data",
+    "personal"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
+  "languages": {
+    "TypeScript": 0.91,
+    "Swift": 0.03,
+    "JavaScript": 0.03,
+    "Kotlin": 0.01,
+    "Shell": 0.01,
+    "CSS": 0,
+    "Go": 0,
+    "Python": 0,
+    "PowerShell": 0,
+    "HTML": 0,
+    "Dockerfile": 0,
+    "Ruby": 0
+  },
+  "readmeExcerpt": "EXFOLIATE! EXFOLIATE!",
+  "summary": {
+    "mode": "template",
+    "text": "openclaw is a TypeScript project focused on Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 . It is tagged with ai, assistant, and crustacean."
+  },
+  "releases": [
+    {
+      "tag": "v2026.6.6",
+      "name": "openclaw 2026.6.6",
+      "publishedAt": "2026-06-12T11:04:42Z"
+    },
+    {
+      "tag": "v2026.6.6-beta.2",
+      "name": "openclaw 2026.6.6-beta.2",
+      "publishedAt": "2026-06-12T03:32:42Z"
+    },
+    {
+      "tag": "v2026.6.6-beta.1",
+      "name": "OpenClaw 2026.6.6-beta.1",
+      "publishedAt": "2026-06-10T19:33:39Z"
+    },
+    {
+      "tag": "v2026.6.5",
+      "name": "openclaw 2026.6.5",
+      "publishedAt": "2026-06-09T18:13:20Z"
+    },
+    {
+      "tag": "v2026.6.5-beta.6",
+      "name": "openclaw 2026.6.5-beta.6",
+      "publishedAt": "2026-06-09T08:43:04Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 378410
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/openclaw/openclaw",
+    "homepage": "https://openclaw.ai"
+  }
+}

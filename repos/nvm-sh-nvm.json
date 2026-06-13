@@ -1,0 +1,81 @@
+{
+  "id": "nvm-sh/nvm",
+  "slug": "nvm-sh-nvm",
+  "owner": "nvm-sh",
+  "name": "nvm",
+  "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+  "archived": false,
+  "primaryLanguage": "Shell",
+  "languageColor": null,
+  "stars": 93786,
+  "forks": 10226,
+  "openIssues": 389,
+  "pushedAt": "2026-06-04T22:24:21Z",
+  "topics": [
+    "bash",
+    "install",
+    "lts",
+    "node",
+    "node-js",
+    "nodejs",
+    "nvm",
+    "nvmrc",
+    "posix",
+    "posix-compliant",
+    "shell",
+    "version-manager",
+    "zsh"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/49963700?v=4",
+  "languages": {
+    "Shell": 0.98,
+    "Makefile": 0.01,
+    "Dockerfile": 0.01,
+    "JavaScript": 0
+  },
+  "readmeExcerpt": "- Intro - About - Installing and Updating - Install & Update Script - Additional Notes - Installing in Docker - Installing in Docker for CICD-Jobs - Troubleshooting on Linux - Troubleshooting on macOS - Ansible - Verify Installation - Important Notes - Git Install - Manual Install - Manual Upgrade - Usage - Long-term Support - Migrating Global Packages While Installing - Offline Install - Default Global Packages From File While Installing - io.js - System Version of Node - Listing Versions -...",
+  "summary": {
+    "mode": "template",
+    "text": "nvm is a Shell project focused on Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. It is tagged with bash, install, and lts."
+  },
+  "releases": [
+    {
+      "tag": "v0.40.5",
+      "name": "v0.40.5",
+      "publishedAt": "2026-06-04T16:59:30Z"
+    },
+    {
+      "tag": "v0.40.4",
+      "name": "v0.40.4",
+      "publishedAt": "2026-01-29T22:19:32Z"
+    },
+    {
+      "tag": "v0.40.3",
+      "name": "v0.40.3",
+      "publishedAt": "2025-04-23T23:36:38Z"
+    },
+    {
+      "tag": "v0.40.2",
+      "name": "v0.40.2",
+      "publishedAt": "2025-03-11T20:43:43Z"
+    },
+    {
+      "tag": "v0.40.1",
+      "name": "v0.40.1",
+      "publishedAt": "2024-08-27T20:45:26Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 93786
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/nvm-sh/nvm",
+    "homepage": null
+  }
+}

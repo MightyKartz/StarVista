@@ -1,0 +1,96 @@
+{
+  "id": "supabase/supabase",
+  "slug": "supabase-supabase",
+  "owner": "supabase",
+  "name": "supabase",
+  "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 104110,
+  "forks": 12716,
+  "openIssues": 1024,
+  "pushedAt": "2026-06-12T23:45:00Z",
+  "topics": [
+    "ai",
+    "alternative",
+    "auth",
+    "database",
+    "deno",
+    "embeddings",
+    "example",
+    "firebase",
+    "nextjs",
+    "oauth2",
+    "pgvector",
+    "postgis",
+    "postgres",
+    "postgresql",
+    "postgrest",
+    "realtime",
+    "supabase",
+    "vectors",
+    "websockets"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54469796?v=4",
+  "languages": {
+    "TypeScript": 0.69,
+    "MDX": 0.27,
+    "JavaScript": 0.02,
+    "CSS": 0.01,
+    "Shell": 0,
+    "Vue": 0,
+    "PLpgSQL": 0,
+    "Makefile": 0,
+    "Dockerfile": 0,
+    "Smarty": 0,
+    "Mermaid": 0,
+    "Elixir": 0,
+    "HTML": 0
+  },
+  "readmeExcerpt": "Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools.",
+  "summary": {
+    "mode": "template",
+    "text": "supabase is a TypeScript project focused on The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. It is tagged with ai, alternative, and auth."
+  },
+  "releases": [
+    {
+      "tag": "v1.26.05",
+      "name": "Developer Update - May 2026",
+      "publishedAt": "2026-05-07T23:45:42Z"
+    },
+    {
+      "tag": "v1.26.04",
+      "name": "Developer Update - April 2026",
+      "publishedAt": "2026-04-09T14:38:08Z"
+    },
+    {
+      "tag": "v1.26.03",
+      "name": "Developer Update - March 2026",
+      "publishedAt": "2026-03-05T18:43:08Z"
+    },
+    {
+      "tag": "v1.26.02",
+      "name": "Developer Update - February 2026",
+      "publishedAt": "2026-02-05T21:38:22Z"
+    },
+    {
+      "tag": "v1.26.01",
+      "name": "Developer Update - January 2026",
+      "publishedAt": "2026-01-08T15:46:04Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 104110
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/supabase/supabase",
+    "homepage": "https://supabase.com"
+  }
+}

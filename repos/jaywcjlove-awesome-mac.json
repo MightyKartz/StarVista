@@ -1,0 +1,85 @@
+{
+  "id": "jaywcjlove/awesome-mac",
+  "slug": "jaywcjlove-awesome-mac",
+  "owner": "jaywcjlove",
+  "name": "awesome-mac",
+  "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+  "archived": false,
+  "primaryLanguage": "Swift",
+  "languageColor": "#f05138",
+  "stars": 105651,
+  "forks": 7895,
+  "openIssues": 373,
+  "pushedAt": "2026-06-10T12:34:45Z",
+  "topics": [
+    "app",
+    "apple",
+    "application",
+    "apps",
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "awesome-mac",
+    "desktop-app",
+    "desktop-application",
+    "desktop-apps",
+    "list",
+    "mac",
+    "mac-osx",
+    "macos",
+    "macos-app",
+    "macos-apps",
+    "macosx",
+    "software"
+  ],
+  "license": "CC0-1.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4",
+  "languages": {
+    "Swift": 0.99,
+    "Dockerfile": 0.01
+  },
+  "readmeExcerpt": "Special thanks to:",
+  "summary": {
+    "mode": "template",
+    "text": "awesome-mac is a Swift project focused on  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. It is tagged with app, apple, and application."
+  },
+  "releases": [
+    {
+      "tag": "v2.1.0",
+      "name": null,
+      "publishedAt": "2026-03-30T16:52:39Z"
+    },
+    {
+      "tag": "v2.0.0",
+      "name": null,
+      "publishedAt": "2026-03-12T14:51:36Z"
+    },
+    {
+      "tag": "v1.11.0",
+      "name": "",
+      "publishedAt": "2025-12-18T12:04:37Z"
+    },
+    {
+      "tag": "v1.10.0",
+      "name": null,
+      "publishedAt": "2025-07-29T17:20:40Z"
+    },
+    {
+      "tag": "v1.9.0",
+      "name": "",
+      "publishedAt": "2025-05-22T21:14:37Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 105651
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/jaywcjlove/awesome-mac",
+    "homepage": "https://git.io/macx"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "farion1231/cc-switch",
+  "slug": "farion1231-cc-switch",
+  "owner": "farion1231",
+  "name": "cc-switch",
+  "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+  "archived": false,
+  "primaryLanguage": "Rust",
+  "languageColor": "#dea584",
+  "stars": 99418,
+  "forks": 6551,
+  "openIssues": 1401,
+  "pushedAt": "2026-06-11T18:37:28Z",
+  "topics": [
+    "ai-tools",
+    "claude-code",
+    "codex",
+    "desktop-app",
+    "hermes",
+    "hermes-agent",
+    "mcp",
+    "minimax",
+    "omo",
+    "open-source",
+    "openclaw",
+    "openclaw-ui",
+    "opencode",
+    "provider-management",
+    "rust",
+    "skills",
+    "skills-management",
+    "tauri",
+    "typescript",
+    "wsl-support"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
+  "languages": {
+    "Rust": 0.62,
+    "TypeScript": 0.36,
+    "HTML": 0.01,
+    "JavaScript": 0,
+    "CSS": 0
+  },
+  "readmeExcerpt": "English | 中文 | 日本語 | Deutsch | Changelog",
+  "summary": {
+    "mode": "template",
+    "text": "cc-switch is a Rust project focused on A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io. It is tagged with ai-tools, claude-code, and codex."
+  },
+  "releases": [
+    {
+      "tag": "v3.16.2",
+      "name": "CC Switch v3.16.2",
+      "publishedAt": "2026-06-08T15:53:00Z"
+    },
+    {
+      "tag": "v3.16.1",
+      "name": "CC Switch v3.16.1",
+      "publishedAt": "2026-06-01T12:51:32Z"
+    },
+    {
+      "tag": "v3.16.0",
+      "name": "CC Switch v3.16.0",
+      "publishedAt": "2026-05-29T16:20:13Z"
+    },
+    {
+      "tag": "v3.15.0",
+      "name": "CC Switch v3.15.0",
+      "publishedAt": "2026-05-16T03:42:43Z"
+    },
+    {
+      "tag": "v3.14.1",
+      "name": "CC Switch v3.14.1",
+      "publishedAt": "2026-04-23T13:41:33Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 99418
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/farion1231/cc-switch",
+    "homepage": "https://ccswitch.io"
+  }
+}

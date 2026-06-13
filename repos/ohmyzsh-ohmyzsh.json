@@ -1,0 +1,56 @@
+{
+  "id": "ohmyzsh/ohmyzsh",
+  "slug": "ohmyzsh-ohmyzsh",
+  "owner": "ohmyzsh",
+  "name": "ohmyzsh",
+  "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+  "archived": false,
+  "primaryLanguage": "Shell",
+  "languageColor": null,
+  "stars": 187957,
+  "forks": 26364,
+  "openIssues": 564,
+  "pushedAt": "2026-06-12T19:23:12Z",
+  "topics": [
+    "cli",
+    "cli-app",
+    "oh-my-zsh",
+    "oh-my-zsh-plugin",
+    "oh-my-zsh-theme",
+    "ohmyzsh",
+    "plugin-framework",
+    "plugins",
+    "productivity",
+    "shell",
+    "terminal",
+    "theme",
+    "themes",
+    "zsh",
+    "zsh-configuration"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/22552083?v=4",
+  "languages": {
+    "Shell": 0.99,
+    "Python": 0.01,
+    "Makefile": 0
+  },
+  "readmeExcerpt": "Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.",
+  "summary": {
+    "mode": "template",
+    "text": "ohmyzsh is a Shell project focused on 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. It is tagged with cli, cli-app, and oh-my-zsh."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 187957
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/ohmyzsh/ohmyzsh",
+    "homepage": "https://ohmyz.sh"
+  }
+}

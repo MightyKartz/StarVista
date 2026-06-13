@@ -1,0 +1,80 @@
+{
+  "id": "puppeteer/puppeteer",
+  "slug": "puppeteer-puppeteer",
+  "owner": "puppeteer",
+  "name": "puppeteer",
+  "description": "JavaScript API for Chrome and Firefox",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 94531,
+  "forks": 9428,
+  "openIssues": 259,
+  "pushedAt": "2026-06-13T00:39:28Z",
+  "topics": [
+    "automation",
+    "chrome",
+    "chromium",
+    "developer-tools",
+    "firefox",
+    "headless-chrome",
+    "node-module",
+    "testing",
+    "web"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6906516?v=4",
+  "languages": {
+    "TypeScript": 0.94,
+    "JavaScript": 0.05,
+    "HTML": 0.01,
+    "CSS": 0,
+    "Dockerfile": 0,
+    "Shell": 0,
+    "Go Template": 0
+  },
+  "readmeExcerpt": "> Puppeteer is a JavaScript library which provides a high-level API to control > Chrome or Firefox over the > DevTools Protocol or WebDriver BiDi. > Puppeteer runs in the headless (no visible UI) by default",
+  "summary": {
+    "mode": "template",
+    "text": "puppeteer is a TypeScript project focused on JavaScript API for Chrome and Firefox. It is tagged with automation, chrome, and chromium."
+  },
+  "releases": [
+    {
+      "tag": "puppeteer-v25.1.0",
+      "name": "puppeteer: v25.1.0",
+      "publishedAt": "2026-05-26T09:20:48Z"
+    },
+    {
+      "tag": "puppeteer-core-v25.1.0",
+      "name": "puppeteer-core: v25.1.0",
+      "publishedAt": "2026-05-26T09:20:50Z"
+    },
+    {
+      "tag": "browsers-v3.0.4",
+      "name": "browsers: v3.0.4",
+      "publishedAt": "2026-05-26T09:20:51Z"
+    },
+    {
+      "tag": "puppeteer-v25.0.4",
+      "name": "puppeteer: v25.0.4",
+      "publishedAt": "2026-05-18T11:55:51Z"
+    },
+    {
+      "tag": "puppeteer-v25.0.3",
+      "name": "puppeteer: v25.0.3",
+      "publishedAt": "2026-05-18T06:59:13Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 94531
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/puppeteer/puppeteer",
+    "homepage": "https://pptr.dev"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ultraworkers/claw-code",
+  "slug": "ultraworkers-claw-code",
+  "owner": "ultraworkers",
+  "name": "claw-code",
+  "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+  "archived": false,
+  "primaryLanguage": "Rust",
+  "languageColor": "#dea584",
+  "stars": 193696,
+  "forks": 109962,
+  "openIssues": 7,
+  "pushedAt": "2026-06-08T06:06:12Z",
+  "topics": [],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/272961631?v=4",
+  "languages": {
+    "Rust": 0.95,
+    "Python": 0.04,
+    "Shell": 0,
+    "HTML": 0,
+    "Dockerfile": 0
+  },
+  "readmeExcerpt": "start with the real crab-powered harnesses",
+  "summary": {
+    "mode": "template",
+    "text": "claw-code is a Rust project focused on An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 193696
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/ultraworkers/claw-code",
+    "homepage": null
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "electron/electron",
+  "slug": "electron-electron",
+  "owner": "electron",
+  "name": "electron",
+  "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+  "archived": false,
+  "primaryLanguage": "C++",
+  "languageColor": "#f34b7d",
+  "stars": 121614,
+  "forks": 17245,
+  "openIssues": 870,
+  "pushedAt": "2026-06-12T22:24:46Z",
+  "topics": [
+    "c-plus-plus",
+    "chrome",
+    "css",
+    "electron",
+    "html",
+    "javascript",
+    "nodejs",
+    "v8",
+    "works-with-codespaces"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13409222?v=4",
+  "languages": {
+    "C++": 0.54,
+    "TypeScript": 0.34,
+    "Objective-C++": 0.05,
+    "JavaScript": 0.03,
+    "Python": 0.02,
+    "Objective-C": 0.01,
+    "Shell": 0,
+    "HTML": 0,
+    "Go Template": 0,
+    "C": 0,
+    "CSS": 0
+  },
+  "readmeExcerpt": ":memo: Available Translations: 🇨🇳 🇧🇷 🇪🇸 🇯🇵 🇷🇺 🇫🇷 🇺🇸 🇩🇪. View these docs in other languages on our Crowdin project.",
+  "summary": {
+    "mode": "template",
+    "text": "electron is a C++ project focused on :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS. It is tagged with c-plus-plus, chrome, and css."
+  },
+  "releases": [
+    {
+      "tag": "v43.0.0-beta.3",
+      "name": "electron v43.0.0-beta.3",
+      "publishedAt": "2026-06-12T01:23:18Z"
+    },
+    {
+      "tag": "v42.4.0",
+      "name": "electron v42.4.0",
+      "publishedAt": "2026-06-09T08:30:31Z"
+    },
+    {
+      "tag": "v41.7.2",
+      "name": "electron v41.7.2",
+      "publishedAt": "2026-06-09T20:36:54Z"
+    },
+    {
+      "tag": "v40.10.3",
+      "name": "electron v40.10.3",
+      "publishedAt": "2026-06-09T20:22:10Z"
+    },
+    {
+      "tag": "v43.0.0-beta.2",
+      "name": "electron v43.0.0-beta.2",
+      "publishedAt": "2026-06-09T00:30:23Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 121614
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/electron/electron",
+    "homepage": "https://electronjs.org"
+  }
+}

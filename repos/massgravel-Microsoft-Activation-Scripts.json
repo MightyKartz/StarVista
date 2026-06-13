@@ -1,0 +1,82 @@
+{
+  "id": "massgravel/Microsoft-Activation-Scripts",
+  "slug": "massgravel-Microsoft-Activation-Scripts",
+  "owner": "massgravel",
+  "name": "Microsoft-Activation-Scripts",
+  "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+  "archived": false,
+  "primaryLanguage": "Batchfile",
+  "languageColor": null,
+  "stars": 178177,
+  "forks": 17051,
+  "openIssues": 1,
+  "pushedAt": "2026-06-11T17:21:39Z",
+  "topics": [
+    "activator",
+    "hwid",
+    "kms",
+    "kms38",
+    "massgrave",
+    "massgravel",
+    "microsoft",
+    "microsoft365",
+    "office",
+    "office365",
+    "ohook",
+    "powershell",
+    "tsforge",
+    "windows",
+    "windows-10",
+    "windows-11"
+  ],
+  "license": "GPL-3.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59795046?v=4",
+  "languages": {
+    "Batchfile": 1,
+    "HTML": 0
+  },
+  "readmeExcerpt": "Microsoft Activation Scripts (MAS)",
+  "summary": {
+    "mode": "template",
+    "text": "Microsoft-Activation-Scripts is a Batchfile project focused on Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. It is tagged with activator, hwid, and kms."
+  },
+  "releases": [
+    {
+      "tag": "3.11",
+      "name": "v3.11 Minor Update",
+      "publishedAt": "2026-05-02T06:27:14Z"
+    },
+    {
+      "tag": "3.10",
+      "name": "v3.10 Minor Update",
+      "publishedAt": "2026-01-28T15:25:22Z"
+    },
+    {
+      "tag": "3.9",
+      "name": "v3.9 Minor Update",
+      "publishedAt": "2025-11-18T22:28:32Z"
+    },
+    {
+      "tag": "3.8",
+      "name": "v3.8 R.I.P. KMS38",
+      "publishedAt": "2025-11-11T23:30:10Z"
+    },
+    {
+      "tag": "3.7",
+      "name": "v3.7 The Twin Keys Fall",
+      "publishedAt": "2025-09-12T00:51:38Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 178177
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "homepage": "https://massgrave.dev"
+  }
+}

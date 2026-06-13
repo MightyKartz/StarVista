@@ -1,0 +1,84 @@
+{
+  "id": "hacksider/Deep-Live-Cam",
+  "slug": "hacksider-Deep-Live-Cam",
+  "owner": "hacksider",
+  "name": "Deep-Live-Cam",
+  "description": "real time face swap and one-click video deepfake with only a single image",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 93766,
+  "forks": 13686,
+  "openIssues": 121,
+  "pushedAt": "2026-05-31T16:50:59Z",
+  "topics": [
+    "ai",
+    "ai-deep-fake",
+    "ai-face",
+    "ai-webcam",
+    "artificial-intelligence",
+    "deep-fake",
+    "deepfake",
+    "deepfake-webcam",
+    "faceswap",
+    "fake-webcam",
+    "gan",
+    "real-time-deepfake",
+    "realtime",
+    "realtime-deepfake",
+    "realtime-face-changer",
+    "video-deepfake",
+    "webcam",
+    "webcamera"
+  ],
+  "license": "AGPL-3.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1267200?v=4",
+  "languages": {
+    "Python": 1,
+    "Batchfile": 0
+  },
+  "readmeExcerpt": "Deep-Live-Cam 2.1.6",
+  "summary": {
+    "mode": "template",
+    "text": "Deep-Live-Cam is a Python project focused on real time face swap and one-click video deepfake with only a single image. It is tagged with ai, ai-deep-fake, and ai-face."
+  },
+  "releases": [
+    {
+      "tag": "2.7-RC1",
+      "name": "2.7-RC2",
+      "publishedAt": "2026-05-20T21:10:51Z"
+    },
+    {
+      "tag": "2.7-beta",
+      "name": "2.7 beta",
+      "publishedAt": "2026-03-11T18:39:57Z"
+    },
+    {
+      "tag": "2.6",
+      "name": "2.6d",
+      "publishedAt": "2026-02-10T15:53:21Z"
+    },
+    {
+      "tag": "2.4",
+      "name": "2.4",
+      "publishedAt": "2025-12-15T19:31:37Z"
+    },
+    {
+      "tag": "2.3d",
+      "name": "2.3d",
+      "publishedAt": "2025-11-20T10:44:40Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 93766
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/hacksider/Deep-Live-Cam",
+    "homepage": "https://deeplivecam.net/"
+  }
+}

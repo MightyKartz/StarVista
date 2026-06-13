@@ -1,0 +1,73 @@
+{
+  "id": "microsoft/markitdown",
+  "slug": "microsoft-markitdown",
+  "owner": "microsoft",
+  "name": "markitdown",
+  "description": "Python tool for converting files and office documents to Markdown.",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 152132,
+  "forks": 10513,
+  "openIssues": 837,
+  "pushedAt": "2026-05-26T22:41:34Z",
+  "topics": [
+    "autogen",
+    "autogen-extension",
+    "langchain",
+    "markdown",
+    "microsoft-office",
+    "openai",
+    "pdf"
+  ],
+  "license": "MIT",
+  "activity": "stable",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+  "languages": {
+    "Python": 1,
+    "Dockerfile": 0
+  },
+  "readmeExcerpt": "> [!IMPORTANT] > MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest convert function needed for your use case (e.g., convertstream(), or convertlocal()). See the Security Considerations section of the documentation for more information.",
+  "summary": {
+    "mode": "template",
+    "text": "markitdown is a Python project focused on Python tool for converting files and office documents to Markdown. It is tagged with autogen, autogen-extension, and langchain."
+  },
+  "releases": [
+    {
+      "tag": "v0.1.6",
+      "name": "Version 0.1.6",
+      "publishedAt": "2026-05-26T22:42:14Z"
+    },
+    {
+      "tag": "v0.1.5",
+      "name": "v0.1.5",
+      "publishedAt": "2026-02-20T19:49:39Z"
+    },
+    {
+      "tag": "v0.1.5b1",
+      "name": "Version 0.1.5b1",
+      "publishedAt": "2026-01-08T23:23:05Z"
+    },
+    {
+      "tag": "v0.1.4",
+      "name": "Version 0.1.4",
+      "publishedAt": "2025-12-01T18:20:17Z"
+    },
+    {
+      "tag": "v0.1.3",
+      "name": "v0.1.3",
+      "publishedAt": "2025-08-26T22:40:17Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 152132
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/microsoft/markitdown",
+    "homepage": null
+  }
+}

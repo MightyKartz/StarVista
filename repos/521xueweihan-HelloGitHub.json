@@ -1,0 +1,69 @@
+{
+  "id": "521xueweihan/HelloGitHub",
+  "slug": "521xueweihan-HelloGitHub",
+  "owner": "521xueweihan",
+  "name": "HelloGitHub",
+  "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 161093,
+  "forks": 12147,
+  "openIssues": 434,
+  "pushedAt": "2026-05-29T03:35:49Z",
+  "topics": [
+    "awesome",
+    "github",
+    "hellogithub",
+    "python"
+  ],
+  "license": null,
+  "activity": "stable",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8255800?v=4",
+  "languages": {
+    "Python": 1
+  },
+  "readmeExcerpt": "中文 | English | 日本語 分享 GitHub 上有趣、入门级的开源项目。 兴趣是最好的老师，HelloGitHub 帮你找到开源的乐趣！",
+  "summary": {
+    "mode": "template",
+    "text": "HelloGitHub is a Python project focused on :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. It is tagged with awesome, github, and hellogithub."
+  },
+  "releases": [
+    {
+      "tag": "vol.122",
+      "name": "第 122 期",
+      "publishedAt": "2026-05-29T03:38:14Z"
+    },
+    {
+      "tag": "vol.121",
+      "name": "第 121 期",
+      "publishedAt": "2026-04-28T00:52:13Z"
+    },
+    {
+      "tag": "vol.120",
+      "name": "第 120 期",
+      "publishedAt": "2026-03-27T01:17:55Z"
+    },
+    {
+      "tag": "vol.119",
+      "name": "第 119 期",
+      "publishedAt": "2026-02-28T00:53:13Z"
+    },
+    {
+      "tag": "vol.118",
+      "name": "第 118 期",
+      "publishedAt": "2026-01-28T01:26:33Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 161093
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/521xueweihan/HelloGitHub",
+    "homepage": "https://hellogithub.com"
+  }
+}

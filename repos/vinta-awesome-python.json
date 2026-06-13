@@ -1,0 +1,49 @@
+{
+  "id": "vinta/awesome-python",
+  "slug": "vinta-awesome-python",
+  "owner": "vinta",
+  "name": "awesome-python",
+  "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 302609,
+  "forks": 28073,
+  "openIssues": 18,
+  "pushedAt": "2026-06-12T04:11:12Z",
+  "topics": [
+    "awesome",
+    "collections",
+    "python",
+    "python-frameworks",
+    "python-libraries",
+    "python-tools"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/652070?v=4",
+  "languages": {
+    "Python": 0.59,
+    "HTML": 0.18,
+    "CSS": 0.16,
+    "JavaScript": 0.07,
+    "Makefile": 0
+  },
+  "readmeExcerpt": "An opinionated guide to the best Python frameworks, libraries, tools, and resources.",
+  "summary": {
+    "mode": "template",
+    "text": "awesome-python is a Python project focused on An opinionated list of Python frameworks, libraries, tools, and resources. It is tagged with awesome, collections, and python."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 302609
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/vinta/awesome-python",
+    "homepage": "https://awesome-python.com/"
+  }
+}

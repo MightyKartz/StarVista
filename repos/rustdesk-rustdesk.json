@@ -1,0 +1,99 @@
+{
+  "id": "rustdesk/rustdesk",
+  "slug": "rustdesk-rustdesk",
+  "owner": "rustdesk",
+  "name": "rustdesk",
+  "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+  "archived": false,
+  "primaryLanguage": "Rust",
+  "languageColor": "#dea584",
+  "stars": 116070,
+  "forks": 17551,
+  "openIssues": 119,
+  "pushedAt": "2026-06-11T15:09:35Z",
+  "topics": [
+    "android",
+    "anydesk",
+    "dart",
+    "flatpak",
+    "flutter",
+    "flutter-apps",
+    "ios",
+    "linux",
+    "macos",
+    "p2p",
+    "rdp",
+    "remote-control",
+    "remote-desktop",
+    "rust",
+    "rust-lang",
+    "teamviewer",
+    "vnc",
+    "wayland",
+    "windows"
+  ],
+  "license": "AGPL-3.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
+  "languages": {
+    "Rust": 0.67,
+    "Dart": 0.24,
+    "C++": 0.02,
+    "Python": 0.02,
+    "C": 0.01,
+    "Kotlin": 0.01,
+    "CMake": 0.01,
+    "Objective-C++": 0,
+    "CSS": 0,
+    "Shell": 0,
+    "Swift": 0,
+    "AppleScript": 0,
+    "HTML": 0,
+    "Ruby": 0,
+    "Dockerfile": 0,
+    "Objective-C": 0
+  },
+  "readmeExcerpt": "Build • Docker • Structure • Snapshot [ Українська ] | [ česky ] | [ 中文 ] | [ Magyar ] | [ Español ] | [ فارسی ] | [ Français ] | [ Deutsch ] | [ Polski ] | [ Indonesian ] | [ Suomi ] | [ മലയാളം ] | [ 日本語 ] | [ Nederlands ] | [ Italiano ] | [ Русский ] | [ Português (Brasil) ] | [ Esperanto ] | [ 한국어 ] | [ العربي ] | [ Tiếng Việt ] | [ Dansk ] | [ Ελληνικά ] | [ Türkçe ] | [ Norsk ] | [ Română ] We need your help to translate this README, RustDesk UI and RustDesk Doc to your native language",
+  "summary": {
+    "mode": "template",
+    "text": "rustdesk is a Rust project focused on An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. It is tagged with android, anydesk, and dart."
+  },
+  "releases": [
+    {
+      "tag": "1.4.7",
+      "name": "1.4.7",
+      "publishedAt": "2026-06-02T15:36:22Z"
+    },
+    {
+      "tag": "1.4.6",
+      "name": "1.4.6",
+      "publishedAt": "2026-03-05T05:05:30Z"
+    },
+    {
+      "tag": "nightly",
+      "name": "nightly",
+      "publishedAt": "2026-03-01T14:49:39Z"
+    },
+    {
+      "tag": "1.4.5",
+      "name": "1.4.5",
+      "publishedAt": "2026-01-09T02:28:28Z"
+    },
+    {
+      "tag": "1.4.4",
+      "name": "1.4.4",
+      "publishedAt": "2025-11-19T03:52:18Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 116070
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/rustdesk/rustdesk",
+    "homepage": "https://rustdesk.com"
+  }
+}

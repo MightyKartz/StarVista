@@ -1,0 +1,67 @@
+{
+  "id": "nilbuild/developer-roadmap",
+  "slug": "nilbuild-developer-roadmap",
+  "owner": "nilbuild",
+  "name": "developer-roadmap",
+  "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 356864,
+  "forks": 44192,
+  "openIssues": 17,
+  "pushedAt": "2026-06-12T10:10:05Z",
+  "topics": [
+    "angular-roadmap",
+    "backend-roadmap",
+    "blockchain-roadmap",
+    "computer-science",
+    "dba-roadmap",
+    "developer-roadmap",
+    "devops-roadmap",
+    "frontend-roadmap",
+    "go-roadmap",
+    "java-roadmap",
+    "javascript-roadmap",
+    "nodejs-roadmap",
+    "python-roadmap",
+    "qa-roadmap",
+    "react-roadmap",
+    "roadmap",
+    "software-architect-roadmap",
+    "vue-roadmap"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4921183?v=4",
+  "languages": {
+    "TypeScript": 0.85,
+    "Astro": 0.11,
+    "JavaScript": 0.03,
+    "CSS": 0.01,
+    "Shell": 0
+  },
+  "readmeExcerpt": "roadmap.sh Community driven roadmaps, articles and resources for developers",
+  "summary": {
+    "mode": "template",
+    "text": "developer-roadmap is a TypeScript project focused on Interactive roadmaps, guides and other educational content to help developers grow in their careers. It is tagged with angular-roadmap, backend-roadmap, and blockchain-roadmap."
+  },
+  "releases": [
+    {
+      "tag": "4.0",
+      "name": "Roadmap 4.0",
+      "publishedAt": "2023-01-05T18:38:46Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 356864
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/nilbuild/developer-roadmap",
+    "homepage": "https://roadmap.sh"
+  }
+}

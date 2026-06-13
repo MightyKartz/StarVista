@@ -1,0 +1,53 @@
+{
+  "id": "public-apis/public-apis",
+  "slug": "public-apis-public-apis",
+  "owner": "public-apis",
+  "name": "public-apis",
+  "description": "A collective list of free APIs",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 441082,
+  "forks": 48340,
+  "openIssues": 1381,
+  "pushedAt": "2026-06-12T20:49:09Z",
+  "topics": [
+    "api",
+    "apis",
+    "dataset",
+    "development",
+    "free",
+    "list",
+    "lists",
+    "open-source",
+    "public",
+    "public-api",
+    "public-apis",
+    "resources",
+    "software"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/51121562?v=4",
+  "languages": {
+    "Python": 0.97,
+    "Shell": 0.03
+  },
+  "readmeExcerpt": "The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.",
+  "summary": {
+    "mode": "template",
+    "text": "public-apis is a Python project focused on A collective list of free APIs. It is tagged with api, apis, and dataset."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 441082
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/public-apis/public-apis",
+    "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo"
+  }
+}

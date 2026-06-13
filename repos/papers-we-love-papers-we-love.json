@@ -1,0 +1,46 @@
+{
+  "id": "papers-we-love/papers-we-love",
+  "slug": "papers-we-love-papers-we-love",
+  "owner": "papers-we-love",
+  "name": "papers-we-love",
+  "description": "Papers from the computer science community to read and discuss.",
+  "archived": false,
+  "primaryLanguage": "Shell",
+  "languageColor": null,
+  "stars": 106999,
+  "forks": 6371,
+  "openIssues": 2,
+  "pushedAt": "2026-05-17T12:22:19Z",
+  "topics": [
+    "awesome",
+    "computer-science",
+    "meetup",
+    "papers",
+    "programming",
+    "read-papers",
+    "theory"
+  ],
+  "license": null,
+  "activity": "stable",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6187757?v=4",
+  "languages": {
+    "Shell": 1
+  },
+  "readmeExcerpt": "Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the Papers We Love site for more info.",
+  "summary": {
+    "mode": "template",
+    "text": "papers-we-love is a Shell project focused on Papers from the computer science community to read and discuss. It is tagged with awesome, computer-science, and meetup."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 106999
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/papers-we-love/papers-we-love",
+    "homepage": "http://paperswelove.org/"
+  }
+}

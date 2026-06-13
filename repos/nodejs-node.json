@@ -1,0 +1,88 @@
+{
+  "id": "nodejs/node",
+  "slug": "nodejs-node",
+  "owner": "nodejs",
+  "name": "node",
+  "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+  "archived": false,
+  "primaryLanguage": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 117740,
+  "forks": 35669,
+  "openIssues": 2488,
+  "pushedAt": "2026-06-12T23:26:21Z",
+  "topics": [
+    "javascript",
+    "js",
+    "linux",
+    "macos",
+    "mit",
+    "node",
+    "nodejs",
+    "runtime",
+    "windows"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9950313?v=4",
+  "languages": {
+    "JavaScript": 0.65,
+    "C++": 0.22,
+    "Python": 0.09,
+    "C": 0.02,
+    "HTML": 0.01,
+    "Shell": 0,
+    "Makefile": 0,
+    "Batchfile": 0,
+    "Nix": 0,
+    "Emacs Lisp": 0,
+    "Perl": 0,
+    "R": 0,
+    "Go Template": 0,
+    "TypeScript": 0,
+    "Assembly": 0
+  },
+  "readmeExcerpt": "Node.js is an open-source, cross-platform JavaScript runtime environment.",
+  "summary": {
+    "mode": "template",
+    "text": "node is a JavaScript project focused on Node.js JavaScript runtime ✨🐢🚀✨. It is tagged with javascript, js, and linux."
+  },
+  "releases": [
+    {
+      "tag": "v26.3.0",
+      "name": "2026-06-01, Version 26.3.0 (Current), @aduh95",
+      "publishedAt": "2026-06-01T13:10:59Z"
+    },
+    {
+      "tag": "v24.16.0",
+      "name": "2026-05-21, Version 24.16.0 'Krypton' (LTS), @aduh95",
+      "publishedAt": "2026-05-21T13:24:48Z"
+    },
+    {
+      "tag": "v26.2.0",
+      "name": "2026-05-20, Version 26.2.0 (Current), @aduh95",
+      "publishedAt": "2026-05-20T13:02:36Z"
+    },
+    {
+      "tag": "v22.22.3",
+      "name": "2026-05-13, Version 22.22.3 'Jod' (LTS), @marco-ippolito",
+      "publishedAt": "2026-05-13T18:44:11Z"
+    },
+    {
+      "tag": "v26.1.0",
+      "name": "2026-05-07, Version 26.1.0 (Current), @aduh95",
+      "publishedAt": "2026-05-07T10:08:25Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 117740
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/nodejs/node",
+    "homepage": "https://nodejs.org"
+  }
+}

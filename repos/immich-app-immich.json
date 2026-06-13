@@ -1,0 +1,101 @@
+{
+  "id": "immich-app/immich",
+  "slug": "immich-app-immich",
+  "owner": "immich-app",
+  "name": "immich",
+  "description": "High performance self-hosted photo and video management solution.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 103189,
+  "forks": 5833,
+  "openIssues": 644,
+  "pushedAt": "2026-06-13T01:14:08Z",
+  "topics": [
+    "backup-tool",
+    "flutter",
+    "google-photos",
+    "google-photos-alternative",
+    "javascript",
+    "mobile-app",
+    "nestjs",
+    "nodejs",
+    "photo-gallery",
+    "photos",
+    "photos-management",
+    "self-hosted",
+    "svelte",
+    "sveltekit",
+    "typescript",
+    "videos"
+  ],
+  "license": "AGPL-3.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/109746326?v=4",
+  "languages": {
+    "TypeScript": 0.53,
+    "Dart": 0.28,
+    "Svelte": 0.13,
+    "Python": 0.02,
+    "Kotlin": 0.01,
+    "Swift": 0.01,
+    "JavaScript": 0,
+    "Mustache": 0,
+    "Shell": 0,
+    "Ruby": 0,
+    "Dockerfile": 0,
+    "C++": 0,
+    "Java": 0,
+    "HCL": 0,
+    "HTML": 0,
+    "CSS": 0,
+    "Makefile": 0,
+    "C": 0,
+    "CMake": 0,
+    "Go Template": 0,
+    "Objective-C": 0
+  },
+  "readmeExcerpt": "High performance self-hosted photo and video management solution",
+  "summary": {
+    "mode": "template",
+    "text": "immich is a TypeScript project focused on High performance self-hosted photo and video management solution. It is tagged with backup-tool, flutter, and google-photos."
+  },
+  "releases": [
+    {
+      "tag": "v2.7.5",
+      "name": "v2.7.5",
+      "publishedAt": "2026-04-13T14:53:55Z"
+    },
+    {
+      "tag": "v2.7.4",
+      "name": "v2.7.4",
+      "publishedAt": "2026-04-10T17:06:24Z"
+    },
+    {
+      "tag": "v2.7.3",
+      "name": "v2.7.3",
+      "publishedAt": "2026-04-09T18:12:42Z"
+    },
+    {
+      "tag": "v2.7.2",
+      "name": "v2.7.2",
+      "publishedAt": "2026-04-07T21:20:31Z"
+    },
+    {
+      "tag": "v2.7.0",
+      "name": "v2.7.0",
+      "publishedAt": "2026-04-07T16:35:08Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 103189
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/immich-app/immich",
+    "homepage": "https://immich.app"
+  }
+}

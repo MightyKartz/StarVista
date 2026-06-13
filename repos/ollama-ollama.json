@@ -1,0 +1,94 @@
+{
+  "id": "ollama/ollama",
+  "slug": "ollama-ollama",
+  "owner": "ollama",
+  "name": "ollama",
+  "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+  "archived": false,
+  "primaryLanguage": "Go",
+  "languageColor": "#00add8",
+  "stars": 173981,
+  "forks": 16583,
+  "openIssues": 3394,
+  "pushedAt": "2026-06-13T01:04:05Z",
+  "topics": [
+    "deepseek",
+    "gemma",
+    "gemma3",
+    "glm",
+    "go",
+    "golang",
+    "gpt-oss",
+    "llama",
+    "llama3",
+    "llm",
+    "llms",
+    "minimax",
+    "mistral",
+    "ollama",
+    "qwen"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/151674099?v=4",
+  "languages": {
+    "Go": 0.66,
+    "C": 0.27,
+    "TypeScript": 0.03,
+    "C++": 0.01,
+    "CMake": 0.01,
+    "Objective-C": 0,
+    "Shell": 0,
+    "PowerShell": 0,
+    "Dockerfile": 0,
+    "Inno Setup": 0,
+    "Go Template": 0,
+    "HTML": 0,
+    "AppleScript": 0,
+    "JavaScript": 0,
+    "CSS": 0
+  },
+  "readmeExcerpt": "Start building with open models.",
+  "summary": {
+    "mode": "template",
+    "text": "ollama is a Go project focused on Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. It is tagged with deepseek, gemma, and gemma3."
+  },
+  "releases": [
+    {
+      "tag": "v0.30.8",
+      "name": "v0.30.8",
+      "publishedAt": "2026-06-12T17:04:52Z"
+    },
+    {
+      "tag": "v0.30.7",
+      "name": "v0.30.7",
+      "publishedAt": "2026-06-07T21:51:48Z"
+    },
+    {
+      "tag": "v0.30.6",
+      "name": "v0.30.6",
+      "publishedAt": "2026-06-05T20:00:18Z"
+    },
+    {
+      "tag": "v0.30.5",
+      "name": "v0.30.5",
+      "publishedAt": "2026-06-04T17:00:37Z"
+    },
+    {
+      "tag": "v0.30.4",
+      "name": "v0.30.4",
+      "publishedAt": "2026-06-03T18:48:32Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 173981
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/ollama/ollama",
+    "homepage": "https://ollama.com"
+  }
+}

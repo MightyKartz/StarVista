@@ -1,0 +1,86 @@
+{
+  "id": "Significant-Gravitas/AutoGPT",
+  "slug": "Significant-Gravitas-AutoGPT",
+  "owner": "Significant-Gravitas",
+  "name": "AutoGPT",
+  "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 184915,
+  "forks": 46150,
+  "openIssues": 433,
+  "pushedAt": "2026-06-12T23:55:06Z",
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "claude",
+    "gpt",
+    "llama-api",
+    "llm",
+    "openai",
+    "python"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130738209?v=4",
+  "languages": {
+    "Python": 0.68,
+    "TypeScript": 0.3,
+    "JavaScript": 0.01,
+    "PLpgSQL": 0,
+    "Shell": 0,
+    "Jinja": 0,
+    "CSS": 0,
+    "Batchfile": 0,
+    "Dockerfile": 0,
+    "Makefile": 0,
+    "Elixir": 0
+  },
+  "readmeExcerpt": "Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文",
+  "summary": {
+    "mode": "template",
+    "text": "AutoGPT is a Python project focused on AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. It is tagged with agentic-ai, agents, and ai."
+  },
+  "releases": [
+    {
+      "tag": "autogpt-platform-beta-v0.6.63",
+      "name": "autogpt-platform-beta-v0.6.63",
+      "publishedAt": "2026-06-10T20:56:47Z"
+    },
+    {
+      "tag": "autogpt-platform-beta-v0.6.62",
+      "name": "autogpt-platform-beta-v0.6.62",
+      "publishedAt": "2026-05-28T02:12:41Z"
+    },
+    {
+      "tag": "autogpt-platform-beta-v0.6.61",
+      "name": "autogpt-platform-beta-v0.6.61",
+      "publishedAt": "2026-05-20T13:16:24Z"
+    },
+    {
+      "tag": "autogpt-platform-beta-v0.6.60",
+      "name": "autogpt-platform-beta-v0.6.60",
+      "publishedAt": "2026-05-13T14:23:58Z"
+    },
+    {
+      "tag": "autogpt-platform-beta-v0.6.59",
+      "name": "autogpt-platform-beta-v0.6.59",
+      "publishedAt": "2026-05-07T09:23:04Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 184915
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/Significant-Gravitas/AutoGPT",
+    "homepage": "https://agpt.co"
+  }
+}

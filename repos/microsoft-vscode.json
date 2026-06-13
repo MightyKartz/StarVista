@@ -1,0 +1,116 @@
+{
+  "id": "microsoft/vscode",
+  "slug": "microsoft-vscode",
+  "owner": "microsoft",
+  "name": "vscode",
+  "description": "Visual Studio Code",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 186216,
+  "forks": 40396,
+  "openIssues": 18422,
+  "pushedAt": "2026-06-13T02:18:28Z",
+  "topics": [
+    "editor",
+    "electron",
+    "microsoft",
+    "typescript",
+    "visual-studio-code"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+  "languages": {
+    "TypeScript": 0.96,
+    "CSS": 0.01,
+    "JavaScript": 0.01,
+    "HTML": 0.01,
+    "Rust": 0,
+    "Inno Setup": 0,
+    "Jupyter Notebook": 0,
+    "Scilab": 0,
+    "Shell": 0,
+    "C++": 0,
+    "PowerShell": 0,
+    "Python": 0,
+    "Batchfile": 0,
+    "Tree-sitter Query": 0,
+    "C#": 0,
+    "SCSS": 0,
+    "Ruby": 0,
+    "Java": 0,
+    "Groovy": 0,
+    "Cuda": 0,
+    "Go": 0,
+    "Makefile": 0,
+    "Perl": 0,
+    "TeX": 0,
+    "Objective-C": 0,
+    "Objective-C++": 0,
+    "Clojure": 0,
+    "Handlebars": 0,
+    "Mermaid": 0,
+    "Less": 0,
+    "PHP": 0,
+    "Dockerfile": 0,
+    "Julia": 0,
+    "Visual Basic .NET": 0,
+    "C": 0,
+    "Raku": 0,
+    "Pug": 0,
+    "F#": 0,
+    "CoffeeScript": 0,
+    "R": 0,
+    "Roff": 0,
+    "ShaderLab": 0,
+    "Dart": 0,
+    "Swift": 0,
+    "Lua": 0,
+    "HLSL": 0,
+    "Hack": 0
+  },
+  "readmeExcerpt": "This repository (\"Code - OSS\") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here, but we also publish our roadmap, monthly iteration plans, and our endgame plans. This source code is available to everyone under the standard MIT license.",
+  "summary": {
+    "mode": "template",
+    "text": "vscode is a TypeScript project focused on Visual Studio Code. It is tagged with editor, electron, and microsoft."
+  },
+  "releases": [
+    {
+      "tag": "1.124.2",
+      "name": "1.124.2",
+      "publishedAt": "2026-06-12T05:06:56Z"
+    },
+    {
+      "tag": "1.124.0",
+      "name": "1.124.0",
+      "publishedAt": "2026-06-10T13:39:34Z"
+    },
+    {
+      "tag": "1.123.2",
+      "name": "1.123.2",
+      "publishedAt": "2026-06-10T09:39:44Z"
+    },
+    {
+      "tag": "1.123.1",
+      "name": "1.123.1",
+      "publishedAt": "2026-06-10T09:38:39Z"
+    },
+    {
+      "tag": "1.123.0",
+      "name": "1.123.0",
+      "publishedAt": "2026-06-05T08:50:41Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 186216
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/microsoft/vscode",
+    "homepage": "https://code.visualstudio.com"
+  }
+}

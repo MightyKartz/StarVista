@@ -1,0 +1,51 @@
+{
+  "id": "awesome-selfhosted/awesome-selfhosted",
+  "slug": "awesome-selfhosted-awesome-selfhosted",
+  "owner": "awesome-selfhosted",
+  "name": "awesome-selfhosted",
+  "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+  "archived": false,
+  "primaryLanguage": null,
+  "languageColor": null,
+  "stars": 298779,
+  "forks": 13918,
+  "openIssues": 0,
+  "pushedAt": "2026-06-12T19:25:03Z",
+  "topics": [
+    "awesome",
+    "awesome-list",
+    "cloud",
+    "free-software",
+    "hosting",
+    "privacy",
+    "self-hosted",
+    "selfhosted"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24270415?v=4",
+  "languages": {},
+  "readmeExcerpt": "Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from SaaSS providers.",
+  "summary": {
+    "mode": "template",
+    "text": "awesome-selfhosted is a open-source project focused on A list of Free Software network services and web applications which can be hosted on your own servers. It is tagged with awesome, awesome-list, and cloud."
+  },
+  "releases": [
+    {
+      "tag": "1.0.0",
+      "name": "1.0.0",
+      "publishedAt": "2023-08-22T13:54:23Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 298779
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "homepage": "https://awesome-selfhosted.net/"
+  }
+}

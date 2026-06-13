@@ -1,0 +1,88 @@
+{
+  "id": "huggingface/transformers",
+  "slug": "huggingface-transformers",
+  "owner": "huggingface",
+  "name": "transformers",
+  "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 161547,
+  "forks": 33495,
+  "openIssues": 2423,
+  "pushedAt": "2026-06-12T19:24:12Z",
+  "topics": [
+    "audio",
+    "deep-learning",
+    "deepseek",
+    "gemma",
+    "glm",
+    "hacktoberfest",
+    "llm",
+    "machine-learning",
+    "model-hub",
+    "natural-language-processing",
+    "nlp",
+    "pretrained-models",
+    "python",
+    "pytorch",
+    "pytorch-transformers",
+    "qwen",
+    "speech-recognition",
+    "transformer",
+    "vlm"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
+  "languages": {
+    "Python": 1,
+    "Dockerfile": 0,
+    "Makefile": 0,
+    "Shell": 0,
+    "Jsonnet": 0
+  },
+  "readmeExcerpt": "<!--- Copyright 2020 The HuggingFace Team. All rights reserved.",
+  "summary": {
+    "mode": "template",
+    "text": "transformers is a Python project focused on 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. . It is tagged with audio, deep-learning, and deepseek."
+  },
+  "releases": [
+    {
+      "tag": "v5.12.0",
+      "name": "Release v5.12.0",
+      "publishedAt": "2026-06-12T14:39:40Z"
+    },
+    {
+      "tag": "v5.11.0",
+      "name": "Release v5.11.0",
+      "publishedAt": "2026-06-10T16:32:44Z"
+    },
+    {
+      "tag": "v5.10.2",
+      "name": "Patch release v5.10.2",
+      "publishedAt": "2026-06-04T18:43:06Z"
+    },
+    {
+      "tag": "v5.10.1",
+      "name": "Release v5.10.1",
+      "publishedAt": "2026-06-03T15:37:41Z"
+    },
+    {
+      "tag": "v5.9.0",
+      "name": "Release v5.9.0",
+      "publishedAt": "2026-05-20T14:12:54Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 161547
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/huggingface/transformers",
+    "homepage": "https://huggingface.co/transformers"
+  }
+}

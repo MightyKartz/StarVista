@@ -1,0 +1,80 @@
+{
+  "id": "affaan-m/ECC",
+  "slug": "affaan-m-ECC",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "archived": false,
+  "primaryLanguage": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 214349,
+  "forks": 32939,
+  "openIssues": 50,
+  "pushedAt": "2026-06-11T20:24:32Z",
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
+  "languages": {
+    "JavaScript": 0.62,
+    "Rust": 0.28,
+    "Python": 0.05,
+    "Shell": 0.03,
+    "TypeScript": 0.01,
+    "Swift": 0,
+    "CSS": 0,
+    "PowerShell": 0
+  },
+  "readmeExcerpt": "Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español",
+  "summary": {
+    "mode": "template",
+    "text": "ECC is a JavaScript project focused on The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. It is tagged with ai-agents, anthropic, and claude."
+  },
+  "releases": [
+    {
+      "tag": "v2.0.0",
+      "name": "ECC 2.0.0 — The Agent Harness Operating System",
+      "publishedAt": "2026-06-10T01:49:20Z"
+    },
+    {
+      "tag": "v2.0.0-rc.1",
+      "name": "v2.0.0-rc.1",
+      "publishedAt": "2026-05-25T18:29:31Z"
+    },
+    {
+      "tag": "v1.10.0",
+      "name": "ECC v1.10.0 — Surface Refresh, Operator Workflows, and ECC 2.0 Alpha",
+      "publishedAt": "2026-04-05T20:20:57Z"
+    },
+    {
+      "tag": "v1.9.0",
+      "name": "v1.9.0 — Selective Install, ECC Tools Pro, 12 Language Ecosystems",
+      "publishedAt": "2026-03-21T00:29:53Z"
+    },
+    {
+      "tag": "v1.8.0",
+      "name": "ECC v1.8.0 — Harness Performance & Cross-Platform Reliability",
+      "publishedAt": "2026-03-05T20:50:57Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 214349
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/affaan-m/ECC",
+    "homepage": "https://ecc.tools"
+  }
+}

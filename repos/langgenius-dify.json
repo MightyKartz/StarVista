@@ -1,0 +1,97 @@
+{
+  "id": "langgenius/dify",
+  "slug": "langgenius-dify",
+  "owner": "langgenius",
+  "name": "dify",
+  "description": "Production-ready platform for agentic workflow development.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 145003,
+  "forks": 22818,
+  "openIssues": 764,
+  "pushedAt": "2026-06-13T02:31:11Z",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "automation",
+    "gemini",
+    "genai",
+    "gpt",
+    "gpt-4",
+    "llm",
+    "low-code",
+    "mcp",
+    "nextjs",
+    "no-code",
+    "openai",
+    "orchestration",
+    "python",
+    "rag",
+    "workflow"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127165244?v=4",
+  "languages": {
+    "TypeScript": 0.52,
+    "Python": 0.44,
+    "JavaScript": 0.02,
+    "MDX": 0.01,
+    "CSS": 0,
+    "HTML": 0,
+    "Shell": 0,
+    "Makefile": 0,
+    "Gherkin": 0,
+    "Dockerfile": 0,
+    "PHP": 0,
+    "PowerShell": 0,
+    "Mako": 0
+  },
+  "readmeExcerpt": "Dify Cloud · Self-hosting · Documentation · Dify edition overview",
+  "summary": {
+    "mode": "template",
+    "text": "dify is a TypeScript project focused on Production-ready platform for agentic workflow development. It is tagged with agent, agentic-ai, and agentic-framework."
+  },
+  "releases": [
+    {
+      "tag": "1.14.2",
+      "name": "v1.14.2 - Security fixes, agent groundwork, workflow reliability, and deployment updates",
+      "publishedAt": "2026-05-19T05:34:25Z"
+    },
+    {
+      "tag": "1.14.1",
+      "name": "v1.14.1 - Security hardening, workflow stability, and cleaner self-hosted deployments",
+      "publishedAt": "2026-05-12T08:19:23Z"
+    },
+    {
+      "tag": "1.14.0",
+      "name": "v1.14.0",
+      "publishedAt": "2026-04-29T04:06:08Z"
+    },
+    {
+      "tag": "1.13.3",
+      "name": "v1.13.3",
+      "publishedAt": "2026-03-27T08:46:46Z"
+    },
+    {
+      "tag": "1.13.2",
+      "name": "v1.13.2",
+      "publishedAt": "2026-03-18T14:20:55Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 145003
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/langgenius/dify",
+    "homepage": "https://dify.ai"
+  }
+}

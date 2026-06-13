@@ -1,0 +1,89 @@
+{
+  "id": "fastapi/fastapi",
+  "slug": "fastapi-fastapi",
+  "owner": "fastapi",
+  "name": "fastapi",
+  "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 99155,
+  "forks": 9430,
+  "openIssues": 94,
+  "pushedAt": "2026-06-10T23:14:27Z",
+  "topics": [
+    "api",
+    "async",
+    "asyncio",
+    "fastapi",
+    "framework",
+    "json",
+    "json-schema",
+    "openapi",
+    "openapi3",
+    "pydantic",
+    "python",
+    "python-types",
+    "python3",
+    "redoc",
+    "rest",
+    "starlette",
+    "swagger",
+    "swagger-ui",
+    "uvicorn",
+    "web"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/156354296?v=4",
+  "languages": {
+    "Python": 1,
+    "JavaScript": 0,
+    "Shell": 0,
+    "HTML": 0,
+    "CSS": 0
+  },
+  "readmeExcerpt": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+  "summary": {
+    "mode": "template",
+    "text": "fastapi is a Python project focused on FastAPI framework, high performance, easy to learn, fast to code, ready for production. It is tagged with api, async, and asyncio."
+  },
+  "releases": [
+    {
+      "tag": "0.136.3",
+      "name": "0.136.3",
+      "publishedAt": "2026-05-23T18:52:33Z"
+    },
+    {
+      "tag": "0.136.2",
+      "name": "0.136.2",
+      "publishedAt": "2026-05-23T17:25:22Z"
+    },
+    {
+      "tag": "0.136.1",
+      "name": "0.136.1",
+      "publishedAt": "2026-04-23T16:49:26Z"
+    },
+    {
+      "tag": "0.136.0",
+      "name": "0.136.0",
+      "publishedAt": "2026-04-16T11:46:49Z"
+    },
+    {
+      "tag": "0.135.4",
+      "name": "0.135.4",
+      "publishedAt": "2026-04-16T11:38:45Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 99155
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/fastapi/fastapi",
+    "homepage": "https://fastapi.tiangolo.com/"
+  }
+}

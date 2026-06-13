@@ -1,0 +1,45 @@
+{
+  "id": "avelino/awesome-go",
+  "slug": "avelino-awesome-go",
+  "owner": "avelino",
+  "name": "awesome-go",
+  "description": "A curated list of awesome Go frameworks, libraries and software",
+  "archived": false,
+  "primaryLanguage": "Go",
+  "languageColor": "#00add8",
+  "stars": 175273,
+  "forks": 13308,
+  "openIssues": 193,
+  "pushedAt": "2026-06-12T12:01:12Z",
+  "topics": [
+    "awesome",
+    "awesome-list",
+    "go",
+    "golang",
+    "golang-library",
+    "hacktoberfest"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31996?v=4",
+  "languages": {
+    "Go": 1
+  },
+  "readmeExcerpt": "We use the Golang Bridge community Slack for instant communication, follow the form here to join.",
+  "summary": {
+    "mode": "template",
+    "text": "awesome-go is a Go project focused on A curated list of awesome Go frameworks, libraries and software. It is tagged with awesome, awesome-list, and go."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 175273
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/avelino/awesome-go",
+    "homepage": "https://awesome-go.com"
+  }
+}

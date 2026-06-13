@@ -1,0 +1,77 @@
+{
+  "id": "2dust/v2rayN",
+  "slug": "2dust-v2rayN",
+  "owner": "2dust",
+  "name": "v2rayN",
+  "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+  "archived": false,
+  "primaryLanguage": "C#",
+  "languageColor": null,
+  "stars": 108801,
+  "forks": 15325,
+  "openIssues": 13,
+  "pushedAt": "2026-06-12T11:17:09Z",
+  "topics": [
+    "proxy",
+    "shadowsocks",
+    "socks5",
+    "trojan",
+    "v2fly",
+    "v2ray",
+    "vless",
+    "vmess",
+    "windows",
+    "xray",
+    "xtls"
+  ],
+  "license": "GPL-3.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4",
+  "languages": {
+    "C#": 0.93,
+    "Shell": 0.07
+  },
+  "readmeExcerpt": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+  "summary": {
+    "mode": "template",
+    "text": "v2rayN is a C# project focused on A GUI client for Windows, Linux and macOS, support Xray and sing-box and others. It is tagged with proxy, shadowsocks, and socks5."
+  },
+  "releases": [
+    {
+      "tag": "7.22.7",
+      "name": "",
+      "publishedAt": "2026-06-12T11:17:09Z"
+    },
+    {
+      "tag": "7.22.6",
+      "name": "",
+      "publishedAt": "2026-06-07T03:25:42Z"
+    },
+    {
+      "tag": "7.22.5",
+      "name": "",
+      "publishedAt": "2026-06-02T11:19:24Z"
+    },
+    {
+      "tag": "7.22.4",
+      "name": "",
+      "publishedAt": "2026-05-29T03:11:13Z"
+    },
+    {
+      "tag": "7.22.3",
+      "name": "",
+      "publishedAt": "2026-05-21T09:27:36Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 108801
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/2dust/v2rayN",
+    "homepage": "https://v2rayn.2dust.link"
+  }
+}

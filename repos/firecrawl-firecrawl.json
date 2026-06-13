@@ -1,0 +1,102 @@
+{
+  "id": "firecrawl/firecrawl",
+  "slug": "firecrawl-firecrawl",
+  "owner": "firecrawl",
+  "name": "firecrawl",
+  "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 132010,
+  "forks": 7773,
+  "openIssues": 383,
+  "pushedAt": "2026-06-12T23:19:22Z",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-crawler",
+    "ai-scraping",
+    "ai-search",
+    "crawler",
+    "data-extraction",
+    "html-to-markdown",
+    "llm",
+    "markdown",
+    "scraper",
+    "scraping",
+    "web-crawler",
+    "web-data",
+    "web-data-extraction",
+    "web-scraper",
+    "web-scraping",
+    "web-search",
+    "webscraping"
+  ],
+  "license": "AGPL-3.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4",
+  "languages": {
+    "TypeScript": 0.68,
+    "Python": 0.16,
+    "Rust": 0.05,
+    "Java": 0.03,
+    "PHP": 0.02,
+    "Elixir": 0.02,
+    "C#": 0.01,
+    "Go": 0.01,
+    "Ruby": 0.01,
+    "Astro": 0,
+    "JavaScript": 0,
+    "Jupyter Notebook": 0,
+    "Shell": 0,
+    "Rich Text Format": 0,
+    "CSS": 0,
+    "Dockerfile": 0,
+    "Makefile": 0,
+    "HTML": 0,
+    "Procfile": 0
+  },
+  "readmeExcerpt": "<img src=\"https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawllogo.png\" height=\"200\" >",
+  "summary": {
+    "mode": "template",
+    "text": "firecrawl is a TypeScript project focused on The API to search, scrape, and interact with the web at scale. 🔥. It is tagged with ai, ai-agents, and ai-crawler."
+  },
+  "releases": [
+    {
+      "tag": "v2.10",
+      "name": "Firecrawl v2.10",
+      "publishedAt": "2026-05-15T17:34:45Z"
+    },
+    {
+      "tag": "v2.9.0",
+      "name": "v2.9.0",
+      "publishedAt": "2026-04-10T16:36:16Z"
+    },
+    {
+      "tag": "v2.8.0",
+      "name": "v2.8.0",
+      "publishedAt": "2026-02-03T17:12:04Z"
+    },
+    {
+      "tag": "v2.7.0",
+      "name": "v2.7.0",
+      "publishedAt": "2025-12-05T17:40:32Z"
+    },
+    {
+      "tag": "v2.6.0",
+      "name": "v2.6.0",
+      "publishedAt": "2025-11-14T16:13:52Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 132010
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/firecrawl/firecrawl",
+    "homepage": "https://firecrawl.dev"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "Chalarangelo/30-seconds-of-code",
+  "slug": "Chalarangelo-30-seconds-of-code",
+  "owner": "Chalarangelo",
+  "name": "30-seconds-of-code",
+  "description": "Coding articles to level up your development skills",
+  "archived": false,
+  "primaryLanguage": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 128079,
+  "forks": 12478,
+  "openIssues": 1,
+  "pushedAt": "2026-06-11T06:35:33Z",
+  "topics": [
+    "astro",
+    "awesome-list",
+    "css",
+    "education",
+    "es6-javascript",
+    "git",
+    "html",
+    "javascript",
+    "learn-to-code",
+    "learning-resources",
+    "nodejs",
+    "programming",
+    "snippets"
+  ],
+  "license": "CC-BY-4.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8281875?v=4",
+  "languages": {
+    "JavaScript": 0.65,
+    "SCSS": 0.26,
+    "Astro": 0.08,
+    "CSS": 0,
+    "Shell": 0,
+    "TypeScript": 0
+  },
+  "readmeExcerpt": "> Coding articles to level up your development skills",
+  "summary": {
+    "mode": "template",
+    "text": "30-seconds-of-code is a JavaScript project focused on Coding articles to level up your development skills. It is tagged with astro, awesome-list, and css."
+  },
+  "releases": [
+    {
+      "tag": "v14.0.0",
+      "name": "v14.0.0 (dimensional debugger)",
+      "publishedAt": "2025-05-07T15:35:47Z"
+    },
+    {
+      "tag": "v13.0.0",
+      "name": "v13.0.0 (celestial compiler)",
+      "publishedAt": "2025-01-04T12:05:58Z"
+    },
+    {
+      "tag": "v12.1.0",
+      "name": "v12.1.0 (boreal byte)",
+      "publishedAt": "2024-08-02T13:11:52Z"
+    },
+    {
+      "tag": "v12.0.0",
+      "name": "v12.0.0 (boreal byte)",
+      "publishedAt": "2024-07-25T16:29:26Z"
+    },
+    {
+      "tag": "v11.0.0",
+      "name": "v11.0.0 (astral array)",
+      "publishedAt": "2023-12-18T13:35:59Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 128079
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/Chalarangelo/30-seconds-of-code",
+    "homepage": "https://30secondsofcode.org/"
+  }
+}

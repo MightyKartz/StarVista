@@ -1,0 +1,89 @@
+{
+  "id": "tauri-apps/tauri",
+  "slug": "tauri-apps-tauri",
+  "owner": "tauri-apps",
+  "name": "tauri",
+  "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+  "archived": false,
+  "primaryLanguage": "Rust",
+  "languageColor": "#dea584",
+  "stars": 107808,
+  "forks": 3695,
+  "openIssues": 1449,
+  "pushedAt": "2026-06-12T19:20:21Z",
+  "topics": [
+    "desktop-app",
+    "high-performance",
+    "mobile-app",
+    "native-app",
+    "rust",
+    "web-frontend",
+    "webview"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4",
+  "languages": {
+    "Rust": 0.83,
+    "TypeScript": 0.07,
+    "NSIS": 0.03,
+    "Kotlin": 0.02,
+    "JavaScript": 0.02,
+    "Shell": 0.02,
+    "Swift": 0.01,
+    "Dockerfile": 0,
+    "HTML": 0,
+    "PowerShell": 0,
+    "AppleScript": 0,
+    "Svelte": 0,
+    "CSS": 0,
+    "Standard ML": 0,
+    "Ruby": 0,
+    "Objective-C": 0,
+    "Objective-C++": 0,
+    "C++": 0
+  },
+  "readmeExcerpt": "Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.",
+  "summary": {
+    "mode": "template",
+    "text": "tauri is a Rust project focused on Build smaller, faster, and more secure desktop and mobile applications with a web frontend. It is tagged with desktop-app, high-performance, and mobile-app."
+  },
+  "releases": [
+    {
+      "tag": "tauri-v2.11.2",
+      "name": "tauri v2.11.2",
+      "publishedAt": "2026-05-16T16:53:28Z"
+    },
+    {
+      "tag": "tauri-utils-v2.9.2",
+      "name": "tauri-utils v2.9.2",
+      "publishedAt": "2026-05-16T16:48:47Z"
+    },
+    {
+      "tag": "tauri-runtime-wry-v2.11.2",
+      "name": "tauri-runtime-wry v2.11.2",
+      "publishedAt": "2026-05-16T16:50:49Z"
+    },
+    {
+      "tag": "tauri-runtime-v2.11.2",
+      "name": "tauri-runtime v2.11.2",
+      "publishedAt": "2026-05-16T16:50:35Z"
+    },
+    {
+      "tag": "tauri-plugin-v2.6.2",
+      "name": "tauri-plugin v2.6.2",
+      "publishedAt": "2026-05-16T16:52:05Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 107808
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/tauri-apps/tauri",
+    "homepage": "https://tauri.app"
+  }
+}

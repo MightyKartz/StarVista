@@ -1,0 +1,68 @@
+{
+  "id": "anthropics/claude-code",
+  "slug": "anthropics-claude-code",
+  "owner": "anthropics",
+  "name": "claude-code",
+  "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 132077,
+  "forks": 21387,
+  "openIssues": 9235,
+  "pushedAt": "2026-06-13T01:25:15Z",
+  "topics": [],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
+  "languages": {
+    "Python": 0.8,
+    "Shell": 0.14,
+    "TypeScript": 0.05,
+    "PowerShell": 0.01,
+    "Dockerfile": 0.01
+  },
+  "readmeExcerpt": "[npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square",
+  "summary": {
+    "mode": "template",
+    "text": "claude-code is a Python project focused on Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+  },
+  "releases": [
+    {
+      "tag": "v2.1.177",
+      "name": "v2.1.177",
+      "publishedAt": "2026-06-13T01:25:15Z"
+    },
+    {
+      "tag": "v2.1.176",
+      "name": "v2.1.176",
+      "publishedAt": "2026-06-12T21:53:27Z"
+    },
+    {
+      "tag": "v2.1.175",
+      "name": "v2.1.175",
+      "publishedAt": "2026-06-12T04:23:51Z"
+    },
+    {
+      "tag": "v2.1.174",
+      "name": "v2.1.174",
+      "publishedAt": "2026-06-12T01:16:36Z"
+    },
+    {
+      "tag": "v2.1.173",
+      "name": "v2.1.173",
+      "publishedAt": "2026-06-11T05:41:54Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 132077
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/anthropics/claude-code",
+    "homepage": "https://code.claude.com/docs/en/overview"
+  }
+}

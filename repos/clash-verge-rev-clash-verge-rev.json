@@ -1,0 +1,79 @@
+{
+  "id": "clash-verge-rev/clash-verge-rev",
+  "slug": "clash-verge-rev-clash-verge-rev",
+  "owner": "clash-verge-rev",
+  "name": "clash-verge-rev",
+  "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 125206,
+  "forks": 9099,
+  "openIssues": 422,
+  "pushedAt": "2026-06-10T12:01:34Z",
+  "topics": [
+    "clash",
+    "clash-meta",
+    "clash-verge",
+    "linux",
+    "mac",
+    "mihomo",
+    "tauri-app",
+    "windows"
+  ],
+  "license": "GPL-3.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
+  "languages": {
+    "TypeScript": 0.59,
+    "Rust": 0.32,
+    "JavaScript": 0.05,
+    "NSIS": 0.02,
+    "SCSS": 0,
+    "Shell": 0,
+    "HTML": 0
+  },
+  "readmeExcerpt": "Continuation of Clash Verge",
+  "summary": {
+    "mode": "template",
+    "text": "clash-verge-rev is a TypeScript project focused on A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience. It is tagged with clash, clash-meta, and clash-verge."
+  },
+  "releases": [
+    {
+      "tag": "v2.5.1",
+      "name": "Clash Verge Rev v2.5.1",
+      "publishedAt": "2026-05-20T07:01:22Z"
+    },
+    {
+      "tag": "v2.5.0",
+      "name": "Clash Verge Rev v2.5.0",
+      "publishedAt": "2026-05-19T05:57:46Z"
+    },
+    {
+      "tag": "v2.5.0-rc",
+      "name": "Clash Verge Rev v2.5.0-rc",
+      "publishedAt": "2026-05-06T14:04:08Z"
+    },
+    {
+      "tag": "v2.4.7",
+      "name": "Clash Verge Rev v2.4.7",
+      "publishedAt": "2026-03-21T16:16:55Z"
+    },
+    {
+      "tag": "autobuild",
+      "name": "Clash Verge Rev AutoBuild",
+      "publishedAt": "2025-11-10T11:05:52Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 125206
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/clash-verge-rev/clash-verge-rev",
+    "homepage": "https://www.clashverge.dev"
+  }
+}

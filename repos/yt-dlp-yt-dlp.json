@@ -1,0 +1,76 @@
+{
+  "id": "yt-dlp/yt-dlp",
+  "slug": "yt-dlp-yt-dlp",
+  "owner": "yt-dlp",
+  "name": "yt-dlp",
+  "description": "A feature-rich command-line audio/video downloader",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 170159,
+  "forks": 14328,
+  "openIssues": 2532,
+  "pushedAt": "2026-06-12T22:55:22Z",
+  "topics": [
+    "cli",
+    "downloader",
+    "python",
+    "sponsorblock",
+    "youtube-dl",
+    "youtube-downloader",
+    "yt-dlp"
+  ],
+  "license": "Unlicense",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/79589310?v=4",
+  "languages": {
+    "Python": 1,
+    "Makefile": 0,
+    "Shell": 0,
+    "Dockerfile": 0,
+    "Batchfile": 0
+  },
+  "readmeExcerpt": "yt-dlp is a feature-rich command-line audio/video downloader with support for thousands of sites. The project is a fork of youtube-dl based on the now inactive youtube-dlc.",
+  "summary": {
+    "mode": "template",
+    "text": "yt-dlp is a Python project focused on A feature-rich command-line audio/video downloader. It is tagged with cli, downloader, and python."
+  },
+  "releases": [
+    {
+      "tag": "2026.06.09",
+      "name": "yt-dlp 2026.06.09",
+      "publishedAt": "2026-06-09T23:26:57Z"
+    },
+    {
+      "tag": "2026.03.17",
+      "name": "yt-dlp 2026.03.17",
+      "publishedAt": "2026-03-17T23:42:33Z"
+    },
+    {
+      "tag": "2026.03.13",
+      "name": "yt-dlp 2026.03.13",
+      "publishedAt": "2026-03-13T09:02:00Z"
+    },
+    {
+      "tag": "2026.03.03",
+      "name": "yt-dlp 2026.03.03",
+      "publishedAt": "2026-03-03T16:54:38Z"
+    },
+    {
+      "tag": "2026.02.21",
+      "name": "yt-dlp 2026.02.21",
+      "publishedAt": "2026-02-21T20:40:28Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 170159
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/yt-dlp/yt-dlp",
+    "homepage": "https://discord.gg/H5MNcFW63r"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "f/prompts.chat",
+  "slug": "f-prompts.chat",
+  "owner": "f",
+  "name": "prompts.chat",
+  "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+  "archived": false,
+  "primaryLanguage": "HTML",
+  "languageColor": null,
+  "stars": 163631,
+  "forks": 21224,
+  "openIssues": 50,
+  "pushedAt": "2026-06-12T04:35:13Z",
+  "topics": [
+    "ai",
+    "artificial-intelligence",
+    "awesome-list",
+    "chatgpt",
+    "chatgpt-prompts",
+    "claude",
+    "gemini",
+    "gpt",
+    "gpt-4",
+    "llm",
+    "machine-learning",
+    "nextjs",
+    "open-source",
+    "openai",
+    "prompt-engineering",
+    "prompts",
+    "prompts-chat",
+    "typescript"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/196477?v=4",
+  "languages": {
+    "HTML": 0.48,
+    "MDX": 0.36,
+    "TypeScript": 0.15,
+    "JavaScript": 0,
+    "Shell": 0,
+    "CSS": 0,
+    "Dockerfile": 0
+  },
+  "readmeExcerpt": "prompts.chat",
+  "summary": {
+    "mode": "template",
+    "text": "prompts.chat is a HTML project focused on f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. It is tagged with ai, artificial-intelligence, and awesome-list."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 163631
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/f/prompts.chat",
+    "homepage": "https://prompts.chat"
+  }
+}

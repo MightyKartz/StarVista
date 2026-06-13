@@ -1,0 +1,104 @@
+{
+  "id": "flutter/flutter",
+  "slug": "flutter-flutter",
+  "owner": "flutter",
+  "name": "flutter",
+  "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+  "archived": false,
+  "primaryLanguage": "Dart",
+  "languageColor": null,
+  "stars": 176904,
+  "forks": 30505,
+  "openIssues": 12846,
+  "pushedAt": "2026-06-13T02:19:30Z",
+  "topics": [
+    "android",
+    "app-framework",
+    "cross-platform",
+    "dart",
+    "dart-platform",
+    "desktop",
+    "flutter",
+    "flutter-package",
+    "fuchsia",
+    "ios",
+    "linux-desktop",
+    "macos",
+    "material-design",
+    "mobile",
+    "mobile-development",
+    "skia",
+    "web",
+    "web-framework",
+    "windows"
+  ],
+  "license": "BSD-3-Clause",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4",
+  "languages": {
+    "Dart": 0.74,
+    "C++": 0.16,
+    "Objective-C++": 0.03,
+    "Java": 0.03,
+    "Objective-C": 0.01,
+    "C": 0.01,
+    "Go Template": 0,
+    "Python": 0,
+    "Kotlin": 0,
+    "GLSL": 0,
+    "Swift": 0,
+    "Shell": 0,
+    "CMake": 0,
+    "JavaScript": 0,
+    "Ruby": 0,
+    "Batchfile": 0,
+    "HTML": 0,
+    "PowerShell": 0,
+    "CSS": 0,
+    "Lex": 0,
+    "HLSL": 0
+  },
+  "readmeExcerpt": "Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.",
+  "summary": {
+    "mode": "template",
+    "text": "flutter is a Dart project focused on Flutter makes it easy and fast to build beautiful apps for mobile and beyond. It is tagged with android, app-framework, and cross-platform."
+  },
+  "releases": [
+    {
+      "tag": "3.19.0-0.1.pre",
+      "name": "Flutter 3.19 beta (January 10, 2024)",
+      "publishedAt": "2024-01-11T18:31:57Z"
+    },
+    {
+      "tag": "3.18.0-0.1.pre",
+      "name": "Flutter 3.18 beta (December 5, 2023)",
+      "publishedAt": "2023-12-12T00:03:37Z"
+    },
+    {
+      "tag": "3.17.0-0.1.pre",
+      "name": "Flutter 3.17 beta (November 15, 2023)",
+      "publishedAt": "2023-12-11T23:58:45Z"
+    },
+    {
+      "tag": "3.16.0-0.1.pre",
+      "name": "Flutter 3.16 beta (October 11, 2023)",
+      "publishedAt": "2023-10-20T15:41:27Z"
+    },
+    {
+      "tag": "3.15.0-15.1.pre",
+      "name": "Flutter 3.15 beta (September 15, 2023)",
+      "publishedAt": "2023-09-15T17:18:40Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 176904
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/flutter/flutter",
+    "homepage": "https://flutter.dev"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "mui/material-ui",
+  "slug": "mui-material-ui",
+  "owner": "mui",
+  "name": "material-ui",
+  "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+  "archived": false,
+  "primaryLanguage": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 98400,
+  "forks": 32600,
+  "openIssues": 1521,
+  "pushedAt": "2026-06-11T18:41:13Z",
+  "topics": [
+    "design-system",
+    "material-design",
+    "material-ui",
+    "react",
+    "react-components"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/33663932?v=4",
+  "languages": {
+    "JavaScript": 0.58,
+    "TypeScript": 0.42,
+    "CSS": 0,
+    "HTML": 0
+  },
+  "readmeExcerpt": "Material UI",
+  "summary": {
+    "mode": "template",
+    "text": "material-ui is a JavaScript project focused on Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. It is tagged with design-system, material-design, and material-ui."
+  },
+  "releases": [
+    {
+      "tag": "v9.1.0",
+      "name": "v9.1.0",
+      "publishedAt": "2026-06-08T08:42:14Z"
+    },
+    {
+      "tag": "v9.0.1",
+      "name": "v9.0.1",
+      "publishedAt": "2026-05-07T05:40:17Z"
+    },
+    {
+      "tag": "v7.3.11",
+      "name": "v7.3.11",
+      "publishedAt": "2026-05-07T03:31:56Z"
+    },
+    {
+      "tag": "v7.3.10",
+      "name": "v7.3.10",
+      "publishedAt": "2026-04-08T07:52:56Z"
+    },
+    {
+      "tag": "v9.0.0",
+      "name": "v9.0.0",
+      "publishedAt": "2026-04-08T12:05:36Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 98400
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/mui/material-ui",
+    "homepage": "https://mui.com/material-ui/"
+  }
+}

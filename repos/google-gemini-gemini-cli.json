@@ -1,0 +1,78 @@
+{
+  "id": "google-gemini/gemini-cli",
+  "slug": "google-gemini-gemini-cli",
+  "owner": "google-gemini",
+  "name": "gemini-cli",
+  "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 105214,
+  "forks": 14047,
+  "openIssues": 1288,
+  "pushedAt": "2026-06-13T00:21:20Z",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "cli",
+    "gemini",
+    "gemini-api",
+    "mcp-client",
+    "mcp-server"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
+  "languages": {
+    "TypeScript": 0.98,
+    "JavaScript": 0.02,
+    "Shell": 0,
+    "C#": 0,
+    "HTML": 0,
+    "Dockerfile": 0,
+    "Makefile": 0
+  },
+  "readmeExcerpt": "Gemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model.",
+  "summary": {
+    "mode": "template",
+    "text": "gemini-cli is a TypeScript project focused on An open-source AI agent that brings the power of Gemini directly into your terminal. It is tagged with ai, ai-agents, and cli."
+  },
+  "releases": [
+    {
+      "tag": "v0.48.0-nightly.20260613.g9e5599c32",
+      "name": "Release v0.48.0-nightly.20260613.g9e5599c32",
+      "publishedAt": "2026-06-13T00:21:21Z"
+    },
+    {
+      "tag": "v0.47.0-preview.0",
+      "name": "Release v0.47.0-preview.0",
+      "publishedAt": "2026-06-10T00:11:55Z"
+    },
+    {
+      "tag": "v0.46.0",
+      "name": "Release v0.46.0",
+      "publishedAt": "2026-06-10T01:15:02Z"
+    },
+    {
+      "tag": "v0.47.0-nightly.20260609.g0567b25a2",
+      "name": "Release v0.47.0-nightly.20260609.g0567b25a2",
+      "publishedAt": "2026-06-09T00:34:13Z"
+    },
+    {
+      "tag": "v0.46.0-preview.3",
+      "name": "Release v0.46.0-preview.3",
+      "publishedAt": "2026-06-09T22:21:43Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 105214
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/google-gemini/gemini-cli",
+    "homepage": "https://geminicli.com"
+  }
+}

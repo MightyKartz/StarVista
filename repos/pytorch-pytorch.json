@@ -1,0 +1,98 @@
+{
+  "id": "pytorch/pytorch",
+  "slug": "pytorch-pytorch",
+  "owner": "pytorch",
+  "name": "pytorch",
+  "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 100700,
+  "forks": 27997,
+  "openIssues": 18387,
+  "pushedAt": "2026-06-13T02:32:58Z",
+  "topics": [
+    "autograd",
+    "deep-learning",
+    "gpu",
+    "machine-learning",
+    "neural-network",
+    "numpy",
+    "python",
+    "tensor"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4",
+  "languages": {
+    "Python": 0.64,
+    "C++": 0.29,
+    "Cuda": 0.03,
+    "C": 0.01,
+    "Objective-C++": 0.01,
+    "CMake": 0.01,
+    "Metal": 0,
+    "Shell": 0,
+    "Assembly": 0,
+    "HIP": 0,
+    "Starlark": 0,
+    "JavaScript": 0,
+    "GLSL": 0,
+    "Jupyter Notebook": 0,
+    "Jinja": 0,
+    "Java": 0,
+    "Batchfile": 0,
+    "Dockerfile": 0,
+    "Objective-C": 0,
+    "Makefile": 0,
+    "PowerShell": 0,
+    "Thrift": 0,
+    "GDB": 0,
+    "Linker Script": 0,
+    "HTML": 0,
+    "Vim Script": 0
+  },
+  "readmeExcerpt": "--------------------------------------------------------------------------------",
+  "summary": {
+    "mode": "template",
+    "text": "pytorch is a Python project focused on Tensors and Dynamic neural networks in Python with strong GPU acceleration. It is tagged with autograd, deep-learning, and gpu."
+  },
+  "releases": [
+    {
+      "tag": "v2.12.0",
+      "name": "PyTorch 2.12.0 Release",
+      "publishedAt": "2026-05-13T17:38:06Z"
+    },
+    {
+      "tag": "v2.11.0",
+      "name": "PyTorch 2.11.0 Release",
+      "publishedAt": "2026-03-23T18:38:28Z"
+    },
+    {
+      "tag": "v2.10.0",
+      "name": "PyTorch 2.10.0 Release",
+      "publishedAt": "2026-01-21T17:05:16Z"
+    },
+    {
+      "tag": "v2.9.1",
+      "name": "PyTorch 2.9.1 Release, bug fix release",
+      "publishedAt": "2025-11-12T19:27:19Z"
+    },
+    {
+      "tag": "v2.9.0",
+      "name": "2.9 Release Notes",
+      "publishedAt": "2025-10-15T17:12:27Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 100700
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/pytorch/pytorch",
+    "homepage": "https://pytorch.org"
+  }
+}

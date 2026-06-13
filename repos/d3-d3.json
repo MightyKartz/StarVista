@@ -1,0 +1,72 @@
+{
+  "id": "d3/d3",
+  "slug": "d3-d3",
+  "owner": "d3",
+  "name": "d3",
+  "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+  "archived": false,
+  "primaryLanguage": "Shell",
+  "languageColor": null,
+  "stars": 113079,
+  "forks": 22719,
+  "openIssues": 20,
+  "pushedAt": "2026-05-28T14:43:01Z",
+  "topics": [
+    "chart",
+    "charts",
+    "d3",
+    "data-visualization",
+    "svg",
+    "visualization"
+  ],
+  "license": "ISC",
+  "activity": "stable",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1562726?v=4",
+  "languages": {
+    "Shell": 0.92,
+    "JavaScript": 0.08
+  },
+  "readmeExcerpt": "D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics. For more than a decade D3 has powered groundbreaking and award-winning visualizations, become a foundational building block of higher-level chart libraries, and fostered a vibrant community of data practitioners around the world.",
+  "summary": {
+    "mode": "template",
+    "text": "d3 is a Shell project focused on Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:. It is tagged with chart, charts, and d3."
+  },
+  "releases": [
+    {
+      "tag": "v7.9.0",
+      "name": "",
+      "publishedAt": "2024-03-12T22:18:19Z"
+    },
+    {
+      "tag": "v7.8.5",
+      "name": "",
+      "publishedAt": "2023-06-03T00:30:02Z"
+    },
+    {
+      "tag": "v7.8.4",
+      "name": "v7.8.4",
+      "publishedAt": "2023-04-01T02:43:36Z"
+    },
+    {
+      "tag": "v7.8.3",
+      "name": "",
+      "publishedAt": "2023-03-25T01:25:43Z"
+    },
+    {
+      "tag": "v7.8.2",
+      "name": "",
+      "publishedAt": "2023-01-18T18:34:33Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 113079
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/d3/d3",
+    "homepage": "https://d3js.org"
+  }
+}

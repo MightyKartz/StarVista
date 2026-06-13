@@ -1,0 +1,43 @@
+{
+  "id": "anthropics/skills",
+  "slug": "anthropics-skills",
+  "owner": "anthropics",
+  "name": "skills",
+  "description": "Public repository for Agent Skills",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 149981,
+  "forks": 17706,
+  "openIssues": 956,
+  "pushedAt": "2026-06-09T20:35:19Z",
+  "topics": [
+    "agent-skills"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
+  "languages": {
+    "Python": 0.84,
+    "HTML": 0.12,
+    "Shell": 0.02,
+    "JavaScript": 0.01
+  },
+  "readmeExcerpt": "> Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io.",
+  "summary": {
+    "mode": "template",
+    "text": "skills is a Python project focused on Public repository for Agent Skills. It is tagged with agent-skills."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 149981
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/anthropics/skills",
+    "homepage": null
+  }
+}

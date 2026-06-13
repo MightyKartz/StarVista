@@ -1,0 +1,101 @@
+{
+  "id": "n8n-io/n8n",
+  "slug": "n8n-io-n8n",
+  "owner": "n8n-io",
+  "name": "n8n",
+  "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 192241,
+  "forks": 58494,
+  "openIssues": 1475,
+  "pushedAt": "2026-06-13T01:57:53Z",
+  "topics": [
+    "ai",
+    "apis",
+    "automation",
+    "cli",
+    "data-flow",
+    "development",
+    "integration-framework",
+    "integrations",
+    "ipaas",
+    "low-code",
+    "low-code-platform",
+    "mcp",
+    "mcp-client",
+    "mcp-server",
+    "n8n",
+    "no-code",
+    "self-hosted",
+    "typescript",
+    "workflow",
+    "workflow-automation"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45487711?v=4",
+  "languages": {
+    "TypeScript": 0.91,
+    "Vue": 0.08,
+    "JavaScript": 0.01,
+    "SCSS": 0,
+    "Python": 0,
+    "Handlebars": 0,
+    "MDX": 0,
+    "Dockerfile": 0,
+    "Shell": 0,
+    "HTML": 0,
+    "HCL": 0,
+    "CSS": 0,
+    "Mermaid": 0,
+    "Just": 0,
+    "Open Policy Agent": 0,
+    "Rich Text Format": 0,
+    "Batchfile": 0
+  },
+  "readmeExcerpt": "n8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a fair-code license, n8n lets you build powerful automations while maintaining full control over your data and deployments.",
+  "summary": {
+    "mode": "template",
+    "text": "n8n is a TypeScript project focused on Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. It is tagged with ai, apis, and automation."
+  },
+  "releases": [
+    {
+      "tag": "n8n@2.26.3",
+      "name": "n8n@2.26.3",
+      "publishedAt": "2026-06-11T14:56:45Z"
+    },
+    {
+      "tag": "beta",
+      "name": "beta",
+      "publishedAt": "2026-06-11T14:56:47Z"
+    },
+    {
+      "tag": "stable",
+      "name": "stable",
+      "publishedAt": "2026-06-10T09:00:19Z"
+    },
+    {
+      "tag": "n8n@2.25.7",
+      "name": "n8n@2.25.7",
+      "publishedAt": "2026-06-10T09:00:17Z"
+    },
+    {
+      "tag": "n8n@1.123.55",
+      "name": "n8n@1.123.55",
+      "publishedAt": "2026-06-10T09:19:10Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 192241
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/n8n-io/n8n",
+    "homepage": "https://n8n.io"
+  }
+}

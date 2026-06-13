@@ -1,0 +1,80 @@
+{
+  "id": "Genymobile/scrcpy",
+  "slug": "Genymobile-scrcpy",
+  "owner": "Genymobile",
+  "name": "scrcpy",
+  "description": "Display and control your Android device",
+  "archived": false,
+  "primaryLanguage": "C",
+  "languageColor": "#555555",
+  "stars": 143433,
+  "forks": 13223,
+  "openIssues": 2833,
+  "pushedAt": "2026-05-29T06:45:43Z",
+  "topics": [
+    "android",
+    "c",
+    "ffmpeg",
+    "libav",
+    "mirroring",
+    "recording",
+    "screen",
+    "sdl2"
+  ],
+  "license": "Apache-2.0",
+  "activity": "stable",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3427627?v=4",
+  "languages": {
+    "C": 0.63,
+    "Java": 0.33,
+    "Roff": 0.02,
+    "Shell": 0.02,
+    "Meson": 0.01,
+    "AIDL": 0,
+    "VBScript": 0,
+    "Batchfile": 0
+  },
+  "readmeExcerpt": "This GitHub repo ( ) is the only official source for the project. Do not download releases from random websites, even if their name contains scrcpy.",
+  "summary": {
+    "mode": "template",
+    "text": "scrcpy is a C project focused on Display and control your Android device. It is tagged with android, c, and ffmpeg."
+  },
+  "releases": [
+    {
+      "tag": "v4.0",
+      "name": "scrcpy 4.0",
+      "publishedAt": "2026-05-12T19:47:27Z"
+    },
+    {
+      "tag": "v3.3.4",
+      "name": "scrcpy v3.3.4",
+      "publishedAt": "2025-12-17T19:26:16Z"
+    },
+    {
+      "tag": "v3.3.3",
+      "name": "scrcpy v3.3.3",
+      "publishedAt": "2025-09-27T14:12:27Z"
+    },
+    {
+      "tag": "v3.3.2",
+      "name": "scrcpy v3.3.2",
+      "publishedAt": "2025-09-06T13:00:20Z"
+    },
+    {
+      "tag": "v3.3.1",
+      "name": "scrcpy v3.3.1",
+      "publishedAt": "2025-06-20T18:18:43Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 143433
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/Genymobile/scrcpy",
+    "homepage": null
+  }
+}

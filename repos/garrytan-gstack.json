@@ -1,0 +1,44 @@
+{
+  "id": "garrytan/gstack",
+  "slug": "garrytan-gstack",
+  "owner": "garrytan",
+  "name": "gstack",
+  "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 109553,
+  "forks": 16279,
+  "openIssues": 656,
+  "pushedAt": "2026-06-12T22:38:53Z",
+  "topics": [],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19957?v=4",
+  "languages": {
+    "TypeScript": 0.79,
+    "Go Template": 0.11,
+    "Shell": 0.06,
+    "JavaScript": 0.03,
+    "CSS": 0.01,
+    "HTML": 0,
+    "Swift": 0
+  },
+  "readmeExcerpt": "> \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — Andrej Karpathy, No Priors podcast, March 2026",
+  "summary": {
+    "mode": "template",
+    "text": "gstack is a TypeScript project focused on Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 109553
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/garrytan/gstack",
+    "homepage": null
+  }
+}

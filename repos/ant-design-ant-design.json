@@ -1,0 +1,77 @@
+{
+  "id": "ant-design/ant-design",
+  "slug": "ant-design-ant-design",
+  "owner": "ant-design",
+  "name": "ant-design",
+  "description": "An enterprise-class UI design language and React UI library",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 98337,
+  "forks": 54625,
+  "openIssues": 1353,
+  "pushedAt": "2026-06-12T20:04:24Z",
+  "topics": [
+    "ant-design",
+    "antd",
+    "design-systems",
+    "react",
+    "typescript",
+    "ui-kit",
+    "ui-library"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4",
+  "languages": {
+    "TypeScript": 0.99,
+    "JavaScript": 0,
+    "CSS": 0,
+    "HTML": 0,
+    "Shell": 0,
+    "Less": 0
+  },
+  "readmeExcerpt": "Ant Design",
+  "summary": {
+    "mode": "template",
+    "text": "ant-design is a TypeScript project focused on An enterprise-class UI design language and React UI library. It is tagged with ant-design, antd, and design-systems."
+  },
+  "releases": [
+    {
+      "tag": "6.4.4",
+      "name": "6.4.4",
+      "publishedAt": "2026-06-12T06:25:32Z"
+    },
+    {
+      "tag": "6.4.3",
+      "name": "6.4.3",
+      "publishedAt": "2026-05-18T08:30:21Z"
+    },
+    {
+      "tag": "6.4.2",
+      "name": "6.4.2",
+      "publishedAt": "2026-05-14T15:33:57Z"
+    },
+    {
+      "tag": "6.4.1",
+      "name": "6.4.1",
+      "publishedAt": "2026-05-14T10:36:21Z"
+    },
+    {
+      "tag": "6.4.0",
+      "name": "6.4.0",
+      "publishedAt": "2026-05-14T07:20:36Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 98337
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/ant-design/ant-design",
+    "homepage": "https://ant.design"
+  }
+}

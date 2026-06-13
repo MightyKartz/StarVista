@@ -1,0 +1,80 @@
+{
+  "id": "mrdoob/three.js",
+  "slug": "mrdoob-three.js",
+  "owner": "mrdoob",
+  "name": "three.js",
+  "description": "JavaScript 3D Library.",
+  "archived": false,
+  "primaryLanguage": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 113006,
+  "forks": 36381,
+  "openIssues": 428,
+  "pushedAt": "2026-06-13T02:05:49Z",
+  "topics": [
+    "3d",
+    "augmented-reality",
+    "canvas",
+    "html5",
+    "javascript",
+    "svg",
+    "virtual-reality",
+    "webaudio",
+    "webgl",
+    "webgl2",
+    "webgpu",
+    "webxr"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97088?v=4",
+  "languages": {
+    "JavaScript": 0.67,
+    "HTML": 0.3,
+    "Roff": 0.02,
+    "CSS": 0
+  },
+  "readmeExcerpt": "The aim of the project is to create an easy-to-use, lightweight, cross-browser, general-purpose 3D library. The current builds only include WebGL and WebGPU renderers but SVG and CSS3D renderers are also available as addons.",
+  "summary": {
+    "mode": "template",
+    "text": "three.js is a JavaScript project focused on JavaScript 3D Library. It is tagged with 3d, augmented-reality, and canvas."
+  },
+  "releases": [
+    {
+      "tag": "r184",
+      "name": "r184",
+      "publishedAt": "2026-04-16T16:49:08Z"
+    },
+    {
+      "tag": "r183",
+      "name": "r183",
+      "publishedAt": "2026-02-20T15:31:38Z"
+    },
+    {
+      "tag": "r182",
+      "name": "r182",
+      "publishedAt": "2025-12-10T16:46:04Z"
+    },
+    {
+      "tag": "r181",
+      "name": "r181",
+      "publishedAt": "2025-11-19T04:42:16Z"
+    },
+    {
+      "tag": "r180",
+      "name": "r180",
+      "publishedAt": "2025-09-03T11:48:45Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 113006
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/mrdoob/three.js",
+    "homepage": "https://threejs.org/"
+  }
+}

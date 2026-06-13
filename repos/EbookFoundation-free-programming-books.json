@@ -1,0 +1,45 @@
+{
+  "id": "EbookFoundation/free-programming-books",
+  "slug": "EbookFoundation-free-programming-books",
+  "owner": "EbookFoundation",
+  "name": "free-programming-books",
+  "description": ":books: Freely available programming books",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 390142,
+  "forks": 66442,
+  "openIssues": 82,
+  "pushedAt": "2026-06-09T15:12:32Z",
+  "topics": [
+    "books",
+    "education",
+    "hacktoberfest",
+    "list",
+    "resource"
+  ],
+  "license": "CC-BY-4.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4",
+  "languages": {
+    "Python": 0.99,
+    "HTML": 0.01
+  },
+  "readmeExcerpt": "Search the list at https://ebookfoundation.github.io/free-programming-books-search/ .",
+  "summary": {
+    "mode": "template",
+    "text": "free-programming-books is a Python project focused on :books: Freely available programming books. It is tagged with books, education, and hacktoberfest."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 390142
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/EbookFoundation/free-programming-books",
+    "homepage": "https://ebookfoundation.github.io/free-programming-books/"
+  }
+}

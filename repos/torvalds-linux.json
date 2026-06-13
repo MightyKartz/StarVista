@@ -1,0 +1,61 @@
+{
+  "id": "torvalds/linux",
+  "slug": "torvalds-linux",
+  "owner": "torvalds",
+  "name": "linux",
+  "description": "Linux kernel source tree",
+  "archived": false,
+  "primaryLanguage": "C",
+  "languageColor": "#555555",
+  "stars": 236236,
+  "forks": 62686,
+  "openIssues": 3,
+  "pushedAt": "2026-06-13T00:54:58Z",
+  "topics": [],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1024025?v=4",
+  "languages": {
+    "C": 0.98,
+    "Assembly": 0.01,
+    "Shell": 0,
+    "Rust": 0,
+    "Python": 0,
+    "Makefile": 0,
+    "Perl": 0,
+    "C++": 0,
+    "SmPL": 0,
+    "Yacc": 0,
+    "Roff": 0,
+    "Awk": 0,
+    "Lex": 0,
+    "Jinja": 0,
+    "UnrealScript": 0,
+    "Gherkin": 0,
+    "Linker Script": 0,
+    "SWIG": 0,
+    "M4": 0,
+    "Clojure": 0,
+    "sed": 0,
+    "MATLAB": 0,
+    "XS": 0,
+    "RPC": 0
+  },
+  "readmeExcerpt": "Linux kernel ============",
+  "summary": {
+    "mode": "template",
+    "text": "linux is a C project focused on Linux kernel source tree."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 236236
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/torvalds/linux",
+    "homepage": null
+  }
+}

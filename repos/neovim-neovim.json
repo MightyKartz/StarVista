@@ -1,0 +1,84 @@
+{
+  "id": "neovim/neovim",
+  "slug": "neovim-neovim",
+  "owner": "neovim",
+  "name": "neovim",
+  "description": "Vim-fork focused on extensibility and usability",
+  "archived": false,
+  "primaryLanguage": "Vim Script",
+  "languageColor": null,
+  "stars": 100361,
+  "forks": 6917,
+  "openIssues": 1951,
+  "pushedAt": "2026-06-12T22:25:16Z",
+  "topics": [
+    "api",
+    "c",
+    "lua",
+    "neovim",
+    "nvim",
+    "text-editor",
+    "vim"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6471485?v=4",
+  "languages": {
+    "Vim Script": 0.4,
+    "Lua": 0.32,
+    "C": 0.27,
+    "CMake": 0,
+    "Zig": 0,
+    "Shell": 0,
+    "Tree-sitter Query": 0,
+    "Makefile": 0,
+    "Roff": 0,
+    "Python": 0,
+    "C++": 0,
+    "Batchfile": 0,
+    "Ruby": 0
+  },
+  "readmeExcerpt": "Documentation | Chat",
+  "summary": {
+    "mode": "template",
+    "text": "neovim is a Vim Script project focused on Vim-fork focused on extensibility and usability. It is tagged with api, c, and lua."
+  },
+  "releases": [
+    {
+      "tag": "nightly",
+      "name": "Nvim development (prerelease) build",
+      "publishedAt": "2026-06-12T06:42:15Z"
+    },
+    {
+      "tag": "v0.12.3",
+      "name": "Nvim 0.12.3",
+      "publishedAt": "2026-06-10T22:57:39Z"
+    },
+    {
+      "tag": "stable",
+      "name": "Nvim 0.12.3",
+      "publishedAt": "2026-06-10T22:57:35Z"
+    },
+    {
+      "tag": "v0.12.2",
+      "name": "Nvim 0.12.2",
+      "publishedAt": "2026-04-22T15:03:59Z"
+    },
+    {
+      "tag": "v0.12.1",
+      "name": "Nvim 0.12.1",
+      "publishedAt": "2026-04-06T14:30:16Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 100361
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/neovim/neovim",
+    "homepage": "https://neovim.io"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "NousResearch/hermes-agent",
+  "slug": "NousResearch-hermes-agent",
+  "owner": "NousResearch",
+  "name": "hermes-agent",
+  "description": "The agent that grows with you",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 192045,
+  "forks": 33461,
+  "openIssues": 20137,
+  "pushedAt": "2026-06-13T02:30:37Z",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "clawdbot",
+    "codex",
+    "hermes",
+    "hermes-agent",
+    "llm",
+    "moltbot",
+    "nous-research",
+    "openai",
+    "openclaw"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
+  "languages": {
+    "Python": 0.82,
+    "TypeScript": 0.14,
+    "JavaScript": 0.01,
+    "TeX": 0.01,
+    "Shell": 0,
+    "BibTeX Style": 0,
+    "PowerShell": 0,
+    "Rust": 0,
+    "Nix": 0,
+    "HTML": 0,
+    "CSS": 0,
+    "Dockerfile": 0,
+    "MDX": 0,
+    "Go Template": 0,
+    "Ruby": 0,
+    "Batchfile": 0,
+    "Makefile": 0
+  },
+  "readmeExcerpt": "Hermes Agent | Hermes Desktop",
+  "summary": {
+    "mode": "template",
+    "text": "hermes-agent is a Python project focused on The agent that grows with you. It is tagged with ai, ai-agent, and ai-agents."
+  },
+  "releases": [
+    {
+      "tag": "v2026.6.5",
+      "name": "Hermes Agent v0.16.0 (2026.6.5) — The Surface Release",
+      "publishedAt": "2026-06-06T00:55:58Z"
+    },
+    {
+      "tag": "v2026.5.29.2",
+      "name": "Hermes Agent v0.15.2 (2026.5.29.2)",
+      "publishedAt": "2026-05-29T13:37:26Z"
+    },
+    {
+      "tag": "v2026.5.29",
+      "name": "Hermes Agent v0.15.1 (2026.5.29) — The Patch Release",
+      "publishedAt": "2026-05-29T01:12:15Z"
+    },
+    {
+      "tag": "v2026.5.28",
+      "name": "Hermes Agent v0.15.0 (2026.5.28) — The Velocity Release",
+      "publishedAt": "2026-05-28T17:46:09Z"
+    },
+    {
+      "tag": "v2026.5.16",
+      "name": "Hermes Agent v0.14.0 (2026.5.16)",
+      "publishedAt": "2026-05-16T09:59:15Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 192045
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/NousResearch/hermes-agent",
+    "homepage": "https://hermes-agent.nousresearch.com"
+  }
+}

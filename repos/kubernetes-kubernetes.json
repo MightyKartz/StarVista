@@ -1,0 +1,78 @@
+{
+  "id": "kubernetes/kubernetes",
+  "slug": "kubernetes-kubernetes",
+  "owner": "kubernetes",
+  "name": "kubernetes",
+  "description": "Production-Grade Container Scheduling and Management",
+  "archived": false,
+  "primaryLanguage": "Go",
+  "languageColor": "#00add8",
+  "stars": 122971,
+  "forks": 43195,
+  "openIssues": 2698,
+  "pushedAt": "2026-06-13T00:14:50Z",
+  "topics": [
+    "cncf",
+    "containers",
+    "go",
+    "kubernetes"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13629408?v=4",
+  "languages": {
+    "Go": 0.98,
+    "Shell": 0.02,
+    "PowerShell": 0,
+    "Makefile": 0,
+    "Dockerfile": 0,
+    "Python": 0,
+    "Go Template": 0,
+    "C": 0,
+    "sed": 0,
+    "HTML": 0
+  },
+  "readmeExcerpt": "----",
+  "summary": {
+    "mode": "template",
+    "text": "kubernetes is a Go project focused on Production-Grade Container Scheduling and Management. It is tagged with cncf, containers, and go."
+  },
+  "releases": [
+    {
+      "tag": "v1.36.2",
+      "name": "v1.36.2",
+      "publishedAt": "2026-06-12T11:34:56Z"
+    },
+    {
+      "tag": "v1.35.6",
+      "name": "v1.35.6",
+      "publishedAt": "2026-06-12T11:32:40Z"
+    },
+    {
+      "tag": "v1.34.9",
+      "name": "v1.34.9",
+      "publishedAt": "2026-06-12T11:30:42Z"
+    },
+    {
+      "tag": "v1.33.13",
+      "name": "v1.33.13",
+      "publishedAt": "2026-06-12T11:30:10Z"
+    },
+    {
+      "tag": "v1.37.0-alpha.1",
+      "name": "v1.37.0-alpha.1",
+      "publishedAt": "2026-06-11T03:25:52Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 122971
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/kubernetes/kubernetes",
+    "homepage": "https://kubernetes.io"
+  }
+}

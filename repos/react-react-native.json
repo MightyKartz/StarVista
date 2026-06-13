@@ -1,0 +1,88 @@
+{
+  "id": "react/react-native",
+  "slug": "react-react-native",
+  "owner": "react",
+  "name": "react-native",
+  "description": "A framework for building native applications using React",
+  "archived": false,
+  "primaryLanguage": "C++",
+  "languageColor": "#f34b7d",
+  "stars": 126005,
+  "forks": 25175,
+  "openIssues": 1082,
+  "pushedAt": "2026-06-12T22:20:05Z",
+  "topics": [
+    "android",
+    "app-framework",
+    "cross-platform",
+    "ios",
+    "mobile",
+    "mobile-development",
+    "react",
+    "react-native"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102812?v=4",
+  "languages": {
+    "C++": 0.35,
+    "Kotlin": 0.22,
+    "JavaScript": 0.19,
+    "Objective-C++": 0.1,
+    "Objective-C": 0.06,
+    "Ruby": 0.03,
+    "Java": 0.02,
+    "Python": 0.01,
+    "CMake": 0.01,
+    "TypeScript": 0,
+    "C": 0,
+    "Shell": 0,
+    "Swift": 0,
+    "Assembly": 0,
+    "HTML": 0,
+    "Smarty": 0
+  },
+  "readmeExcerpt": "React Native",
+  "summary": {
+    "mode": "template",
+    "text": "react-native is a C++ project focused on A framework for building native applications using React. It is tagged with android, app-framework, and cross-platform."
+  },
+  "releases": [
+    {
+      "tag": "v0.86.0",
+      "name": "0.86.0",
+      "publishedAt": "2026-06-11T15:27:00Z"
+    },
+    {
+      "tag": "v0.86.0-rc.3",
+      "name": "0.86.0-rc.3",
+      "publishedAt": "2026-06-03T07:47:03Z"
+    },
+    {
+      "tag": "v0.86.0-rc.2",
+      "name": "0.86.0-rc.2",
+      "publishedAt": "2026-05-25T14:42:44Z"
+    },
+    {
+      "tag": "v0.86.0-rc.1",
+      "name": "0.86.0-rc.1",
+      "publishedAt": "2026-05-18T18:52:30Z"
+    },
+    {
+      "tag": "v0.86.0-rc.0",
+      "name": "v0.86.0-rc.0",
+      "publishedAt": "2026-05-07T09:45:03Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 126005
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/react/react-native",
+    "homepage": "https://reactnative.dev"
+  }
+}

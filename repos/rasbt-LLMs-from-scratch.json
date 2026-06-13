@@ -1,0 +1,60 @@
+{
+  "id": "rasbt/LLMs-from-scratch",
+  "slug": "rasbt-LLMs-from-scratch",
+  "owner": "rasbt",
+  "name": "LLMs-from-scratch",
+  "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+  "archived": false,
+  "primaryLanguage": "Jupyter Notebook",
+  "languageColor": null,
+  "stars": 97054,
+  "forks": 14849,
+  "openIssues": 3,
+  "pushedAt": "2026-06-02T14:14:19Z",
+  "topics": [
+    "ai",
+    "artificial-intelligence",
+    "attention-mechanism",
+    "deep-learning",
+    "finetuning",
+    "from-scratch",
+    "generative-ai",
+    "gpt",
+    "instruction-tuning",
+    "language-model",
+    "large-language-models",
+    "llm",
+    "machine-learning",
+    "natural-language-processing",
+    "pretraining",
+    "python",
+    "pytorch",
+    "tokenizer",
+    "transformers"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5618407?v=4",
+  "languages": {
+    "Jupyter Notebook": 0.73,
+    "Python": 0.27,
+    "Dockerfile": 0
+  },
+  "readmeExcerpt": "This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book Build a Large Language Model (From Scratch).",
+  "summary": {
+    "mode": "template",
+    "text": "LLMs-from-scratch is a Jupyter Notebook project focused on Implement a ChatGPT-like LLM in PyTorch from scratch, step by step. It is tagged with ai, artificial-intelligence, and attention-mechanism."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 97054
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/rasbt/LLMs-from-scratch",
+    "homepage": "https://amzn.to/4fqvn0D"
+  }
+}

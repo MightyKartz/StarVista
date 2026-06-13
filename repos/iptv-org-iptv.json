@@ -1,0 +1,45 @@
+{
+  "id": "iptv-org/iptv",
+  "slug": "iptv-org-iptv",
+  "owner": "iptv-org",
+  "name": "iptv",
+  "description": "Collection of publicly available IPTV channels from all over the world",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 118064,
+  "forks": 6304,
+  "openIssues": 107,
+  "pushedAt": "2026-06-13T00:43:02Z",
+  "topics": [
+    "iptv",
+    "m3u",
+    "playlist",
+    "streams",
+    "tv"
+  ],
+  "license": "Unlicense",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/55937028?v=4",
+  "languages": {
+    "TypeScript": 0.55,
+    "JavaScript": 0.45
+  },
+  "readmeExcerpt": "Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.",
+  "summary": {
+    "mode": "template",
+    "text": "iptv is a TypeScript project focused on Collection of publicly available IPTV channels from all over the world. It is tagged with iptv, m3u, and playlist."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 118064
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/iptv-org/iptv",
+    "homepage": "https://iptv-org.github.io"
+  }
+}

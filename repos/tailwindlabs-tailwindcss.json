@@ -1,0 +1,77 @@
+{
+  "id": "tailwindlabs/tailwindcss",
+  "slug": "tailwindlabs-tailwindcss",
+  "owner": "tailwindlabs",
+  "name": "tailwindcss",
+  "description": "A utility-first CSS framework for rapid UI development.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 95509,
+  "forks": 5299,
+  "openIssues": 70,
+  "pushedAt": "2026-06-12T17:33:48Z",
+  "topics": [
+    "css",
+    "css-framework",
+    "functional-css",
+    "postcss",
+    "responsive",
+    "tailwindcss",
+    "utility-classes"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4",
+  "languages": {
+    "TypeScript": 0.82,
+    "Rust": 0.15,
+    "JavaScript": 0.01,
+    "CSS": 0.01,
+    "HTML": 0.01,
+    "Haml": 0
+  },
+  "readmeExcerpt": "A utility-first CSS framework for rapidly building custom user interfaces.",
+  "summary": {
+    "mode": "template",
+    "text": "tailwindcss is a TypeScript project focused on A utility-first CSS framework for rapid UI development. It is tagged with css, css-framework, and functional-css."
+  },
+  "releases": [
+    {
+      "tag": "v4.3.1",
+      "name": "v4.3.1",
+      "publishedAt": "2026-06-12T17:50:58Z"
+    },
+    {
+      "tag": "v4.3.0",
+      "name": "v4.3.0",
+      "publishedAt": "2026-05-08T20:17:25Z"
+    },
+    {
+      "tag": "v4.2.4",
+      "name": "v4.2.4",
+      "publishedAt": "2026-04-21T13:09:56Z"
+    },
+    {
+      "tag": "v4.2.3",
+      "name": "v4.2.3",
+      "publishedAt": "2026-04-20T20:46:46Z"
+    },
+    {
+      "tag": "v4.2.2",
+      "name": "v4.2.2",
+      "publishedAt": "2026-03-18T16:06:04Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 95509
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/tailwindlabs/tailwindcss",
+    "homepage": "https://tailwindcss.com/"
+  }
+}

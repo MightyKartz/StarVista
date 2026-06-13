@@ -1,0 +1,87 @@
+{
+  "id": "microsoft/terminal",
+  "slug": "microsoft-terminal",
+  "owner": "microsoft",
+  "name": "terminal",
+  "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+  "archived": false,
+  "primaryLanguage": "C++",
+  "languageColor": "#f34b7d",
+  "stars": 103560,
+  "forks": 9334,
+  "openIssues": 1731,
+  "pushedAt": "2026-06-12T01:26:23Z",
+  "topics": [
+    "cmd",
+    "command-line",
+    "console",
+    "contributions-welcome",
+    "good-first-issue",
+    "hacktoberfest",
+    "terminal",
+    "windows",
+    "windows-console",
+    "windows-terminal",
+    "wsl"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+  "languages": {
+    "C++": 0.92,
+    "C#": 0.04,
+    "C": 0.02,
+    "PowerShell": 0.01,
+    "Batchfile": 0.01,
+    "HLSL": 0,
+    "Python": 0,
+    "Roff": 0,
+    "Jupyter Notebook": 0,
+    "CMake": 0,
+    "JavaScript": 0,
+    "HTML": 0
+  },
+  "readmeExcerpt": "Table of Contents",
+  "summary": {
+    "mode": "template",
+    "text": "terminal is a C++ project focused on The new Windows Terminal and the original Windows console host, all in the same place!. It is tagged with cmd, command-line, and console."
+  },
+  "releases": [
+    {
+      "tag": "v1.25.1322.0",
+      "name": "Windows Terminal Preview v1.25.1322.0",
+      "publishedAt": "2026-05-13T21:15:14Z"
+    },
+    {
+      "tag": "v1.24.11321.0",
+      "name": "Windows Terminal v1.24.11321.0",
+      "publishedAt": "2026-05-13T21:14:56Z"
+    },
+    {
+      "tag": "v1.25.1241.0",
+      "name": "Windows Terminal Preview v1.25.1241.0",
+      "publishedAt": "2026-05-13T21:13:57Z"
+    },
+    {
+      "tag": "v1.25.1171.0",
+      "name": "Windows Terminal Preview v1.25.1171.0",
+      "publishedAt": "2026-04-29T00:01:37Z"
+    },
+    {
+      "tag": "v1.25.923.0",
+      "name": "Windows Terminal Preview v1.25.923.0",
+      "publishedAt": "2026-04-03T23:39:38Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 103560
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/microsoft/terminal",
+    "homepage": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "browser-use/browser-use",
+  "slug": "browser-use-browser-use",
+  "owner": "browser-use",
+  "name": "browser-use",
+  "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 98524,
+  "forks": 10999,
+  "openIssues": 289,
+  "pushedAt": "2026-06-13T02:26:34Z",
+  "topics": [
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "llm",
+    "playwright",
+    "python"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192012301?v=4",
+  "languages": {
+    "Python": 0.98,
+    "Shell": 0.01,
+    "Dockerfile": 0,
+    "HTML": 0
+  },
+  "readmeExcerpt": "---",
+  "summary": {
+    "mode": "template",
+    "text": "browser-use is a Python project focused on 🌐 Make websites accessible for AI agents. Automate tasks online with ease. It is tagged with ai-agents, ai-tools, and browser-automation."
+  },
+  "releases": [
+    {
+      "tag": "0.13.2",
+      "name": "0.13.2",
+      "publishedAt": "2026-06-12T22:45:04Z"
+    },
+    {
+      "tag": "0.13.1",
+      "name": "0.13.1",
+      "publishedAt": "2026-06-10T01:00:59Z"
+    },
+    {
+      "tag": "0.13.0",
+      "name": "0.13.0 - Rebuilt in Rust [beta]",
+      "publishedAt": "2026-06-08T22:07:47Z"
+    },
+    {
+      "tag": "0.12.9",
+      "name": "0.12.9",
+      "publishedAt": "2026-05-26T03:45:22Z"
+    },
+    {
+      "tag": "0.12.8",
+      "name": "0.12.8",
+      "publishedAt": "2026-05-23T19:29:53Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 98524
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/browser-use/browser-use",
+    "homepage": "https://browser-use.com"
+  }
+}

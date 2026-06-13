@@ -1,0 +1,39 @@
+{
+  "id": "github/gitignore",
+  "slug": "github-gitignore",
+  "owner": "github",
+  "name": "gitignore",
+  "description": "A collection of useful .gitignore templates",
+  "archived": false,
+  "primaryLanguage": null,
+  "languageColor": null,
+  "stars": 174420,
+  "forks": 82420,
+  "openIssues": 67,
+  "pushedAt": "2026-05-21T23:49:32Z",
+  "topics": [
+    "git",
+    "gitignore"
+  ],
+  "license": "CC0-1.0",
+  "activity": "stable",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
+  "languages": {},
+  "readmeExcerpt": "This is GitHub’s collection of [.gitignore][man] file templates. We use this list to populate the .gitignore template choosers available in the GitHub.com interface when creating new repositories and files.",
+  "summary": {
+    "mode": "template",
+    "text": "gitignore is a open-source project focused on A collection of useful .gitignore templates. It is tagged with git and gitignore."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 174420
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/github/gitignore",
+    "homepage": null
+  }
+}

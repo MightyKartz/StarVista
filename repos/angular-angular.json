@@ -1,0 +1,79 @@
+{
+  "id": "angular/angular",
+  "slug": "angular-angular",
+  "owner": "angular",
+  "name": "angular",
+  "description": "Deliver web apps with confidence 🚀",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 100318,
+  "forks": 27176,
+  "openIssues": 1165,
+  "pushedAt": "2026-06-12T17:19:26Z",
+  "topics": [
+    "angular",
+    "javascript",
+    "pwa",
+    "typescript",
+    "web",
+    "web-framework",
+    "web-performance"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139426?v=4",
+  "languages": {
+    "TypeScript": 0.87,
+    "JavaScript": 0.07,
+    "HTML": 0.02,
+    "Starlark": 0.02,
+    "CSS": 0.01,
+    "SCSS": 0.01,
+    "Shell": 0,
+    "Nix": 0
+  },
+  "readmeExcerpt": "Angular - The modern web developer's platform",
+  "summary": {
+    "mode": "template",
+    "text": "angular is a TypeScript project focused on Deliver web apps with confidence 🚀. It is tagged with angular, javascript, and pwa."
+  },
+  "releases": [
+    {
+      "tag": "vsix-22.0.1",
+      "name": "VSCode Extension: 22.0.1",
+      "publishedAt": "2026-06-11T18:26:37Z"
+    },
+    {
+      "tag": "v22.1.0-next.0",
+      "name": "22.1.0-next.0",
+      "publishedAt": "2026-06-10T20:41:03Z"
+    },
+    {
+      "tag": "v22.0.1",
+      "name": "22.0.1",
+      "publishedAt": "2026-06-10T20:16:29Z"
+    },
+    {
+      "tag": "v21.2.17",
+      "name": "21.2.17",
+      "publishedAt": "2026-06-10T19:54:28Z"
+    },
+    {
+      "tag": "v20.3.25",
+      "name": "20.3.25",
+      "publishedAt": "2026-06-10T19:22:37Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 100318
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/angular/angular",
+    "homepage": "https://angular.dev"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "rust-lang/rust",
+  "slug": "rust-lang-rust",
+  "owner": "rust-lang",
+  "name": "rust",
+  "description": "Empowering everyone to build reliable and efficient software.",
+  "archived": false,
+  "primaryLanguage": "Rust",
+  "languageColor": "#dea584",
+  "stars": 113785,
+  "forks": 14958,
+  "openIssues": 12429,
+  "pushedAt": "2026-06-13T02:00:55Z",
+  "topics": [
+    "compiler",
+    "language",
+    "rust"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5430905?v=4",
+  "languages": {
+    "Rust": 0.9,
+    "HTML": 0.07,
+    "Shell": 0.01,
+    "C": 0.01,
+    "JavaScript": 0.01,
+    "Python": 0,
+    "PowerShell": 0,
+    "TypeScript": 0,
+    "C++": 0,
+    "CSS": 0,
+    "Dockerfile": 0,
+    "Assembly": 0,
+    "Roff": 0,
+    "Linker Script": 0,
+    "Makefile": 0,
+    "Julia": 0,
+    "RenderScript": 0,
+    "Nix": 0,
+    "XSLT": 0,
+    "Emacs Lisp": 0,
+    "Batchfile": 0,
+    "RPC": 0,
+    "CMake": 0,
+    "LLVM": 0,
+    "Perl": 0
+  },
+  "readmeExcerpt": "<img alt=\"The Rust Programming Language: A language empowering everyone to build reliable and efficient software\" src=\"https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-light.svg\" width=\"50%\">",
+  "summary": {
+    "mode": "template",
+    "text": "rust is a Rust project focused on Empowering everyone to build reliable and efficient software. It is tagged with compiler, language, and rust."
+  },
+  "releases": [
+    {
+      "tag": "1.96.0",
+      "name": "Rust 1.96.0",
+      "publishedAt": "2026-05-28T17:50:42Z"
+    },
+    {
+      "tag": "1.95.0",
+      "name": "Rust 1.95.0",
+      "publishedAt": "2026-04-16T18:19:31Z"
+    },
+    {
+      "tag": "1.94.1",
+      "name": "Rust 1.94.1",
+      "publishedAt": "2026-03-26T13:03:20Z"
+    },
+    {
+      "tag": "1.94.0",
+      "name": "Rust 1.94.0",
+      "publishedAt": "2026-03-05T18:44:15Z"
+    },
+    {
+      "tag": "1.93.1",
+      "name": "Rust 1.93.1",
+      "publishedAt": "2026-02-12T20:26:57Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 113785
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/rust-lang/rust",
+    "homepage": "https://www.rust-lang.org"
+  }
+}

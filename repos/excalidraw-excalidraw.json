@@ -1,0 +1,79 @@
+{
+  "id": "excalidraw/excalidraw",
+  "slug": "excalidraw-excalidraw",
+  "owner": "excalidraw",
+  "name": "excalidraw",
+  "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 125218,
+  "forks": 13998,
+  "openIssues": 3144,
+  "pushedAt": "2026-06-11T17:17:15Z",
+  "topics": [
+    "canvas",
+    "collaboration",
+    "diagrams",
+    "drawing",
+    "hacktoberfest",
+    "productivity",
+    "whiteboard"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4",
+  "languages": {
+    "TypeScript": 0.94,
+    "SCSS": 0.03,
+    "MDX": 0.02,
+    "JavaScript": 0.01,
+    "HTML": 0,
+    "CSS": 0,
+    "Dockerfile": 0,
+    "Shell": 0
+  },
+  "readmeExcerpt": "Excalidraw Editor | Blog | Documentation | Excalidraw+",
+  "summary": {
+    "mode": "template",
+    "text": "excalidraw is a TypeScript project focused on Virtual whiteboard for sketching hand-drawn like diagrams. It is tagged with canvas, collaboration, and diagrams."
+  },
+  "releases": [
+    {
+      "tag": "v0.18.1",
+      "name": "v0.18.1",
+      "publishedAt": "2026-04-21T08:43:20Z"
+    },
+    {
+      "tag": "v0.18.0",
+      "name": "v0.18.0 (2025-03-11)",
+      "publishedAt": "2025-03-11T12:47:22Z"
+    },
+    {
+      "tag": "v0.17.3",
+      "name": "v0.17.3 (2024-02-09)",
+      "publishedAt": "2024-02-09T14:08:24Z"
+    },
+    {
+      "tag": "v0.17.0",
+      "name": "v0.17.0 (2023-11-14)",
+      "publishedAt": "2023-11-14T14:26:08Z"
+    },
+    {
+      "tag": "v0.16.1",
+      "name": "v0.16.1 (2023-09-21)",
+      "publishedAt": "2023-09-21T04:49:41Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 125218
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/excalidraw/excalidraw",
+    "homepage": "https://excalidraw.com"
+  }
+}
