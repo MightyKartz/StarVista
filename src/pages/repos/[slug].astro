@@ -1,0 +1,84 @@
+---
+import manifestJson from '../../../fixtures/sample-manifest.json';
+import sampleRepoJson from '../../../fixtures/sample-repo.json';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import type { Manifest, ManifestRepo, RepoDetails } from '../../lib/types';
+
+const sampleRepo = sampleRepoJson as RepoDetails;
+
+export function getStaticPaths() {
+  const manifest = manifestJson as Manifest;
+
+  return manifest.repos.map((repo) => ({
+    params: { slug: repo.slug },
+    props: { repo },
+  }));
+}
+
+interface Props {
+  repo: ManifestRepo;
+}
+
+const { repo } = Astro.props;
+const details = repo.slug === sampleRepo.slug ? sampleRepo : null;
+const title = `${repo.name} by ${repo.owner} | StarVista`;
+const description = repo.description ?? `Visual profile for ${repo.id}.`;
+const homeHref = import.meta.env.BASE_URL;
+---
+
+<BaseLayout title={title} description={description}>
+  <main class="page-shell detail-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href={homeHref}>StarVista</a>
+      <span aria-hidden="true">/</span>
+      <span>{repo.id}</span>
+    </nav>
+
+    <section class="detail-hero" style={`--language-color: ${repo.languageColor ?? '#8b949e'}`}>
+      <div>
+        <p class="detail-hero__owner">{repo.owner}</p>
+        <h1>{repo.name}</h1>
+        <p>{description}</p>
+      </div>
+      <a class="source-link" href={`https://github.com/${repo.id}`}>GitHub</a>
+    </section>
+
+    <section class="detail-stats" aria-label={`${repo.id} statistics`}>
+      <div>
+        <strong>{repo.stars.toLocaleString('en')}</strong>
+        <span>Stars</span>
+      </div>
+      <div>
+        <strong>{repo.forks.toLocaleString('en')}</strong>
+        <span>Forks</span>
+      </div>
+      <div>
+        <strong>{repo.openIssues.toLocaleString('en')}</strong>
+        <span>Open issues</span>
+      </div>
+      <div>
+        <strong>{repo.activity}</strong>
+        <span>Activity</span>
+      </div>
+    </section>
+
+    {
+      details && (
+        <section class="detail-section">
+          <h2>Project Snapshot</h2>
+          <p>{details.summary.text}</p>
+          <div class="language-list" aria-label={`${repo.id} language breakdown`}>
+            {Object.entries(details.languages).map(([language, share]) => (
+              <div class="language-list__row">
+                <span>{language}</span>
+                <meter min="0" max="1" value={share}>
+                  {Math.round(share * 100)}%
+                </meter>
+              </div>
+            ))}
+          </div>
+        </section>
+      )
+    }
+  </main>
+</BaseLayout>

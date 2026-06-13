@@ -1,0 +1,26 @@
+---
+import manifestJson from '../../fixtures/sample-manifest.json';
+import RepoGrid from '../components/RepoGrid.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import type { Manifest } from '../lib/types';
+
+const manifest = manifestJson as Manifest;
+const description =
+  'A visual discovery surface for high-interest open-source repositories.';
+---
+
+<BaseLayout title="StarVista" description={description}>
+  <main class="page-shell">
+    <header class="site-header">
+      <div>
+        <h1>StarVista</h1>
+        <p>{description}</p>
+      </div>
+      <a class="source-link" href="https://github.com/MightyKartz/StarVista.git">
+        Source
+      </a>
+    </header>
+
+    <RepoGrid repos={manifest.repos} />
+  </main>
+</BaseLayout>

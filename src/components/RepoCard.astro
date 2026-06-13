@@ -1,0 +1,88 @@
+---
+import type { ManifestRepo } from '../lib/types';
+
+interface Props {
+  repo: ManifestRepo;
+}
+
+const { repo } = Astro.props;
+const detailHref = `${import.meta.env.BASE_URL}repos/${repo.slug}/`;
+const repoHref = `https://github.com/${repo.id}`;
+const numberFormatter = new Intl.NumberFormat('en', {
+  notation: 'compact',
+  maximumFractionDigits: 1,
+});
+const updatedLabel = repo.pushedAt
+  ? new Intl.DateTimeFormat('en', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric',
+    }).format(new Date(repo.pushedAt))
+  : 'Unknown';
+---
+
+<article class="repo-card" style={`--language-color: ${repo.languageColor ?? '#8b949e'}`}>
+  <div class="repo-card__top">
+    {
+      repo.ownerAvatarUrl ? (
+        <img
+          class="repo-card__avatar"
+          src={repo.ownerAvatarUrl}
+          alt=""
+          width="42"
+          height="42"
+          loading="lazy"
+          decoding="async"
+        />
+      ) : (
+        <div class="repo-card__avatar" aria-hidden="true" />
+      )
+    }
+    <div class="repo-card__title">
+      <h2><a href={detailHref}>{repo.name}</a></h2>
+      <p class="repo-card__owner">{repo.owner}</p>
+    </div>
+  </div>
+
+  <p class="repo-card__description">
+    {repo.description ?? 'No repository description available.'}
+  </p>
+
+  <div class="repo-card__meta" aria-label={`${repo.id} repository metrics`}>
+    <div class="repo-card__metric">
+      <strong>{numberFormatter.format(repo.stars)}</strong>
+      <span>Stars</span>
+    </div>
+    <div class="repo-card__metric">
+      <strong>{numberFormatter.format(repo.forks)}</strong>
+      <span>Forks</span>
+    </div>
+    <div class="repo-card__metric">
+      <strong>{updatedLabel}</strong>
+      <span>Updated</span>
+    </div>
+  </div>
+
+  <div class="repo-card__footer">
+    {
+      repo.primaryLanguage && (
+        <span class="badge">
+          <span class="badge__dot" aria-hidden="true" />
+          {repo.primaryLanguage}
+        </span>
+      )
+    }
+    <span class="badge badge--activity">{repo.activity}</span>
+    <a class="badge" href={repoHref}>GitHub</a>
+  </div>
+
+  {
+    repo.topics.length > 0 && (
+      <ul class="repo-card__topics" aria-label={`${repo.id} topics`}>
+        {repo.topics.slice(0, 4).map((topic) => (
+          <li>{topic}</li>
+        ))}
+      </ul>
+    )
+  }
+</article>

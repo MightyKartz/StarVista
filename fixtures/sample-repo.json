@@ -1,0 +1,46 @@
+{
+  "id": "vercel/next.js",
+  "slug": "vercel-next.js",
+  "owner": "vercel",
+  "name": "next.js",
+  "description": "The React Framework",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 128000,
+  "forks": 27000,
+  "openIssues": 2900,
+  "pushedAt": "2026-06-12T18:00:00Z",
+  "topics": ["react", "framework", "nextjs"],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+  "languages": {
+    "TypeScript": 0.72,
+    "JavaScript": 0.19,
+    "Rust": 0.09
+  },
+  "readmeExcerpt": "Next.js is a React framework for building full-stack web applications.",
+  "summary": {
+    "mode": "template",
+    "text": "next.js is a TypeScript project focused on The React Framework."
+  },
+  "releases": [
+    {
+      "tag": "v15.2.0",
+      "name": "Next.js 15.2",
+      "publishedAt": "2026-06-01T00:00:00Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-13",
+      "stars": 128000
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/vercel/next.js",
+    "homepage": "https://nextjs.org"
+  }
+}

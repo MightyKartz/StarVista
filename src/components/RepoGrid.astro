@@ -1,0 +1,14 @@
+---
+import type { ManifestRepo } from '../lib/types';
+import RepoCard from './RepoCard.astro';
+
+interface Props {
+  repos: ManifestRepo[];
+}
+
+const { repos } = Astro.props;
+---
+
+<section class="repo-grid" aria-label="Repository cards">
+  {repos.map((repo) => <RepoCard repo={repo} />)}
+</section>

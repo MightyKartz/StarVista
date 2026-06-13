@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.astro/
+.env
+.env.*
+!.env.example
+
+# Main branch ignores generated data synced from the orphan data branch.
+public/data/
+
+# Local worktrees used by development agents.
+.worktrees/
+worktrees/
+
+# Local browser automation artifacts.
+.playwright-cli/
+output/
