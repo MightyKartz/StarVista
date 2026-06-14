@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 109078,
-  "forks": 11708,
-  "openIssues": 145,
-  "pushedAt": "2026-06-12T06:38:11Z",
+  "stars": 109074,
+  "forks": 11711,
+  "openIssues": 147,
+  "pushedAt": "2026-06-13T12:16:53Z",
   "topics": [
     "hacktoberfest",
     "http-client",
@@ -34,6 +34,16 @@
   },
   "releases": [
     {
+      "tag": "v1.18.0",
+      "name": "v1.18.0",
+      "publishedAt": "2026-06-13T12:00:31Z"
+    },
+    {
+      "tag": "v0.33.0",
+      "name": "v0.33.0",
+      "publishedAt": "2026-06-13T11:53:34Z"
+    },
+    {
       "tag": "v1.17.0",
       "name": "v1.17.0",
       "publishedAt": "2026-06-03T06:14:01Z"
@@ -47,22 +57,16 @@
       "tag": "v0.32.0",
       "name": "v0.32.0",
       "publishedAt": "2026-05-04T17:15:03Z"
-    },
-    {
-      "tag": "v1.16.0",
-      "name": "v1.16.0",
-      "publishedAt": "2026-05-02T12:31:06Z"
-    },
-    {
-      "tag": "v1.15.2",
-      "name": "v1.15.2",
-      "publishedAt": "2026-04-21T17:51:16Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-13",
       "stars": 109078
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 109074
     }
   ],
   "links": {

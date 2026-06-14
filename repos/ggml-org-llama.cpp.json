@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 116274,
-  "forks": 19519,
-  "openIssues": 1846,
-  "pushedAt": "2026-06-13T00:44:47Z",
+  "stars": 116433,
+  "forks": 19555,
+  "openIssues": 1854,
+  "pushedAt": "2026-06-14T06:28:12Z",
   "topics": [
     "ggml"
   ],
@@ -51,35 +51,39 @@
   },
   "releases": [
     {
-      "tag": "b9616",
-      "name": "b9616",
-      "publishedAt": "2026-06-12T22:19:54Z"
+      "tag": "b9628",
+      "name": "b9628",
+      "publishedAt": "2026-06-14T02:00:53Z"
     },
     {
-      "tag": "b9611",
-      "name": "b9611",
-      "publishedAt": "2026-06-12T14:03:47Z"
+      "tag": "b9627",
+      "name": "b9627",
+      "publishedAt": "2026-06-13T23:25:28Z"
     },
     {
-      "tag": "b9610",
-      "name": "b9610",
-      "publishedAt": "2026-06-12T13:33:29Z"
+      "tag": "b9626",
+      "name": "b9626",
+      "publishedAt": "2026-06-13T18:19:28Z"
     },
     {
-      "tag": "b9608",
-      "name": "b9608",
-      "publishedAt": "2026-06-12T10:01:17Z"
+      "tag": "b9625",
+      "name": "b9625",
+      "publishedAt": "2026-06-13T17:06:54Z"
     },
     {
-      "tag": "b9606",
-      "name": "b9606",
-      "publishedAt": "2026-06-12T08:45:47Z"
+      "tag": "b9624",
+      "name": "b9624",
+      "publishedAt": "2026-06-13T16:06:09Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-13",
       "stars": 116274
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 116433
     }
   ],
   "links": {
