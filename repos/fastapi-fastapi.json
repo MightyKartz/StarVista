@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 99175,
-  "forks": 9432,
-  "openIssues": 94,
-  "pushedAt": "2026-06-13T18:22:49Z",
+  "stars": 99201,
+  "forks": 9437,
+  "openIssues": 104,
+  "pushedAt": "2026-06-15T06:59:05Z",
   "topics": [
     "api",
     "async",
@@ -51,6 +51,11 @@
   },
   "releases": [
     {
+      "tag": "0.137.0",
+      "name": "0.137.0",
+      "publishedAt": "2026-06-14T12:51:11Z"
+    },
+    {
       "tag": "0.136.3",
       "name": "0.136.3",
       "publishedAt": "2026-05-23T18:52:33Z"
@@ -69,11 +74,6 @@
       "tag": "0.136.0",
       "name": "0.136.0",
       "publishedAt": "2026-04-16T11:46:49Z"
-    },
-    {
-      "tag": "0.135.4",
-      "name": "0.135.4",
-      "publishedAt": "2026-04-16T11:38:45Z"
     }
   ],
   "starHistory": [
@@ -84,6 +84,10 @@
     {
       "date": "2026-06-14",
       "stars": 99175
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 99201
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 109900,
-  "forks": 16333,
-  "openIssues": 661,
-  "pushedAt": "2026-06-12T22:38:53Z",
+  "stars": 110223,
+  "forks": 16392,
+  "openIssues": 672,
+  "pushedAt": "2026-06-14T18:40:57Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
@@ -23,7 +23,8 @@
     "JavaScript": 0.03,
     "CSS": 0.01,
     "HTML": 0,
-    "Swift": 0
+    "Swift": 0,
+    "Python": 0
   },
   "readmeExcerpt": "> \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — Andrej Karpathy, No Priors podcast, March 2026",
   "summary": {
@@ -39,6 +40,10 @@
     {
       "date": "2026-06-14",
       "stars": 109900
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 110223
     }
   ],
   "links": {

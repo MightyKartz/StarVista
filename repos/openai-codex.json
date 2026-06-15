@@ -1,0 +1,77 @@
+{
+  "id": "openai/codex",
+  "slug": "openai-codex",
+  "owner": "openai",
+  "name": "codex",
+  "description": "Lightweight coding agent that runs in your terminal",
+  "archived": false,
+  "primaryLanguage": "Rust",
+  "languageColor": "#dea584",
+  "stars": 91102,
+  "forks": 13456,
+  "openIssues": 6951,
+  "pushedAt": "2026-06-15T06:35:56Z",
+  "topics": [],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
+  "languages": {
+    "Rust": 0.96,
+    "Python": 0.03,
+    "TypeScript": 0,
+    "Starlark": 0,
+    "Shell": 0,
+    "PowerShell": 0,
+    "JavaScript": 0,
+    "Jupyter Notebook": 0,
+    "HTML": 0,
+    "Just": 0,
+    "Smarty": 0,
+    "Nix": 0,
+    "Dockerfile": 0,
+    "C": 0
+  },
+  "readmeExcerpt": "Codex CLI is a coding agent from OpenAI that runs locally on your computer. If you want Codex in your code editor (VS Code, Cursor, Windsurf), install in your IDE. If you want the desktop app experience, run codex app or visit the Codex App page . If you are looking for the cloud-based agent from OpenAI, Codex Web , go to chatgpt.com/codex .",
+  "summary": {
+    "mode": "template",
+    "text": "codex is a Rust project focused on Lightweight coding agent that runs in your terminal."
+  },
+  "releases": [
+    {
+      "tag": "rust-v0.140.0-alpha.19",
+      "name": "0.140.0-alpha.19",
+      "publishedAt": "2026-06-14T02:03:02Z"
+    },
+    {
+      "tag": "rust-v0.140.0-alpha.18",
+      "name": "0.140.0-alpha.18",
+      "publishedAt": "2026-06-13T17:30:26Z"
+    },
+    {
+      "tag": "rust-v0.140.0-alpha.17",
+      "name": "0.140.0-alpha.17",
+      "publishedAt": "2026-06-13T01:20:26Z"
+    },
+    {
+      "tag": "rust-v0.140.0-alpha.16",
+      "name": "0.140.0-alpha.16",
+      "publishedAt": "2026-06-12T19:03:37Z"
+    },
+    {
+      "tag": "rust-v0.140.0-alpha.15",
+      "name": "0.140.0-alpha.15",
+      "publishedAt": "2026-06-12T17:05:02Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-15",
+      "stars": 91102
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/openai/codex",
+    "homepage": null
+  }
+}
