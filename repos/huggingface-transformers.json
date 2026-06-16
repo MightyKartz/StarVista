@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 161594,
-  "forks": 33503,
-  "openIssues": 2453,
-  "pushedAt": "2026-06-15T07:00:04Z",
+  "stars": 161620,
+  "forks": 33519,
+  "openIssues": 2439,
+  "pushedAt": "2026-06-16T07:23:11Z",
   "topics": [
     "audio",
     "deep-learning",
@@ -50,6 +50,16 @@
   },
   "releases": [
     {
+      "tag": "v5.12.1",
+      "name": "Patch release v5.12.1",
+      "publishedAt": "2026-06-15T17:29:59Z"
+    },
+    {
+      "tag": "v5.10.3",
+      "name": "Patch release v5.10.3",
+      "publishedAt": "2026-06-15T17:29:39Z"
+    },
+    {
       "tag": "v5.12.0",
       "name": "Release v5.12.0",
       "publishedAt": "2026-06-12T14:39:40Z"
@@ -63,16 +73,6 @@
       "tag": "v5.10.2",
       "name": "Patch release v5.10.2",
       "publishedAt": "2026-06-04T18:43:06Z"
-    },
-    {
-      "tag": "v5.10.1",
-      "name": "Release v5.10.1",
-      "publishedAt": "2026-06-03T15:37:41Z"
-    },
-    {
-      "tag": "v5.9.0",
-      "name": "Release v5.9.0",
-      "publishedAt": "2026-05-20T14:12:54Z"
     }
   ],
   "starHistory": [
@@ -87,6 +87,10 @@
     {
       "date": "2026-06-15",
       "stars": 161594
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 161620
     }
   ],
   "links": {

@@ -1,0 +1,58 @@
+{
+  "id": "goldbergyoni/nodebestpractices",
+  "slug": "goldbergyoni-nodebestpractices",
+  "owner": "goldbergyoni",
+  "name": "nodebestpractices",
+  "description": "✅ The Node.js best practices list (July 2026)",
+  "archived": false,
+  "primaryLanguage": "Dockerfile",
+  "languageColor": null,
+  "stars": 105326,
+  "forks": 10721,
+  "openIssues": 133,
+  "pushedAt": "2026-06-15T11:41:04Z",
+  "topics": [
+    "best-practices",
+    "es6",
+    "eslint",
+    "express",
+    "expressjs",
+    "javascript",
+    "jest",
+    "microservices",
+    "mocha",
+    "node-js",
+    "nodejs",
+    "nodejs-development",
+    "npm",
+    "rest",
+    "style-guide",
+    "styleguide",
+    "testing",
+    "types"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8571500?v=4",
+  "languages": {
+    "Dockerfile": 0.88,
+    "TypeScript": 0.12
+  },
+  "readmeExcerpt": "[✔]: assets/images/checkbox-small-blue.png",
+  "summary": {
+    "mode": "template",
+    "text": "nodebestpractices is a Dockerfile project focused on ✅ The Node.js best practices list (July 2026). It is tagged with best-practices, es6, and eslint."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-06-16",
+      "stars": 105326
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/goldbergyoni/nodebestpractices",
+    "homepage": "https://twitter.com/nodepractices/"
+  }
+}

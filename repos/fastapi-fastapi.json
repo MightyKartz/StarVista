@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 99201,
+  "stars": 99228,
   "forks": 9437,
-  "openIssues": 104,
-  "pushedAt": "2026-06-15T06:59:05Z",
+  "openIssues": 93,
+  "pushedAt": "2026-06-15T22:12:19Z",
   "topics": [
     "api",
     "async",
@@ -40,8 +40,8 @@
   "languages": {
     "Python": 1,
     "JavaScript": 0,
-    "Shell": 0,
     "HTML": 0,
+    "Shell": 0,
     "CSS": 0
   },
   "readmeExcerpt": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
@@ -50,6 +50,11 @@
     "text": "fastapi is a Python project focused on FastAPI framework, high performance, easy to learn, fast to code, ready for production. It is tagged with api, async, and asyncio."
   },
   "releases": [
+    {
+      "tag": "0.137.1",
+      "name": "0.137.1",
+      "publishedAt": "2026-06-15T11:27:57Z"
+    },
     {
       "tag": "0.137.0",
       "name": "0.137.0",
@@ -69,11 +74,6 @@
       "tag": "0.136.1",
       "name": "0.136.1",
       "publishedAt": "2026-04-23T16:49:26Z"
-    },
-    {
-      "tag": "0.136.0",
-      "name": "0.136.0",
-      "publishedAt": "2026-04-16T11:46:49Z"
     }
   ],
   "starHistory": [
@@ -88,6 +88,10 @@
     {
       "date": "2026-06-15",
       "stars": 99201
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 99228
     }
   ],
   "links": {

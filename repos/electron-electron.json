@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 121636,
-  "forks": 17251,
-  "openIssues": 878,
-  "pushedAt": "2026-06-15T05:33:59Z",
+  "stars": 121646,
+  "forks": 17253,
+  "openIssues": 879,
+  "pushedAt": "2026-06-16T03:49:25Z",
   "topics": [
     "c-plus-plus",
     "chrome",
@@ -46,6 +46,11 @@
   },
   "releases": [
     {
+      "tag": "v43.0.0-beta.4",
+      "name": "electron v43.0.0-beta.4",
+      "publishedAt": "2026-06-16T00:50:15Z"
+    },
+    {
       "tag": "v43.0.0-beta.3",
       "name": "electron v43.0.0-beta.3",
       "publishedAt": "2026-06-12T01:23:18Z"
@@ -64,11 +69,6 @@
       "tag": "v40.10.3",
       "name": "electron v40.10.3",
       "publishedAt": "2026-06-09T20:22:10Z"
-    },
-    {
-      "tag": "v43.0.0-beta.2",
-      "name": "electron v43.0.0-beta.2",
-      "publishedAt": "2026-06-09T00:30:23Z"
     }
   ],
   "starHistory": [
@@ -83,6 +83,10 @@
     {
       "date": "2026-06-15",
       "stars": 121636
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 121646
     }
   ],
   "links": {

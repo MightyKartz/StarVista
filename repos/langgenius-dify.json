@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 145263,
-  "forks": 22851,
+  "stars": 145404,
+  "forks": 22868,
   "openIssues": 754,
-  "pushedAt": "2026-06-15T07:24:34Z",
+  "pushedAt": "2026-06-16T07:29:49Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -46,10 +46,10 @@
     "HTML": 0,
     "Shell": 0,
     "Makefile": 0,
+    "PowerShell": 0,
     "Gherkin": 0,
     "Dockerfile": 0,
     "PHP": 0,
-    "PowerShell": 0,
     "Mako": 0
   },
   "readmeExcerpt": "Dify Cloud · Self-hosting · Documentation · Dify edition overview",
@@ -96,6 +96,10 @@
     {
       "date": "2026-06-15",
       "stars": 145263
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 145404
     }
   ],
   "links": {

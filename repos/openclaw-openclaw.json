@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 378754,
-  "forks": 79231,
-  "openIssues": 6505,
-  "pushedAt": "2026-06-15T07:20:49Z",
+  "stars": 378935,
+  "forks": 79288,
+  "openIssues": 6281,
+  "pushedAt": "2026-06-16T07:28:54Z",
   "topics": [
     "ai",
     "assistant",
@@ -35,8 +35,8 @@
     "Python": 0,
     "PowerShell": 0,
     "HTML": 0,
-    "Dockerfile": 0,
-    "Ruby": 0
+    "Ruby": 0,
+    "Dockerfile": 0
   },
   "readmeExcerpt": "EXFOLIATE! EXFOLIATE!",
   "summary": {
@@ -44,6 +44,11 @@
     "text": "openclaw is a TypeScript project focused on Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 . It is tagged with ai, assistant, and crustacean."
   },
   "releases": [
+    {
+      "tag": "v2026.6.8-beta.2",
+      "name": "openclaw 2026.6.8-beta.2",
+      "publishedAt": "2026-06-16T01:50:19Z"
+    },
     {
       "tag": "v2026.6.8-beta.1",
       "name": "openclaw 2026.6.8-beta.1",
@@ -63,11 +68,6 @@
       "tag": "v2026.6.6-beta.2",
       "name": "openclaw 2026.6.6-beta.2",
       "publishedAt": "2026-06-12T03:32:42Z"
-    },
-    {
-      "tag": "v2026.6.6-beta.1",
-      "name": "OpenClaw 2026.6.6-beta.1",
-      "publishedAt": "2026-06-10T19:33:39Z"
     }
   ],
   "starHistory": [
@@ -82,6 +82,10 @@
     {
       "date": "2026-06-15",
       "stars": 378754
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 378935
     }
   ],
   "links": {

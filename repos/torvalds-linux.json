@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C",
   "languageColor": "#555555",
-  "stars": 236456,
-  "forks": 62712,
+  "stars": 236558,
+  "forks": 62732,
   "openIssues": 3,
-  "pushedAt": "2026-06-15T03:44:45Z",
+  "pushedAt": "2026-06-16T07:06:51Z",
   "topics": [],
   "license": null,
   "activity": "active",
@@ -19,8 +19,8 @@
   "languages": {
     "C": 0.98,
     "Assembly": 0.01,
-    "Shell": 0,
     "Rust": 0,
+    "Shell": 0,
     "Python": 0,
     "Makefile": 0,
     "Perl": 0,
@@ -39,6 +39,7 @@
     "Clojure": 0,
     "sed": 0,
     "MATLAB": 0,
+    "CSS": 0,
     "XS": 0,
     "RPC": 0
   },
@@ -60,6 +61,10 @@
     {
       "date": "2026-06-15",
       "stars": 236456
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 236558
     }
   ],
   "links": {

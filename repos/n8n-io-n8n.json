@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 192564,
-  "forks": 58557,
-  "openIssues": 1488,
-  "pushedAt": "2026-06-15T07:23:21Z",
+  "stars": 192721,
+  "forks": 58586,
+  "openIssues": 1477,
+  "pushedAt": "2026-06-16T07:29:33Z",
   "topics": [
     "ai",
     "apis",
@@ -63,29 +63,29 @@
   },
   "releases": [
     {
+      "tag": "n8n@1.123.56",
+      "name": "n8n@1.123.56",
+      "publishedAt": "2026-06-15T11:29:30Z"
+    },
+    {
+      "tag": "n8n@2.26.4",
+      "name": "n8n@2.26.4",
+      "publishedAt": "2026-06-15T11:22:06Z"
+    },
+    {
+      "tag": "beta",
+      "name": "beta",
+      "publishedAt": "2026-06-15T11:22:07Z"
+    },
+    {
       "tag": "n8n@2.26.3",
       "name": "n8n@2.26.3",
       "publishedAt": "2026-06-11T14:56:45Z"
     },
     {
-      "tag": "beta",
-      "name": "beta",
-      "publishedAt": "2026-06-11T14:56:47Z"
-    },
-    {
       "tag": "stable",
       "name": "stable",
       "publishedAt": "2026-06-10T09:00:19Z"
-    },
-    {
-      "tag": "n8n@2.25.7",
-      "name": "n8n@2.25.7",
-      "publishedAt": "2026-06-10T09:00:17Z"
-    },
-    {
-      "tag": "n8n@1.123.55",
-      "name": "n8n@1.123.55",
-      "publishedAt": "2026-06-10T09:19:10Z"
     }
   ],
   "starHistory": [
@@ -100,6 +100,10 @@
     {
       "date": "2026-06-15",
       "stars": 192564
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 192721
     }
   ],
   "links": {

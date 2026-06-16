@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 140003,
-  "forks": 31222,
-  "openIssues": 4082,
-  "pushedAt": "2026-06-15T06:52:15Z",
+  "stars": 140032,
+  "forks": 31225,
+  "openIssues": 4077,
+  "pushedAt": "2026-06-16T07:29:25Z",
   "topics": [
     "blog",
     "browser",
@@ -54,6 +54,11 @@
   },
   "releases": [
     {
+      "tag": "v16.3.0-canary.52",
+      "name": "v16.3.0-canary.52",
+      "publishedAt": "2026-06-16T00:16:03Z"
+    },
+    {
       "tag": "v16.3.0-canary.51",
       "name": "v16.3.0-canary.51",
       "publishedAt": "2026-06-14T00:00:26Z"
@@ -72,11 +77,6 @@
       "tag": "v16.3.0-preview.3",
       "name": "v16.3.0-preview.3",
       "publishedAt": "2026-06-10T14:15:07Z"
-    },
-    {
-      "tag": "v16.3.0-canary.48",
-      "name": "v16.3.0-canary.48",
-      "publishedAt": "2026-06-10T22:49:47Z"
     }
   ],
   "starHistory": [
@@ -91,6 +91,10 @@
     {
       "date": "2026-06-15",
       "stars": 140003
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 140032
     }
   ],
   "links": {
