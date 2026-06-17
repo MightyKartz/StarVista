@@ -2,7 +2,7 @@ name: Update Data
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '17 2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -53,6 +53,11 @@ jobs:
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           DATA_DIR: public/data
         run: npm run data:update
+
+      - name: Verify generated data
+        env:
+          DATA_DIR: public/data
+        run: npm run verify:data
 
       - name: Commit data branch
         run: |

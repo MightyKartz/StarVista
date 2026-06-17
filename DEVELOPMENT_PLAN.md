@@ -7,6 +7,27 @@ Date: 2026-06-13
 
 ---
 
+## 当前实现状态（2026-06-17）
+
+StarVista 已进入数据可靠性同步阶段。Phase 0-5 的主要实现路径已基本完成并通过当前分支验证：Astro/TypeScript 站点、数据管道、每日快照、静态页面、嵌入资产、趋势计算代码和可选摘要路径都已有实现基础。
+
+数据现状：
+
+- GitHub 仓库为 [MightyKartz/StarVista](https://github.com/MightyKartz/StarVista.git)。
+- `data` 是 orphan 分支，只保存生成数据，不回灌到主源码分支。
+- 截至 2026-06-17，`data` 分支包含 102 个仓库和 5 个快照：2026-06-13、2026-06-14、2026-06-15、2026-06-16、2026-06-17。
+- 2026-06-17 的 `Update Data` workflow 及随后触发的 `Deploy` workflow 已成功。
+- 快照从 2026-06-13 开始积累，没有历史 backfill。
+
+阶段状态：
+
+- Phase 0-3：主要功能已实现并可按当前数据分支验证。
+- Phase 4：趋势计算与展示代码已实现，但真实 7-day trend validation 必须等 2026-06-20 快照生成后进行；在此之前不得把 `starDelta7d` 或 `fast-rising` 当作完整 7 天历史结果。
+- Phase 5：可选 AI 摘要路径按默认关闭策略处理；不影响无 key 的数据生成和部署。
+- 数据可靠性更新正在把 `npm run verify:data` 纳入生成后、部署前的校验流程；落地时需保证脚本与 workflow 同步存在。
+
+---
+
 ## 0. 已拍板的决策（不再讨论）
 
 | 决策点         | 结论                                                | 理由                      |
