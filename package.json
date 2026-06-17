@@ -13,6 +13,7 @@
     "fetch": "tsx scripts/fetch-repos.ts",
     "snapshot": "tsx scripts/write-snapshot.ts",
     "build:data": "tsx scripts/build-data.ts",
+    "verify:data": "tsx scripts/verify-data.ts",
     "data:update": "npm run fetch && npm run snapshot && npm run build:data",
     "test": "vitest run",
     "test:watch": "vitest",

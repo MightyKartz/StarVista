@@ -6,6 +6,27 @@ Date: 2026-06-13
 
 GitHub repository: [MightyKartz/StarVista](https://github.com/MightyKartz/StarVista.git)
 
+## Current Data Reliability Status
+
+As of 2026-06-17, the `data` orphan branch contains the generated site data: 102 repositories and 5 daily snapshots dated 2026-06-13 through 2026-06-17. The `Update Data` workflow and the subsequent `Deploy` workflow succeeded on 2026-06-17.
+
+### Daily Automatic Data Update
+
+GitHub Actions updates StarVista data once per day. The workflow fetches current GitHub repository metadata, writes a new compact daily snapshot, rebuilds derived JSON, commits the result to the orphan `data` branch, and then deploys the static site to GitHub Pages. The main source branch stays small because generated `manifest.json`, `repos/`, and `snapshots/` files live on `data`.
+
+### Data Verification
+
+This reliability update wires the workflow around `npm run verify:data`, which should be run after data generation and before deploy. The check is intended to validate the generated manifest, repository files, and snapshot set before those files are published.
+
+### Trend Validation Checklist
+
+7-day trend validation cannot be treated as real until the 2026-06-20 snapshot exists. After that snapshot is generated:
+
+- Confirm snapshots cover 2026-06-13 through 2026-06-20 without gaps.
+- Run `npm run verify:data` against the generated `data` branch contents.
+- Confirm `starDelta7d`, `fast-rising`, "Rising", and sparkline behavior use actual 7-day history.
+- Do not backfill or invent older snapshots; the current history starts on 2026-06-13.
+
 ## 1. Project Name
 
 **StarVista**
