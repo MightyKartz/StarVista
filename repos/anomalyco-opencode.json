@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 175015,
-  "forks": 21203,
-  "openIssues": 7143,
-  "pushedAt": "2026-06-16T06:58:09Z",
+  "stars": 175405,
+  "forks": 21293,
+  "openIssues": 7103,
+  "pushedAt": "2026-06-17T06:28:22Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
@@ -18,7 +18,7 @@
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66570915?v=4",
   "languages": {
     "TypeScript": 0.69,
-    "MDX": 0.28,
+    "MDX": 0.27,
     "CSS": 0.03,
     "HTML": 0,
     "JavaScript": 0,
@@ -76,6 +76,10 @@
     {
       "date": "2026-06-16",
       "stars": 175015
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 175405
     }
   ],
   "links": {

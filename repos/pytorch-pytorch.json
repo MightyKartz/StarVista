@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 100807,
+  "stars": 100821,
   "forks": 28027,
-  "openIssues": 18353,
-  "pushedAt": "2026-06-16T07:29:03Z",
+  "openIssues": 18359,
+  "pushedAt": "2026-06-17T06:57:00Z",
   "topics": [
     "autograd",
     "deep-learning",
@@ -46,8 +46,8 @@
     "Dockerfile": 0,
     "Objective-C": 0,
     "Makefile": 0,
-    "PowerShell": 0,
     "Thrift": 0,
+    "PowerShell": 0,
     "GDB": 0,
     "Linker Script": 0,
     "HTML": 0,
@@ -101,6 +101,10 @@
     {
       "date": "2026-06-16",
       "stars": 100807
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 100821
     }
   ],
   "links": {

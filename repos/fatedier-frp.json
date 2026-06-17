@@ -7,8 +7,8 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 107359,
-  "forks": 15063,
+  "stars": 107391,
+  "forks": 15065,
   "openIssues": 46,
   "pushedAt": "2026-06-03T06:08:49Z",
   "topics": [
@@ -24,7 +24,7 @@
     "tunnel"
   ],
   "license": "Apache-2.0",
-  "activity": "active",
+  "activity": "stable",
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7346661?v=4",
   "languages": {
@@ -86,6 +86,10 @@
     {
       "date": "2026-06-16",
       "stars": 107359
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 107391
     }
   ],
   "links": {

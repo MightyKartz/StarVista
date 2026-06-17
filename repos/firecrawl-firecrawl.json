@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 133319,
-  "forks": 7811,
-  "openIssues": 385,
-  "pushedAt": "2026-06-16T06:53:52Z",
+  "stars": 133755,
+  "forks": 7831,
+  "openIssues": 388,
+  "pushedAt": "2026-06-17T02:34:07Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -42,7 +42,7 @@
     "Rust": 0.05,
     "Java": 0.03,
     "PHP": 0.02,
-    "Elixir": 0.01,
+    "Elixir": 0.02,
     "C#": 0.01,
     "Go": 0.01,
     "Ruby": 0.01,
@@ -105,6 +105,10 @@
     {
       "date": "2026-06-16",
       "stars": 133319
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 133755
     }
   ],
   "links": {

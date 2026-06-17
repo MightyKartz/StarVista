@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 121646,
+  "stars": 121654,
   "forks": 17253,
-  "openIssues": 879,
-  "pushedAt": "2026-06-16T03:49:25Z",
+  "openIssues": 870,
+  "pushedAt": "2026-06-17T07:04:21Z",
   "topics": [
     "c-plus-plus",
     "chrome",
@@ -46,6 +46,21 @@
   },
   "releases": [
     {
+      "tag": "v42.4.1",
+      "name": "electron v42.4.1",
+      "publishedAt": "2026-06-16T18:28:21Z"
+    },
+    {
+      "tag": "v41.8.0",
+      "name": "electron v41.8.0",
+      "publishedAt": "2026-06-16T19:29:55Z"
+    },
+    {
+      "tag": "v40.10.4",
+      "name": "electron v40.10.4",
+      "publishedAt": "2026-06-16T17:56:54Z"
+    },
+    {
       "tag": "v43.0.0-beta.4",
       "name": "electron v43.0.0-beta.4",
       "publishedAt": "2026-06-16T00:50:15Z"
@@ -54,21 +69,6 @@
       "tag": "v43.0.0-beta.3",
       "name": "electron v43.0.0-beta.3",
       "publishedAt": "2026-06-12T01:23:18Z"
-    },
-    {
-      "tag": "v42.4.0",
-      "name": "electron v42.4.0",
-      "publishedAt": "2026-06-09T08:30:31Z"
-    },
-    {
-      "tag": "v41.7.2",
-      "name": "electron v41.7.2",
-      "publishedAt": "2026-06-09T20:36:54Z"
-    },
-    {
-      "tag": "v40.10.3",
-      "name": "electron v40.10.3",
-      "publishedAt": "2026-06-09T20:22:10Z"
     }
   ],
   "starHistory": [
@@ -87,6 +87,10 @@
     {
       "date": "2026-06-16",
       "stars": 121646
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 121654
     }
   ],
   "links": {

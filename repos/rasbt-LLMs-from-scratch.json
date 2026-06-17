@@ -7,8 +7,8 @@
   "archived": false,
   "primaryLanguage": "Jupyter Notebook",
   "languageColor": null,
-  "stars": 97251,
-  "forks": 14876,
+  "stars": 97282,
+  "forks": 14883,
   "openIssues": 3,
   "pushedAt": "2026-06-02T14:14:19Z",
   "topics": [
@@ -33,7 +33,7 @@
     "transformers"
   ],
   "license": null,
-  "activity": "active",
+  "activity": "stable",
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5618407?v=4",
   "languages": {
@@ -63,6 +63,10 @@
     {
       "date": "2026-06-16",
       "stars": 97251
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 97282
     }
   ],
   "links": {

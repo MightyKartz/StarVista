@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 99228,
-  "forks": 9437,
-  "openIssues": 93,
-  "pushedAt": "2026-06-15T22:12:19Z",
+  "stars": 99299,
+  "forks": 9441,
+  "openIssues": 94,
+  "pushedAt": "2026-06-16T20:10:13Z",
   "topics": [
     "api",
     "async",
@@ -40,8 +40,8 @@
   "languages": {
     "Python": 1,
     "JavaScript": 0,
-    "HTML": 0,
     "Shell": 0,
+    "HTML": 0,
     "CSS": 0
   },
   "readmeExcerpt": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
@@ -92,6 +92,10 @@
     {
       "date": "2026-06-16",
       "stars": 99228
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 99299
     }
   ],
   "links": {

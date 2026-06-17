@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 132651,
-  "forks": 21471,
-  "openIssues": 8995,
-  "pushedAt": "2026-06-15T21:35:54Z",
+  "stars": 132906,
+  "forks": 21500,
+  "openIssues": 8934,
+  "pushedAt": "2026-06-16T20:44:35Z",
   "topics": [],
   "license": null,
   "activity": "active",
@@ -30,6 +30,11 @@
   },
   "releases": [
     {
+      "tag": "v2.1.179",
+      "name": "v2.1.179",
+      "publishedAt": "2026-06-16T20:22:14Z"
+    },
+    {
       "tag": "v2.1.178",
       "name": "v2.1.178",
       "publishedAt": "2026-06-15T21:35:55Z"
@@ -48,11 +53,6 @@
       "tag": "v2.1.175",
       "name": "v2.1.175",
       "publishedAt": "2026-06-12T04:23:51Z"
-    },
-    {
-      "tag": "v2.1.174",
-      "name": "v2.1.174",
-      "publishedAt": "2026-06-12T01:16:36Z"
     }
   ],
   "starHistory": [
@@ -71,6 +71,10 @@
     {
       "date": "2026-06-16",
       "stars": 132651
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 132906
     }
   ],
   "links": {

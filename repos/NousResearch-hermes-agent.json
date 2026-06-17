@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 194735,
-  "forks": 34167,
-  "openIssues": 20964,
-  "pushedAt": "2026-06-16T06:10:54Z",
+  "stars": 195617,
+  "forks": 34365,
+  "openIssues": 21357,
+  "pushedAt": "2026-06-17T07:12:51Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -38,9 +38,9 @@
     "TypeScript": 0.14,
     "JavaScript": 0.01,
     "TeX": 0.01,
-    "Shell": 0,
-    "BibTeX Style": 0,
+    "Shell": 0.01,
     "PowerShell": 0,
+    "BibTeX Style": 0,
     "Rust": 0,
     "Nix": 0,
     "HTML": 0,
@@ -100,6 +100,10 @@
     {
       "date": "2026-06-16",
       "stars": 194735
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 195617
     }
   ],
   "links": {

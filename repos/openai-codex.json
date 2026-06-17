@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 91102,
-  "forks": 13456,
-  "openIssues": 6951,
-  "pushedAt": "2026-06-15T06:35:56Z",
+  "stars": 91604,
+  "forks": 13530,
+  "openIssues": 7131,
+  "pushedAt": "2026-06-17T06:38:52Z",
   "topics": [],
   "license": "Apache-2.0",
   "activity": "active",
@@ -19,8 +19,8 @@
   "languages": {
     "Rust": 0.96,
     "Python": 0.03,
-    "TypeScript": 0,
     "Starlark": 0,
+    "TypeScript": 0,
     "Shell": 0,
     "PowerShell": 0,
     "JavaScript": 0,
@@ -39,29 +39,29 @@
   },
   "releases": [
     {
-      "tag": "rust-v0.140.0-alpha.19",
-      "name": "0.140.0-alpha.19",
-      "publishedAt": "2026-06-14T02:03:02Z"
+      "tag": "rust-v0.141.0-alpha.4",
+      "name": "0.141.0-alpha.4",
+      "publishedAt": "2026-06-17T00:28:20Z"
     },
     {
-      "tag": "rust-v0.140.0-alpha.18",
-      "name": "0.140.0-alpha.18",
-      "publishedAt": "2026-06-13T17:30:26Z"
+      "tag": "rust-v0.141.0-alpha.3",
+      "name": "0.141.0-alpha.3",
+      "publishedAt": "2026-06-16T06:07:17Z"
     },
     {
-      "tag": "rust-v0.140.0-alpha.17",
-      "name": "0.140.0-alpha.17",
-      "publishedAt": "2026-06-13T01:20:26Z"
+      "tag": "rust-v0.141.0-alpha.2",
+      "name": "0.141.0-alpha.2",
+      "publishedAt": "2026-06-16T01:48:41Z"
     },
     {
-      "tag": "rust-v0.140.0-alpha.16",
-      "name": "0.140.0-alpha.16",
-      "publishedAt": "2026-06-12T19:03:37Z"
+      "tag": "rust-v0.141.0-alpha.1",
+      "name": "0.141.0-alpha.1",
+      "publishedAt": "2026-06-16T01:00:22Z"
     },
     {
-      "tag": "rust-v0.140.0-alpha.15",
-      "name": "0.140.0-alpha.15",
-      "publishedAt": "2026-06-12T17:05:02Z"
+      "tag": "rust-v0.140.0",
+      "name": "0.140.0",
+      "publishedAt": "2026-06-15T21:06:37Z"
     }
   ],
   "starHistory": [
@@ -72,6 +72,10 @@
     {
       "date": "2026-06-16",
       "stars": 91102
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 91604
     }
   ],
   "links": {

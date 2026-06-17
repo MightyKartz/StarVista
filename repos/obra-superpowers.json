@@ -7,22 +7,22 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 229149,
-  "forks": 20386,
-  "openIssues": 284,
-  "pushedAt": "2026-06-16T05:34:02Z",
+  "stars": 230205,
+  "forks": 20467,
+  "openIssues": 285,
+  "pushedAt": "2026-06-17T05:46:48Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45416?v=4",
   "languages": {
-    "Shell": 0.66,
-    "JavaScript": 0.25,
-    "HTML": 0.03,
-    "Python": 0.03,
-    "TypeScript": 0.02,
-    "Batchfile": 0.01
+    "Shell": 0.51,
+    "JavaScript": 0.42,
+    "TypeScript": 0.03,
+    "HTML": 0.02,
+    "Python": 0.02,
+    "Batchfile": 0
   },
   "readmeExcerpt": "Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.",
   "summary": {
@@ -30,6 +30,16 @@
     "text": "superpowers is a Shell project focused on An agentic skills framework & software development methodology that works."
   },
   "releases": [
+    {
+      "tag": "v6.0.2",
+      "name": "v6.0.2",
+      "publishedAt": "2026-06-17T05:43:37Z"
+    },
+    {
+      "tag": "v6.0.0",
+      "name": "v6.0.0",
+      "publishedAt": "2026-06-16T17:47:24Z"
+    },
     {
       "tag": "v5.1.0",
       "name": "v5.1.0",
@@ -44,16 +54,6 @@
       "tag": "v5.0.6",
       "name": "v5.0.6",
       "publishedAt": "2026-03-25T18:08:59Z"
-    },
-    {
-      "tag": "v5.0.5",
-      "name": "v5.0.5",
-      "publishedAt": "2026-03-17T22:02:22Z"
-    },
-    {
-      "tag": "v5.0.4",
-      "name": "v5.0.4",
-      "publishedAt": "2026-03-17T00:56:28Z"
     }
   ],
   "starHistory": [
@@ -72,6 +72,10 @@
     {
       "date": "2026-06-16",
       "stars": 229149
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 230205
     }
   ],
   "links": {
