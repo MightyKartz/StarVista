@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 103565,
-  "forks": 5877,
-  "openIssues": 653,
-  "pushedAt": "2026-06-17T07:01:25Z",
+  "stars": 103645,
+  "forks": 5883,
+  "openIssues": 644,
+  "pushedAt": "2026-06-18T05:01:27Z",
   "topics": [
     "backup-tool",
     "flutter",
@@ -63,6 +63,11 @@
   },
   "releases": [
     {
+      "tag": "v3.0.0-rc.1",
+      "name": "v3.0.0-rc.1",
+      "publishedAt": "2026-06-17T14:52:20Z"
+    },
+    {
       "tag": "v3.0.0-rc.0",
       "name": "v3.0.0-rc.0",
       "publishedAt": "2026-06-15T14:38:42Z"
@@ -81,11 +86,6 @@
       "tag": "v2.7.3",
       "name": "v2.7.3",
       "publishedAt": "2026-04-09T18:12:42Z"
-    },
-    {
-      "tag": "v2.7.2",
-      "name": "v2.7.2",
-      "publishedAt": "2026-04-07T21:20:31Z"
     }
   ],
   "starHistory": [
@@ -108,6 +108,10 @@
     {
       "date": "2026-06-17",
       "stars": 103565
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 103645
     }
   ],
   "links": {

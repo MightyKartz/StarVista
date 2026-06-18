@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 91604,
-  "forks": 13530,
-  "openIssues": 7131,
-  "pushedAt": "2026-06-17T06:38:52Z",
+  "stars": 91855,
+  "forks": 13576,
+  "openIssues": 7249,
+  "pushedAt": "2026-06-18T07:04:26Z",
   "topics": [],
   "license": "Apache-2.0",
   "activity": "active",
@@ -39,29 +39,29 @@
   },
   "releases": [
     {
-      "tag": "rust-v0.141.0-alpha.4",
-      "name": "0.141.0-alpha.4",
-      "publishedAt": "2026-06-17T00:28:20Z"
+      "tag": "rust-v0.141.0",
+      "name": "0.141.0",
+      "publishedAt": "2026-06-18T04:43:06Z"
     },
     {
-      "tag": "rust-v0.141.0-alpha.3",
-      "name": "0.141.0-alpha.3",
-      "publishedAt": "2026-06-16T06:07:17Z"
+      "tag": "rust-v0.142.0-alpha.1",
+      "name": "0.142.0-alpha.1",
+      "publishedAt": "2026-06-18T05:51:20Z"
     },
     {
-      "tag": "rust-v0.141.0-alpha.2",
-      "name": "0.141.0-alpha.2",
-      "publishedAt": "2026-06-16T01:48:41Z"
+      "tag": "rust-v0.141.0-alpha.7",
+      "name": "0.141.0-alpha.7",
+      "publishedAt": "2026-06-18T01:02:30Z"
     },
     {
-      "tag": "rust-v0.141.0-alpha.1",
-      "name": "0.141.0-alpha.1",
-      "publishedAt": "2026-06-16T01:00:22Z"
+      "tag": "rust-v0.141.0-alpha.6",
+      "name": "0.141.0-alpha.6",
+      "publishedAt": "2026-06-17T19:52:37Z"
     },
     {
-      "tag": "rust-v0.140.0",
-      "name": "0.140.0",
-      "publishedAt": "2026-06-15T21:06:37Z"
+      "tag": "rust-v0.141.0-alpha.5",
+      "name": "0.141.0-alpha.5",
+      "publishedAt": "2026-06-17T09:23:57Z"
     }
   ],
   "starHistory": [
@@ -76,6 +76,10 @@
     {
       "date": "2026-06-17",
       "stars": 91604
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 91855
     }
   ],
   "links": {

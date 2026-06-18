@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 116305,
-  "forks": 17588,
+  "stars": 116362,
+  "forks": 17599,
   "openIssues": 127,
-  "pushedAt": "2026-06-17T06:36:53Z",
+  "pushedAt": "2026-06-18T04:10:14Z",
   "topics": [
     "android",
     "anydesk",
@@ -61,6 +61,11 @@
   },
   "releases": [
     {
+      "tag": "nightly",
+      "name": "nightly",
+      "publishedAt": "2026-06-17T14:11:46Z"
+    },
+    {
       "tag": "1.4.7",
       "name": "1.4.7",
       "publishedAt": "2026-06-02T15:36:22Z"
@@ -69,11 +74,6 @@
       "tag": "1.4.6",
       "name": "1.4.6",
       "publishedAt": "2026-03-05T05:05:30Z"
-    },
-    {
-      "tag": "nightly",
-      "name": "nightly",
-      "publishedAt": "2026-03-01T14:49:39Z"
     },
     {
       "tag": "1.4.5",
@@ -106,6 +106,10 @@
     {
       "date": "2026-06-17",
       "stars": 116305
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 116362
     }
   ],
   "links": {

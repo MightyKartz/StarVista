@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 100392,
-  "forks": 27178,
+  "stars": 100360,
+  "forks": 27179,
   "openIssues": 1172,
-  "pushedAt": "2026-06-16T18:13:06Z",
+  "pushedAt": "2026-06-17T21:16:11Z",
   "topics": [
     "angular",
     "javascript",
@@ -41,6 +41,16 @@
   },
   "releases": [
     {
+      "tag": "v22.1.0-next.1",
+      "name": "22.1.0-next.1",
+      "publishedAt": "2026-06-17T21:16:12Z"
+    },
+    {
+      "tag": "v22.0.2",
+      "name": "22.0.2",
+      "publishedAt": "2026-06-17T21:08:12Z"
+    },
+    {
       "tag": "vsix-22.0.1",
       "name": "VSCode Extension: 22.0.1",
       "publishedAt": "2026-06-11T18:26:37Z"
@@ -54,16 +64,6 @@
       "tag": "v22.0.1",
       "name": "22.0.1",
       "publishedAt": "2026-06-10T20:16:29Z"
-    },
-    {
-      "tag": "v21.2.17",
-      "name": "21.2.17",
-      "publishedAt": "2026-06-10T19:54:28Z"
-    },
-    {
-      "tag": "v20.3.25",
-      "name": "20.3.25",
-      "publishedAt": "2026-06-10T19:22:37Z"
     }
   ],
   "starHistory": [
@@ -86,6 +86,10 @@
     {
       "date": "2026-06-17",
       "stars": 100392
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 100360
     }
   ],
   "links": {

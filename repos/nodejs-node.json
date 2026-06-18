@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 117850,
-  "forks": 35704,
-  "openIssues": 2498,
-  "pushedAt": "2026-06-16T20:57:27Z",
+  "stars": 117832,
+  "forks": 35708,
+  "openIssues": 2489,
+  "pushedAt": "2026-06-18T05:06:33Z",
   "topics": [
     "javascript",
     "js",
@@ -50,6 +50,21 @@
   },
   "releases": [
     {
+      "tag": "v26.3.1",
+      "name": "2026-06-18, Version 26.3.1 (Current), @aduh95",
+      "publishedAt": "2026-06-18T04:37:39Z"
+    },
+    {
+      "tag": "v24.17.0",
+      "name": "2026-06-18, Version 24.17.0 'Krypton' (LTS), @aduh95",
+      "publishedAt": "2026-06-18T04:37:35Z"
+    },
+    {
+      "tag": "v22.23.0",
+      "name": "2026-06-18, Version 22.23.0 'Jod' (LTS), @aduh95",
+      "publishedAt": "2026-06-18T04:37:21Z"
+    },
+    {
       "tag": "v26.3.0",
       "name": "2026-06-01, Version 26.3.0 (Current), @aduh95",
       "publishedAt": "2026-06-01T13:10:59Z"
@@ -58,21 +73,6 @@
       "tag": "v24.16.0",
       "name": "2026-05-21, Version 24.16.0 'Krypton' (LTS), @aduh95",
       "publishedAt": "2026-05-21T13:24:48Z"
-    },
-    {
-      "tag": "v26.2.0",
-      "name": "2026-05-20, Version 26.2.0 (Current), @aduh95",
-      "publishedAt": "2026-05-20T13:02:36Z"
-    },
-    {
-      "tag": "v22.22.3",
-      "name": "2026-05-13, Version 22.22.3 'Jod' (LTS), @marco-ippolito",
-      "publishedAt": "2026-05-13T18:44:11Z"
-    },
-    {
-      "tag": "v26.1.0",
-      "name": "2026-05-07, Version 26.1.0 (Current), @aduh95",
-      "publishedAt": "2026-05-07T10:08:25Z"
     }
   ],
   "starHistory": [
@@ -95,6 +95,10 @@
     {
       "date": "2026-06-17",
       "stars": 117850
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 117832
     }
   ],
   "links": {

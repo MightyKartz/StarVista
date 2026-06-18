@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 100821,
-  "forks": 28027,
-  "openIssues": 18359,
-  "pushedAt": "2026-06-17T06:57:00Z",
+  "stars": 100845,
+  "forks": 28042,
+  "openIssues": 18321,
+  "pushedAt": "2026-06-18T06:58:28Z",
   "topics": [
     "autograd",
     "deep-learning",
@@ -60,6 +60,11 @@
   },
   "releases": [
     {
+      "tag": "v2.12.1",
+      "name": "PyTorch 2.12.1 Release, bug fix release",
+      "publishedAt": "2026-06-18T00:41:17Z"
+    },
+    {
       "tag": "v2.12.0",
       "name": "PyTorch 2.12.0 Release",
       "publishedAt": "2026-05-13T17:38:06Z"
@@ -78,11 +83,6 @@
       "tag": "v2.9.1",
       "name": "PyTorch 2.9.1 Release, bug fix release",
       "publishedAt": "2025-11-12T19:27:19Z"
-    },
-    {
-      "tag": "v2.9.0",
-      "name": "2.9 Release Notes",
-      "publishedAt": "2025-10-15T17:12:27Z"
     }
   ],
   "starHistory": [
@@ -105,6 +105,10 @@
     {
       "date": "2026-06-17",
       "stars": 100821
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 100845
     }
   ],
   "links": {

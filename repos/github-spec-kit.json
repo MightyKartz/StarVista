@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 112777,
-  "forks": 9956,
-  "openIssues": 396,
-  "pushedAt": "2026-06-16T23:07:32Z",
+  "stars": 113599,
+  "forks": 10020,
+  "openIssues": 387,
+  "pushedAt": "2026-06-17T23:16:19Z",
   "topics": [
     "ai",
     "copilot",
@@ -36,6 +36,11 @@
   },
   "releases": [
     {
+      "tag": "v0.11.1",
+      "name": "Spec Kit - 0.11.1",
+      "publishedAt": "2026-06-17T15:29:29Z"
+    },
+    {
       "tag": "v0.11.0",
       "name": "Spec Kit - 0.11.0",
       "publishedAt": "2026-06-16T23:05:46Z"
@@ -54,11 +59,6 @@
       "tag": "v0.10.2",
       "name": "Spec Kit - 0.10.2",
       "publishedAt": "2026-06-11T12:56:04Z"
-    },
-    {
-      "tag": "v0.10.1",
-      "name": "Spec Kit - 0.10.1",
-      "publishedAt": "2026-06-09T22:12:04Z"
     }
   ],
   "starHistory": [
@@ -81,6 +81,10 @@
     {
       "date": "2026-06-17",
       "stars": 112777
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 113599
     }
   ],
   "links": {

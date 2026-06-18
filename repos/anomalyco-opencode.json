@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 175405,
-  "forks": 21293,
-  "openIssues": 7103,
-  "pushedAt": "2026-06-17T06:28:22Z",
+  "stars": 175825,
+  "forks": 21376,
+  "openIssues": 7153,
+  "pushedAt": "2026-06-18T06:04:57Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
@@ -35,6 +35,11 @@
   },
   "releases": [
     {
+      "tag": "v1.17.8",
+      "name": "v1.17.8",
+      "publishedAt": "2026-06-17T21:27:18Z"
+    },
+    {
       "tag": "v1.17.7",
       "name": "v1.17.7",
       "publishedAt": "2026-06-14T18:49:23Z"
@@ -53,11 +58,6 @@
       "tag": "v1.17.4",
       "name": "v1.17.4",
       "publishedAt": "2026-06-12T02:19:40Z"
-    },
-    {
-      "tag": "v1.17.3",
-      "name": "v1.17.3",
-      "publishedAt": "2026-06-10T18:00:28Z"
     }
   ],
   "starHistory": [
@@ -80,6 +80,10 @@
     {
       "date": "2026-06-17",
       "stars": 175405
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 175825
     }
   ],
   "links": {

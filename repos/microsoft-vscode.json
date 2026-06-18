@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 186457,
-  "forks": 40489,
-  "openIssues": 18540,
-  "pushedAt": "2026-06-17T07:12:15Z",
+  "stars": 186480,
+  "forks": 40507,
+  "openIssues": 18555,
+  "pushedAt": "2026-06-18T06:48:42Z",
   "topics": [
     "editor",
     "electron",
@@ -78,6 +78,11 @@
   },
   "releases": [
     {
+      "tag": "1.125.0",
+      "name": "1.125.0",
+      "publishedAt": "2026-06-17T14:59:29Z"
+    },
+    {
       "tag": "1.124.2",
       "name": "1.124.2",
       "publishedAt": "2026-06-12T05:06:56Z"
@@ -96,11 +101,6 @@
       "tag": "1.123.1",
       "name": "1.123.1",
       "publishedAt": "2026-06-10T09:38:39Z"
-    },
-    {
-      "tag": "1.123.0",
-      "name": "1.123.0",
-      "publishedAt": "2026-06-05T08:50:41Z"
     }
   ],
   "starHistory": [
@@ -123,6 +123,10 @@
     {
       "date": "2026-06-17",
       "stars": 186457
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 186480
     }
   ],
   "links": {

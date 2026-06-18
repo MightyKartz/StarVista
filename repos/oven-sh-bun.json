@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 93301,
-  "forks": 4713,
-  "openIssues": 7189,
-  "pushedAt": "2026-06-17T06:57:48Z",
+  "stars": 93289,
+  "forks": 4712,
+  "openIssues": 7184,
+  "pushedAt": "2026-06-18T07:00:51Z",
   "topics": [
     "bun",
     "bundler",
@@ -33,7 +33,7 @@
     "Rust": 0.45,
     "Zig": 0.32,
     "C++": 0.14,
-    "TypeScript": 0.05,
+    "TypeScript": 0.06,
     "C": 0.02,
     "JavaScript": 0.01,
     "Shell": 0,
@@ -106,6 +106,10 @@
     {
       "date": "2026-06-17",
       "stars": 93301
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 93289
     }
   ],
   "links": {
