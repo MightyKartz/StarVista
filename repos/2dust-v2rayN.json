@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C#",
   "languageColor": null,
-  "stars": 109307,
-  "forks": 15370,
+  "stars": 109387,
+  "forks": 15375,
   "openIssues": 12,
-  "pushedAt": "2026-06-18T02:34:19Z",
+  "pushedAt": "2026-06-19T03:48:39Z",
   "topics": [
     "proxy",
     "shadowsocks",
@@ -29,8 +29,8 @@
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4",
   "languages": {
-    "C#": 0.91,
-    "Shell": 0.09
+    "C#": 0.92,
+    "Shell": 0.08
   },
   "readmeExcerpt": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
   "summary": {
@@ -88,6 +88,10 @@
     {
       "date": "2026-06-18",
       "stars": 109307
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 109387
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 186480,
-  "forks": 40507,
-  "openIssues": 18555,
-  "pushedAt": "2026-06-18T06:48:42Z",
+  "stars": 186549,
+  "forks": 40544,
+  "openIssues": 18618,
+  "pushedAt": "2026-06-19T07:24:06Z",
   "topics": [
     "editor",
     "electron",
@@ -24,7 +24,7 @@
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "TypeScript": 0.96,
-    "CSS": 0.01,
+    "CSS": 0.02,
     "JavaScript": 0.01,
     "HTML": 0.01,
     "Rust": 0,
@@ -127,6 +127,10 @@
     {
       "date": "2026-06-18",
       "stars": 186480
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 186549
     }
   ],
   "links": {

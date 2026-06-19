@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 117435,
-  "forks": 13730,
-  "openIssues": 4128,
-  "pushedAt": "2026-06-18T07:03:50Z",
+  "stars": 117533,
+  "forks": 13746,
+  "openIssues": 4135,
+  "pushedAt": "2026-06-19T06:44:06Z",
   "topics": [
     "ai",
     "comfy",
@@ -36,6 +36,11 @@
   },
   "releases": [
     {
+      "tag": "v0.25.1",
+      "name": "v0.25.1",
+      "publishedAt": "2026-06-18T18:32:30Z"
+    },
+    {
       "tag": "v0.25.0",
       "name": "v0.25.0",
       "publishedAt": "2026-06-16T17:05:41Z"
@@ -54,11 +59,6 @@
       "tag": "v0.22.0",
       "name": "v0.22.0",
       "publishedAt": "2026-05-20T19:26:20Z"
-    },
-    {
-      "tag": "v0.21.1",
-      "name": "v0.21.1",
-      "publishedAt": "2026-05-13T21:08:45Z"
     }
   ],
   "starHistory": [
@@ -85,6 +85,10 @@
     {
       "date": "2026-06-18",
       "stars": 117435
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 117533
     }
   ],
   "links": {

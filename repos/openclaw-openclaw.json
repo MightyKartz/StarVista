@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 379289,
-  "forks": 79405,
-  "openIssues": 6508,
-  "pushedAt": "2026-06-18T07:05:46Z",
+  "stars": 379429,
+  "forks": 79426,
+  "openIssues": 6466,
+  "pushedAt": "2026-06-19T07:26:10Z",
   "topics": [
     "ai",
     "assistant",
@@ -45,6 +45,11 @@
   },
   "releases": [
     {
+      "tag": "v2026.6.9-beta.1",
+      "name": "openclaw 2026.6.9-beta.1",
+      "publishedAt": "2026-06-19T05:52:39Z"
+    },
+    {
       "tag": "v2026.6.8",
       "name": "openclaw 2026.6.8",
       "publishedAt": "2026-06-16T16:32:26Z"
@@ -63,11 +68,6 @@
       "tag": "v2026.6.7-beta.1",
       "name": "openclaw 2026.6.7-beta.1",
       "publishedAt": "2026-06-13T09:42:35Z"
-    },
-    {
-      "tag": "v2026.6.6",
-      "name": "openclaw 2026.6.6",
-      "publishedAt": "2026-06-12T11:04:42Z"
     }
   ],
   "starHistory": [
@@ -94,6 +94,10 @@
     {
       "date": "2026-06-18",
       "stars": 379289
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 379429
     }
   ],
   "links": {
