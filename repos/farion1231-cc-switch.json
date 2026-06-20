@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 104350,
-  "forks": 6895,
-  "openIssues": 1499,
-  "pushedAt": "2026-06-18T18:39:26Z",
+  "stars": 104842,
+  "forks": 6935,
+  "openIssues": 1503,
+  "pushedAt": "2026-06-19T15:38:25Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -34,8 +34,8 @@
     "wsl-support"
   ],
   "license": "MIT",
-  "activity": "active",
-  "starDelta7d": null,
+  "activity": "fast-rising",
+  "starDelta7d": 5378,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.62,
@@ -104,6 +104,10 @@
     {
       "date": "2026-06-19",
       "stars": 104350
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 104842
     }
   ],
   "links": {

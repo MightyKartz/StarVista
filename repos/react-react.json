@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 245990,
-  "forks": 51072,
-  "openIssues": 1276,
-  "pushedAt": "2026-06-18T22:23:02Z",
+  "stars": 245956,
+  "forks": 51077,
+  "openIssues": 1283,
+  "pushedAt": "2026-06-19T17:14:02Z",
   "topics": [
     "declarative",
     "frontend",
@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": null,
+  "starDelta7d": 145,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102812?v=4",
   "languages": {
     "JavaScript": 0.49,
@@ -92,6 +92,10 @@
     {
       "date": "2026-06-19",
       "stars": 245990
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 245956
     }
   ],
   "links": {

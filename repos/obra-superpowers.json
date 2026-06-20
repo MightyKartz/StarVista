@@ -7,14 +7,23 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 232674,
-  "forks": 20663,
-  "openIssues": 269,
+  "stars": 233583,
+  "forks": 20740,
+  "openIssues": 271,
   "pushedAt": "2026-06-18T22:45:11Z",
-  "topics": [],
+  "topics": [
+    "ai",
+    "brainstorming",
+    "coding",
+    "obra",
+    "sdlc",
+    "skills",
+    "subagent-driven-development",
+    "superpowers"
+  ],
   "license": "MIT",
-  "activity": "active",
-  "starDelta7d": null,
+  "activity": "fast-rising",
+  "starDelta7d": 7449,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45416?v=4",
   "languages": {
     "Shell": 0.52,
@@ -27,7 +36,7 @@
   "readmeExcerpt": "Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.",
   "summary": {
     "mode": "template",
-    "text": "superpowers is a Shell project focused on An agentic skills framework & software development methodology that works."
+    "text": "superpowers is a Shell project focused on An agentic skills framework & software development methodology that works. It is tagged with ai, brainstorming, and coding."
   },
   "releases": [
     {
@@ -84,6 +93,10 @@
     {
       "date": "2026-06-19",
       "stars": 232674
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 233583
     }
   ],
   "links": {

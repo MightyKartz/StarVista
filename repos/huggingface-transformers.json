@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 161716,
-  "forks": 33543,
-  "openIssues": 2448,
-  "pushedAt": "2026-06-19T07:23:40Z",
+  "stars": 161742,
+  "forks": 33555,
+  "openIssues": 2440,
+  "pushedAt": "2026-06-19T18:03:02Z",
   "topics": [
     "audio",
     "deep-learning",
@@ -34,7 +34,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": null,
+  "starDelta7d": 193,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
   "languages": {
     "Python": 1,
@@ -56,7 +56,7 @@
     },
     {
       "tag": "v5.10.3",
-      "name": "Patch release v5.10.3",
+      "name": "Patch release v5.10.4",
       "publishedAt": "2026-06-15T17:29:39Z"
     },
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-06-19",
       "stars": 161716
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 161742
     }
   ],
   "links": {

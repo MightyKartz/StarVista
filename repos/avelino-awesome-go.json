@@ -7,8 +7,8 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 175816,
-  "forks": 13327,
+  "stars": 175896,
+  "forks": 13332,
   "openIssues": 195,
   "pushedAt": "2026-06-17T15:12:39Z",
   "topics": [
@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": null,
+  "starDelta7d": 615,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31996?v=4",
   "languages": {
     "Go": 1
@@ -60,6 +60,10 @@
     {
       "date": "2026-06-19",
       "stars": 175816
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 175896
     }
   ],
   "links": {

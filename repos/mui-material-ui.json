@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 98431,
-  "forks": 32599,
-  "openIssues": 1527,
-  "pushedAt": "2026-06-17T15:43:16Z",
+  "stars": 98434,
+  "forks": 32597,
+  "openIssues": 1534,
+  "pushedAt": "2026-06-19T22:32:12Z",
   "topics": [
     "design-system",
     "material-design",
@@ -20,11 +20,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": null,
+  "starDelta7d": 34,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/33663932?v=4",
   "languages": {
-    "JavaScript": 0.58,
-    "TypeScript": 0.42,
+    "JavaScript": 0.57,
+    "TypeScript": 0.43,
     "CSS": 0,
     "HTML": 0
   },
@@ -88,6 +88,10 @@
     {
       "date": "2026-06-19",
       "stars": 98431
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 98434
     }
   ],
   "links": {

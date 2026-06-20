@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 117857,
-  "forks": 35727,
-  "openIssues": 2501,
-  "pushedAt": "2026-06-18T20:12:49Z",
+  "stars": 117880,
+  "forks": 35732,
+  "openIssues": 2483,
+  "pushedAt": "2026-06-20T04:04:20Z",
   "topics": [
     "javascript",
     "js",
@@ -24,7 +24,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": null,
+  "starDelta7d": 140,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9950313?v=4",
   "languages": {
     "JavaScript": 0.65,
@@ -103,6 +103,10 @@
     {
       "date": "2026-06-19",
       "stars": 117857
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 117880
     }
   ],
   "links": {

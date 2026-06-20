@@ -7,8 +7,8 @@
   "archived": false,
   "primaryLanguage": null,
   "languageColor": null,
-  "stars": 174493,
-  "forks": 82397,
+  "stars": 174511,
+  "forks": 82394,
   "openIssues": 69,
   "pushedAt": "2026-05-21T23:49:32Z",
   "topics": [
@@ -17,7 +17,7 @@
   ],
   "license": "CC0-1.0",
   "activity": "stable",
-  "starDelta7d": null,
+  "starDelta7d": 91,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
   "languages": {},
   "readmeExcerpt": "This is GitHub’s collection of [.gitignore][man] file templates. We use this list to populate the .gitignore template choosers available in the GitHub.com interface when creating new repositories and files.",
@@ -54,6 +54,10 @@
     {
       "date": "2026-06-19",
       "stars": 174493
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 174511
     }
   ],
   "links": {

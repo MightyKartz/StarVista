@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 95662,
+  "stars": 95663,
   "forks": 5298,
-  "openIssues": 68,
-  "pushedAt": "2026-06-19T06:10:39Z",
+  "openIssues": 66,
+  "pushedAt": "2026-06-19T20:39:59Z",
   "topics": [
     "css",
     "css-framework",
@@ -22,11 +22,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": null,
+  "starDelta7d": 154,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4",
   "languages": {
     "TypeScript": 0.82,
-    "Rust": 0.15,
+    "Rust": 0.16,
     "JavaScript": 0.01,
     "CSS": 0.01,
     "HTML": 0.01,
@@ -92,6 +92,10 @@
     {
       "date": "2026-06-19",
       "stars": 95662
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 95663
     }
   ],
   "links": {

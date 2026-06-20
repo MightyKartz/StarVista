@@ -7,8 +7,8 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 113107,
-  "forks": 22718,
+  "stars": 113115,
+  "forks": 22719,
   "openIssues": 20,
   "pushedAt": "2026-05-28T14:43:01Z",
   "topics": [
@@ -21,7 +21,7 @@
   ],
   "license": "ISC",
   "activity": "stable",
-  "starDelta7d": null,
+  "starDelta7d": 35,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1562726?v=4",
   "languages": {
     "Shell": 0.92,
@@ -87,6 +87,10 @@
     {
       "date": "2026-06-19",
       "stars": 113107
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 113115
     }
   ],
   "links": {

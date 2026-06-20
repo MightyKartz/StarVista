@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 112769,
-  "forks": 25686,
-  "openIssues": 18444,
-  "pushedAt": "2026-06-18T20:20:21Z",
+  "stars": 112803,
+  "forks": 25700,
+  "openIssues": 18431,
+  "pushedAt": "2026-06-19T20:16:52Z",
   "topics": [
     "game-development",
     "game-engine",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": null,
+  "starDelta7d": 353,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6318500?v=4",
   "languages": {
     "C++": 0.87,
@@ -100,6 +100,10 @@
     {
       "date": "2026-06-19",
       "stars": 112769
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 112803
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 142207,
-  "forks": 20431,
-  "openIssues": 427,
-  "pushedAt": "2026-06-18T22:16:09Z",
+  "stars": 142313,
+  "forks": 20455,
+  "openIssues": 436,
+  "pushedAt": "2026-06-19T23:43:24Z",
   "topics": [
     "ai",
     "llm",
@@ -30,7 +30,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": null,
+  "starDelta7d": 1022,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/158137808?v=4",
   "languages": {
     "Python": 0.35,
@@ -105,6 +105,10 @@
     {
       "date": "2026-06-19",
       "stars": 142207
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 142313
     }
   ],
   "links": {
