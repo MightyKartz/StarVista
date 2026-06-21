@@ -1,0 +1,87 @@
+{
+  "id": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "slug": "nextlevelbuilder-ui-ux-pro-max-skill",
+  "owner": "nextlevelbuilder",
+  "name": "ui-ux-pro-max-skill",
+  "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 94454,
+  "forks": 9896,
+  "openIssues": 197,
+  "pushedAt": "2026-06-21T06:14:55Z",
+  "topics": [
+    "ai-skills",
+    "antigravity",
+    "claude",
+    "claude-code",
+    "codex",
+    "command-line",
+    "copilot",
+    "cursor-ai",
+    "html5",
+    "kiro",
+    "landing-page",
+    "mobile-ui",
+    "qoder",
+    "react",
+    "tailwindcss",
+    "trae",
+    "ui-design",
+    "uikit",
+    "windsurf-ai"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/246974152?v=4",
+  "languages": {
+    "Python": 0.78,
+    "JavaScript": 0.11,
+    "TypeScript": 0.07,
+    "HTML": 0.03
+  },
+  "readmeExcerpt": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.",
+  "summary": {
+    "mode": "template",
+    "text": "ui-ux-pro-max-skill is a Python project focused on An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms. It is tagged with ai-skills, antigravity, and claude."
+  },
+  "releases": [
+    {
+      "tag": "v2.5.0",
+      "name": "v2.5.0 - Skills Expansion & i18n Cleanup",
+      "publishedAt": "2026-03-10T06:05:57Z"
+    },
+    {
+      "tag": "v2.4.0",
+      "name": "v2.4.0 - Banner Design, Slides & Expanded Data",
+      "publishedAt": "2026-03-10T05:42:10Z"
+    },
+    {
+      "tag": "v2.3.0",
+      "name": "v2.3.0 - Google Fonts Collection + Design Skills",
+      "publishedAt": "2026-03-10T05:16:59Z"
+    },
+    {
+      "tag": "v2.2.1",
+      "name": "v2.2.1 - README Update & Cleanup",
+      "publishedAt": "2026-01-26T01:53:08Z"
+    },
+    {
+      "tag": "v2.2.0",
+      "name": "v2.2.0 - Reorganized Codebase + Enhanced Styles",
+      "publishedAt": "2026-01-22T15:06:35Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-21",
+      "stars": 94454
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "homepage": "https://www.uupm.cc/"
+  }
+}
