@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 172159,
-  "forks": 14514,
-  "openIssues": 2545,
-  "pushedAt": "2026-06-20T23:11:44Z",
+  "stars": 172483,
+  "forks": 14532,
+  "openIssues": 2543,
+  "pushedAt": "2026-06-21T22:49:35Z",
   "topics": [
     "cli",
     "downloader",
@@ -22,7 +22,7 @@
   ],
   "license": "Unlicense",
   "activity": "active",
-  "starDelta7d": 1720,
+  "starDelta7d": 1821,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/79589310?v=4",
   "languages": {
     "Python": 1,
@@ -99,6 +99,10 @@
     {
       "date": "2026-06-21",
       "stars": 172159
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 172483
     }
   ],
   "links": {

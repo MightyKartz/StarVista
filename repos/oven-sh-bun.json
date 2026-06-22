@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 93333,
+  "stars": 93360,
   "forks": 4721,
-  "openIssues": 7200,
-  "pushedAt": "2026-06-21T07:06:32Z",
+  "openIssues": 7226,
+  "pushedAt": "2026-06-22T07:36:52Z",
   "topics": [
     "bun",
     "bundler",
@@ -27,7 +27,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 177,
+  "starDelta7d": 169,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108928776?v=4",
   "languages": {
     "Rust": 0.47,
@@ -122,6 +122,10 @@
     {
       "date": "2026-06-21",
       "stars": 93333
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 93360
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 109082,
-  "forks": 11722,
+  "stars": 109080,
+  "forks": 11724,
   "openIssues": 125,
-  "pushedAt": "2026-06-20T09:04:05Z",
+  "pushedAt": "2026-06-21T17:25:10Z",
   "topics": [
     "hacktoberfest",
     "http-client",
@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 8,
+  "starDelta7d": 5,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32372333?v=4",
   "languages": {
     "JavaScript": 0.9,
@@ -33,6 +33,11 @@
     "text": "axios is a JavaScript project focused on Promise based HTTP client for the browser and node.js. It is tagged with hacktoberfest, http-client, and javascript."
   },
   "releases": [
+    {
+      "tag": "v1.18.1",
+      "name": "v1.18.1",
+      "publishedAt": "2026-06-21T17:25:10Z"
+    },
     {
       "tag": "v1.18.0",
       "name": "v1.18.0",
@@ -52,11 +57,6 @@
       "tag": "v1.16.1",
       "name": "v1.16.1",
       "publishedAt": "2026-05-13T16:19:58Z"
-    },
-    {
-      "tag": "v0.32.0",
-      "name": "v0.32.0",
-      "publishedAt": "2026-05-04T17:15:03Z"
     }
   ],
   "starHistory": [
@@ -95,6 +95,10 @@
     {
       "date": "2026-06-21",
       "stars": 109082
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 109080
     }
   ],
   "links": {

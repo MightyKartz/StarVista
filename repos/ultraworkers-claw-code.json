@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 194105,
-  "forks": 109934,
-  "openIssues": 14,
+  "stars": 194132,
+  "forks": 109922,
+  "openIssues": 16,
   "pushedAt": "2026-06-08T06:06:12Z",
   "topics": [],
   "license": "MIT",
-  "activity": "active",
-  "starDelta7d": 355,
+  "activity": "stable",
+  "starDelta7d": 317,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/272961631?v=4",
   "languages": {
     "Rust": 0.95,
@@ -65,6 +65,10 @@
     {
       "date": "2026-06-21",
       "stars": 194105
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 194132
     }
   ],
   "links": {
