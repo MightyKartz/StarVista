@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 93360,
-  "forks": 4721,
-  "openIssues": 7226,
-  "pushedAt": "2026-06-22T07:36:52Z",
+  "stars": 93388,
+  "forks": 4726,
+  "openIssues": 7252,
+  "pushedAt": "2026-06-23T06:15:14Z",
   "topics": [
     "bun",
     "bundler",
@@ -27,12 +27,12 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 169,
+  "starDelta7d": 161,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/108928776?v=4",
   "languages": {
-    "Rust": 0.47,
+    "Rust": 0.46,
     "Zig": 0.31,
-    "C++": 0.13,
+    "C++": 0.14,
     "TypeScript": 0.06,
     "C": 0.02,
     "JavaScript": 0.01,
@@ -126,6 +126,10 @@
     {
       "date": "2026-06-22",
       "stars": 93360
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 93388
     }
   ],
   "links": {

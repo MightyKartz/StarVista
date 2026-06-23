@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 107477,
-  "forks": 15073,
-  "openIssues": 49,
-  "pushedAt": "2026-06-03T06:08:49Z",
+  "stars": 107493,
+  "forks": 15072,
+  "openIssues": 45,
+  "pushedAt": "2026-06-22T16:04:38Z",
   "topics": [
     "expose",
     "firewall",
@@ -24,12 +24,12 @@
     "tunnel"
   ],
   "license": "Apache-2.0",
-  "activity": "stable",
-  "starDelta7d": 136,
+  "activity": "active",
+  "starDelta7d": 134,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7346661?v=4",
   "languages": {
-    "Go": 0.81,
-    "Vue": 0.14,
+    "Go": 0.82,
+    "Vue": 0.13,
     "TypeScript": 0.03,
     "CSS": 0.01,
     "Shell": 0.01,
@@ -110,6 +110,10 @@
     {
       "date": "2026-06-22",
       "stars": 107477
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 107493
     }
   ],
   "links": {

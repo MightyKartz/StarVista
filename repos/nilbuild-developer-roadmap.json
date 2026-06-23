@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 357958,
-  "forks": 44249,
-  "openIssues": 18,
-  "pushedAt": "2026-06-22T07:38:09Z",
+  "stars": 358031,
+  "forks": 44260,
+  "openIssues": 21,
+  "pushedAt": "2026-06-22T09:39:03Z",
   "topics": [
     "angular-roadmap",
     "backend-roadmap",
@@ -33,7 +33,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 703,
+  "starDelta7d": 633,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4921183?v=4",
   "languages": {
     "TypeScript": 0.85,
@@ -42,7 +42,7 @@
     "CSS": 0.01,
     "Shell": 0
   },
-  "readmeExcerpt": "roadmap.sh Community driven roadmaps, articles and resources for developers",
+  "readmeExcerpt": "roadmap.sh Community-driven roadmaps, articles and resources for developers",
   "summary": {
     "mode": "template",
     "text": "developer-roadmap is a TypeScript project focused on Interactive roadmaps, guides and other educational content to help developers grow in their careers. It is tagged with angular-roadmap, backend-roadmap, and blockchain-roadmap."
@@ -94,6 +94,10 @@
     {
       "date": "2026-06-22",
       "stars": 357958
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 358031
     }
   ],
   "links": {

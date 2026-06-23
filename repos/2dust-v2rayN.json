@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C#",
   "languageColor": null,
-  "stars": 109621,
-  "forks": 15410,
-  "openIssues": 12,
-  "pushedAt": "2026-06-22T01:48:06Z",
+  "stars": 109713,
+  "forks": 15417,
+  "openIssues": 9,
+  "pushedAt": "2026-06-23T06:07:43Z",
   "topics": [
     "proxy",
     "shadowsocks",
@@ -26,13 +26,13 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 578,
+  "starDelta7d": 582,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4",
   "languages": {
     "C#": 0.92,
     "Shell": 0.08
   },
-  "readmeExcerpt": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+  "readmeExcerpt": "---",
   "summary": {
     "mode": "template",
     "text": "v2rayN is a C# project focused on A GUI client for Windows, Linux and macOS, support Xray and sing-box and others. It is tagged with proxy, shadowsocks, and socks5."
@@ -104,6 +104,10 @@
     {
       "date": "2026-06-22",
       "stars": 109621
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 109713
     }
   ],
   "links": {

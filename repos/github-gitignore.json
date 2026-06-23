@@ -17,7 +17,7 @@
   ],
   "license": "CC0-1.0",
   "activity": "stable",
-  "starDelta7d": 62,
+  "starDelta7d": 45,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
   "languages": {},
   "readmeExcerpt": "This is GitHub’s collection of [.gitignore][man] file templates. We use this list to populate the .gitignore template choosers available in the GitHub.com interface when creating new repositories and files.",
@@ -65,6 +65,10 @@
     },
     {
       "date": "2026-06-22",
+      "stars": 174511
+    },
+    {
+      "date": "2026-06-23",
       "stars": 174511
     }
   ],
