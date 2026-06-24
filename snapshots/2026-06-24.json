@@ -1,0 +1,520 @@
+{
+  "date": "2026-06-24",
+  "repos": {
+    "sindresorhus/awesome": {
+      "stars": 478344,
+      "forks": 35522,
+      "openIssues": 87
+    },
+    "freeCodeCamp/freeCodeCamp": {
+      "stars": 450383,
+      "forks": 45219,
+      "openIssues": 194
+    },
+    "public-apis/public-apis": {
+      "stars": 443827,
+      "forks": 48655,
+      "openIssues": 1451
+    },
+    "EbookFoundation/free-programming-books": {
+      "stars": 390700,
+      "forks": 66439,
+      "openIssues": 77
+    },
+    "openclaw/openclaw": {
+      "stars": 380184,
+      "forks": 79619,
+      "openIssues": 6491
+    },
+    "nilbuild/developer-roadmap": {
+      "stars": 358117,
+      "forks": 44264,
+      "openIssues": 22
+    },
+    "vinta/awesome-python": {
+      "stars": 304530,
+      "forks": 28143,
+      "openIssues": 21
+    },
+    "awesome-selfhosted/awesome-selfhosted": {
+      "stars": 300852,
+      "forks": 14018,
+      "openIssues": 0
+    },
+    "react/react": {
+      "stars": 246085,
+      "forks": 51065,
+      "openIssues": 1281
+    },
+    "torvalds/linux": {
+      "stars": 237421,
+      "forks": 62839,
+      "openIssues": 3
+    },
+    "obra/superpowers": {
+      "stars": 237154,
+      "forks": 21051,
+      "openIssues": 281
+    },
+    "TheAlgorithms/Python": {
+      "stars": 222167,
+      "forks": 50786,
+      "openIssues": 982
+    },
+    "affaan-m/ECC": {
+      "stars": 220720,
+      "forks": 33795,
+      "openIssues": 80
+    },
+    "NousResearch/hermes-agent": {
+      "stars": 201234,
+      "forks": 35911,
+      "openIssues": 23169
+    },
+    "trekhleb/javascript-algorithms": {
+      "stars": 196126,
+      "forks": 31052,
+      "openIssues": 405
+    },
+    "tensorflow/tensorflow": {
+      "stars": 195910,
+      "forks": 75189,
+      "openIssues": 3532
+    },
+    "ultraworkers/claw-code": {
+      "stars": 194225,
+      "forks": 109900,
+      "openIssues": 20
+    },
+    "n8n-io/n8n": {
+      "stars": 193838,
+      "forks": 58794,
+      "openIssues": 1482
+    },
+    "ohmyzsh/ohmyzsh": {
+      "stars": 188217,
+      "forks": 26374,
+      "openIssues": 565
+    },
+    "microsoft/vscode": {
+      "stars": 186727,
+      "forks": 40611,
+      "openIssues": 18680
+    },
+    "Significant-Gravitas/AutoGPT": {
+      "stars": 185132,
+      "forks": 46123,
+      "openIssues": 458
+    },
+    "massgravel/Microsoft-Activation-Scripts": {
+      "stars": 180503,
+      "forks": 17285,
+      "openIssues": 2
+    },
+    "anomalyco/opencode": {
+      "stars": 177901,
+      "forks": 21777,
+      "openIssues": 6938
+    },
+    "flutter/flutter": {
+      "stars": 177079,
+      "forks": 30541,
+      "openIssues": 12927
+    },
+    "avelino/awesome-go": {
+      "stars": 176247,
+      "forks": 13339,
+      "openIssues": 180
+    },
+    "ollama/ollama": {
+      "stars": 174818,
+      "forks": 16717,
+      "openIssues": 3492
+    },
+    "twbs/bootstrap": {
+      "stars": 174386,
+      "forks": 78783,
+      "openIssues": 422
+    },
+    "yt-dlp/yt-dlp": {
+      "stars": 172944,
+      "forks": 14574,
+      "openIssues": 2557
+    },
+    "f/prompts.chat": {
+      "stars": 164218,
+      "forks": 21263,
+      "openIssues": 56
+    },
+    "521xueweihan/HelloGitHub": {
+      "stars": 162494,
+      "forks": 12214,
+      "openIssues": 450
+    },
+    "huggingface/transformers": {
+      "stars": 161851,
+      "forks": 33581,
+      "openIssues": 2439
+    },
+    "microsoft/markitdown": {
+      "stars": 158372,
+      "forks": 11059,
+      "openIssues": 861
+    },
+    "Snailclimb/JavaGuide": {
+      "stars": 156559,
+      "forks": 46150,
+      "openIssues": 60
+    },
+    "anthropics/skills": {
+      "stars": 154464,
+      "forks": 18199,
+      "openIssues": 974
+    },
+    "langflow-ai/langflow": {
+      "stars": 150007,
+      "forks": 9327,
+      "openIssues": 940
+    },
+    "langgenius/dify": {
+      "stars": 146365,
+      "forks": 23019,
+      "openIssues": 763
+    },
+    "Genymobile/scrcpy": {
+      "stars": 144234,
+      "forks": 13301,
+      "openIssues": 2842
+    },
+    "mattpocock/skills": {
+      "stars": 143744,
+      "forks": 12438,
+      "openIssues": 96
+    },
+    "open-webui/open-webui": {
+      "stars": 142805,
+      "forks": 20547,
+      "openIssues": 423
+    },
+    "x1xhlol/system-prompts-and-models-of-ai-tools": {
+      "stars": 141082,
+      "forks": 34752,
+      "openIssues": 154
+    },
+    "vercel/next.js": {
+      "stars": 140203,
+      "forks": 31246,
+      "openIssues": 4114
+    },
+    "langchain-ai/langchain": {
+      "stars": 140041,
+      "forks": 23221,
+      "openIssues": 407
+    },
+    "firecrawl/firecrawl": {
+      "stars": 138299,
+      "forks": 7989,
+      "openIssues": 393
+    },
+    "microsoft/PowerToys": {
+      "stars": 135436,
+      "forks": 8137,
+      "openIssues": 7262
+    },
+    "golang/go": {
+      "stars": 134935,
+      "forks": 19017,
+      "openIssues": 10155
+    },
+    "anthropics/claude-code": {
+      "stars": 134050,
+      "forks": 21672,
+      "openIssues": 8761
+    },
+    "Chalarangelo/30-seconds-of-code": {
+      "stars": 128192,
+      "forks": 12470,
+      "openIssues": 0
+    },
+    "iptv-org/iptv": {
+      "stars": 128072,
+      "forks": 7045,
+      "openIssues": 17
+    },
+    "clash-verge-rev/clash-verge-rev": {
+      "stars": 127512,
+      "forks": 9266,
+      "openIssues": 429
+    },
+    "excalidraw/excalidraw": {
+      "stars": 126069,
+      "forks": 14128,
+      "openIssues": 3188
+    },
+    "react/react-native": {
+      "stars": 126066,
+      "forks": 25180,
+      "openIssues": 1044
+    },
+    "ripienaar/free-for-dev": {
+      "stars": 123368,
+      "forks": 13011,
+      "openIssues": 13
+    },
+    "kubernetes/kubernetes": {
+      "stars": 123255,
+      "forks": 43262,
+      "openIssues": 2755
+    },
+    "electron/electron": {
+      "stars": 121739,
+      "forks": 17264,
+      "openIssues": 875
+    },
+    "Comfy-Org/ComfyUI": {
+      "stars": 118141,
+      "forks": 13809,
+      "openIssues": 4144
+    },
+    "nodejs/node": {
+      "stars": 117989,
+      "forks": 35755,
+      "openIssues": 2409
+    },
+    "ggml-org/llama.cpp": {
+      "stars": 117873,
+      "forks": 19873,
+      "openIssues": 1853
+    },
+    "shadcn-ui/ui": {
+      "stars": 117297,
+      "forks": 9143,
+      "openIssues": 2055
+    },
+    "rustdesk/rustdesk": {
+      "stars": 116792,
+      "forks": 17679,
+      "openIssues": 119
+    },
+    "msitarzewski/agency-agents": {
+      "stars": 115452,
+      "forks": 18887,
+      "openIssues": 82
+    },
+    "Shubhamsaboo/awesome-llm-apps": {
+      "stars": 115433,
+      "forks": 17159,
+      "openIssues": 16
+    },
+    "github/spec-kit": {
+      "stars": 115097,
+      "forks": 10157,
+      "openIssues": 374
+    },
+    "garrytan/gstack": {
+      "stars": 114364,
+      "forks": 16916,
+      "openIssues": 725
+    },
+    "rust-lang/rust": {
+      "stars": 114128,
+      "forks": 15006,
+      "openIssues": 12537
+    },
+    "mrdoob/three.js": {
+      "stars": 113277,
+      "forks": 36390,
+      "openIssues": 409
+    },
+    "d3/d3": {
+      "stars": 113123,
+      "forks": 22714,
+      "openIssues": 20
+    },
+    "godotengine/godot": {
+      "stars": 112994,
+      "forks": 25748,
+      "openIssues": 18432
+    },
+    "microsoft/generative-ai-for-beginners": {
+      "stars": 112265,
+      "forks": 60299,
+      "openIssues": 9
+    },
+    "2dust/v2rayN": {
+      "stars": 109785,
+      "forks": 15422,
+      "openIssues": 17
+    },
+    "microsoft/TypeScript": {
+      "stars": 109373,
+      "forks": 13446,
+      "openIssues": 5048
+    },
+    "axios/axios": {
+      "stars": 109090,
+      "forks": 11732,
+      "openIssues": 104
+    },
+    "tauri-apps/tauri": {
+      "stars": 108267,
+      "forks": 3718,
+      "openIssues": 1436
+    },
+    "fatedier/frp": {
+      "stars": 107515,
+      "forks": 15076,
+      "openIssues": 44
+    },
+    "farion1231/cc-switch": {
+      "stars": 107264,
+      "forks": 7096,
+      "openIssues": 1585
+    },
+    "denoland/deno": {
+      "stars": 107255,
+      "forks": 6082,
+      "openIssues": 1319
+    },
+    "jaywcjlove/awesome-mac": {
+      "stars": 106212,
+      "forks": 7933,
+      "openIssues": 400
+    },
+    "google-gemini/gemini-cli": {
+      "stars": 105522,
+      "forks": 14153,
+      "openIssues": 1360
+    },
+    "goldbergyoni/nodebestpractices": {
+      "stars": 105364,
+      "forks": 10719,
+      "openIssues": 133
+    },
+    "supabase/supabase": {
+      "stars": 104764,
+      "forks": 12834,
+      "openIssues": 1101
+    },
+    "immich-app/immich": {
+      "stars": 104284,
+      "forks": 5925,
+      "openIssues": 649
+    },
+    "microsoft/terminal": {
+      "stars": 103690,
+      "forks": 9367,
+      "openIssues": 1731
+    },
+    "pytorch/pytorch": {
+      "stars": 101024,
+      "forks": 28108,
+      "openIssues": 18321
+    },
+    "Anduin2017/HowToCook": {
+      "stars": 100886,
+      "forks": 11008,
+      "openIssues": 457
+    },
+    "neovim/neovim": {
+      "stars": 100653,
+      "forks": 6934,
+      "openIssues": 1936
+    },
+    "angular/angular": {
+      "stars": 100445,
+      "forks": 27180,
+      "openIssues": 1166
+    },
+    "browser-use/browser-use": {
+      "stars": 100391,
+      "forks": 11172,
+      "openIssues": 282
+    },
+    "fastapi/fastapi": {
+      "stars": 99587,
+      "forks": 9470,
+      "openIssues": 101
+    },
+    "mui/material-ui": {
+      "stars": 98465,
+      "forks": 32594,
+      "openIssues": 1539
+    },
+    "ant-design/ant-design": {
+      "stars": 98449,
+      "forks": 54622,
+      "openIssues": 1332
+    },
+    "rasbt/LLMs-from-scratch": {
+      "stars": 97613,
+      "forks": 14968,
+      "openIssues": 3
+    },
+    "microsoft/Web-Dev-For-Beginners": {
+      "stars": 95897,
+      "forks": 15612,
+      "openIssues": 80
+    },
+    "tailwindlabs/tailwindcss": {
+      "stars": 95705,
+      "forks": 5304,
+      "openIssues": 63
+    },
+    "nextlevelbuilder/ui-ux-pro-max-skill": {
+      "stars": 95703,
+      "forks": 10044,
+      "openIssues": 180
+    },
+    "puppeteer/puppeteer": {
+      "stars": 95213,
+      "forks": 9465,
+      "openIssues": 260
+    },
+    "ruanyf/weekly": {
+      "stars": 94372,
+      "forks": 4193,
+      "openIssues": 8157
+    },
+    "iluwatar/java-design-patterns": {
+      "stars": 94142,
+      "forks": 27360,
+      "openIssues": 143
+    },
+    "hacksider/Deep-Live-Cam": {
+      "stars": 94121,
+      "forks": 13709,
+      "openIssues": 55
+    },
+    "nvm-sh/nvm": {
+      "stars": 93914,
+      "forks": 10241,
+      "openIssues": 393
+    },
+    "oven-sh/bun": {
+      "stars": 93407,
+      "forks": 4731,
+      "openIssues": 7192
+    },
+    "openai/codex": {
+      "stars": 93199,
+      "forks": 13783,
+      "openIssues": 7695
+    },
+    "github/gitignore": {
+      "stars": 174511,
+      "forks": 82394,
+      "openIssues": 69
+    },
+    "papers-we-love/papers-we-love": {
+      "stars": 107085,
+      "forks": 6372,
+      "openIssues": 2
+    },
+    "microsoft/playwright": {
+      "stars": 90903,
+      "forks": 5918,
+      "openIssues": 179
+    }
+  }
+}

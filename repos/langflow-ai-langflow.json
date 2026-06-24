@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 149960,
-  "forks": 9324,
-  "openIssues": 952,
-  "pushedAt": "2026-06-23T05:43:49Z",
+  "stars": 150007,
+  "forks": 9327,
+  "openIssues": 940,
+  "pushedAt": "2026-06-24T04:02:39Z",
   "topics": [
     "agents",
     "chatgpt",
@@ -21,12 +21,12 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 234,
+  "starDelta7d": 232,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/85702467?v=4",
   "languages": {
-    "Python": 0.64,
-    "TypeScript": 0.24,
-    "JavaScript": 0.12,
+    "Python": 0.65,
+    "TypeScript": 0.23,
+    "JavaScript": 0.11,
     "CSS": 0,
     "Makefile": 0,
     "Shell": 0,
@@ -42,6 +42,11 @@
     "text": "langflow is a Python project focused on Langflow is a powerful tool for building and deploying AI-powered agents and workflows. It is tagged with agents, chatgpt, and generative-ai."
   },
   "releases": [
+    {
+      "tag": "v1.10.1",
+      "name": "1.10.1",
+      "publishedAt": "2026-06-23T23:49:37Z"
+    },
     {
       "tag": "1.10.1rc3",
       "name": "1.10.1rc3",
@@ -61,11 +66,6 @@
       "tag": "v1.9.6",
       "name": "1.9.6",
       "publishedAt": "2026-06-02T16:34:50Z"
-    },
-    {
-      "tag": "v1.9.5",
-      "name": "1.9.5",
-      "publishedAt": "2026-05-29T14:25:27Z"
     }
   ],
   "starHistory": [
@@ -112,6 +112,10 @@
     {
       "date": "2026-06-23",
       "stars": 149960
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 150007
     }
   ],
   "links": {

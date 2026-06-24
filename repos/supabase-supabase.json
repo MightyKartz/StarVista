@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 104701,
-  "forks": 12822,
-  "openIssues": 1099,
-  "pushedAt": "2026-06-23T05:46:18Z",
+  "stars": 104764,
+  "forks": 12834,
+  "openIssues": 1101,
+  "pushedAt": "2026-06-24T00:41:12Z",
   "topics": [
     "ai",
     "alternative",
@@ -34,7 +34,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 426,
+  "starDelta7d": 371,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54469796?v=4",
   "languages": {
     "TypeScript": 0.69,
@@ -127,6 +127,10 @@
     {
       "date": "2026-06-23",
       "stars": 104701
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 104764
     }
   ],
   "links": {

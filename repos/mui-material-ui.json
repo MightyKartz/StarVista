@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 98456,
+  "stars": 98465,
   "forks": 32594,
-  "openIssues": 1543,
-  "pushedAt": "2026-06-22T22:43:49Z",
+  "openIssues": 1539,
+  "pushedAt": "2026-06-23T13:20:15Z",
   "topics": [
     "design-system",
     "material-design",
@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 44,
+  "starDelta7d": 43,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/33663932?v=4",
   "languages": {
     "JavaScript": 0.57,
@@ -35,6 +35,16 @@
   },
   "releases": [
     {
+      "tag": "v9.1.2",
+      "name": "v9.1.2",
+      "publishedAt": "2026-06-23T17:03:08Z"
+    },
+    {
+      "tag": "v9.1.1",
+      "name": "v9.1.1",
+      "publishedAt": "2026-06-23T17:02:02Z"
+    },
+    {
       "tag": "v9.1.0",
       "name": "v9.1.0",
       "publishedAt": "2026-06-08T08:42:14Z"
@@ -48,16 +58,6 @@
       "tag": "v7.3.11",
       "name": "v7.3.11",
       "publishedAt": "2026-05-07T03:31:56Z"
-    },
-    {
-      "tag": "v7.3.10",
-      "name": "v7.3.10",
-      "publishedAt": "2026-04-08T07:52:56Z"
-    },
-    {
-      "tag": "v9.0.0",
-      "name": "v9.0.0",
-      "publishedAt": "2026-04-08T12:05:36Z"
     }
   ],
   "starHistory": [
@@ -104,6 +104,10 @@
     {
       "date": "2026-06-23",
       "stars": 98456
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 98465
     }
   ],
   "links": {

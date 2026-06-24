@@ -7,16 +7,16 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 154057,
-  "forks": 18159,
-  "openIssues": 975,
+  "stars": 154464,
+  "forks": 18199,
+  "openIssues": 974,
   "pushedAt": "2026-06-09T20:35:19Z",
   "topics": [
     "agent-skills"
   ],
   "license": null,
-  "activity": "active",
-  "starDelta7d": 2763,
+  "activity": "stable",
+  "starDelta7d": 2626,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
   "languages": {
     "Python": 0.84,
@@ -74,6 +74,10 @@
     {
       "date": "2026-06-23",
       "stars": 154057
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 154464
     }
   ],
   "links": {
