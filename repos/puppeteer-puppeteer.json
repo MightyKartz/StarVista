@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 95213,
-  "forks": 9465,
-  "openIssues": 260,
-  "pushedAt": "2026-06-23T15:01:09Z",
+  "stars": 95223,
+  "forks": 9468,
+  "openIssues": 261,
+  "pushedAt": "2026-06-24T12:35:46Z",
   "topics": [
     "automation",
     "chrome",
@@ -24,7 +24,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 252,
+  "starDelta7d": 165,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6906516?v=4",
   "languages": {
     "TypeScript": 0.94,
@@ -42,6 +42,16 @@
   },
   "releases": [
     {
+      "tag": "puppeteer-v25.2.1",
+      "name": "puppeteer: v25.2.1",
+      "publishedAt": "2026-06-24T12:30:41Z"
+    },
+    {
+      "tag": "puppeteer-core-v25.2.1",
+      "name": "puppeteer-core: v25.2.1",
+      "publishedAt": "2026-06-24T12:30:42Z"
+    },
+    {
       "tag": "puppeteer-v25.2.0",
       "name": "puppeteer: v25.2.0",
       "publishedAt": "2026-06-22T15:15:35Z"
@@ -55,16 +65,6 @@
       "tag": "browsers-v3.0.5",
       "name": "browsers: v3.0.5",
       "publishedAt": "2026-06-22T15:15:37Z"
-    },
-    {
-      "tag": "puppeteer-v25.1.0",
-      "name": "puppeteer: v25.1.0",
-      "publishedAt": "2026-05-26T09:20:48Z"
-    },
-    {
-      "tag": "puppeteer-core-v25.1.0",
-      "name": "puppeteer-core: v25.1.0",
-      "publishedAt": "2026-05-26T09:20:50Z"
     }
   ],
   "starHistory": [
@@ -115,6 +115,10 @@
     {
       "date": "2026-06-24",
       "stars": 95213
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 95223
     }
   ],
   "links": {

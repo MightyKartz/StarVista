@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C",
   "languageColor": "#555555",
-  "stars": 135436,
-  "forks": 8137,
-  "openIssues": 7262,
-  "pushedAt": "2026-06-24T04:57:56Z",
+  "stars": 135480,
+  "forks": 8144,
+  "openIssues": 7247,
+  "pushedAt": "2026-06-25T05:54:53Z",
   "topics": [
     "advanced-paste",
     "color-picker",
@@ -27,7 +27,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 329,
+  "starDelta7d": 292,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "C": 0.56,
@@ -49,6 +49,11 @@
   },
   "releases": [
     {
+      "tag": "v0.100.1",
+      "name": "Release v0.100.1",
+      "publishedAt": "2026-06-24T09:46:51Z"
+    },
+    {
       "tag": "v0.100.0",
       "name": "Release v0.100.0",
       "publishedAt": "2026-06-10T04:21:04Z"
@@ -67,11 +72,6 @@
       "tag": "v0.98.1",
       "name": "Release v0.98.1",
       "publishedAt": "2026-03-26T20:08:39Z"
-    },
-    {
-      "tag": "v0.98.0",
-      "name": "Release v0.98.0",
-      "publishedAt": "2026-03-17T17:36:21Z"
     }
   ],
   "starHistory": [
@@ -122,6 +122,10 @@
     {
       "date": "2026-06-24",
       "stars": 135436
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 135480
     }
   ],
   "links": {

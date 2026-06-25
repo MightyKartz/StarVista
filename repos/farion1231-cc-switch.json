@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 107264,
-  "forks": 7096,
-  "openIssues": 1585,
-  "pushedAt": "2026-06-23T17:37:35Z",
+  "stars": 107985,
+  "forks": 7137,
+  "openIssues": 1605,
+  "pushedAt": "2026-06-24T14:19:02Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -35,11 +35,11 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 4313,
+  "starDelta7d": 4220,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.62,
-    "TypeScript": 0.36,
+    "TypeScript": 0.37,
     "HTML": 0.01,
     "JavaScript": 0,
     "CSS": 0
@@ -124,6 +124,10 @@
     {
       "date": "2026-06-24",
       "stars": 107264
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 107985
     }
   ],
   "links": {

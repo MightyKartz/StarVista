@@ -7,17 +7,17 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 177901,
-  "forks": 21777,
-  "openIssues": 6938,
-  "pushedAt": "2026-06-24T05:34:43Z",
+  "stars": 178285,
+  "forks": 21853,
+  "openIssues": 6973,
+  "pushedAt": "2026-06-25T06:07:22Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2496,
+  "starDelta7d": 2460,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66570915?v=4",
   "languages": {
-    "TypeScript": 0.69,
+    "TypeScript": 0.7,
     "MDX": 0.27,
     "CSS": 0.03,
     "HTML": 0,
@@ -34,6 +34,11 @@
     "text": "opencode is a TypeScript project focused on The open source coding agent."
   },
   "releases": [
+    {
+      "tag": "v1.17.10",
+      "name": "v1.17.10",
+      "publishedAt": "2026-06-24T20:37:42Z"
+    },
     {
       "tag": "v1.17.9",
       "name": "v1.17.9",
@@ -53,11 +58,6 @@
       "tag": "v1.17.6",
       "name": "v1.17.6",
       "publishedAt": "2026-06-13T22:39:10Z"
-    },
-    {
-      "tag": "v1.17.5",
-      "name": "v1.17.5",
-      "publishedAt": "2026-06-13T19:59:05Z"
     }
   ],
   "starHistory": [
@@ -108,6 +108,10 @@
     {
       "date": "2026-06-24",
       "stars": 177901
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 178285
     }
   ],
   "links": {

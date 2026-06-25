@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Vim Script",
   "languageColor": null,
-  "stars": 100653,
-  "forks": 6934,
-  "openIssues": 1936,
-  "pushedAt": "2026-06-24T04:32:58Z",
+  "stars": 100668,
+  "forks": 6935,
+  "openIssues": 1939,
+  "pushedAt": "2026-06-25T04:32:44Z",
   "topics": [
     "api",
     "c",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 159,
+  "starDelta7d": 191,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6471485?v=4",
   "languages": {
     "Vim Script": 0.4,
@@ -48,7 +48,7 @@
     {
       "tag": "nightly",
       "name": "Nvim development (prerelease) build",
-      "publishedAt": "2026-06-23T06:32:35Z"
+      "publishedAt": "2026-06-24T06:32:59Z"
     },
     {
       "tag": "v0.12.3",
@@ -119,6 +119,10 @@
     {
       "date": "2026-06-24",
       "stars": 100653
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 100668
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 95703,
-  "forks": 10044,
-  "openIssues": 180,
-  "pushedAt": "2026-06-24T01:04:31Z",
+  "stars": 96177,
+  "forks": 10104,
+  "openIssues": 168,
+  "pushedAt": "2026-06-25T06:11:32Z",
   "topics": [
     "ai-skills",
     "antigravity",
@@ -37,8 +37,8 @@
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/246974152?v=4",
   "languages": {
-    "Python": 0.78,
-    "JavaScript": 0.12,
+    "Python": 0.77,
+    "JavaScript": 0.13,
     "TypeScript": 0.07,
     "HTML": 0.03
   },
@@ -49,6 +49,21 @@
   },
   "releases": [
     {
+      "tag": "v2.7.0",
+      "name": "v2.7.0",
+      "publishedAt": "2026-06-25T01:39:55Z"
+    },
+    {
+      "tag": "v2.6.5",
+      "name": "v2.6.5",
+      "publishedAt": "2026-06-24T12:38:52Z"
+    },
+    {
+      "tag": "v2.6.4",
+      "name": "v2.6.4",
+      "publishedAt": "2026-06-24T12:08:29Z"
+    },
+    {
       "tag": "v2.6.3",
       "name": "v2.6.3",
       "publishedAt": "2026-06-24T01:04:32Z"
@@ -57,21 +72,6 @@
       "tag": "v2.6.2",
       "name": "v2.6.2",
       "publishedAt": "2026-06-22T18:17:53Z"
-    },
-    {
-      "tag": "v2.6.1",
-      "name": "v2.6.1",
-      "publishedAt": "2026-06-22T17:35:05Z"
-    },
-    {
-      "tag": "v2.6.0",
-      "name": "v2.6.0",
-      "publishedAt": "2026-06-22T11:41:34Z"
-    },
-    {
-      "tag": "v2.5.0",
-      "name": "v2.5.0 - Skills Expansion & i18n Cleanup",
-      "publishedAt": "2026-03-10T06:05:57Z"
     }
   ],
   "starHistory": [
@@ -90,6 +90,10 @@
     {
       "date": "2026-06-24",
       "stars": 95703
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 96177
     }
   ],
   "links": {
