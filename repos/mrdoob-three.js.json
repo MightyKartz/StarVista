@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 113300,
-  "forks": 36393,
-  "openIssues": 407,
-  "pushedAt": "2026-06-24T14:59:08Z",
+  "stars": 113322,
+  "forks": 36394,
+  "openIssues": 402,
+  "pushedAt": "2026-06-25T17:06:54Z",
   "topics": [
     "3d",
     "augmented-reality",
@@ -27,10 +27,10 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 160,
+  "starDelta7d": 165,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97088?v=4",
   "languages": {
-    "JavaScript": 0.67,
+    "JavaScript": 0.68,
     "HTML": 0.3,
     "Roff": 0.02,
     "CSS": 0
@@ -41,6 +41,11 @@
     "text": "three.js is a JavaScript project focused on JavaScript 3D Library. It is tagged with 3d, augmented-reality, and canvas."
   },
   "releases": [
+    {
+      "tag": "r185",
+      "name": "r185",
+      "publishedAt": "2026-06-25T09:47:44Z"
+    },
     {
       "tag": "r184",
       "name": "r184",
@@ -60,11 +65,6 @@
       "tag": "r181",
       "name": "r181",
       "publishedAt": "2025-11-19T04:42:16Z"
-    },
-    {
-      "tag": "r180",
-      "name": "r180",
-      "publishedAt": "2025-09-03T11:48:45Z"
     }
   ],
   "starHistory": [
@@ -119,6 +119,10 @@
     {
       "date": "2026-06-25",
       "stars": 113300
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 113322
     }
   ],
   "links": {

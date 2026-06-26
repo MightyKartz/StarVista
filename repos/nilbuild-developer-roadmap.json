@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 358212,
-  "forks": 44269,
-  "openIssues": 22,
-  "pushedAt": "2026-06-22T09:39:03Z",
+  "stars": 358337,
+  "forks": 44283,
+  "openIssues": 16,
+  "pushedAt": "2026-06-25T14:19:05Z",
   "topics": [
     "angular-roadmap",
     "backend-roadmap",
@@ -33,7 +33,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 617,
+  "starDelta7d": 665,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4921183?v=4",
   "languages": {
     "TypeScript": 0.85,
@@ -106,6 +106,10 @@
     {
       "date": "2026-06-25",
       "stars": 358212
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 358337
     }
   ],
   "links": {

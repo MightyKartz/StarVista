@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 193973,
-  "forks": 58824,
-  "openIssues": 1484,
-  "pushedAt": "2026-06-25T06:13:52Z",
+  "stars": 194095,
+  "forks": 58843,
+  "openIssues": 1482,
+  "pushedAt": "2026-06-26T06:20:48Z",
   "topics": [
     "ai",
     "apis",
@@ -35,7 +35,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 984,
+  "starDelta7d": 988,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45487711?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -63,6 +63,11 @@
   },
   "releases": [
     {
+      "tag": "n8n@2.28.2",
+      "name": "n8n@2.28.2",
+      "publishedAt": "2026-06-25T10:22:25Z"
+    },
+    {
       "tag": "stable",
       "name": "stable",
       "publishedAt": "2026-06-24T11:03:19Z"
@@ -81,11 +86,6 @@
       "tag": "n8n@2.28.1",
       "name": "n8n@2.28.1",
       "publishedAt": "2026-06-24T10:53:36Z"
-    },
-    {
-      "tag": "beta",
-      "name": "beta",
-      "publishedAt": "2026-06-24T10:53:38Z"
     }
   ],
   "starHistory": [
@@ -140,6 +140,10 @@
     {
       "date": "2026-06-25",
       "stars": 193973
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 194095
     }
   ],
   "links": {
