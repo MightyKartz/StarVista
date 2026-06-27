@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 117464,
-  "forks": 9152,
-  "openIssues": 2059,
-  "pushedAt": "2026-06-24T19:56:48Z",
+  "stars": 117529,
+  "forks": 9159,
+  "openIssues": 2062,
+  "pushedAt": "2026-06-26T18:18:05Z",
   "topics": [
     "base-ui",
     "components",
@@ -45,6 +45,16 @@
   },
   "releases": [
     {
+      "tag": "shadcn@4.12.0",
+      "name": "shadcn@4.12.0",
+      "publishedAt": "2026-06-26T17:26:57Z"
+    },
+    {
+      "tag": "shadcn@4.11.1",
+      "name": "shadcn@4.11.1",
+      "publishedAt": "2026-06-26T07:16:31Z"
+    },
+    {
       "tag": "shadcn@4.11.0",
       "name": "shadcn@4.11.0",
       "publishedAt": "2026-06-08T13:49:39Z"
@@ -58,16 +68,6 @@
       "tag": "shadcn@4.9.0",
       "name": "shadcn@4.9.0",
       "publishedAt": "2026-05-31T12:19:26Z"
-    },
-    {
-      "tag": "shadcn@4.8.3",
-      "name": "shadcn@4.8.3",
-      "publishedAt": "2026-05-29T08:11:48Z"
-    },
-    {
-      "tag": "shadcn@4.8.2",
-      "name": "shadcn@4.8.2",
-      "publishedAt": "2026-05-27T17:11:17Z"
     }
   ],
   "starHistory": [
@@ -126,6 +126,10 @@
     {
       "date": "2026-06-26",
       "stars": 117464
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 117529
     }
   ],
   "links": {

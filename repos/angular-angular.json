@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 100463,
-  "forks": 27186,
-  "openIssues": 1161,
-  "pushedAt": "2026-06-25T15:34:15Z",
+  "stars": 100450,
+  "forks": 27187,
+  "openIssues": 1159,
+  "pushedAt": "2026-06-26T17:36:55Z",
   "topics": [
     "angular",
     "javascript",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 71,
+  "starDelta7d": 58,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139426?v=4",
   "languages": {
     "TypeScript": 0.87,
@@ -41,6 +41,16 @@
   },
   "releases": [
     {
+      "tag": "v22.1.0-next.3",
+      "name": "22.1.0-next.3",
+      "publishedAt": "2026-06-26T17:24:22Z"
+    },
+    {
+      "tag": "v22.0.4",
+      "name": "22.0.4",
+      "publishedAt": "2026-06-26T17:04:20Z"
+    },
+    {
       "tag": "v22.1.0-next.2",
       "name": "22.1.0-next.2",
       "publishedAt": "2026-06-25T15:34:15Z"
@@ -54,16 +64,6 @@
       "tag": "v22.1.0-next.1",
       "name": "22.1.0-next.1",
       "publishedAt": "2026-06-17T21:16:12Z"
-    },
-    {
-      "tag": "v22.0.2",
-      "name": "22.0.2",
-      "publishedAt": "2026-06-17T21:08:12Z"
-    },
-    {
-      "tag": "vsix-22.0.1",
-      "name": "VSCode Extension: 22.0.1",
-      "publishedAt": "2026-06-11T18:26:37Z"
     }
   ],
   "starHistory": [
@@ -122,6 +122,10 @@
     {
       "date": "2026-06-26",
       "stars": 100463
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 100450
     }
   ],
   "links": {
