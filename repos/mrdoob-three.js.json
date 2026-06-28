@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 113341,
-  "forks": 36400,
-  "openIssues": 408,
-  "pushedAt": "2026-06-27T02:39:09Z",
+  "stars": 113369,
+  "forks": 36402,
+  "openIssues": 407,
+  "pushedAt": "2026-06-28T02:35:01Z",
   "topics": [
     "3d",
     "augmented-reality",
@@ -27,11 +27,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 155,
+  "starDelta7d": 175,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97088?v=4",
   "languages": {
-    "JavaScript": 0.68,
-    "HTML": 0.3,
+    "JavaScript": 0.64,
+    "HTML": 0.33,
     "Roff": 0.02,
     "CSS": 0
   },
@@ -127,6 +127,10 @@
     {
       "date": "2026-06-27",
       "stars": 113341
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 113369
     }
   ],
   "links": {

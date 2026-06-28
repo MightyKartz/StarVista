@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 108382,
-  "forks": 3730,
-  "openIssues": 1437,
-  "pushedAt": "2026-06-27T03:18:38Z",
+  "stars": 108421,
+  "forks": 3731,
+  "openIssues": 1440,
+  "pushedAt": "2026-06-27T17:31:05Z",
   "topics": [
     "desktop-app",
     "high-performance",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 285,
+  "starDelta7d": 282,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4",
   "languages": {
     "Rust": 0.83,
@@ -44,7 +44,7 @@
     "Objective-C++": 0,
     "C++": 0
   },
-  "readmeExcerpt": "Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.",
+  "readmeExcerpt": "Tauri is a framework for building tiny, blazingly fast binaries for all major operating systems. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.",
   "summary": {
     "mode": "template",
     "text": "tauri is a Rust project focused on Build smaller, faster, and more secure desktop and mobile applications with a web frontend. It is tagged with desktop-app, high-performance, and mobile-app."
@@ -136,6 +136,10 @@
     {
       "date": "2026-06-27",
       "stars": 108382
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 108421
     }
   ],
   "links": {

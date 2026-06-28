@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 98481,
-  "forks": 54630,
-  "openIssues": 1298,
-  "pushedAt": "2026-06-27T06:02:05Z",
+  "stars": 98484,
+  "forks": 54632,
+  "openIssues": 1286,
+  "pushedAt": "2026-06-28T06:29:31Z",
   "topics": [
     "ant-design",
     "antd",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 81,
+  "starDelta7d": 77,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4",
   "languages": {
     "TypeScript": 0.99,
@@ -38,6 +38,11 @@
     "text": "ant-design is a TypeScript project focused on An enterprise-class UI design language and React UI library. It is tagged with ant-design, antd, and design-systems."
   },
   "releases": [
+    {
+      "tag": "6.5.0",
+      "name": "6.5.0",
+      "publishedAt": "2026-06-27T15:54:13Z"
+    },
     {
       "tag": "6.4.5",
       "name": "6.4.5",
@@ -57,11 +62,6 @@
       "tag": "6.4.2",
       "name": "6.4.2",
       "publishedAt": "2026-05-14T15:33:57Z"
-    },
-    {
-      "tag": "6.4.1",
-      "name": "6.4.1",
-      "publishedAt": "2026-05-14T10:36:21Z"
     }
   ],
   "starHistory": [
@@ -124,6 +124,10 @@
     {
       "date": "2026-06-27",
       "stars": 98481
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 98484
     }
   ],
   "links": {
