@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 162965,
-  "forks": 12239,
-  "openIssues": 465,
-  "pushedAt": "2026-05-29T03:35:49Z",
+  "stars": 163118,
+  "forks": 12250,
+  "openIssues": 469,
+  "pushedAt": "2026-06-29T00:35:14Z",
   "topics": [
     "awesome",
     "github",
@@ -18,8 +18,8 @@
     "python"
   ],
   "license": null,
-  "activity": "stable",
-  "starDelta7d": 821,
+  "activity": "active",
+  "starDelta7d": 854,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8255800?v=4",
   "languages": {
     "Python": 1
@@ -30,6 +30,11 @@
     "text": "HelloGitHub is a Python project focused on :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. It is tagged with awesome, github, and hellogithub."
   },
   "releases": [
+    {
+      "tag": "vol.123",
+      "name": "第 123 期",
+      "publishedAt": "2026-06-29T00:36:02Z"
+    },
     {
       "tag": "vol.122",
       "name": "第 122 期",
@@ -49,11 +54,6 @@
       "tag": "vol.119",
       "name": "第 119 期",
       "publishedAt": "2026-02-28T00:53:13Z"
-    },
-    {
-      "tag": "vol.118",
-      "name": "第 118 期",
-      "publishedAt": "2026-01-28T01:26:33Z"
     }
   ],
   "starHistory": [
@@ -120,6 +120,10 @@
     {
       "date": "2026-06-28",
       "stars": 162965
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 163118
     }
   ],
   "links": {
