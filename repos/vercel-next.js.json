@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 140413,
-  "forks": 31280,
-  "openIssues": 4157,
-  "pushedAt": "2026-06-29T06:52:12Z",
+  "stars": 140439,
+  "forks": 31276,
+  "openIssues": 4148,
+  "pushedAt": "2026-06-30T06:22:23Z",
   "topics": [
     "blog",
     "browser",
@@ -29,10 +29,10 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 284,
+  "starDelta7d": 277,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
   "languages": {
-    "JavaScript": 0.53,
+    "JavaScript": 0.52,
     "TypeScript": 0.32,
     "Rust": 0.14,
     "MDX": 0.01,
@@ -147,6 +147,10 @@
     {
       "date": "2026-06-29",
       "stars": 140413
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 140439
     }
   ],
   "links": {

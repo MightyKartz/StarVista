@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 450703,
-  "forks": 45280,
-  "openIssues": 193,
-  "pushedAt": "2026-06-29T06:59:31Z",
+  "stars": 450767,
+  "forks": 45298,
+  "openIssues": 207,
+  "pushedAt": "2026-06-29T20:45:01Z",
   "topics": [
     "careers",
     "certification",
@@ -30,11 +30,11 @@
   ],
   "license": "BSD-3-Clause",
   "activity": "active",
-  "starDelta7d": 573,
+  "starDelta7d": 497,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9892522?v=4",
   "languages": {
     "TypeScript": 0.6,
-    "JavaScript": 0.36,
+    "JavaScript": 0.35,
     "CSS": 0.04,
     "Dockerfile": 0,
     "HCL": 0,
@@ -115,6 +115,10 @@
     {
       "date": "2026-06-29",
       "stars": 450703
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 450767
     }
   ],
   "links": {

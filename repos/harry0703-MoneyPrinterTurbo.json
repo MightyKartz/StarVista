@@ -1,0 +1,76 @@
+{
+  "id": "harry0703/MoneyPrinterTurbo",
+  "slug": "harry0703-MoneyPrinterTurbo",
+  "owner": "harry0703",
+  "name": "MoneyPrinterTurbo",
+  "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 94276,
+  "forks": 13683,
+  "openIssues": 46,
+  "pushedAt": "2026-06-29T06:22:23Z",
+  "topics": [
+    "ai",
+    "automation",
+    "chatgpt",
+    "moviepy",
+    "python",
+    "shortvideo",
+    "tiktok"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4",
+  "languages": {
+    "Python": 0.98,
+    "Dockerfile": 0.01,
+    "Shell": 0.01,
+    "Batchfile": 0,
+    "HTML": 0
+  },
+  "readmeExcerpt": "MoneyPrinterTurbo 💸",
+  "summary": {
+    "mode": "template",
+    "text": "MoneyPrinterTurbo is a Python project focused on 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. It is tagged with ai, automation, and chatgpt."
+  },
+  "releases": [
+    {
+      "tag": "v1.3.0",
+      "name": "v1.3.0",
+      "publishedAt": "2026-06-10T09:39:34Z"
+    },
+    {
+      "tag": "v1.2.9",
+      "name": "v1.2.9",
+      "publishedAt": "2026-05-30T09:38:54Z"
+    },
+    {
+      "tag": "v1.2.8",
+      "name": "v1.2.8",
+      "publishedAt": "2026-05-28T03:44:22Z"
+    },
+    {
+      "tag": "v1.2.7",
+      "name": "v1.2.7",
+      "publishedAt": "2026-04-03T12:59:32Z"
+    },
+    {
+      "tag": "v1.2.6",
+      "name": "v1.2.6",
+      "publishedAt": "2025-05-10T06:19:30Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-06-30",
+      "stars": 94276
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "homepage": null
+  }
+}
