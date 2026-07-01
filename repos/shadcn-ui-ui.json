@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 117779,
-  "forks": 9200,
-  "openIssues": 2078,
-  "pushedAt": "2026-06-30T06:18:25Z",
+  "stars": 117729,
+  "forks": 9210,
+  "openIssues": 2079,
+  "pushedAt": "2026-06-30T06:34:55Z",
   "topics": [
     "base-ui",
     "components",
@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 590,
+  "starDelta7d": 432,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
   "languages": {
     "TypeScript": 0.9,
@@ -44,6 +44,11 @@
     "text": "ui is a TypeScript project focused on A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. It is tagged with base-ui, components, and laravel."
   },
   "releases": [
+    {
+      "tag": "@shadcn/react@0.2.0",
+      "name": "@shadcn/react@0.2.0",
+      "publishedAt": "2026-06-30T06:34:55Z"
+    },
     {
       "tag": "shadcn@4.12.0",
       "name": "shadcn@4.12.0",
@@ -63,11 +68,6 @@
       "tag": "shadcn@4.10.0",
       "name": "shadcn@4.10.0",
       "publishedAt": "2026-06-01T10:59:03Z"
-    },
-    {
-      "tag": "shadcn@4.9.0",
-      "name": "shadcn@4.9.0",
-      "publishedAt": "2026-05-31T12:19:26Z"
     }
   ],
   "starHistory": [
@@ -142,6 +142,10 @@
     {
       "date": "2026-06-30",
       "stars": 117779
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 117729
     }
   ],
   "links": {

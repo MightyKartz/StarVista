@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 95280,
-  "forks": 9467,
-  "openIssues": 265,
-  "pushedAt": "2026-06-29T16:00:38Z",
+  "stars": 95212,
+  "forks": 9468,
+  "openIssues": 261,
+  "pushedAt": "2026-06-30T17:03:10Z",
   "topics": [
     "automation",
     "chrome",
@@ -24,7 +24,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 75,
+  "starDelta7d": -1,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6906516?v=4",
   "languages": {
     "TypeScript": 0.94,
@@ -139,6 +139,10 @@
     {
       "date": "2026-06-30",
       "stars": 95280
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 95212
     }
   ],
   "links": {

@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 95800,
-  "forks": 5308,
-  "openIssues": 63,
+  "stars": 95690,
+  "forks": 5309,
+  "openIssues": 65,
   "pushedAt": "2026-06-29T14:11:40Z",
   "topics": [
     "css",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 97,
+  "starDelta7d": -15,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4",
   "languages": {
     "TypeScript": 0.82,
@@ -136,6 +136,10 @@
     {
       "date": "2026-06-30",
       "stars": 95800
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 95690
     }
   ],
   "links": {

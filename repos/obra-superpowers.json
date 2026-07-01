@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 241747,
-  "forks": 21462,
-  "openIssues": 293,
-  "pushedAt": "2026-06-25T02:35:57Z",
+  "stars": 242809,
+  "forks": 21545,
+  "openIssues": 298,
+  "pushedAt": "2026-07-01T00:48:33Z",
   "topics": [
     "ai",
     "brainstorming",
@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 5489,
+  "starDelta7d": 5655,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45416?v=4",
   "languages": {
     "Shell": 0.52,
@@ -39,6 +39,11 @@
     "text": "superpowers is a Shell project focused on An agentic skills framework & software development methodology that works. It is tagged with ai, brainstorming, and coding."
   },
   "releases": [
+    {
+      "tag": "v6.1.0",
+      "name": "v6.1.0",
+      "publishedAt": "2026-06-30T18:42:18Z"
+    },
     {
       "tag": "v6.0.3",
       "name": "v6.0.3",
@@ -58,11 +63,6 @@
       "tag": "v5.1.0",
       "name": "v5.1.0",
       "publishedAt": "2026-05-04T22:13:34Z"
-    },
-    {
-      "tag": "v5.0.7",
-      "name": "v5.0.7",
-      "publishedAt": "2026-03-31T19:25:11Z"
     }
   ],
   "starHistory": [
@@ -137,6 +137,10 @@
     {
       "date": "2026-06-30",
       "stars": 241747
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 242809
     }
   ],
   "links": {
