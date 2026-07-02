@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 108526,
-  "forks": 3744,
-  "openIssues": 1439,
-  "pushedAt": "2026-07-01T01:05:00Z",
+  "stars": 108560,
+  "forks": 3739,
+  "openIssues": 1445,
+  "pushedAt": "2026-07-02T05:00:46Z",
   "topics": [
     "desktop-app",
     "high-performance",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 259,
+  "starDelta7d": 258,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4",
   "languages": {
     "Rust": 0.83,
@@ -51,6 +51,11 @@
   },
   "releases": [
     {
+      "tag": "tauri-v2.11.5",
+      "name": "tauri v2.11.5",
+      "publishedAt": "2026-07-01T13:56:43Z"
+    },
+    {
       "tag": "tauri-v2.11.4",
       "name": "tauri v2.11.4",
       "publishedAt": "2026-06-30T15:14:31Z"
@@ -69,11 +74,6 @@
       "tag": "tauri-cli-v2.11.4",
       "name": "tauri-cli v2.11.4",
       "publishedAt": "2026-06-28T17:02:17Z"
-    },
-    {
-      "tag": "tauri-bundler-v2.9.4",
-      "name": "tauri-bundler v2.9.4",
-      "publishedAt": "2026-06-28T17:00:17Z"
     }
   ],
   "starHistory": [
@@ -152,6 +152,10 @@
     {
       "date": "2026-07-01",
       "stars": 108526
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 108560
     }
   ],
   "links": {

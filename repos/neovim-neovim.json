@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Vim Script",
   "languageColor": null,
-  "stars": 100820,
-  "forks": 6941,
-  "openIssues": 1909,
-  "pushedAt": "2026-07-01T06:40:22Z",
+  "stars": 100844,
+  "forks": 6942,
+  "openIssues": 1907,
+  "pushedAt": "2026-07-02T04:31:25Z",
   "topics": [
     "api",
     "c",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 167,
+  "starDelta7d": 176,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6471485?v=4",
   "languages": {
     "Vim Script": 0.4,
@@ -36,6 +36,7 @@
     "Roff": 0,
     "Python": 0,
     "C++": 0,
+    "HTML": 0,
     "Batchfile": 0,
     "Ruby": 0
   },
@@ -147,6 +148,10 @@
     {
       "date": "2026-07-01",
       "stars": 100820
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 100844
     }
   ],
   "links": {

@@ -7,8 +7,8 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 117418,
-  "forks": 17788,
+  "stars": 117468,
+  "forks": 17798,
   "openIssues": 117,
   "pushedAt": "2026-07-01T03:48:22Z",
   "topics": [
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 626,
+  "starDelta7d": 580,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
   "languages": {
     "Rust": 0.68,
@@ -162,6 +162,10 @@
     {
       "date": "2026-07-01",
       "stars": 117418
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 117468
     }
   ],
   "links": {
