@@ -7,22 +7,22 @@
   "archived": false,
   "primaryLanguage": "HTML",
   "languageColor": null,
-  "stars": 127888,
-  "forks": 13359,
-  "openIssues": 12,
-  "pushedAt": "2026-07-02T09:03:33Z",
+  "stars": 128028,
+  "forks": 13381,
+  "openIssues": 14,
+  "pushedAt": "2026-07-03T18:05:05Z",
   "topics": [
     "awesome-list",
     "free-for-developers"
   ],
   "license": null,
   "activity": "fast-rising",
-  "starDelta7d": 4416,
+  "starDelta7d": 4206,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/82342?v=4",
   "languages": {
     "HTML": 1
   },
-  "readmeExcerpt": "Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.",
+  "readmeExcerpt": "Developers and open-source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.",
   "summary": {
     "mode": "template",
     "text": "free-for-dev is a HTML project focused on A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. It is tagged with awesome-list and free-for-developers."
@@ -112,6 +112,10 @@
     {
       "date": "2026-07-03",
       "stars": 127888
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 128028
     }
   ],
   "links": {

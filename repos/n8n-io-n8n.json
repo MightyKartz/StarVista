@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 194976,
-  "forks": 59017,
-  "openIssues": 1455,
-  "pushedAt": "2026-07-03T05:39:48Z",
+  "stars": 195088,
+  "forks": 59039,
+  "openIssues": 1451,
+  "pushedAt": "2026-07-03T23:48:17Z",
   "topics": [
     "ai",
     "apis",
@@ -35,7 +35,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 881,
+  "starDelta7d": 879,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45487711?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -56,36 +56,36 @@
     "Rich Text Format": 0,
     "Batchfile": 0
   },
-  "readmeExcerpt": "n8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a fair-code license, n8n lets you build powerful automations while maintaining full control over your data and deployments.",
+  "readmeExcerpt": "Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the cloud, and connect to 1500+ integrations. AI automation you can trust with real work, from prototype to production.",
   "summary": {
     "mode": "template",
     "text": "n8n is a TypeScript project focused on Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. It is tagged with ai, apis, and automation."
   },
   "releases": [
     {
-      "tag": "n8n@2.28.5",
-      "name": "n8n@2.28.5",
-      "publishedAt": "2026-07-02T08:27:15Z"
+      "tag": "stable",
+      "name": "stable",
+      "publishedAt": "2026-07-03T08:02:41Z"
     },
     {
-      "tag": "n8n@1.123.63",
-      "name": "n8n@1.123.63",
-      "publishedAt": "2026-07-02T07:52:09Z"
+      "tag": "n8n@2.28.6",
+      "name": "n8n@2.28.6",
+      "publishedAt": "2026-07-03T08:02:40Z"
     },
     {
-      "tag": "n8n@2.29.3",
-      "name": "n8n@2.29.3",
-      "publishedAt": "2026-07-02T08:02:57Z"
+      "tag": "n8n@2.29.5",
+      "name": "n8n@2.29.5",
+      "publishedAt": "2026-07-03T10:51:41Z"
+    },
+    {
+      "tag": "n8n@2.29.4",
+      "name": "n8n@2.29.4",
+      "publishedAt": "2026-07-03T07:56:10Z"
     },
     {
       "tag": "beta",
       "name": "beta",
-      "publishedAt": "2026-07-02T08:02:58Z"
-    },
-    {
-      "tag": "stable",
-      "name": "stable",
-      "publishedAt": "2026-07-02T08:27:16Z"
+      "publishedAt": "2026-07-03T10:51:43Z"
     }
   ],
   "starHistory": [
@@ -172,6 +172,10 @@
     {
       "date": "2026-07-03",
       "stars": 194976
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 195088
     }
   ],
   "links": {
