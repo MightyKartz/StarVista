@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Batchfile",
   "languageColor": null,
-  "stars": 181723,
-  "forks": 17428,
-  "openIssues": 3,
-  "pushedAt": "2026-06-11T17:21:39Z",
+  "stars": 181842,
+  "forks": 17445,
+  "openIssues": 2,
+  "pushedAt": "2026-07-04T16:54:38Z",
   "topics": [
     "activator",
     "hwid",
@@ -30,8 +30,8 @@
     "windows-11"
   ],
   "license": "GPL-3.0",
-  "activity": "stable",
-  "starDelta7d": 811,
+  "activity": "active",
+  "starDelta7d": 789,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59795046?v=4",
   "languages": {
     "Batchfile": 1,
@@ -43,6 +43,11 @@
     "text": "Microsoft-Activation-Scripts is a Batchfile project focused on Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. It is tagged with activator, hwid, and kms."
   },
   "releases": [
+    {
+      "tag": "3.12",
+      "name": "v3.12 8 Years of MAS",
+      "publishedAt": "2026-07-04T07:56:17Z"
+    },
     {
       "tag": "3.11",
       "name": "v3.11 Minor Update",
@@ -62,11 +67,6 @@
       "tag": "3.8",
       "name": "v3.8 R.I.P. KMS38",
       "publishedAt": "2025-11-11T23:30:10Z"
-    },
-    {
-      "tag": "3.7",
-      "name": "v3.7 The Twin Keys Fall",
-      "publishedAt": "2025-09-12T00:51:38Z"
     }
   ],
   "starHistory": [
@@ -157,6 +157,10 @@
     {
       "date": "2026-07-04",
       "stars": 181723
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 181842
     }
   ],
   "links": {

@@ -1,0 +1,47 @@
+{
+  "id": "practical-tutorials/project-based-learning",
+  "slug": "practical-tutorials-project-based-learning",
+  "owner": "practical-tutorials",
+  "name": "project-based-learning",
+  "description": "Curated list of project-based tutorials",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 272076,
+  "forks": 35138,
+  "openIssues": 280,
+  "pushedAt": "2026-07-04T18:42:00Z",
+  "topics": [
+    "beginner-project",
+    "cpp",
+    "golang",
+    "javascript",
+    "project",
+    "python",
+    "tutorial",
+    "webdevelopment"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89421154?v=4",
+  "languages": {
+    "Python": 1
+  },
+  "readmeExcerpt": "A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.",
+  "summary": {
+    "mode": "template",
+    "text": "project-based-learning is a Python project focused on Curated list of project-based tutorials. It is tagged with beginner-project, cpp, and golang."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-07-05",
+      "stars": 272076
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/practical-tutorials/project-based-learning",
+    "homepage": null
+  }
+}
