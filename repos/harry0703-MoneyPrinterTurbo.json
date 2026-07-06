@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 95706,
-  "forks": 13940,
+  "stars": 95881,
+  "forks": 13968,
   "openIssues": 52,
-  "pushedAt": "2026-07-03T02:20:27Z",
+  "pushedAt": "2026-07-06T02:38:10Z",
   "topics": [
     "ai",
     "automation",
@@ -38,6 +38,11 @@
   },
   "releases": [
     {
+      "tag": "v1.3.1",
+      "name": "v1.3.1",
+      "publishedAt": "2026-07-06T02:34:46Z"
+    },
+    {
       "tag": "v1.3.0",
       "name": "v1.3.0",
       "publishedAt": "2026-06-10T09:39:34Z"
@@ -56,11 +61,6 @@
       "tag": "v1.2.7",
       "name": "v1.2.7",
       "publishedAt": "2026-04-03T12:59:32Z"
-    },
-    {
-      "tag": "v1.2.6",
-      "name": "v1.2.6",
-      "publishedAt": "2025-05-10T06:19:30Z"
     }
   ],
   "starHistory": [
@@ -87,6 +87,10 @@
     {
       "date": "2026-07-05",
       "stars": 95706
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 95881
     }
   ],
   "links": {
