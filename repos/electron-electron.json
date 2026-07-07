@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 121908,
-  "forks": 17289,
-  "openIssues": 890,
-  "pushedAt": "2026-07-05T05:38:41Z",
+  "stars": 121923,
+  "forks": 17292,
+  "openIssues": 894,
+  "pushedAt": "2026-07-07T03:25:33Z",
   "topics": [
     "c-plus-plus",
     "chrome",
@@ -24,11 +24,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 91,
+  "starDelta7d": 86,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13409222?v=4",
   "languages": {
     "C++": 0.54,
-    "TypeScript": 0.34,
+    "TypeScript": 0.35,
     "Objective-C++": 0.05,
     "JavaScript": 0.03,
     "Python": 0.02,
@@ -45,6 +45,11 @@
     "text": "electron is a C++ project focused on :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS. It is tagged with c-plus-plus, chrome, and css."
   },
   "releases": [
+    {
+      "tag": "v44.0.0-alpha.2",
+      "name": "electron v44.0.0-alpha.2",
+      "publishedAt": "2026-07-06T22:25:53Z"
+    },
     {
       "tag": "v42.6.0",
       "name": "electron v42.6.0",
@@ -64,11 +69,6 @@
       "tag": "v40.10.6",
       "name": "electron v40.10.6",
       "publishedAt": "2026-07-01T19:38:26Z"
-    },
-    {
-      "tag": "v43.0.0",
-      "name": "electron v43.0.0",
-      "publishedAt": "2026-06-30T08:12:32Z"
     }
   ],
   "starHistory": [
@@ -167,6 +167,10 @@
     {
       "date": "2026-07-06",
       "stars": 121908
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 121923
     }
   ],
   "links": {

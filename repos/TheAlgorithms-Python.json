@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 222442,
-  "forks": 50824,
-  "openIssues": 999,
-  "pushedAt": "2026-06-19T04:00:48Z",
+  "stars": 222467,
+  "forks": 50827,
+  "openIssues": 1000,
+  "pushedAt": "2026-07-06T19:04:41Z",
   "topics": [
     "algorithm",
     "algorithm-competitions",
@@ -28,8 +28,8 @@
     "sorts"
   ],
   "license": "MIT",
-  "activity": "stable",
-  "starDelta7d": 159,
+  "activity": "active",
+  "starDelta7d": 153,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/20487725?v=4",
   "languages": {
     "Python": 1,
@@ -138,6 +138,10 @@
     {
       "date": "2026-07-06",
       "stars": 222442
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 222467
     }
   ],
   "links": {
