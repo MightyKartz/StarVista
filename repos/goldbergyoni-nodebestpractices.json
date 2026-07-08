@@ -7,7 +7,7 @@
   "archived": false,
   "primaryLanguage": "Dockerfile",
   "languageColor": null,
-  "stars": 105405,
+  "stars": 105401,
   "forks": 10712,
   "openIssues": 133,
   "pushedAt": "2026-06-15T11:41:04Z",
@@ -33,7 +33,7 @@
   ],
   "license": "CC-BY-SA-4.0",
   "activity": "stable",
-  "starDelta7d": 24,
+  "starDelta7d": 18,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8571500?v=4",
   "languages": {
     "Dockerfile": 0.88,
@@ -133,6 +133,10 @@
     {
       "date": "2026-07-07",
       "stars": 105405
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 105401
     }
   ],
   "links": {

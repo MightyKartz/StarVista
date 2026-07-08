@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 105816,
-  "forks": 14229,
-  "openIssues": 1356,
-  "pushedAt": "2026-07-07T01:56:36Z",
+  "stars": 105835,
+  "forks": 14225,
+  "openIssues": 1354,
+  "pushedAt": "2026-07-08T01:24:10Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -28,6 +28,7 @@
     "TypeScript": 0.98,
     "JavaScript": 0.02,
     "Shell": 0,
+    "Python": 0,
     "C#": 0,
     "HTML": 0,
     "Dockerfile": 0,
@@ -165,6 +166,10 @@
     {
       "date": "2026-07-07",
       "stars": 105816
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 105835
     }
   ],
   "links": {
