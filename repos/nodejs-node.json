@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 118093,
-  "forks": 35954,
-  "openIssues": 2312,
-  "pushedAt": "2026-07-08T00:59:29Z",
+  "stars": 118111,
+  "forks": 35970,
+  "openIssues": 2320,
+  "pushedAt": "2026-07-08T23:01:53Z",
   "topics": [
     "javascript",
     "js",
@@ -24,7 +24,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 154,
+  "starDelta7d": 157,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9950313?v=4",
   "languages": {
     "JavaScript": 0.65,
@@ -50,6 +50,11 @@
   },
   "releases": [
     {
+      "tag": "v26.5.0",
+      "name": "2026-07-08, Version 26.5.0 (Current), @richardlau",
+      "publishedAt": "2026-07-08T11:59:40Z"
+    },
+    {
       "tag": "v26.4.0",
       "name": "2026-06-24, Version 26.4.0 (Current), @aduh95",
       "publishedAt": "2026-06-24T23:38:11Z"
@@ -68,11 +73,6 @@
       "tag": "v26.3.1",
       "name": "2026-06-18, Version 26.3.1 (Current), @aduh95",
       "publishedAt": "2026-06-18T04:37:39Z"
-    },
-    {
-      "tag": "v24.17.0",
-      "name": "2026-06-18, Version 24.17.0 'Krypton' (LTS), @aduh95",
-      "publishedAt": "2026-06-18T04:37:35Z"
     }
   ],
   "starHistory": [
@@ -179,6 +179,10 @@
     {
       "date": "2026-07-08",
       "stars": 118093
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 118111
     }
   ],
   "links": {

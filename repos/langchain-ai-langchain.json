@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 141254,
-  "forks": 23477,
-  "openIssues": 406,
-  "pushedAt": "2026-07-07T15:40:51Z",
+  "stars": 141342,
+  "forks": 23493,
+  "openIssues": 408,
+  "pushedAt": "2026-07-09T06:10:28Z",
   "topics": [
     "agents",
     "ai",
@@ -53,6 +53,21 @@
   },
   "releases": [
     {
+      "tag": "langchain==1.3.12",
+      "name": "langchain==1.3.12",
+      "publishedAt": "2026-07-08T22:38:27Z"
+    },
+    {
+      "tag": "langchain-openai==1.3.4",
+      "name": "langchain-openai==1.3.4",
+      "publishedAt": "2026-07-08T23:00:08Z"
+    },
+    {
+      "tag": "langchain-core==1.4.9",
+      "name": "langchain-core==1.4.9",
+      "publishedAt": "2026-07-08T20:07:10Z"
+    },
+    {
       "tag": "langchain-openrouter==0.2.6",
       "name": "langchain-openrouter==0.2.6",
       "publishedAt": "2026-07-05T20:53:14Z"
@@ -61,21 +76,6 @@
       "tag": "langchain-mistralai==1.1.6",
       "name": "langchain-mistralai==1.1.6",
       "publishedAt": "2026-07-05T21:30:35Z"
-    },
-    {
-      "tag": "langchain-openrouter==0.2.5",
-      "name": "langchain-openrouter==0.2.5",
-      "publishedAt": "2026-06-29T19:47:27Z"
-    },
-    {
-      "tag": "langchain-fireworks==1.4.3",
-      "name": "langchain-fireworks==1.4.3",
-      "publishedAt": "2026-06-26T06:52:05Z"
-    },
-    {
-      "tag": "langchain-anthropic==1.4.8",
-      "name": "langchain-anthropic==1.4.8",
-      "publishedAt": "2026-06-26T21:28:59Z"
     }
   ],
   "starHistory": [
@@ -182,6 +182,10 @@
     {
       "date": "2026-07-08",
       "stars": 141254
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 141342
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 101579,
-  "forks": 28292,
-  "openIssues": 18252,
-  "pushedAt": "2026-07-08T05:23:33Z",
+  "stars": 101608,
+  "forks": 28306,
+  "openIssues": 18211,
+  "pushedAt": "2026-07-09T06:15:07Z",
   "topics": [
     "autograd",
     "deep-learning",
@@ -23,7 +23,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 579,
+  "starDelta7d": 576,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4",
   "languages": {
     "Python": 0.64,
@@ -60,6 +60,11 @@
   },
   "releases": [
     {
+      "tag": "v2.13.0",
+      "name": "PyTorch 2.13.0 Release",
+      "publishedAt": "2026-07-08T17:39:58Z"
+    },
+    {
       "tag": "v2.12.1",
       "name": "PyTorch 2.12.1 Release, bug fix release",
       "publishedAt": "2026-06-18T00:41:17Z"
@@ -78,11 +83,6 @@
       "tag": "v2.10.0",
       "name": "PyTorch 2.10.0 Release",
       "publishedAt": "2026-01-21T17:05:16Z"
-    },
-    {
-      "tag": "v2.9.1",
-      "name": "PyTorch 2.9.1 Release, bug fix release",
-      "publishedAt": "2025-11-12T19:27:19Z"
     }
   ],
   "starHistory": [
@@ -189,6 +189,10 @@
     {
       "date": "2026-07-08",
       "stars": 101579
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 101608
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 105835,
+  "stars": 105853,
   "forks": 14225,
-  "openIssues": 1354,
-  "pushedAt": "2026-07-08T01:24:10Z",
+  "openIssues": 1371,
+  "pushedAt": "2026-07-09T01:33:38Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 149,
+  "starDelta7d": 153,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
     "TypeScript": 0.98,
@@ -41,6 +41,16 @@
   },
   "releases": [
     {
+      "tag": "v0.51.0-preview.0",
+      "name": "Release v0.51.0-preview.0",
+      "publishedAt": "2026-07-08T17:45:50Z"
+    },
+    {
+      "tag": "v0.50.0",
+      "name": "Release v0.50.0",
+      "publishedAt": "2026-07-08T18:31:54Z"
+    },
+    {
       "tag": "v0.51.0-nightly.20260707.g15a9429b6",
       "name": "Release v0.51.0-nightly.20260707.g15a9429b6",
       "publishedAt": "2026-07-07T01:56:36Z"
@@ -54,16 +64,6 @@
       "tag": "v0.51.0-nightly.20260705.gf7af4e518",
       "name": "Release v0.51.0-nightly.20260705.gf7af4e518",
       "publishedAt": "2026-07-05T01:37:19Z"
-    },
-    {
-      "tag": "v0.51.0-nightly.20260704.gf7af4e518",
-      "name": "Release v0.51.0-nightly.20260704.gf7af4e518",
-      "publishedAt": "2026-07-04T01:32:04Z"
-    },
-    {
-      "tag": "v0.51.0-nightly.20260703.gf7af4e518",
-      "name": "Release v0.51.0-nightly.20260703.gf7af4e518",
-      "publishedAt": "2026-07-03T01:52:36Z"
     }
   ],
   "starHistory": [
@@ -170,6 +170,10 @@
     {
       "date": "2026-07-08",
       "stars": 105835
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 105853
     }
   ],
   "links": {
