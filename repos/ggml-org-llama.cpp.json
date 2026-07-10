@@ -7,30 +7,30 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 119745,
-  "forks": 20380,
-  "openIssues": 1832,
-  "pushedAt": "2026-07-09T05:32:02Z",
+  "stars": 119839,
+  "forks": 20408,
+  "openIssues": 1834,
+  "pushedAt": "2026-07-10T05:33:20Z",
   "topics": [
     "ggml"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 793,
+  "starDelta7d": 763,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134263123?v=4",
   "languages": {
-    "C++": 0.57,
-    "C": 0.15,
+    "C++": 0.56,
+    "C": 0.17,
     "Python": 0.07,
     "Cuda": 0.05,
     "TypeScript": 0.04,
-    "HTML": 0.03,
+    "HTML": 0.02,
     "Svelte": 0.02,
     "Metal": 0.01,
     "Jinja": 0.01,
     "GLSL": 0.01,
-    "Shell": 0.01,
     "CMake": 0.01,
+    "Shell": 0.01,
     "WGSL": 0.01,
     "Go Template": 0.01,
     "Objective-C": 0,
@@ -39,10 +39,12 @@
     "CSS": 0,
     "JavaScript": 0,
     "PowerShell": 0,
+    "Linker Script": 0,
     "MDX": 0,
     "Makefile": 0,
     "Batchfile": 0,
-    "SCSS": 0
+    "SCSS": 0,
+    "Assembly": 0
   },
   "readmeExcerpt": "Manifesto / ggml / ops",
   "summary": {
@@ -51,29 +53,29 @@
   },
   "releases": [
     {
-      "tag": "b9935",
-      "name": "b9935",
-      "publishedAt": "2026-07-09T05:32:02Z"
+      "tag": "b9947",
+      "name": "b9947",
+      "publishedAt": "2026-07-10T04:46:59Z"
     },
     {
-      "tag": "b9934",
-      "name": "b9934",
-      "publishedAt": "2026-07-09T00:19:17Z"
+      "tag": "b9946",
+      "name": "b9946",
+      "publishedAt": "2026-07-09T22:20:35Z"
     },
     {
-      "tag": "b9933",
-      "name": "b9933",
-      "publishedAt": "2026-07-08T23:22:46Z"
+      "tag": "b9945",
+      "name": "b9945",
+      "publishedAt": "2026-07-09T21:47:16Z"
     },
     {
-      "tag": "b9932",
-      "name": "b9932",
-      "publishedAt": "2026-07-08T21:45:59Z"
+      "tag": "b9941",
+      "name": "b9941",
+      "publishedAt": "2026-07-09T20:17:48Z"
     },
     {
-      "tag": "b9931",
-      "name": "b9931",
-      "publishedAt": "2026-07-08T21:11:39Z"
+      "tag": "b9940",
+      "name": "b9940",
+      "publishedAt": "2026-07-09T11:38:20Z"
     }
   ],
   "starHistory": [
@@ -184,6 +186,10 @@
     {
       "date": "2026-07-09",
       "stars": 119745
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 119839
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 117903,
-  "forks": 17900,
-  "openIssues": 116,
-  "pushedAt": "2026-07-08T08:35:35Z",
+  "stars": 117978,
+  "forks": 17926,
+  "openIssues": 115,
+  "pushedAt": "2026-07-10T05:02:29Z",
   "topics": [
     "android",
     "anydesk",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 435,
+  "starDelta7d": 448,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
   "languages": {
     "Rust": 0.68,
@@ -61,6 +61,11 @@
   },
   "releases": [
     {
+      "tag": "nightly",
+      "name": "nightly",
+      "publishedAt": "2026-07-10T05:02:29Z"
+    },
+    {
       "tag": "1.4.9",
       "name": "1.4.9",
       "publishedAt": "2026-07-06T10:02:30Z"
@@ -69,11 +74,6 @@
       "tag": "1.4.8",
       "name": "1.4.8",
       "publishedAt": "2026-06-21T09:12:23Z"
-    },
-    {
-      "tag": "nightly",
-      "name": "nightly",
-      "publishedAt": "2026-06-17T14:11:46Z"
     },
     {
       "tag": "1.4.7",
@@ -194,6 +194,10 @@
     {
       "date": "2026-07-09",
       "stars": 117903
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 117978
     }
   ],
   "links": {

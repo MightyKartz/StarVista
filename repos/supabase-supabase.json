@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 105937,
-  "forks": 13030,
-  "openIssues": 1076,
-  "pushedAt": "2026-07-09T06:14:41Z",
+  "stars": 105999,
+  "forks": 13066,
+  "openIssues": 1082,
+  "pushedAt": "2026-07-10T06:01:57Z",
   "topics": [
     "ai",
     "alternative",
@@ -34,7 +34,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 880,
+  "starDelta7d": 827,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54469796?v=4",
   "languages": {
     "TypeScript": 0.71,
@@ -58,6 +58,11 @@
   },
   "releases": [
     {
+      "tag": "v1.26.07",
+      "name": "Developer Update - July 2026",
+      "publishedAt": "2026-07-09T21:13:24Z"
+    },
+    {
       "tag": "v1.26.05",
       "name": "Developer Update - May 2026",
       "publishedAt": "2026-05-07T23:45:42Z"
@@ -76,11 +81,6 @@
       "tag": "v1.26.02",
       "name": "Developer Update - February 2026",
       "publishedAt": "2026-02-05T21:38:22Z"
-    },
-    {
-      "tag": "v1.26.01",
-      "name": "Developer Update - January 2026",
-      "publishedAt": "2026-01-08T15:46:04Z"
     }
   ],
   "starHistory": [
@@ -191,6 +191,10 @@
     {
       "date": "2026-07-09",
       "stars": 105937
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 105999
     }
   ],
   "links": {
