@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 113612,
-  "forks": 36427,
-  "openIssues": 407,
-  "pushedAt": "2026-07-09T19:35:20Z",
+  "stars": 113633,
+  "forks": 36434,
+  "openIssues": 404,
+  "pushedAt": "2026-07-10T20:28:41Z",
   "topics": [
     "3d",
     "augmented-reality",
@@ -27,12 +27,12 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 132,
+  "starDelta7d": 131,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97088?v=4",
   "languages": {
-    "JavaScript": 0.64,
-    "HTML": 0.33,
-    "Roff": 0.02,
+    "JavaScript": 0.84,
+    "HTML": 0.13,
+    "Roff": 0.03,
     "CSS": 0
   },
   "readmeExcerpt": "The aim of the project is to create an easy-to-use, lightweight, cross-browser, general-purpose 3D library. The current builds only include WebGL and WebGPU renderers but SVG and CSS3D renderers are also available as addons.",
@@ -179,6 +179,10 @@
     {
       "date": "2026-07-10",
       "stars": 113612
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 113633
     }
   ],
   "links": {

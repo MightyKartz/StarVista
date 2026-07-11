@@ -7,17 +7,18 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 163432,
-  "forks": 14076,
-  "openIssues": 129,
-  "pushedAt": "2026-07-09T13:57:49Z",
+  "stars": 164868,
+  "forks": 14184,
+  "openIssues": 138,
+  "pushedAt": "2026-07-10T13:15:20Z",
   "topics": [],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 8792,
+  "starDelta7d": 9080,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4",
   "languages": {
-    "Shell": 1
+    "Shell": 0.77,
+    "JavaScript": 0.23
   },
   "readmeExcerpt": "My agent skills that I use every day to do real engineering - not vibe coding.",
   "summary": {
@@ -158,6 +159,10 @@
     {
       "date": "2026-07-10",
       "stars": 163432
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 164868
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 151467,
-  "forks": 9527,
-  "openIssues": 977,
-  "pushedAt": "2026-07-10T00:47:12Z",
+  "stars": 151603,
+  "forks": 9643,
+  "openIssues": 973,
+  "pushedAt": "2026-07-11T00:59:57Z",
   "topics": [
     "agents",
     "chatgpt",
@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 567,
+  "starDelta7d": 525,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/85702467?v=4",
   "languages": {
     "Python": 0.65,
@@ -180,6 +180,10 @@
     {
       "date": "2026-07-10",
       "stars": 151467
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 151603
     }
   ],
   "links": {
