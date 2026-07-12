@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 162467,
-  "forks": 33862,
-  "openIssues": 2477,
-  "pushedAt": "2026-07-10T22:00:52Z",
+  "stars": 162516,
+  "forks": 33870,
+  "openIssues": 2482,
+  "pushedAt": "2026-07-12T00:55:33Z",
   "topics": [
     "audio",
     "deep-learning",
@@ -34,7 +34,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 253,
+  "starDelta7d": 268,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
   "languages": {
     "Python": 1,
@@ -49,6 +49,11 @@
     "text": "transformers is a Python project focused on 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. . It is tagged with audio, deep-learning, and deepseek."
   },
   "releases": [
+    {
+      "tag": "v5.13.1",
+      "name": "Patch release v5.13.1",
+      "publishedAt": "2026-07-11T09:15:36Z"
+    },
     {
       "tag": "v5.13.0",
       "name": "Release v5.13.0",
@@ -68,11 +73,6 @@
       "tag": "v5.12.0",
       "name": "Release v5.12.0",
       "publishedAt": "2026-06-12T14:39:40Z"
-    },
-    {
-      "tag": "v5.11.0",
-      "name": "Release v5.11.0",
-      "publishedAt": "2026-06-10T16:32:44Z"
     }
   ],
   "starHistory": [
@@ -191,6 +191,10 @@
     {
       "date": "2026-07-11",
       "stars": 162467
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 162516
     }
   ],
   "links": {
