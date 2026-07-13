@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 97244,
-  "forks": 14474,
-  "openIssues": 9006,
-  "pushedAt": "2026-07-11T21:05:32Z",
+  "stars": 97477,
+  "forks": 14515,
+  "openIssues": 9148,
+  "pushedAt": "2026-07-13T05:21:54Z",
   "topics": [],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1700,
+  "starDelta7d": 1745,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
   "languages": {
     "Rust": 0.96,
@@ -39,6 +39,11 @@
   },
   "releases": [
     {
+      "tag": "rust-v0.144.2",
+      "name": "0.144.2",
+      "publishedAt": "2026-07-13T04:39:22Z"
+    },
+    {
       "tag": "rust-v0.145.0-alpha.4",
       "name": "0.145.0-alpha.4",
       "publishedAt": "2026-07-11T00:10:19Z"
@@ -57,11 +62,6 @@
       "tag": "rust-v0.144.0",
       "name": "0.144.0",
       "publishedAt": "2026-07-09T16:47:12Z"
-    },
-    {
-      "tag": "rust-v0.145.0-alpha.2",
-      "name": "0.145.0-alpha.2",
-      "publishedAt": "2026-07-10T00:09:39Z"
     }
   ],
   "starHistory": [
@@ -176,6 +176,10 @@
     {
       "date": "2026-07-12",
       "stars": 97244
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 97477
     }
   ],
   "links": {
