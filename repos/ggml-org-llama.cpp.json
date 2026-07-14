@@ -7,16 +7,16 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 120189,
-  "forks": 20523,
-  "openIssues": 1841,
-  "pushedAt": "2026-07-13T01:28:34Z",
+  "stars": 120289,
+  "forks": 20562,
+  "openIssues": 1848,
+  "pushedAt": "2026-07-14T04:52:01Z",
   "topics": [
     "ggml"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 787,
+  "starDelta7d": 783,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134263123?v=4",
   "languages": {
     "C++": 0.56,
@@ -46,36 +46,36 @@
     "SCSS": 0,
     "Assembly": 0
   },
-  "readmeExcerpt": "Manifesto / ggml / ops",
+  "readmeExcerpt": "Manifesto / ggml / ops / maintainer PRs%20sort%3Aupdated-desc)",
   "summary": {
     "mode": "template",
     "text": "llama.cpp is a C++ project focused on LLM inference in C/C++. It is tagged with ggml."
   },
   "releases": [
     {
-      "tag": "b9982",
-      "name": "b9982",
-      "publishedAt": "2026-07-13T01:28:35Z"
+      "tag": "b9993",
+      "name": "b9993",
+      "publishedAt": "2026-07-13T23:09:16Z"
     },
     {
-      "tag": "b9981",
-      "name": "b9981",
-      "publishedAt": "2026-07-13T00:53:43Z"
+      "tag": "b9992",
+      "name": "b9992",
+      "publishedAt": "2026-07-13T21:04:47Z"
     },
     {
-      "tag": "b9980",
-      "name": "b9980",
-      "publishedAt": "2026-07-13T00:07:05Z"
+      "tag": "b9990",
+      "name": "b9990",
+      "publishedAt": "2026-07-13T19:51:41Z"
     },
     {
-      "tag": "b9979",
-      "name": "b9979",
-      "publishedAt": "2026-07-12T23:36:43Z"
+      "tag": "b9988",
+      "name": "b9988",
+      "publishedAt": "2026-07-13T19:10:17Z"
     },
     {
-      "tag": "b9978",
-      "name": "b9978",
-      "publishedAt": "2026-07-12T21:32:41Z"
+      "tag": "b9987",
+      "name": "b9987",
+      "publishedAt": "2026-07-13T15:40:41Z"
     }
   ],
   "starHistory": [
@@ -202,6 +202,10 @@
     {
       "date": "2026-07-13",
       "stars": 120189
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 120289
     }
   ],
   "links": {

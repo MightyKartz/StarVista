@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 449467,
-  "forks": 49391,
-  "openIssues": 1540,
-  "pushedAt": "2026-06-30T20:55:54Z",
+  "stars": 449823,
+  "forks": 49447,
+  "openIssues": 1548,
+  "pushedAt": "2026-07-13T15:58:22Z",
   "topics": [
     "api",
     "apis",
@@ -28,13 +28,13 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2499,
+  "starDelta7d": 2496,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/51121562?v=4",
   "languages": {
     "Python": 0.97,
     "Shell": 0.03
   },
-  "readmeExcerpt": "The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.",
+  "readmeExcerpt": "APILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result.",
   "summary": {
     "mode": "template",
     "text": "public-apis is a Python project focused on A collective list of free APIs. It is tagged with api, apis, and dataset."
@@ -164,6 +164,10 @@
     {
       "date": "2026-07-13",
       "stars": 449467
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 449823
     }
   ],
   "links": {
