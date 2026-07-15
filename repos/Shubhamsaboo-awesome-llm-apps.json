@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 119896,
-  "forks": 17794,
-  "openIssues": 17,
-  "pushedAt": "2026-07-11T00:14:37Z",
+  "stars": 121097,
+  "forks": 17910,
+  "openIssues": 19,
+  "pushedAt": "2026-07-14T06:23:01Z",
   "topics": [
     "agents",
     "llms",
@@ -18,8 +18,8 @@
     "rag"
   ],
   "license": "Apache-2.0",
-  "activity": "active",
-  "starDelta7d": 3237,
+  "activity": "fast-rising",
+  "starDelta7d": 4348,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31396011?v=4",
   "languages": {
     "Python": 0.55,
@@ -32,7 +32,7 @@
     "PLpgSQL": 0,
     "Batchfile": 0
   },
-  "readmeExcerpt": "Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文",
+  "readmeExcerpt": "100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.",
   "summary": {
     "mode": "template",
     "text": "awesome-llm-apps is a Python project focused on 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. It is tagged with agents, llms, and python."
@@ -166,6 +166,10 @@
     {
       "date": "2026-07-14",
       "stars": 119896
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 121097
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Dart",
   "languageColor": null,
-  "stars": 177882,
-  "forks": 30808,
-  "openIssues": 12938,
-  "pushedAt": "2026-07-14T04:04:54Z",
+  "stars": 177912,
+  "forks": 30812,
+  "openIssues": 12934,
+  "pushedAt": "2026-07-15T03:08:31Z",
   "topics": [
     "android",
     "app-framework",
@@ -34,7 +34,7 @@
   ],
   "license": "BSD-3-Clause",
   "activity": "active",
-  "starDelta7d": 230,
+  "starDelta7d": 252,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4",
   "languages": {
     "Dart": 0.74,
@@ -219,6 +219,10 @@
     {
       "date": "2026-07-14",
       "stars": 177882
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 177912
     }
   ],
   "links": {

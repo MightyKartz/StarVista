@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 114049,
-  "forks": 25988,
-  "openIssues": 18547,
-  "pushedAt": "2026-07-13T21:03:57Z",
+  "stars": 114113,
+  "forks": 25996,
+  "openIssues": 18542,
+  "pushedAt": "2026-07-14T17:02:10Z",
   "topics": [
     "game-development",
     "game-engine",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 334,
+  "starDelta7d": 381,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6318500?v=4",
   "languages": {
     "C++": 0.87,
@@ -47,6 +47,11 @@
   },
   "releases": [
     {
+      "tag": "4.7.1-stable",
+      "name": "4.7.1-stable",
+      "publishedAt": "2026-07-14T18:03:10Z"
+    },
+    {
       "tag": "4.7-stable",
       "name": "4.7-stable",
       "publishedAt": "2026-06-18T12:06:17Z"
@@ -65,11 +70,6 @@
       "tag": "4.5.2-stable",
       "name": "4.5.2-stable",
       "publishedAt": "2026-03-19T14:32:41Z"
-    },
-    {
-      "tag": "4.6.1-stable",
-      "name": "4.6.1-stable",
-      "publishedAt": "2026-02-16T20:26:38Z"
     }
   ],
   "starHistory": [
@@ -200,6 +200,10 @@
     {
       "date": "2026-07-14",
       "stars": 114049
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 114113
     }
   ],
   "links": {
