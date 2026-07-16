@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 120763,
-  "forks": 14196,
-  "openIssues": 4274,
-  "pushedAt": "2026-07-15T03:51:54Z",
+  "stars": 120904,
+  "forks": 14210,
+  "openIssues": 4279,
+  "pushedAt": "2026-07-16T04:34:30Z",
   "topics": [
     "ai",
     "comfy",
@@ -21,7 +21,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 943,
+  "starDelta7d": 923,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166579949?v=4",
   "languages": {
     "Python": 1,
@@ -35,6 +35,11 @@
     "text": "ComfyUI is a Python project focused on The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. It is tagged with ai, comfy, and comfyui."
   },
   "releases": [
+    {
+      "tag": "v0.28.0",
+      "name": "v0.28.0",
+      "publishedAt": "2026-07-15T15:37:18Z"
+    },
     {
       "tag": "v0.27.0",
       "name": "v0.27.0",
@@ -54,11 +59,6 @@
       "tag": "v0.25.0",
       "name": "v0.25.0",
       "publishedAt": "2026-06-16T17:05:41Z"
-    },
-    {
-      "tag": "v0.24.0",
-      "name": "v0.24.0",
-      "publishedAt": "2026-06-03T22:43:23Z"
     }
   ],
   "starHistory": [
@@ -193,6 +193,10 @@
     {
       "date": "2026-07-15",
       "stars": 120763
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 120904
     }
   ],
   "links": {

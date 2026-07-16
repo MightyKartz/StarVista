@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 166046,
-  "forks": 11889,
-  "openIssues": 835,
+  "stars": 166431,
+  "forks": 11930,
+  "openIssues": 837,
   "pushedAt": "2026-06-24T15:32:46Z",
   "topics": [
     "autogen",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "stable",
-  "starDelta7d": 2219,
+  "starDelta7d": 2271,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "Python": 1,
@@ -192,6 +192,10 @@
     {
       "date": "2026-07-15",
       "stars": 166046
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 166431
     }
   ],
   "links": {

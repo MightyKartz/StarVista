@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 185544,
-  "forks": 46080,
-  "openIssues": 499,
-  "pushedAt": "2026-07-15T03:32:07Z",
+  "stars": 185572,
+  "forks": 46079,
+  "openIssues": 496,
+  "pushedAt": "2026-07-15T22:22:49Z",
   "topics": [
     "agentic-ai",
     "agents",
@@ -26,12 +26,12 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 112,
+  "starDelta7d": 136,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130738209?v=4",
   "languages": {
-    "Python": 0.68,
-    "TypeScript": 0.3,
-    "JavaScript": 0.01,
+    "Python": 0.69,
+    "TypeScript": 0.29,
+    "JavaScript": 0,
     "PLpgSQL": 0,
     "Shell": 0,
     "Jinja": 0,
@@ -47,6 +47,11 @@
     "text": "AutoGPT is a Python project focused on AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. It is tagged with agentic-ai, agents, and ai."
   },
   "releases": [
+    {
+      "tag": "autogpt-platform-beta-v0.6.67",
+      "name": "🚀 AutoGPT Platform v0.6.67",
+      "publishedAt": "2026-07-15T16:44:42Z"
+    },
     {
       "tag": "autogpt-platform-beta-v0.6.66",
       "name": "🚀 AutoGPT Platform v0.6.66",
@@ -66,11 +71,6 @@
       "tag": "autogpt-platform-beta-v0.6.63",
       "name": "autogpt-platform-beta-v0.6.63",
       "publishedAt": "2026-06-10T20:56:47Z"
-    },
-    {
-      "tag": "autogpt-platform-beta-v0.6.62",
-      "name": "autogpt-platform-beta-v0.6.62",
-      "publishedAt": "2026-05-28T02:12:41Z"
     }
   ],
   "starHistory": [
@@ -205,6 +205,10 @@
     {
       "date": "2026-07-15",
       "stars": 185544
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 185572
     }
   ],
   "links": {
