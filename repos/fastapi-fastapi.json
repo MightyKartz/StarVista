@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 100566,
-  "forks": 9622,
-  "openIssues": 93,
-  "pushedAt": "2026-07-15T14:37:14Z",
+  "stars": 100621,
+  "forks": 9633,
+  "openIssues": 94,
+  "pushedAt": "2026-07-16T20:17:03Z",
   "topics": [
     "api",
     "async",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 297,
+  "starDelta7d": 320,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/156354296?v=4",
   "languages": {
     "Python": 1,
@@ -51,6 +51,16 @@
   },
   "releases": [
     {
+      "tag": "0.139.2",
+      "name": "0.139.2",
+      "publishedAt": "2026-07-16T15:05:47Z"
+    },
+    {
+      "tag": "0.139.1",
+      "name": "0.139.1",
+      "publishedAt": "2026-07-16T09:18:15Z"
+    },
+    {
       "tag": "0.139.0",
       "name": "0.139.0",
       "publishedAt": "2026-07-01T16:35:19Z"
@@ -64,16 +74,6 @@
       "tag": "0.138.0",
       "name": "0.138.0",
       "publishedAt": "2026-06-20T01:17:47Z"
-    },
-    {
-      "tag": "0.137.2",
-      "name": "0.137.2",
-      "publishedAt": "2026-06-18T06:57:26Z"
-    },
-    {
-      "tag": "0.137.1",
-      "name": "0.137.1",
-      "publishedAt": "2026-06-15T11:27:57Z"
     }
   ],
   "starHistory": [
@@ -212,6 +212,10 @@
     {
       "date": "2026-07-16",
       "stars": 100566
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 100621
     }
   ],
   "links": {

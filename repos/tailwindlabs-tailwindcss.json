@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 96012,
-  "forks": 5513,
-  "openIssues": 56,
-  "pushedAt": "2026-07-15T15:53:29Z",
+  "stars": 95989,
+  "forks": 5406,
+  "openIssues": 53,
+  "pushedAt": "2026-07-16T17:15:19Z",
   "topics": [
     "css",
     "css-framework",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 233,
+  "starDelta7d": 136,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/67109815?v=4",
   "languages": {
     "TypeScript": 0.82,
@@ -38,6 +38,11 @@
     "text": "tailwindcss is a TypeScript project focused on A utility-first CSS framework for rapid UI development. It is tagged with css, css-framework, and functional-css."
   },
   "releases": [
+    {
+      "tag": "v4.3.3",
+      "name": "v4.3.3",
+      "publishedAt": "2026-07-16T11:55:08Z"
+    },
     {
       "tag": "v4.3.2",
       "name": "v4.3.2",
@@ -57,11 +62,6 @@
       "tag": "v4.2.4",
       "name": "v4.2.4",
       "publishedAt": "2026-04-21T13:09:56Z"
-    },
-    {
-      "tag": "v4.2.3",
-      "name": "v4.2.3",
-      "publishedAt": "2026-04-20T20:46:46Z"
     }
   ],
   "starHistory": [
@@ -200,6 +200,10 @@
     {
       "date": "2026-07-16",
       "stars": 96012
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 95989
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C",
   "languageColor": "#555555",
-  "stars": 136635,
-  "forks": 8378,
-  "openIssues": 7387,
-  "pushedAt": "2026-07-15T23:27:10Z",
+  "stars": 136504,
+  "forks": 8284,
+  "openIssues": 7394,
+  "pushedAt": "2026-07-17T05:10:10Z",
   "topics": [
     "advanced-paste",
     "color-picker",
@@ -27,11 +27,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 472,
+  "starDelta7d": 299,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "C": 0.55,
-    "C#": 0.27,
+    "C#": 0.28,
     "C++": 0.16,
     "PowerShell": 0.01,
     "Python": 0,
@@ -210,6 +210,10 @@
     {
       "date": "2026-07-16",
       "stars": 136635
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 136504
     }
   ],
   "links": {

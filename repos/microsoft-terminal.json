@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 103967,
-  "forks": 9416,
-  "openIssues": 1730,
-  "pushedAt": "2026-07-16T03:03:36Z",
+  "stars": 103975,
+  "forks": 9418,
+  "openIssues": 1738,
+  "pushedAt": "2026-07-17T03:04:28Z",
   "topics": [
     "cmd",
     "command-line",
@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 91,
+  "starDelta7d": 80,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "C++": 0.92,
@@ -49,6 +49,16 @@
   },
   "releases": [
     {
+      "tag": "v1.25.1912.0",
+      "name": "Windows Terminal Preview v1.25.1912.0",
+      "publishedAt": "2026-07-16T21:56:13Z"
+    },
+    {
+      "tag": "v1.24.11911.0",
+      "name": "Windows Terminal v1.24.11911.0",
+      "publishedAt": "2026-07-16T21:56:12Z"
+    },
+    {
       "tag": "v1.25.1322.0",
       "name": "Windows Terminal Preview v1.25.1322.0",
       "publishedAt": "2026-05-13T21:15:14Z"
@@ -62,16 +72,6 @@
       "tag": "v1.25.1241.0",
       "name": "Windows Terminal Preview v1.25.1241.0",
       "publishedAt": "2026-05-13T21:13:57Z"
-    },
-    {
-      "tag": "v1.25.1171.0",
-      "name": "Windows Terminal Preview v1.25.1171.0",
-      "publishedAt": "2026-04-29T00:01:37Z"
-    },
-    {
-      "tag": "v1.25.923.0",
-      "name": "Windows Terminal Preview v1.25.923.0",
-      "publishedAt": "2026-04-03T23:39:38Z"
     }
   ],
   "starHistory": [
@@ -210,6 +210,10 @@
     {
       "date": "2026-07-16",
       "stars": 103967
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 103975
     }
   ],
   "links": {
