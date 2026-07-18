@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 123093,
-  "forks": 18150,
-  "openIssues": 30,
-  "pushedAt": "2026-07-14T06:23:01Z",
+  "stars": 123661,
+  "forks": 18227,
+  "openIssues": 18,
+  "pushedAt": "2026-07-17T21:51:17Z",
   "topics": [
     "agents",
     "llms",
@@ -19,14 +19,14 @@
   ],
   "license": "Apache-2.0",
   "activity": "fast-rising",
-  "starDelta7d": 5898,
+  "starDelta7d": 6004,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31396011?v=4",
   "languages": {
-    "Python": 0.55,
-    "TypeScript": 0.22,
+    "Python": 0.56,
+    "TypeScript": 0.21,
     "JavaScript": 0.16,
-    "HTML": 0.05,
-    "CSS": 0.03,
+    "HTML": 0.04,
+    "CSS": 0.02,
     "Dockerfile": 0,
     "Shell": 0,
     "PLpgSQL": 0,
@@ -178,6 +178,10 @@
     {
       "date": "2026-07-17",
       "stars": 123093
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 123661
     }
   ],
   "links": {

@@ -3,14 +3,14 @@
   "slug": "ollama-ollama",
   "owner": "ollama",
   "name": "ollama",
-  "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+  "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 176288,
-  "forks": 16986,
-  "openIssues": 3462,
-  "pushedAt": "2026-07-17T02:32:09Z",
+  "stars": 176343,
+  "forks": 17001,
+  "openIssues": 3470,
+  "pushedAt": "2026-07-18T00:23:54Z",
   "topics": [
     "deepseek",
     "gemma",
@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 446,
+  "starDelta7d": 445,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/151674099?v=4",
   "languages": {
     "Go": 0.67,
@@ -52,7 +52,7 @@
   "readmeExcerpt": "Start building with open models.",
   "summary": {
     "mode": "template",
-    "text": "ollama is a Go project focused on Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. It is tagged with deepseek, gemma, and gemma3."
+    "text": "ollama is a Go project focused on Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. It is tagged with deepseek, gemma, and gemma3."
   },
   "releases": [
     {
@@ -221,6 +221,10 @@
     {
       "date": "2026-07-17",
       "stars": 176288
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 176343
     }
   ],
   "links": {

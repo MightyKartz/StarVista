@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 149105,
-  "forks": 23485,
-  "openIssues": 1025,
-  "pushedAt": "2026-07-17T05:20:17Z",
+  "stars": 149186,
+  "forks": 23506,
+  "openIssues": 1058,
+  "pushedAt": "2026-07-18T04:55:41Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -35,11 +35,11 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 752,
+  "starDelta7d": 730,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127165244?v=4",
   "languages": {
-    "TypeScript": 0.52,
-    "Python": 0.44,
+    "TypeScript": 0.5,
+    "Python": 0.46,
     "JavaScript": 0.02,
     "MDX": 0.01,
     "CSS": 0,
@@ -60,6 +60,11 @@
   },
   "releases": [
     {
+      "tag": "1.16.0",
+      "name": "v1.16.0",
+      "publishedAt": "2026-07-17T11:14:06Z"
+    },
+    {
       "tag": "1.16.0-rc1",
       "name": "v1.16.0-rc1",
       "publishedAt": "2026-07-09T14:06:30Z"
@@ -78,11 +83,6 @@
       "tag": "1.14.1",
       "name": "v1.14.1 - Security hardening, workflow stability, and cleaner self-hosted deployments",
       "publishedAt": "2026-05-12T08:19:23Z"
-    },
-    {
-      "tag": "1.14.0",
-      "name": "v1.14.0",
-      "publishedAt": "2026-04-29T04:06:08Z"
     }
   ],
   "starHistory": [
@@ -225,6 +225,10 @@
     {
       "date": "2026-07-17",
       "stars": 149105
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 149186
     }
   ],
   "links": {

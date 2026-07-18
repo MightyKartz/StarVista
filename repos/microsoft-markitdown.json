@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 166715,
-  "forks": 11958,
-  "openIssues": 841,
-  "pushedAt": "2026-06-24T15:32:46Z",
+  "stars": 166909,
+  "forks": 11986,
+  "openIssues": 809,
+  "pushedAt": "2026-07-17T20:19:48Z",
   "topics": [
     "autogen",
     "autogen-extension",
@@ -21,8 +21,8 @@
     "pdf"
   ],
   "license": "MIT",
-  "activity": "stable",
-  "starDelta7d": 2265,
+  "activity": "active",
+  "starDelta7d": 2212,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "Python": 1,
@@ -200,6 +200,10 @@
     {
       "date": "2026-07-17",
       "stars": 166715
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 166909
     }
   ],
   "links": {

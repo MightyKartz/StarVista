@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 216074,
-  "forks": 40389,
-  "openIssues": 23234,
-  "pushedAt": "2026-07-17T04:00:13Z",
+  "stars": 216531,
+  "forks": 40587,
+  "openIssues": 23538,
+  "pushedAt": "2026-07-18T05:04:26Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -31,7 +31,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3724,
+  "starDelta7d": 3666,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.82,
@@ -50,7 +50,8 @@
     "Go Template": 0,
     "Ruby": 0,
     "Batchfile": 0,
-    "Makefile": 0
+    "Makefile": 0,
+    "DIGITAL Command Language": 0
   },
   "readmeExcerpt": "Hermes Agent | Hermes Desktop",
   "summary": {
@@ -224,6 +225,10 @@
     {
       "date": "2026-07-17",
       "stars": 216074
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 216531
     }
   ],
   "links": {

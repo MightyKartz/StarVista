@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 98942,
-  "forks": 14788,
-  "openIssues": 9870,
-  "pushedAt": "2026-07-17T04:54:44Z",
+  "stars": 99191,
+  "forks": 14840,
+  "openIssues": 9987,
+  "pushedAt": "2026-07-18T04:57:17Z",
   "topics": [],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 2159,
+  "starDelta7d": 2137,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
   "languages": {
     "Rust": 0.96,
@@ -24,8 +24,9 @@
     "Shell": 0,
     "PowerShell": 0,
     "JavaScript": 0,
-    "Jupyter Notebook": 0,
     "HTML": 0,
+    "Jupyter Notebook": 0,
+    "CSS": 0,
     "Smarty": 0,
     "Just": 0,
     "Nix": 0,
@@ -38,6 +39,16 @@
     "text": "codex is a Rust project focused on Lightweight coding agent that runs in your terminal."
   },
   "releases": [
+    {
+      "tag": "rust-v0.145.0-alpha.23",
+      "name": "0.145.0-alpha.23",
+      "publishedAt": "2026-07-17T22:39:39Z"
+    },
+    {
+      "tag": "rust-v0.145.0-alpha.22",
+      "name": "0.145.0-alpha.22",
+      "publishedAt": "2026-07-17T17:29:27Z"
+    },
     {
       "tag": "rust-v0.144.5",
       "name": "0.144.5",
@@ -52,16 +63,6 @@
       "tag": "rust-v0.145.0-alpha.19",
       "name": "0.145.0-alpha.19",
       "publishedAt": "2026-07-16T22:10:45Z"
-    },
-    {
-      "tag": "rust-v0.145.0-alpha.18",
-      "name": "0.145.0-alpha.18",
-      "publishedAt": "2026-07-16T18:11:45Z"
-    },
-    {
-      "tag": "rust-v0.145.0-alpha.16",
-      "name": "0.145.0-alpha.16",
-      "publishedAt": "2026-07-16T05:22:02Z"
     }
   ],
   "starHistory": [
@@ -196,6 +197,10 @@
     {
       "date": "2026-07-17",
       "stars": 98942
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 99191
     }
   ],
   "links": {

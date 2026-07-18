@@ -3,18 +3,18 @@
   "slug": "mattpocock-skills",
   "owner": "mattpocock",
   "name": "skills",
-  "description": "Skills for Real Engineers. Straight from my .claude directory.",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 174558,
-  "forks": 14972,
-  "openIssues": 181,
-  "pushedAt": "2026-07-16T12:13:01Z",
+  "stars": 175808,
+  "forks": 15062,
+  "openIssues": 189,
+  "pushedAt": "2026-07-17T09:51:15Z",
   "topics": [],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 11126,
+  "starDelta7d": 10940,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4",
   "languages": {
     "Shell": 0.77,
@@ -23,7 +23,7 @@
   "readmeExcerpt": "My agent skills that I use every day to do real engineering - not vibe coding.",
   "summary": {
     "mode": "template",
-    "text": "skills is a Shell project focused on Skills for Real Engineers. Straight from my .claude directory."
+    "text": "skills is a Shell project focused on Skills for Real Engineers. Straight from my .agents directory."
   },
   "releases": [
     {
@@ -187,6 +187,10 @@
     {
       "date": "2026-07-17",
       "stars": 174558
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 175808
     }
   ],
   "links": {

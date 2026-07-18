@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 105130,
-  "forks": 11573,
-  "openIssues": 317,
-  "pushedAt": "2026-07-17T01:16:46Z",
+  "stars": 105301,
+  "forks": 11595,
+  "openIssues": 318,
+  "pushedAt": "2026-07-17T05:32:02Z",
   "topics": [
     "ai-agents",
     "ai-tools",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1113,
+  "starDelta7d": 1140,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192012301?v=4",
   "languages": {
     "Python": 0.99,
@@ -36,6 +36,11 @@
     "text": "browser-use is a Python project focused on 🌐 Make websites accessible for AI agents. Automate tasks online with ease. It is tagged with ai-agents, ai-tools, and browser-automation."
   },
   "releases": [
+    {
+      "tag": "0.13.6",
+      "name": "0.13.6",
+      "publishedAt": "2026-07-17T05:29:18Z"
+    },
     {
       "tag": "0.13.5",
       "name": "0.13.5",
@@ -55,11 +60,6 @@
       "tag": "0.13.2",
       "name": "0.13.2",
       "publishedAt": "2026-06-12T22:45:04Z"
-    },
-    {
-      "tag": "0.13.1",
-      "name": "0.13.1",
-      "publishedAt": "2026-06-10T01:00:59Z"
     }
   ],
   "starHistory": [
@@ -202,6 +202,10 @@
     {
       "date": "2026-07-17",
       "stars": 105130
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 105301
     }
   ],
   "links": {
