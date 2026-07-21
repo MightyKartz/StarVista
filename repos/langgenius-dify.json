@@ -3,14 +3,14 @@
   "slug": "langgenius-dify",
   "owner": "langgenius",
   "name": "dify",
-  "description": "Production-ready platform for agentic workflow development.",
+  "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 149396,
-  "forks": 23544,
-  "openIssues": 1095,
-  "pushedAt": "2026-07-20T05:45:26Z",
+  "stars": 149556,
+  "forks": 23573,
+  "openIssues": 1097,
+  "pushedAt": "2026-07-21T05:24:47Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -18,10 +18,9 @@
     "agentic-workflow",
     "ai",
     "automation",
-    "gemini",
+    "claude",
     "genai",
     "gpt",
-    "gpt-4",
     "llm",
     "low-code",
     "mcp",
@@ -31,11 +30,12 @@
     "orchestration",
     "python",
     "rag",
+    "skills",
     "workflow"
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 764,
+  "starDelta7d": 816,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127165244?v=4",
   "languages": {
     "TypeScript": 0.5,
@@ -56,7 +56,7 @@
   "readmeExcerpt": "Dify Cloud · Self-hosting · Documentation · Dify edition overview",
   "summary": {
     "mode": "template",
-    "text": "dify is a TypeScript project focused on Production-ready platform for agentic workflow development. It is tagged with agent, agentic-ai, and agentic-framework."
+    "text": "dify is a TypeScript project focused on Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. It is tagged with agent, agentic-ai, and agentic-framework."
   },
   "releases": [
     {
@@ -237,6 +237,10 @@
     {
       "date": "2026-07-20",
       "stars": 149396
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 149556
     }
   ],
   "links": {

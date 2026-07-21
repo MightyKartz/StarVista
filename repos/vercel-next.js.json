@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 141028,
-  "forks": 31480,
-  "openIssues": 4220,
-  "pushedAt": "2026-07-20T05:17:33Z",
+  "stars": 141042,
+  "forks": 31489,
+  "openIssues": 4238,
+  "pushedAt": "2026-07-21T05:03:16Z",
   "topics": [
     "blog",
     "browser",
@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": -1,
+  "starDelta7d": -29,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
   "languages": {
     "JavaScript": 0.52,
@@ -54,6 +54,11 @@
   },
   "releases": [
     {
+      "tag": "v16.3.0-canary.91",
+      "name": "v16.3.0-canary.91",
+      "publishedAt": "2026-07-20T23:58:30Z"
+    },
+    {
       "tag": "v16.3.0-canary.90",
       "name": "v16.3.0-canary.90",
       "publishedAt": "2026-07-20T03:27:46Z"
@@ -72,11 +77,6 @@
       "tag": "v16.3.0-canary.87",
       "name": "v16.3.0-canary.87",
       "publishedAt": "2026-07-15T23:59:48Z"
-    },
-    {
-      "tag": "v16.3.0-canary.86",
-      "name": "v16.3.0-canary.86",
-      "publishedAt": "2026-07-14T23:59:06Z"
     }
   ],
   "starHistory": [
@@ -231,6 +231,10 @@
     {
       "date": "2026-07-20",
       "stars": 141028
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 141042
     }
   ],
   "links": {

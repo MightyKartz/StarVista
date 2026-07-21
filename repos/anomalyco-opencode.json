@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 187596,
-  "forks": 23585,
-  "openIssues": 4740,
-  "pushedAt": "2026-07-20T05:21:08Z",
+  "stars": 188015,
+  "forks": 23651,
+  "openIssues": 4745,
+  "pushedAt": "2026-07-21T05:26:48Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2421,
+  "starDelta7d": 2480,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66570915?v=4",
   "languages": {
     "TypeScript": 0.72,
@@ -35,29 +35,29 @@
   },
   "releases": [
     {
+      "tag": "v1.18.4",
+      "name": "v1.18.4",
+      "publishedAt": "2026-07-20T15:28:21Z"
+    },
+    {
+      "tag": "pr-37967-screenshots-v2",
+      "name": "PR #37967 final screenshots",
+      "publishedAt": "2026-07-20T17:33:45Z"
+    },
+    {
+      "tag": "pr-37967-screenshots-final",
+      "name": "PR #37967 screenshots (final)",
+      "publishedAt": "2026-07-20T17:34:58Z"
+    },
+    {
+      "tag": "pr-37967-screenshots",
+      "name": "PR #37967 screenshots",
+      "publishedAt": "2026-07-20T17:28:09Z"
+    },
+    {
       "tag": "v1.18.3",
       "name": "v1.18.3",
       "publishedAt": "2026-07-16T15:34:33Z"
-    },
-    {
-      "tag": "v1.18.2",
-      "name": "v1.18.2",
-      "publishedAt": "2026-07-15T16:15:38Z"
-    },
-    {
-      "tag": "v1.18.1",
-      "name": "v1.18.1",
-      "publishedAt": "2026-07-14T21:37:54Z"
-    },
-    {
-      "tag": "v1.18.0",
-      "name": "v1.18.0",
-      "publishedAt": "2026-07-14T20:29:48Z"
-    },
-    {
-      "tag": "v1.17.20",
-      "name": "v1.17.20",
-      "publishedAt": "2026-07-13T21:09:56Z"
     }
   ],
   "starHistory": [
@@ -212,6 +212,10 @@
     {
       "date": "2026-07-20",
       "stars": 187596
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 188015
     }
   ],
   "links": {

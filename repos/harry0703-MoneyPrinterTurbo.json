@@ -3,26 +3,33 @@
   "slug": "harry0703-MoneyPrinterTurbo",
   "owner": "harry0703",
   "name": "MoneyPrinterTurbo",
-  "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+  "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 98202,
-  "forks": 14504,
+  "stars": 98382,
+  "forks": 14541,
   "openIssues": 1,
-  "pushedAt": "2026-07-18T04:54:33Z",
+  "pushedAt": "2026-07-20T13:24:36Z",
   "topics": [
-    "ai",
-    "automation",
-    "chatgpt",
-    "moviepy",
+    "ai-video-generator",
+    "content-creation",
+    "ffmpeg",
+    "instagram-reels",
+    "llm",
     "python",
-    "shortvideo",
-    "tiktok"
+    "short-video",
+    "subtitles",
+    "text-to-speech",
+    "tiktok",
+    "video-automation",
+    "video-workflow",
+    "workflow-automation",
+    "youtube-shorts"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1205,
+  "starDelta7d": 1125,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4",
   "languages": {
     "Python": 0.98,
@@ -35,7 +42,7 @@
   "readmeExcerpt": "只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。",
   "summary": {
     "mode": "template",
-    "text": "MoneyPrinterTurbo is a Python project focused on 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. It is tagged with ai, automation, and chatgpt."
+    "text": "MoneyPrinterTurbo is a Python project focused on 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. It is tagged with ai-video-generator, content-creation, and ffmpeg."
   },
   "releases": [
     {
@@ -148,6 +155,10 @@
     {
       "date": "2026-07-20",
       "stars": 98202
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 98382
     }
   ],
   "links": {
