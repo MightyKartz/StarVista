@@ -3,14 +3,14 @@
   "slug": "Shubhamsaboo-awesome-llm-apps",
   "owner": "Shubhamsaboo",
   "name": "awesome-llm-apps",
-  "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+  "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 125305,
-  "forks": 18490,
-  "openIssues": 8,
-  "pushedAt": "2026-07-21T01:17:23Z",
+  "stars": 125905,
+  "forks": 18578,
+  "openIssues": 9,
+  "pushedAt": "2026-07-22T05:14:03Z",
   "topics": [
     "agents",
     "llms",
@@ -19,7 +19,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "fast-rising",
-  "starDelta7d": 5409,
+  "starDelta7d": 4808,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31396011?v=4",
   "languages": {
     "Python": 0.56,
@@ -35,7 +35,7 @@
   "readmeExcerpt": "100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.",
   "summary": {
     "mode": "template",
-    "text": "awesome-llm-apps is a Python project focused on 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. It is tagged with agents, llms, and python."
+    "text": "awesome-llm-apps is a Python project focused on 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. It is tagged with agents, llms, and python."
   },
   "releases": [],
   "starHistory": [
@@ -194,6 +194,10 @@
     {
       "date": "2026-07-21",
       "stars": 125305
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 125905
     }
   ],
   "links": {

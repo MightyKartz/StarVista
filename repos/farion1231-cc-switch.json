@@ -3,24 +3,24 @@
   "slug": "farion1231-cc-switch",
   "owner": "farion1231",
   "name": "cc-switch",
-  "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+  "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 119407,
-  "forks": 8018,
+  "stars": 119885,
+  "forks": 8052,
   "openIssues": 2035,
-  "pushedAt": "2026-07-21T02:13:00Z",
+  "pushedAt": "2026-07-22T05:07:54Z",
   "topics": [
     "ai-tools",
     "claude-code",
     "codex",
     "desktop-app",
+    "grok",
+    "grokbuild",
     "hermes",
     "hermes-agent",
     "mcp",
-    "minimax",
-    "omo",
     "open-source",
     "openclaw",
     "openclaw-ui",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2493,
+  "starDelta7d": 2581,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.64,
@@ -47,9 +47,14 @@
   "readmeExcerpt": "English | 中文 | 日本語 | Deutsch | Changelog",
   "summary": {
     "mode": "template",
-    "text": "cc-switch is a Rust project focused on A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io. It is tagged with ai-tools, claude-code, and codex."
+    "text": "cc-switch is a Rust project focused on A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io. It is tagged with ai-tools, claude-code, and codex."
   },
   "releases": [
+    {
+      "tag": "v3.18.0",
+      "name": "CC Switch v3.18.0",
+      "publishedAt": "2026-07-21T15:34:53Z"
+    },
     {
       "tag": "v3.17.0",
       "name": "CC Switch v3.17.0",
@@ -69,11 +74,6 @@
       "tag": "v3.16.3",
       "name": "CC Switch v3.16.3",
       "publishedAt": "2026-06-14T16:48:50Z"
-    },
-    {
-      "tag": "v3.16.2",
-      "name": "CC Switch v3.16.2",
-      "publishedAt": "2026-06-08T15:53:00Z"
     }
   ],
   "starHistory": [
@@ -232,6 +232,10 @@
     {
       "date": "2026-07-21",
       "stars": 119407
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 119885
     }
   ],
   "links": {

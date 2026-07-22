@@ -7,16 +7,16 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 121106,
-  "forks": 20824,
-  "openIssues": 1906,
-  "pushedAt": "2026-07-20T23:47:42Z",
+  "stars": 121226,
+  "forks": 20868,
+  "openIssues": 1909,
+  "pushedAt": "2026-07-22T05:17:55Z",
   "topics": [
     "ggml"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 817,
+  "starDelta7d": 820,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134263123?v=4",
   "languages": {
     "C++": 0.55,
@@ -53,29 +53,29 @@
   },
   "releases": [
     {
-      "tag": "b10075",
-      "name": "b10075",
-      "publishedAt": "2026-07-20T23:47:43Z"
+      "tag": "b10080",
+      "name": "b10080",
+      "publishedAt": "2026-07-22T05:06:25Z"
     },
     {
-      "tag": "b10069",
-      "name": "b10069",
-      "publishedAt": "2026-07-20T06:29:53Z"
+      "tag": "b10079",
+      "name": "b10079",
+      "publishedAt": "2026-07-22T02:03:31Z"
     },
     {
-      "tag": "b10068",
-      "name": "b10068",
-      "publishedAt": "2026-07-18T13:36:42Z"
+      "tag": "b10078",
+      "name": "b10078",
+      "publishedAt": "2026-07-21T22:38:35Z"
     },
     {
-      "tag": "b10067",
-      "name": "b10067",
-      "publishedAt": "2026-07-18T12:12:58Z"
+      "tag": "b10077",
+      "name": "b10077",
+      "publishedAt": "2026-07-21T21:53:49Z"
     },
     {
-      "tag": "b10066",
-      "name": "b10066",
-      "publishedAt": "2026-07-17T23:13:36Z"
+      "tag": "b10076",
+      "name": "b10076",
+      "publishedAt": "2026-07-21T15:52:50Z"
     }
   ],
   "starHistory": [
@@ -234,6 +234,10 @@
     {
       "date": "2026-07-21",
       "stars": 121106
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 121226
     }
   ],
   "links": {

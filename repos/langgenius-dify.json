@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 149556,
-  "forks": 23573,
-  "openIssues": 1097,
-  "pushedAt": "2026-07-21T05:24:47Z",
+  "stars": 149706,
+  "forks": 23590,
+  "openIssues": 1055,
+  "pushedAt": "2026-07-22T05:24:51Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -35,7 +35,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 816,
+  "starDelta7d": 843,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127165244?v=4",
   "languages": {
     "TypeScript": 0.5,
@@ -241,6 +241,10 @@
     {
       "date": "2026-07-21",
       "stars": 149556
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 149706
     }
   ],
   "links": {

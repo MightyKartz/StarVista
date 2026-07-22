@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 126241,
-  "forks": 25184,
-  "openIssues": 1023,
-  "pushedAt": "2026-07-21T04:16:46Z",
+  "stars": 126243,
+  "forks": 25183,
+  "openIssues": 1017,
+  "pushedAt": "2026-07-21T19:40:04Z",
   "topics": [
     "android",
     "app-framework",
@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 45,
+  "starDelta7d": 44,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102812?v=4",
   "languages": {
     "C++": 0.35,
@@ -50,6 +50,16 @@
   },
   "releases": [
     {
+      "tag": "v0.87.0-rc.2",
+      "name": "0.87.0-rc.2",
+      "publishedAt": "2026-07-21T18:13:16Z"
+    },
+    {
+      "tag": "v0.87.0-rc.1",
+      "name": "0.87.0-rc.1",
+      "publishedAt": "2026-07-21T18:13:05Z"
+    },
+    {
       "tag": "v0.87.0-rc.0",
       "name": "0.87.0-rc.0",
       "publishedAt": "2026-07-08T14:21:07Z"
@@ -63,16 +73,6 @@
       "tag": "v0.86.0",
       "name": "0.86.0",
       "publishedAt": "2026-06-11T15:27:00Z"
-    },
-    {
-      "tag": "v0.86.0-rc.3",
-      "name": "0.86.0-rc.3",
-      "publishedAt": "2026-06-03T07:47:03Z"
-    },
-    {
-      "tag": "v0.86.0-rc.2",
-      "name": "0.86.0-rc.2",
-      "publishedAt": "2026-05-25T14:42:44Z"
     }
   ],
   "starHistory": [
@@ -231,6 +231,10 @@
     {
       "date": "2026-07-21",
       "stars": 126241
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 126243
     }
   ],
   "links": {

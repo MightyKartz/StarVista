@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 188015,
-  "forks": 23651,
-  "openIssues": 4745,
-  "pushedAt": "2026-07-21T05:26:48Z",
+  "stars": 188400,
+  "forks": 23722,
+  "openIssues": 4763,
+  "pushedAt": "2026-07-22T05:17:14Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2480,
+  "starDelta7d": 2489,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66570915?v=4",
   "languages": {
     "TypeScript": 0.72,
@@ -35,6 +35,11 @@
   },
   "releases": [
     {
+      "tag": "pr-38252-videos",
+      "name": "PR #38252 verification videos",
+      "publishedAt": "2026-07-22T05:01:56Z"
+    },
+    {
       "tag": "v1.18.4",
       "name": "v1.18.4",
       "publishedAt": "2026-07-20T15:28:21Z"
@@ -53,11 +58,6 @@
       "tag": "pr-37967-screenshots",
       "name": "PR #37967 screenshots",
       "publishedAt": "2026-07-20T17:28:09Z"
-    },
-    {
-      "tag": "v1.18.3",
-      "name": "v1.18.3",
-      "publishedAt": "2026-07-16T15:34:33Z"
     }
   ],
   "starHistory": [
@@ -216,6 +216,10 @@
     {
       "date": "2026-07-21",
       "stars": 188015
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 188400
     }
   ],
   "links": {
