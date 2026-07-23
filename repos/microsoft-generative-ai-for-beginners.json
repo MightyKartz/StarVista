@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Jupyter Notebook",
   "languageColor": null,
-  "stars": 113345,
-  "forks": 60840,
-  "openIssues": 3,
-  "pushedAt": "2026-07-21T11:56:26Z",
+  "stars": 113411,
+  "forks": 60874,
+  "openIssues": 6,
+  "pushedAt": "2026-07-23T03:43:21Z",
   "topics": [
     "ai",
     "azure",
@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 340,
+  "starDelta7d": 381,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "Jupyter Notebook": 1,
@@ -207,6 +207,10 @@
     {
       "date": "2026-07-22",
       "stars": 113345
+    },
+    {
+      "date": "2026-07-23",
+      "stars": 113411
     }
   ],
   "links": {

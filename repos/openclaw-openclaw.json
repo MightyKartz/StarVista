@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 383763,
-  "forks": 80639,
-  "openIssues": 6887,
-  "pushedAt": "2026-07-22T05:27:40Z",
+  "stars": 383858,
+  "forks": 80653,
+  "openIssues": 6907,
+  "pushedAt": "2026-07-23T05:33:38Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,12 +22,12 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 799,
+  "starDelta7d": 789,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.88,
     "Swift": 0.05,
-    "JavaScript": 0.03,
+    "JavaScript": 0.02,
     "Kotlin": 0.02,
     "Shell": 0.01,
     "CSS": 0,
@@ -39,7 +39,7 @@
     "PowerShell": 0,
     "Dockerfile": 0
   },
-  "readmeExcerpt": "OpenClaw is a personal AI assistant you run on your own devices. It answers you on the channels you already use. It can speak and listen on macOS/iOS/Android, and can render a live Canvas you control. The Gateway is just the control plane — the product is the assistant.",
+  "readmeExcerpt": "OpenClaw is a personal AI assistant that learns and grows with you, running on your own devices — developed in the open by the OpenClaw Foundation (a non-profit). It answers you on the channels you already use. It can speak and listen on macOS/iOS/Android, and can render a live Canvas you control. The Gateway is just the control plane — the product is the assistant.",
   "summary": {
     "mode": "template",
     "text": "openclaw is a TypeScript project focused on Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 . It is tagged with ai, assistant, and crustacean."
@@ -231,6 +231,10 @@
     {
       "date": "2026-07-22",
       "stars": 383763
+    },
+    {
+      "date": "2026-07-23",
+      "stars": 383858
     }
   ],
   "links": {

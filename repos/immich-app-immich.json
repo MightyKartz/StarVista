@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 108411,
-  "forks": 6287,
-  "openIssues": 717,
-  "pushedAt": "2026-07-22T05:01:33Z",
+  "stars": 108510,
+  "forks": 6301,
+  "openIssues": 691,
+  "pushedAt": "2026-07-23T05:01:30Z",
   "topics": [
     "backup-tool",
     "flutter",
@@ -31,7 +31,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 713,
+  "starDelta7d": 701,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/109746326?v=4",
   "languages": {
     "TypeScript": 0.52,
@@ -248,6 +248,10 @@
     {
       "date": "2026-07-22",
       "stars": 108411
+    },
+    {
+      "date": "2026-07-23",
+      "stars": 108510
     }
   ],
   "links": {

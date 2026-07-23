@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 152185,
-  "forks": 9623,
-  "openIssues": 984,
-  "pushedAt": "2026-07-22T04:42:20Z",
+  "stars": 152240,
+  "forks": 9628,
+  "openIssues": 974,
+  "pushedAt": "2026-07-23T04:39:13Z",
   "topics": [
     "agents",
     "chatgpt",
@@ -21,16 +21,16 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 298,
+  "starDelta7d": 313,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/85702467?v=4",
   "languages": {
-    "Python": 0.65,
+    "Python": 0.67,
     "TypeScript": 0.23,
-    "JavaScript": 0.11,
+    "JavaScript": 0.1,
     "CSS": 0,
     "Makefile": 0,
-    "Shell": 0,
     "Dockerfile": 0,
+    "Shell": 0,
     "PowerShell": 0,
     "Batchfile": 0,
     "HTML": 0,
@@ -43,6 +43,11 @@
   },
   "releases": [
     {
+      "tag": "v1.11.0",
+      "name": "1.11.0",
+      "publishedAt": "2026-07-23T01:58:39Z"
+    },
+    {
       "tag": "v1.10.2",
       "name": "1.10.2",
       "publishedAt": "2026-07-07T20:40:40Z"
@@ -53,19 +58,14 @@
       "publishedAt": "2026-06-23T23:49:37Z"
     },
     {
-      "tag": "1.10.1rc3",
-      "name": "1.10.1rc3",
-      "publishedAt": "2026-06-22T23:19:40Z"
-    },
-    {
-      "tag": "1.10.1.rc0",
-      "name": "1.10.1.rc0",
-      "publishedAt": "2026-06-22T19:22:58Z"
-    },
-    {
       "tag": "v1.10.0",
       "name": "1.10.0",
       "publishedAt": "2026-06-09T18:47:59Z"
+    },
+    {
+      "tag": "v1.9.6",
+      "name": "1.9.6",
+      "publishedAt": "2026-06-02T16:34:50Z"
     }
   ],
   "starHistory": [
@@ -228,6 +228,10 @@
     {
       "date": "2026-07-22",
       "stars": 152185
+    },
+    {
+      "date": "2026-07-23",
+      "stars": 152240
     }
   ],
   "links": {
