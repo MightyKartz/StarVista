@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C#",
   "languageColor": null,
-  "stars": 112018,
-  "forks": 15569,
-  "openIssues": 9,
-  "pushedAt": "2026-07-20T01:30:53Z",
+  "stars": 112079,
+  "forks": 15571,
+  "openIssues": 10,
+  "pushedAt": "2026-07-24T02:13:14Z",
   "topics": [
     "proxy",
     "shadowsocks",
@@ -26,7 +26,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 557,
+  "starDelta7d": 542,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4",
   "languages": {
     "C#": 0.92,
@@ -228,6 +228,10 @@
     {
       "date": "2026-07-23",
       "stars": 112018
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 112079
     }
   ],
   "links": {

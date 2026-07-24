@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 108285,
-  "forks": 15133,
-  "openIssues": 52,
-  "pushedAt": "2026-07-23T04:28:16Z",
+  "stars": 108307,
+  "forks": 15135,
+  "openIssues": 50,
+  "pushedAt": "2026-07-23T14:02:50Z",
   "topics": [
     "expose",
     "firewall",
@@ -25,11 +25,11 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 203,
+  "starDelta7d": 206,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7346661?v=4",
   "languages": {
     "Go": 0.83,
-    "Vue": 0.12,
+    "Vue": 0.13,
     "TypeScript": 0.03,
     "CSS": 0.01,
     "Shell": 0.01,
@@ -44,6 +44,11 @@
     "text": "frp is a Go project focused on A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. It is tagged with expose, firewall, and frp."
   },
   "releases": [
+    {
+      "tag": "v0.70.1",
+      "name": "v0.70.1",
+      "publishedAt": "2026-07-23T07:55:25Z"
+    },
     {
       "tag": "v0.70.0",
       "name": "v0.70.0",
@@ -63,11 +68,6 @@
       "tag": "v0.68.1",
       "name": "v0.68.1",
       "publishedAt": "2026-04-13T17:37:42Z"
-    },
-    {
-      "tag": "v0.68.0",
-      "name": "v0.68.0",
-      "publishedAt": "2026-03-20T06:05:18Z"
     }
   ],
   "starHistory": [
@@ -234,6 +234,10 @@
     {
       "date": "2026-07-23",
       "stars": 108285
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 108307
     }
   ],
   "links": {

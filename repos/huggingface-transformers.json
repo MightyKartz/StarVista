@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 162855,
-  "forks": 33995,
-  "openIssues": 2400,
-  "pushedAt": "2026-07-23T05:32:41Z",
+  "stars": 162903,
+  "forks": 34009,
+  "openIssues": 2380,
+  "pushedAt": "2026-07-24T05:29:25Z",
   "topics": [
     "audio",
     "deep-learning",
@@ -34,7 +34,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 218,
+  "starDelta7d": 232,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
   "languages": {
     "Python": 1,
@@ -239,6 +239,10 @@
     {
       "date": "2026-07-23",
       "stars": 162855
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 162903
     }
   ],
   "links": {
