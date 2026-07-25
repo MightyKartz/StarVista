@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 104328,
-  "forks": 9455,
-  "openIssues": 1750,
-  "pushedAt": "2026-07-24T03:05:14Z",
+  "stars": 104340,
+  "forks": 9459,
+  "openIssues": 1749,
+  "pushedAt": "2026-07-25T03:03:42Z",
   "topics": [
     "cmd",
     "command-line",
@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 353,
+  "starDelta7d": 356,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "C++": 0.92,
@@ -242,6 +242,10 @@
     {
       "date": "2026-07-24",
       "stars": 104328
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 104340
     }
   ],
   "links": {

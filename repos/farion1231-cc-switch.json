@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 120641,
-  "forks": 8101,
-  "openIssues": 2060,
+  "stars": 120976,
+  "forks": 8132,
+  "openIssues": 2084,
   "pushedAt": "2026-07-24T04:52:43Z",
   "topics": [
     "ai-tools",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2586,
+  "starDelta7d": 2575,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.65,
@@ -244,6 +244,10 @@
     {
       "date": "2026-07-24",
       "stars": 120641
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 120976
     }
   ],
   "links": {

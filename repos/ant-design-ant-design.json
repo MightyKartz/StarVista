@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 98804,
-  "forks": 54672,
-  "openIssues": 1191,
-  "pushedAt": "2026-07-24T04:35:16Z",
+  "stars": 98810,
+  "forks": 54673,
+  "openIssues": 1123,
+  "pushedAt": "2026-07-25T03:03:20Z",
   "topics": [
     "ant-design",
     "antd",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 51,
+  "starDelta7d": 52,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4",
   "languages": {
     "TypeScript": 0.99,
@@ -232,6 +232,10 @@
     {
       "date": "2026-07-24",
       "stars": 98804
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 98810
     }
   ],
   "links": {
