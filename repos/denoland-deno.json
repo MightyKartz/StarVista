@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 107795,
-  "forks": 6199,
-  "openIssues": 1452,
+  "stars": 107808,
+  "forks": 6217,
+  "openIssues": 1460,
   "pushedAt": "2026-07-24T22:05:29Z",
   "topics": [
     "deno",
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 85,
+  "starDelta7d": 71,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/42048915?v=4",
   "languages": {
     "Rust": 0.63,
@@ -244,6 +244,10 @@
     {
       "date": "2026-07-25",
       "stars": 107795
+    },
+    {
+      "date": "2026-07-26",
+      "stars": 107808
     }
   ],
   "links": {
