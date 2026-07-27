@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": null,
   "languageColor": null,
-  "stars": 142291,
-  "forks": 34815,
-  "openIssues": 158,
+  "stars": 142326,
+  "forks": 34817,
+  "openIssues": 157,
   "pushedAt": "2026-07-12T15:42:00Z",
   "topics": [
     "ai",
@@ -34,7 +34,7 @@
     "windsurf-ai"
   ],
   "license": "GPL-3.0",
-  "activity": "active",
+  "activity": "stable",
   "starDelta7d": 230,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/185671340?v=4",
   "languages": {},
@@ -220,6 +220,10 @@
     {
       "date": "2026-07-26",
       "stars": 142291
+    },
+    {
+      "date": "2026-07-27",
+      "stars": 142326
     }
   ],
   "links": {
