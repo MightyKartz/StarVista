@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 96618,
-  "forks": 9361,
-  "openIssues": 666,
-  "pushedAt": "2026-07-26T23:20:06Z",
+  "stars": 97269,
+  "forks": 9423,
+  "openIssues": 680,
+  "pushedAt": "2026-07-27T09:58:32Z",
   "topics": [
     "ai-agents",
     "antigravity",
@@ -47,6 +47,11 @@
   },
   "releases": [
     {
+      "tag": "v0.9.28",
+      "name": "v0.9.28",
+      "publishedAt": "2026-07-27T09:58:32Z"
+    },
+    {
       "tag": "v0.9.27",
       "name": "v0.9.27",
       "publishedAt": "2026-07-26T12:01:51Z"
@@ -65,17 +70,16 @@
       "tag": "v0.9.24",
       "name": "v0.9.24",
       "publishedAt": "2026-07-22T18:47:49Z"
-    },
-    {
-      "tag": "v0.9.23",
-      "name": "graphify 0.9.23",
-      "publishedAt": "2026-07-21T17:59:10Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-07-27",
       "stars": 96618
+    },
+    {
+      "date": "2026-07-28",
+      "stars": 97269
     }
   ],
   "links": {

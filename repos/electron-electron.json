@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 122205,
-  "forks": 17349,
-  "openIssues": 879,
-  "pushedAt": "2026-07-27T04:12:09Z",
+  "stars": 122215,
+  "forks": 17350,
+  "openIssues": 881,
+  "pushedAt": "2026-07-28T05:22:46Z",
   "topics": [
     "c-plus-plus",
     "chrome",
@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 107,
+  "starDelta7d": 103,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13409222?v=4",
   "languages": {
     "C++": 0.54,
@@ -46,6 +46,11 @@
   },
   "releases": [
     {
+      "tag": "v44.0.0-alpha.7",
+      "name": "electron v44.0.0-alpha.7",
+      "publishedAt": "2026-07-27T22:35:37Z"
+    },
+    {
       "tag": "v44.0.0-alpha.6",
       "name": "electron v44.0.0-alpha.6",
       "publishedAt": "2026-07-24T00:43:01Z"
@@ -64,11 +69,6 @@
       "tag": "v41.10.3",
       "name": "electron v41.10.3",
       "publishedAt": "2026-07-21T18:03:02Z"
-    },
-    {
-      "tag": "v44.0.0-alpha.5",
-      "name": "electron v44.0.0-alpha.5",
-      "publishedAt": "2026-07-21T00:58:28Z"
     }
   ],
   "starHistory": [
@@ -251,6 +251,10 @@
     {
       "date": "2026-07-27",
       "stars": 122205
+    },
+    {
+      "date": "2026-07-28",
+      "stars": 122215
     }
   ],
   "links": {
