@@ -1,0 +1,67 @@
+{
+  "id": "justjavac/free-programming-books-zh_CN",
+  "slug": "justjavac-free-programming-books-zh_CN",
+  "owner": "justjavac",
+  "name": "free-programming-books-zh_CN",
+  "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+  "archived": false,
+  "primaryLanguage": null,
+  "languageColor": null,
+  "stars": 117872,
+  "forks": 28227,
+  "openIssues": 1,
+  "pushedAt": "2026-07-29T00:39:06Z",
+  "topics": [
+    "android",
+    "angular",
+    "books",
+    "free",
+    "ios",
+    "javascript",
+    "kotlin",
+    "pdf",
+    "programming",
+    "python",
+    "react",
+    "react-native",
+    "swift",
+    "vue"
+  ],
+  "license": "GPL-3.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/359395?v=4",
+  "languages": {},
+  "readmeExcerpt": "免费的编程中文书籍索引 ============================",
+  "summary": {
+    "mode": "template",
+    "text": "free-programming-books-zh_CN is a open-source project focused on :books: 免费的计算机编程类中文书籍，欢迎投稿. It is tagged with android, angular, and books."
+  },
+  "releases": [
+    {
+      "tag": "3.0",
+      "name": "v3.0",
+      "publishedAt": "2018-11-05T05:21:03Z"
+    },
+    {
+      "tag": "v2.0",
+      "name": "v2.0",
+      "publishedAt": "2017-08-21T16:54:24Z"
+    },
+    {
+      "tag": "v1.0",
+      "name": "",
+      "publishedAt": "2016-08-11T16:09:33Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-07-29",
+      "stars": 117872
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "homepage": "http://weibo.com/justjavac"
+  }
+}

@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 100620,
-  "forks": 27315,
-  "openIssues": 1174,
+  "stars": 100599,
+  "forks": 27309,
+  "openIssues": 1190,
   "pushedAt": "2026-07-27T20:08:26Z",
   "topics": [
     "angular",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 16,
+  "starDelta7d": -40,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139426?v=4",
   "languages": {
     "TypeScript": 0.87,
@@ -249,6 +249,10 @@
     {
       "date": "2026-07-28",
       "stars": 100620
+    },
+    {
+      "date": "2026-07-29",
+      "stars": 100599
     }
   ],
   "links": {

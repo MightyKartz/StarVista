@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 106213,
-  "forks": 14325,
-  "openIssues": 1059,
-  "pushedAt": "2026-07-28T01:28:20Z",
+  "stars": 106229,
+  "forks": 14336,
+  "openIssues": 978,
+  "pushedAt": "2026-07-29T01:29:18Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 123,
+  "starDelta7d": 115,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
     "TypeScript": 0.98,
@@ -41,29 +41,29 @@
   },
   "releases": [
     {
+      "tag": "v0.55.0-nightly.20260729.g3499c84f7",
+      "name": "Release v0.55.0-nightly.20260729.g3499c84f7",
+      "publishedAt": "2026-07-29T01:29:18Z"
+    },
+    {
+      "tag": "v0.54.0-preview.0",
+      "name": "Release v0.54.0-preview.0",
+      "publishedAt": "2026-07-28T21:37:03Z"
+    },
+    {
       "tag": "v0.54.0-nightly.20260728.gbef611950",
       "name": "Release v0.54.0-nightly.20260728.gbef611950",
       "publishedAt": "2026-07-28T01:28:20Z"
     },
     {
+      "tag": "v0.53.0",
+      "name": "Release v0.53.0",
+      "publishedAt": "2026-07-28T21:45:42Z"
+    },
+    {
       "tag": "v0.54.0-nightly.20260727.g3818efbbf",
       "name": "Release v0.54.0-nightly.20260727.g3818efbbf",
       "publishedAt": "2026-07-27T01:32:29Z"
-    },
-    {
-      "tag": "v0.54.0-nightly.20260726.g3818efbbf",
-      "name": "Release v0.54.0-nightly.20260726.g3818efbbf",
-      "publishedAt": "2026-07-26T01:31:03Z"
-    },
-    {
-      "tag": "v0.52.0-nightly.20260723.g9681621c6",
-      "name": "Release v0.52.0-nightly.20260723.g9681621c6",
-      "publishedAt": "2026-07-23T01:30:36Z"
-    },
-    {
-      "tag": "v0.53.0-preview.0",
-      "name": "Release v0.53.0-preview.0",
-      "publishedAt": "2026-07-22T20:10:07Z"
     }
   ],
   "starHistory": [
@@ -250,6 +250,10 @@
     {
       "date": "2026-07-28",
       "stars": 106213
+    },
+    {
+      "date": "2026-07-29",
+      "stars": 106229
     }
   ],
   "links": {

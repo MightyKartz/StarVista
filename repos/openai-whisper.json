@@ -1,0 +1,64 @@
+{
+  "id": "openai/whisper",
+  "slug": "openai-whisper",
+  "owner": "openai",
+  "name": "whisper",
+  "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 105968,
+  "forks": 12870,
+  "openIssues": 132,
+  "pushedAt": "2026-07-28T20:18:29Z",
+  "topics": [],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
+  "languages": {
+    "Python": 1
+  },
+  "readmeExcerpt": "[[Blog]](https://openai.com/blog/whisper) [[Paper]](https://arxiv.org/abs/2212.04356) [[Model card]](https://github.com/openai/whisper/blob/main/model-card.md) [[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb)",
+  "summary": {
+    "mode": "template",
+    "text": "whisper is a Python project focused on Robust Speech Recognition via Large-Scale Weak Supervision."
+  },
+  "releases": [
+    {
+      "tag": "v20250625",
+      "name": "v20250625",
+      "publishedAt": "2025-06-26T01:06:09Z"
+    },
+    {
+      "tag": "v20240930",
+      "name": "v20240930",
+      "publishedAt": "2024-09-30T18:21:20Z"
+    },
+    {
+      "tag": "v20240927",
+      "name": "v20240927",
+      "publishedAt": "2024-09-27T23:44:27Z"
+    },
+    {
+      "tag": "v20231117",
+      "name": "v20231117",
+      "publishedAt": "2023-11-17T19:59:53Z"
+    },
+    {
+      "tag": "v20231106",
+      "name": "v20231106",
+      "publishedAt": "2023-11-06T18:16:19Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-07-29",
+      "stars": 105968
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/openai/whisper",
+    "homepage": null
+  }
+}
