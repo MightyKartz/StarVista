@@ -1,0 +1,52 @@
+{
+  "id": "yangshun/tech-interview-handbook",
+  "slug": "yangshun-tech-interview-handbook",
+  "owner": "yangshun",
+  "name": "tech-interview-handbook",
+  "description": "Curated coding interview preparation materials for busy software engineers",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 141402,
+  "forks": 16713,
+  "openIssues": 34,
+  "pushedAt": "2026-07-29T09:01:29Z",
+  "topics": [
+    "algorithm",
+    "algorithm-interview",
+    "algorithm-interview-questions",
+    "algorithms",
+    "behavioral-interviews",
+    "coding-interviews",
+    "interview-practice",
+    "interview-preparation",
+    "interview-questions",
+    "system-design"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1315101?v=4",
+  "languages": {
+    "TypeScript": 0.91,
+    "JavaScript": 0.06,
+    "Python": 0.02,
+    "CSS": 0.01
+  },
+  "readmeExcerpt": "Tech Interview Handbook",
+  "summary": {
+    "mode": "template",
+    "text": "tech-interview-handbook is a TypeScript project focused on Curated coding interview preparation materials for busy software engineers. It is tagged with algorithm, algorithm-interview, and algorithm-interview-questions."
+  },
+  "releases": [],
+  "starHistory": [
+    {
+      "date": "2026-07-30",
+      "stars": 141402
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/yangshun/tech-interview-handbook",
+    "homepage": "https://www.techinterviewhandbook.org"
+  }
+}

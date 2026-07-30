@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 109114,
-  "forks": 6372,
-  "openIssues": 754,
-  "pushedAt": "2026-07-29T04:32:03Z",
+  "stars": 109225,
+  "forks": 6386,
+  "openIssues": 761,
+  "pushedAt": "2026-07-30T05:12:07Z",
   "topics": [
     "backup-tool",
     "flutter",
@@ -31,7 +31,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 703,
+  "starDelta7d": 715,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/109746326?v=4",
   "languages": {
     "TypeScript": 0.52,
@@ -41,8 +41,8 @@
     "Kotlin": 0.01,
     "Swift": 0.01,
     "JavaScript": 0,
-    "Shell": 0,
     "Ruby": 0,
+    "Shell": 0,
     "Dockerfile": 0,
     "C++": 0,
     "C": 0,
@@ -60,6 +60,11 @@
     "text": "immich is a TypeScript project focused on High performance self-hosted photo and video management solution. It is tagged with backup-tool, flutter, and google-photos."
   },
   "releases": [
+    {
+      "tag": "v3.1.0",
+      "name": "v3.1.0",
+      "publishedAt": "2026-07-29T14:20:10Z"
+    },
     {
       "tag": "v3.0.3",
       "name": "v3.0.3",
@@ -79,11 +84,6 @@
       "tag": "v3.0.0",
       "name": "v3.0.0",
       "publishedAt": "2026-07-02T13:58:12Z"
-    },
-    {
-      "tag": "v3.0.0-rc.3",
-      "name": "v3.0.0-rc.3",
-      "publishedAt": "2026-06-26T21:52:26Z"
     }
   ],
   "starHistory": [
@@ -274,6 +274,10 @@
     {
       "date": "2026-07-29",
       "stars": 109114
+    },
+    {
+      "date": "2026-07-30",
+      "stars": 109225
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C",
   "languageColor": "#555555",
-  "stars": 136848,
-  "forks": 8343,
-  "openIssues": 7455,
-  "pushedAt": "2026-07-29T05:29:42Z",
+  "stars": 136901,
+  "forks": 8360,
+  "openIssues": 7474,
+  "pushedAt": "2026-07-30T05:18:14Z",
   "topics": [
     "advanced-paste",
     "color-picker",
@@ -27,7 +27,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 211,
+  "starDelta7d": 241,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "C": 0.55,
@@ -262,6 +262,10 @@
     {
       "date": "2026-07-29",
       "stars": 136848
+    },
+    {
+      "date": "2026-07-30",
+      "stars": 136901
     }
   ],
   "links": {

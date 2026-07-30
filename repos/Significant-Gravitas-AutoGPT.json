@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 185738,
-  "forks": 46069,
-  "openIssues": 490,
-  "pushedAt": "2026-07-29T03:37:40Z",
+  "stars": 185742,
+  "forks": 46067,
+  "openIssues": 513,
+  "pushedAt": "2026-07-29T23:24:10Z",
   "topics": [
     "agentic-ai",
     "agents",
@@ -26,7 +26,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 89,
+  "starDelta7d": 95,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130738209?v=4",
   "languages": {
     "Python": 0.69,
@@ -48,6 +48,11 @@
   },
   "releases": [
     {
+      "tag": "autogpt-platform-beta-v0.6.70",
+      "name": "autogpt-platform-beta-v0.6.70",
+      "publishedAt": "2026-07-29T14:58:43Z"
+    },
+    {
       "tag": "autogpt-platform-beta-v0.6.69",
       "name": "🚀 AutoGPT Platform v0.6.69",
       "publishedAt": "2026-07-22T15:55:18Z"
@@ -66,11 +71,6 @@
       "tag": "autogpt-platform-beta-v0.6.66",
       "name": "🚀 AutoGPT Platform v0.6.66",
       "publishedAt": "2026-07-09T00:43:12Z"
-    },
-    {
-      "tag": "autogpt-platform-beta-v0.6.65",
-      "name": "autogpt-platform-beta-v0.6.65",
-      "publishedAt": "2026-06-25T15:20:28Z"
     }
   ],
   "starHistory": [
@@ -261,6 +261,10 @@
     {
       "date": "2026-07-29",
       "stars": 185738
+    },
+    {
+      "date": "2026-07-30",
+      "stars": 185742
     }
   ],
   "links": {
