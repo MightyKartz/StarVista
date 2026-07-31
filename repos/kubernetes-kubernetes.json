@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 124050,
-  "forks": 43648,
-  "openIssues": 2723,
-  "pushedAt": "2026-07-29T21:21:14Z",
+  "stars": 124075,
+  "forks": 43674,
+  "openIssues": 2733,
+  "pushedAt": "2026-07-30T22:09:41Z",
   "topics": [
     "cncf",
     "containers",
@@ -19,7 +19,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 163,
+  "starDelta7d": 171,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13629408?v=4",
   "languages": {
     "Go": 0.98,
@@ -257,6 +257,10 @@
     {
       "date": "2026-07-30",
       "stars": 124050
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 124075
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 222449,
-  "forks": 42669,
-  "openIssues": 26100,
-  "pushedAt": "2026-07-30T05:17:34Z",
+  "stars": 223017,
+  "forks": 42868,
+  "openIssues": 26054,
+  "pushedAt": "2026-07-31T05:39:34Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -31,11 +31,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3383,
+  "starDelta7d": 3403,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
-    "Python": 0.77,
-    "TypeScript": 0.2,
+    "Python": 0.76,
+    "TypeScript": 0.21,
     "JavaScript": 0.01,
     "TeX": 0.01,
     "Shell": 0,
@@ -64,6 +64,11 @@
   },
   "releases": [
     {
+      "tag": "v2026.7.30",
+      "name": "Hermes Agent v0.19.1 (v2026.7.30)",
+      "publishedAt": "2026-07-30T23:45:37Z"
+    },
+    {
       "tag": "v2026.7.20",
       "name": "Hermes Agent v0.19.0 (2026.7.20) — The Quicksilver Release",
       "publishedAt": "2026-07-20T18:35:55Z"
@@ -82,11 +87,6 @@
       "tag": "v2026.7.1",
       "name": "Hermes Agent v0.18.0 (2026.7.1) — The Judgment Release",
       "publishedAt": "2026-07-01T20:08:06Z"
-    },
-    {
-      "tag": "v2026.6.19",
-      "name": "Hermes Agent v0.17.0 (v2026.6.19)",
-      "publishedAt": "2026-06-19T19:39:06Z"
     }
   ],
   "starHistory": [
@@ -281,6 +281,10 @@
     {
       "date": "2026-07-30",
       "stars": 222449
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 223017
     }
   ],
   "links": {

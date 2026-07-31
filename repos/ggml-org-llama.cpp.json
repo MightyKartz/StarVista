@@ -7,16 +7,16 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 122044,
-  "forks": 21129,
-  "openIssues": 1915,
-  "pushedAt": "2026-07-30T04:40:01Z",
+  "stars": 122176,
+  "forks": 21166,
+  "openIssues": 1899,
+  "pushedAt": "2026-07-31T05:20:27Z",
   "topics": [
     "ggml"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 737,
+  "starDelta7d": 749,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134263123?v=4",
   "languages": {
     "C++": 0.55,
@@ -46,36 +46,36 @@
     "SCSS": 0,
     "Assembly": 0
   },
-  "readmeExcerpt": "Manifesto / ggml / ops / maintainer PRs%20sort%3Aupdated-desc)",
+  "readmeExcerpt": "LLM inference in C/C++",
   "summary": {
     "mode": "template",
     "text": "llama.cpp is a C++ project focused on LLM inference in C/C++. It is tagged with ggml."
   },
   "releases": [
     {
-      "tag": "b10184",
-      "name": "b10184",
-      "publishedAt": "2026-07-30T04:40:01Z"
+      "tag": "b10199",
+      "name": "b10199",
+      "publishedAt": "2026-07-30T20:33:03Z"
     },
     {
-      "tag": "b10182",
-      "name": "b10182",
-      "publishedAt": "2026-07-29T17:01:01Z"
+      "tag": "b10198",
+      "name": "b10198",
+      "publishedAt": "2026-07-30T19:37:33Z"
     },
     {
-      "tag": "b10181",
-      "name": "b10181",
-      "publishedAt": "2026-07-29T15:09:10Z"
+      "tag": "b10197",
+      "name": "b10197",
+      "publishedAt": "2026-07-30T18:58:32Z"
     },
     {
-      "tag": "b10180",
-      "name": "b10180",
-      "publishedAt": "2026-07-29T14:34:55Z"
+      "tag": "b10196",
+      "name": "b10196",
+      "publishedAt": "2026-07-30T18:29:16Z"
     },
     {
-      "tag": "b10179",
-      "name": "b10179",
-      "publishedAt": "2026-07-29T13:50:58Z"
+      "tag": "b10195",
+      "name": "b10195",
+      "publishedAt": "2026-07-30T17:21:07Z"
     }
   ],
   "starHistory": [
@@ -270,6 +270,10 @@
     {
       "date": "2026-07-30",
       "stars": 122044
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 122176
     }
   ],
   "links": {

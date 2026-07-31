@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 97269,
-  "forks": 9423,
-  "openIssues": 680,
-  "pushedAt": "2026-07-27T09:58:32Z",
+  "stars": 99273,
+  "forks": 9629,
+  "openIssues": 714,
+  "pushedAt": "2026-07-30T18:15:48Z",
   "topics": [
     "ai-agents",
     "antigravity",
@@ -47,6 +47,21 @@
   },
   "releases": [
     {
+      "tag": "v0.9.31",
+      "name": "v0.9.31",
+      "publishedAt": "2026-07-30T18:15:48Z"
+    },
+    {
+      "tag": "v0.9.30",
+      "name": "v0.9.30",
+      "publishedAt": "2026-07-29T16:34:47Z"
+    },
+    {
+      "tag": "v0.9.29",
+      "name": "v0.9.29",
+      "publishedAt": "2026-07-28T09:52:46Z"
+    },
+    {
       "tag": "v0.9.28",
       "name": "v0.9.28",
       "publishedAt": "2026-07-27T09:58:32Z"
@@ -55,21 +70,6 @@
       "tag": "v0.9.27",
       "name": "v0.9.27",
       "publishedAt": "2026-07-26T12:01:51Z"
-    },
-    {
-      "tag": "v0.9.26",
-      "name": "v0.9.26",
-      "publishedAt": "2026-07-24T23:10:00Z"
-    },
-    {
-      "tag": "v0.9.25",
-      "name": "v0.9.25",
-      "publishedAt": "2026-07-22T22:56:34Z"
-    },
-    {
-      "tag": "v0.9.24",
-      "name": "v0.9.24",
-      "publishedAt": "2026-07-22T18:47:49Z"
     }
   ],
   "starHistory": [
@@ -88,6 +88,10 @@
     {
       "date": "2026-07-30",
       "stars": 97269
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 99273
     }
   ],
   "links": {
