@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": null,
   "languageColor": null,
-  "stars": 142474,
-  "forks": 34818,
+  "stars": 142498,
+  "forks": 34821,
   "openIssues": 157,
-  "pushedAt": "2026-07-12T15:42:00Z",
+  "pushedAt": "2026-07-31T16:58:35Z",
   "topics": [
     "ai",
     "bolt",
@@ -34,11 +34,11 @@
     "windsurf-ai"
   ],
   "license": "GPL-3.0",
-  "activity": "stable",
-  "starDelta7d": 232,
+  "activity": "active",
+  "starDelta7d": 242,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/185671340?v=4",
   "languages": {},
-  "readmeExcerpt": "Thanks to",
+  "readmeExcerpt": "---",
   "summary": {
     "mode": "template",
     "text": "system-prompts-and-models-of-ai-tools is a open-source project focused on FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models. It is tagged with ai, bolt, and cluely."
@@ -240,6 +240,10 @@
     {
       "date": "2026-07-31",
       "stars": 142474
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 142498
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 106272,
-  "forks": 14358,
-  "openIssues": 987,
-  "pushedAt": "2026-07-31T01:49:43Z",
+  "stars": 106289,
+  "forks": 14359,
+  "openIssues": 990,
+  "pushedAt": "2026-08-01T01:27:07Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 126,
+  "starDelta7d": 128,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
     "TypeScript": 0.98,
@@ -41,6 +41,21 @@
   },
   "releases": [
     {
+      "tag": "v0.55.0-nightly.20260801.gf47d6c6f7",
+      "name": "Release v0.55.0-nightly.20260801.gf47d6c6f7",
+      "publishedAt": "2026-08-01T01:27:07Z"
+    },
+    {
+      "tag": "v0.54.0-preview.1",
+      "name": "Release v0.54.0-preview.1",
+      "publishedAt": "2026-07-31T21:39:53Z"
+    },
+    {
+      "tag": "v0.53.1",
+      "name": "Release v0.53.1",
+      "publishedAt": "2026-07-31T21:34:30Z"
+    },
+    {
       "tag": "v0.55.0-nightly.20260730.gdc859e8e4",
       "name": "Release v0.55.0-nightly.20260730.gdc859e8e4",
       "publishedAt": "2026-07-30T01:27:21Z"
@@ -49,21 +64,6 @@
       "tag": "v0.55.0-nightly.20260729.g3499c84f7",
       "name": "Release v0.55.0-nightly.20260729.g3499c84f7",
       "publishedAt": "2026-07-29T01:29:18Z"
-    },
-    {
-      "tag": "v0.54.0-preview.0",
-      "name": "Release v0.54.0-preview.0",
-      "publishedAt": "2026-07-28T21:37:03Z"
-    },
-    {
-      "tag": "v0.54.0-nightly.20260728.gbef611950",
-      "name": "Release v0.54.0-nightly.20260728.gbef611950",
-      "publishedAt": "2026-07-28T01:28:20Z"
-    },
-    {
-      "tag": "v0.53.0",
-      "name": "Release v0.53.0",
-      "publishedAt": "2026-07-28T21:45:42Z"
     }
   ],
   "starHistory": [
@@ -262,6 +262,10 @@
     {
       "date": "2026-07-31",
       "stars": 106272
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 106289
     }
   ],
   "links": {
