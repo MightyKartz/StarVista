@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Batchfile",
   "languageColor": null,
-  "stars": 185514,
-  "forks": 17763,
-  "openIssues": 5,
+  "stars": 185638,
+  "forks": 17770,
+  "openIssues": 4,
   "pushedAt": "2026-07-04T16:54:38Z",
   "topics": [
     "activator",
@@ -31,7 +31,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "stable",
-  "starDelta7d": 1091,
+  "starDelta7d": 1105,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59795046?v=4",
   "languages": {
     "Batchfile": 1,
@@ -269,6 +269,10 @@
     {
       "date": "2026-08-01",
       "stars": 185514
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 185638
     }
   ],
   "links": {
