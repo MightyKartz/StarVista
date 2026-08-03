@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "C",
   "languageColor": "#555555",
-  "stars": 146817,
-  "forks": 13516,
-  "openIssues": 2865,
+  "stars": 146865,
+  "forks": 13519,
+  "openIssues": 2864,
   "pushedAt": "2026-07-12T18:16:07Z",
   "topics": [
     "android",
@@ -23,7 +23,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "stable",
-  "starDelta7d": 412,
+  "starDelta7d": 415,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3427627?v=4",
   "languages": {
     "C": 0.63,
@@ -271,6 +271,10 @@
     {
       "date": "2026-08-02",
       "stars": 146817
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 146865
     }
   ],
   "links": {

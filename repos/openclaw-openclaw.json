@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 384864,
-  "forks": 80878,
-  "openIssues": 5659,
-  "pushedAt": "2026-08-02T05:33:54Z",
+  "stars": 384973,
+  "forks": 80913,
+  "openIssues": 5489,
+  "pushedAt": "2026-08-03T05:52:16Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 724,
+  "starDelta7d": 714,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.89,
@@ -35,16 +35,21 @@
     "Go": 0,
     "Rust": 0,
     "Ruby": 0,
-    "PowerShell": 0,
     "HTML": 0,
+    "PowerShell": 0,
     "Dockerfile": 0
   },
-  "readmeExcerpt": "OpenClaw is a personal AI assistant that learns and grows with you, running on your own devices — developed in the open by the OpenClaw Foundation, a non-profit. It answers you on the channels you already use, can speak and listen on macOS/iOS/Android, and can render a live Canvas you control. The Gateway is just the control plane — the product is the assistant.",
+  "readmeExcerpt": "OpenClaw is a personal AI assistant that runs on your devices and meets you in the channels you already use. It is designed for a single operator and connects models, tools, messaging channels, and optional companion apps through one Gateway.",
   "summary": {
     "mode": "template",
     "text": "openclaw is a TypeScript project focused on Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 . It is tagged with ai, assistant, and crustacean."
   },
   "releases": [
+    {
+      "tag": "v2026.7.2-beta.7",
+      "name": "openclaw 2026.7.2-beta.7",
+      "publishedAt": "2026-08-02T08:11:31Z"
+    },
     {
       "tag": "v2026.7.2-beta.6",
       "name": "openclaw 2026.7.2-beta.6",
@@ -64,11 +69,6 @@
       "tag": "v2026.7.2-beta.2",
       "name": "openclaw 2026.7.2-beta.2",
       "publishedAt": "2026-07-17T08:38:04Z"
-    },
-    {
-      "tag": "v2026.7.2-beta.1",
-      "name": "openclaw 2026.7.2-beta.1",
-      "publishedAt": "2026-07-15T18:48:24Z"
     }
   ],
   "starHistory": [
@@ -275,6 +275,10 @@
     {
       "date": "2026-08-02",
       "stars": 384864
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 384973
     }
   ],
   "links": {
