@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 118682,
-  "forks": 36304,
-  "openIssues": 1897,
-  "pushedAt": "2026-08-03T05:35:12Z",
+  "stars": 118704,
+  "forks": 36325,
+  "openIssues": 1880,
+  "pushedAt": "2026-08-04T04:58:22Z",
   "topics": [
     "javascript",
     "js",
@@ -24,7 +24,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 168,
+  "starDelta7d": 160,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9950313?v=4",
   "languages": {
     "JavaScript": 0.65,
@@ -50,6 +50,16 @@
   },
   "releases": [
     {
+      "tag": "v26.6.0",
+      "name": "2026-08-03, Version 26.6.0 (Current), @aduh95",
+      "publishedAt": "2026-08-03T13:50:21Z"
+    },
+    {
+      "tag": "v24.19.0",
+      "name": "2026-08-03, Version 24.19.0 'Krypton' (LTS), @aduh95",
+      "publishedAt": "2026-08-03T13:48:33Z"
+    },
+    {
       "tag": "v26.5.1",
       "name": "2026-07-29, Version 26.5.1 (Current), @RafaelGSS",
       "publishedAt": "2026-07-29T14:02:10Z"
@@ -63,16 +73,6 @@
       "tag": "v22.23.2",
       "name": "2026-07-29, Version 22.23.2 'Jod' (LTS), @marco-ippolito",
       "publishedAt": "2026-07-29T14:00:18Z"
-    },
-    {
-      "tag": "v26.5.0",
-      "name": "2026-07-08, Version 26.5.0 (Current), @richardlau",
-      "publishedAt": "2026-07-08T11:59:40Z"
-    },
-    {
-      "tag": "v26.4.0",
-      "name": "2026-06-24, Version 26.4.0 (Current), @aduh95",
-      "publishedAt": "2026-06-24T23:38:11Z"
     }
   ],
   "starHistory": [
@@ -283,6 +283,10 @@
     {
       "date": "2026-08-03",
       "stars": 118682
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 118704
     }
   ],
   "links": {

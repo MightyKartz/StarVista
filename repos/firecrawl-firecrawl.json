@@ -3,14 +3,14 @@
   "slug": "firecrawl-firecrawl",
   "owner": "firecrawl",
   "name": "firecrawl",
-  "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+  "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 159651,
-  "forks": 9060,
-  "openIssues": 468,
-  "pushedAt": "2026-08-02T21:07:02Z",
+  "stars": 160268,
+  "forks": 9079,
+  "openIssues": 477,
+  "pushedAt": "2026-08-04T01:11:55Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 3082,
+  "starDelta7d": 3115,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4",
   "languages": {
     "TypeScript": 0.71,
@@ -60,7 +60,7 @@
   "readmeExcerpt": "<img src=\"https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawllogo.png\" height=\"200\" >",
   "summary": {
     "mode": "template",
-    "text": "firecrawl is a TypeScript project focused on The API to search, scrape, and interact with the web at scale. 🔥. It is tagged with ai, ai-agents, and ai-crawler."
+    "text": "firecrawl is a TypeScript project focused on The context API to search, scrape, and interact with the web at scale. 🔥. It is tagged with ai, ai-agents, and ai-crawler."
   },
   "releases": [
     {
@@ -297,6 +297,10 @@
     {
       "date": "2026-08-03",
       "stars": 159651
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 160268
     }
   ],
   "links": {

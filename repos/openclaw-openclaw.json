@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 384973,
-  "forks": 80913,
-  "openIssues": 5489,
-  "pushedAt": "2026-08-03T05:52:16Z",
+  "stars": 385058,
+  "forks": 80948,
+  "openIssues": 5469,
+  "pushedAt": "2026-08-04T05:24:25Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 714,
+  "starDelta7d": 678,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.89,
@@ -46,6 +46,16 @@
   },
   "releases": [
     {
+      "tag": "v2026.7.1-2",
+      "name": "openclaw 2026.7.1-2",
+      "publishedAt": "2026-08-04T00:41:26Z"
+    },
+    {
+      "tag": "v2026.7.1-1",
+      "name": "openclaw 2026.7.1-1",
+      "publishedAt": "2026-08-04T00:41:25Z"
+    },
+    {
       "tag": "v2026.7.2-beta.7",
       "name": "openclaw 2026.7.2-beta.7",
       "publishedAt": "2026-08-02T08:11:31Z"
@@ -59,16 +69,6 @@
       "tag": "v2026.7.2-beta.5",
       "name": "openclaw 2026.7.2-beta.5",
       "publishedAt": "2026-07-28T03:23:12Z"
-    },
-    {
-      "tag": "v2026.7.2-beta.3",
-      "name": "openclaw 2026.7.2-beta.3",
-      "publishedAt": "2026-07-18T23:16:53Z"
-    },
-    {
-      "tag": "v2026.7.2-beta.2",
-      "name": "openclaw 2026.7.2-beta.2",
-      "publishedAt": "2026-07-17T08:38:04Z"
     }
   ],
   "starHistory": [
@@ -279,6 +279,10 @@
     {
       "date": "2026-08-03",
       "stars": 384973
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 385058
     }
   ],
   "links": {
