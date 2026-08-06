@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 106368,
-  "forks": 14384,
-  "openIssues": 899,
-  "pushedAt": "2026-08-05T03:48:02Z",
+  "stars": 106384,
+  "forks": 14392,
+  "openIssues": 866,
+  "pushedAt": "2026-08-06T02:06:27Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,12 +22,12 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 139,
+  "starDelta7d": 144,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
-    "TypeScript": 0.98,
+    "TypeScript": 0.97,
     "JavaScript": 0.02,
-    "Python": 0,
+    "Python": 0.01,
     "Shell": 0,
     "C#": 0,
     "HTML": 0,
@@ -41,6 +41,21 @@
   },
   "releases": [
     {
+      "tag": "v0.55.0-preview.1",
+      "name": "Release v0.55.0-preview.1",
+      "publishedAt": "2026-08-06T01:26:41Z"
+    },
+    {
+      "tag": "v0.55.0-nightly.20260806.g761f604c1",
+      "name": "Release v0.55.0-nightly.20260806.g761f604c1",
+      "publishedAt": "2026-08-06T01:21:50Z"
+    },
+    {
+      "tag": "v0.54.0",
+      "name": "Release v0.54.0",
+      "publishedAt": "2026-08-06T01:35:59Z"
+    },
+    {
       "tag": "v0.55.0-nightly.20260803.gf47d6c6f7",
       "name": "Release v0.55.0-nightly.20260803.gf47d6c6f7",
       "publishedAt": "2026-08-03T01:34:43Z"
@@ -49,21 +64,6 @@
       "tag": "v0.55.0-nightly.20260802.gf47d6c6f7",
       "name": "Release v0.55.0-nightly.20260802.gf47d6c6f7",
       "publishedAt": "2026-08-02T01:34:41Z"
-    },
-    {
-      "tag": "v0.55.0-nightly.20260801.gf47d6c6f7",
-      "name": "Release v0.55.0-nightly.20260801.gf47d6c6f7",
-      "publishedAt": "2026-08-01T01:27:07Z"
-    },
-    {
-      "tag": "v0.54.0-preview.1",
-      "name": "Release v0.54.0-preview.1",
-      "publishedAt": "2026-07-31T21:39:53Z"
-    },
-    {
-      "tag": "v0.53.1",
-      "name": "Release v0.53.1",
-      "publishedAt": "2026-07-31T21:34:30Z"
     }
   ],
   "starHistory": [
@@ -282,6 +282,10 @@
     {
       "date": "2026-08-05",
       "stars": 106368
+    },
+    {
+      "date": "2026-08-06",
+      "stars": 106384
     }
   ],
   "links": {

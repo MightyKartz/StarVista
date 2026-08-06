@@ -7,18 +7,18 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 203634,
-  "forks": 17581,
-  "openIssues": 281,
-  "pushedAt": "2026-08-04T19:25:42Z",
+  "stars": 205354,
+  "forks": 17738,
+  "openIssues": 286,
+  "pushedAt": "2026-08-05T18:10:19Z",
   "topics": [],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 10283,
+  "starDelta7d": 10429,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4",
   "languages": {
-    "Shell": 0.77,
-    "JavaScript": 0.23
+    "Shell": 0.71,
+    "JavaScript": 0.29
   },
   "readmeExcerpt": "My agent skills that I use every day to do real engineering - not vibe coding.",
   "summary": {
@@ -26,6 +26,16 @@
     "text": "skills is a Shell project focused on Skills for Real Engineers. Straight from my .agents directory."
   },
   "releases": [
+    {
+      "tag": "v1.2.2",
+      "name": "v1.2.2",
+      "publishedAt": "2026-08-05T18:10:19Z"
+    },
+    {
+      "tag": "v1.2.0",
+      "name": "v1.2.0",
+      "publishedAt": "2026-08-05T12:37:40Z"
+    },
     {
       "tag": "v1.1.0",
       "name": "v1.1.0",
@@ -40,11 +50,6 @@
       "tag": "v1.0.0",
       "name": "v1.0.0",
       "publishedAt": "2026-06-17T14:46:57Z"
-    },
-    {
-      "tag": "mattpocock-skills@1.0.0",
-      "name": "mattpocock-skills@1.0.0",
-      "publishedAt": "2026-06-17T14:45:43Z"
     }
   ],
   "starHistory": [
@@ -263,6 +268,10 @@
     {
       "date": "2026-08-05",
       "stars": 203634
+    },
+    {
+      "date": "2026-08-06",
+      "stars": 205354
     }
   ],
   "links": {

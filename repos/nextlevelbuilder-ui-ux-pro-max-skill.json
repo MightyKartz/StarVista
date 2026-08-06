@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 113541,
-  "forks": 12141,
+  "stars": 113903,
+  "forks": 12183,
   "openIssues": 119,
-  "pushedAt": "2026-08-03T12:31:24Z",
+  "pushedAt": "2026-08-06T01:29:27Z",
   "topics": [
     "ai-skills",
     "antigravity",
@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2311,
+  "starDelta7d": 2360,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/246974152?v=4",
   "languages": {
     "Python": 0.69,
@@ -51,6 +51,16 @@
   },
   "releases": [
     {
+      "tag": "v2.14.1",
+      "name": "v2.14.1",
+      "publishedAt": "2026-08-06T01:29:34Z"
+    },
+    {
+      "tag": "v2.14.0",
+      "name": "v2.14.0",
+      "publishedAt": "2026-08-06T01:02:51Z"
+    },
+    {
       "tag": "v2.13.0",
       "name": "v2.13.0",
       "publishedAt": "2026-08-03T12:31:32Z"
@@ -64,16 +74,6 @@
       "tag": "v2.11.5",
       "name": "v2.11.5",
       "publishedAt": "2026-07-31T16:03:13Z"
-    },
-    {
-      "tag": "v2.11.4",
-      "name": "v2.11.4",
-      "publishedAt": "2026-07-31T11:00:50Z"
-    },
-    {
-      "tag": "v2.11.3",
-      "name": "v2.11.3",
-      "publishedAt": "2026-07-28T05:00:43Z"
     }
   ],
   "starHistory": [
@@ -260,6 +260,10 @@
     {
       "date": "2026-08-05",
       "stars": 113541
+    },
+    {
+      "date": "2026-08-06",
+      "stars": 113903
     }
   ],
   "links": {

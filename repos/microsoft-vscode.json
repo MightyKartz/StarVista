@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 188321,
-  "forks": 41414,
-  "openIssues": 19720,
-  "pushedAt": "2026-08-05T05:03:02Z",
+  "stars": 188414,
+  "forks": 41442,
+  "openIssues": 19721,
+  "pushedAt": "2026-08-06T05:16:14Z",
   "topics": [
     "editor",
     "electron",
@@ -20,14 +20,14 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 344,
+  "starDelta7d": 410,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "TypeScript": 0.96,
     "CSS": 0.02,
     "JavaScript": 0.01,
+    "Rust": 0.01,
     "HTML": 0,
-    "Rust": 0,
     "Inno Setup": 0,
     "Jupyter Notebook": 0,
     "Scilab": 0,
@@ -78,6 +78,11 @@
   },
   "releases": [
     {
+      "tag": "1.132.0",
+      "name": "1.132.0",
+      "publishedAt": "2026-08-05T09:49:29Z"
+    },
+    {
       "tag": "1.131.0",
       "name": "1.131.0",
       "publishedAt": "2026-07-29T14:07:58Z"
@@ -96,11 +101,6 @@
       "tag": "1.129.0",
       "name": "1.129.0",
       "publishedAt": "2026-07-15T22:13:23Z"
-    },
-    {
-      "tag": "1.128.1",
-      "name": "1.128.1",
-      "publishedAt": "2026-07-14T20:48:10Z"
     }
   ],
   "starHistory": [
@@ -319,6 +319,10 @@
     {
       "date": "2026-08-05",
       "stars": 188321
+    },
+    {
+      "date": "2026-08-06",
+      "stars": 188414
     }
   ],
   "links": {
