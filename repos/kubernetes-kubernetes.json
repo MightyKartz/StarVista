@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 124304,
-  "forks": 43770,
-  "openIssues": 2774,
-  "pushedAt": "2026-08-06T02:22:34Z",
+  "stars": 124336,
+  "forks": 43795,
+  "openIssues": 2793,
+  "pushedAt": "2026-08-06T12:24:19Z",
   "topics": [
     "cncf",
     "containers",
@@ -19,7 +19,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 254,
+  "starDelta7d": 261,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13629408?v=4",
   "languages": {
     "Go": 0.98,
@@ -40,6 +40,11 @@
   },
   "releases": [
     {
+      "tag": "v1.37.0-rc.0",
+      "name": "v1.37.0-rc.0",
+      "publishedAt": "2026-08-06T12:04:57Z"
+    },
+    {
       "tag": "v1.36.3",
       "name": "v1.36.3",
       "publishedAt": "2026-07-23T00:35:52Z"
@@ -58,11 +63,6 @@
       "tag": "v1.37.0-beta.0",
       "name": "v1.37.0-beta.0",
       "publishedAt": "2026-07-20T23:21:18Z"
-    },
-    {
-      "tag": "v1.37.0-alpha.3",
-      "name": "v1.37.0-alpha.3",
-      "publishedAt": "2026-07-08T18:11:06Z"
     }
   ],
   "starHistory": [
@@ -285,6 +285,10 @@
     {
       "date": "2026-08-06",
       "stars": 124304
+    },
+    {
+      "date": "2026-08-07",
+      "stars": 124336
     }
   ],
   "links": {

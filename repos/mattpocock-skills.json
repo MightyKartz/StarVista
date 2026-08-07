@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 205354,
-  "forks": 17738,
-  "openIssues": 286,
-  "pushedAt": "2026-08-05T18:10:19Z",
+  "stars": 207406,
+  "forks": 17913,
+  "openIssues": 295,
+  "pushedAt": "2026-08-06T19:49:51Z",
   "topics": [],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 10429,
+  "starDelta7d": 10731,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4",
   "languages": {
     "Shell": 0.71,
@@ -26,6 +26,11 @@
     "text": "skills is a Shell project focused on Skills for Real Engineers. Straight from my .agents directory."
   },
   "releases": [
+    {
+      "tag": "v1.2.3",
+      "name": "v1.2.3",
+      "publishedAt": "2026-08-06T14:05:28Z"
+    },
     {
       "tag": "v1.2.2",
       "name": "v1.2.2",
@@ -45,11 +50,6 @@
       "tag": "v1.0.1",
       "name": "v1.0.1",
       "publishedAt": "2026-06-17T22:07:52Z"
-    },
-    {
-      "tag": "v1.0.0",
-      "name": "v1.0.0",
-      "publishedAt": "2026-06-17T14:46:57Z"
     }
   ],
   "starHistory": [
@@ -272,6 +272,10 @@
     {
       "date": "2026-08-06",
       "stars": 205354
+    },
+    {
+      "date": "2026-08-07",
+      "stars": 207406
     }
   ],
   "links": {

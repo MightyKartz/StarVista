@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 108164,
-  "forks": 6307,
-  "openIssues": 1442,
-  "pushedAt": "2026-08-06T01:47:34Z",
+  "stars": 108180,
+  "forks": 6317,
+  "openIssues": 1475,
+  "pushedAt": "2026-08-06T18:17:59Z",
   "topics": [
     "deno",
     "javascript",
@@ -47,6 +47,11 @@
   },
   "releases": [
     {
+      "tag": "v2.9.5",
+      "name": "v2.9.5",
+      "publishedAt": "2026-08-06T15:05:43Z"
+    },
+    {
       "tag": "v2.9.4",
       "name": "v2.9.4",
       "publishedAt": "2026-07-23T16:59:31Z"
@@ -65,11 +70,6 @@
       "tag": "v2.9.1",
       "name": "v2.9.1",
       "publishedAt": "2026-07-01T16:31:16Z"
-    },
-    {
-      "tag": "v2.9.0",
-      "name": "v2.9.0",
-      "publishedAt": "2026-06-25T15:00:40Z"
     }
   ],
   "starHistory": [
@@ -292,6 +292,10 @@
     {
       "date": "2026-08-06",
       "stars": 108164
+    },
+    {
+      "date": "2026-08-07",
+      "stars": 108180
     }
   ],
   "links": {
