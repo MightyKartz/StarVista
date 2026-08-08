@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 106400,
-  "forks": 14404,
-  "openIssues": 863,
-  "pushedAt": "2026-08-07T02:53:34Z",
+  "stars": 106412,
+  "forks": 14409,
+  "openIssues": 859,
+  "pushedAt": "2026-08-08T01:11:56Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 128,
+  "starDelta7d": 123,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
     "TypeScript": 0.97,
@@ -30,8 +30,8 @@
     "Python": 0.01,
     "Shell": 0,
     "C#": 0,
-    "HTML": 0,
     "Dockerfile": 0,
+    "HTML": 0,
     "Makefile": 0
   },
   "readmeExcerpt": "Gemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model.",
@@ -40,6 +40,11 @@
     "text": "gemini-cli is a TypeScript project focused on An open-source AI agent that brings the power of Gemini directly into your terminal. It is tagged with ai, ai-agents, and cli."
   },
   "releases": [
+    {
+      "tag": "v0.56.0-nightly.20260808.gcf22ac7e8",
+      "name": "Release v0.56.0-nightly.20260808.gcf22ac7e8",
+      "publishedAt": "2026-08-08T01:11:56Z"
+    },
     {
       "tag": "v0.56.0-nightly.20260807.gd5c9a97dc",
       "name": "Release v0.56.0-nightly.20260807.gd5c9a97dc",
@@ -51,19 +56,14 @@
       "publishedAt": "2026-08-07T02:50:25Z"
     },
     {
+      "tag": "v0.54.4",
+      "name": "Release v0.54.4",
+      "publishedAt": "2026-08-07T04:44:19Z"
+    },
+    {
       "tag": "v0.55.0-preview.1",
       "name": "Release v0.55.0-preview.1",
       "publishedAt": "2026-08-06T01:26:41Z"
-    },
-    {
-      "tag": "v0.55.0-nightly.20260806.g761f604c1",
-      "name": "Release v0.55.0-nightly.20260806.g761f604c1",
-      "publishedAt": "2026-08-06T01:21:50Z"
-    },
-    {
-      "tag": "v0.54.0",
-      "name": "Release v0.54.0",
-      "publishedAt": "2026-08-06T01:35:59Z"
     }
   ],
   "starHistory": [
@@ -290,6 +290,10 @@
     {
       "date": "2026-08-07",
       "stars": 106400
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 106412
     }
   ],
   "links": {

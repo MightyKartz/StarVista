@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 385400,
-  "forks": 81018,
-  "openIssues": 5532,
-  "pushedAt": "2026-08-07T04:29:53Z",
+  "stars": 385506,
+  "forks": 81031,
+  "openIssues": 5606,
+  "pushedAt": "2026-08-08T03:41:53Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 765,
+  "starDelta7d": 751,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.89,
@@ -35,8 +35,8 @@
     "Go": 0,
     "Rust": 0,
     "Ruby": 0,
-    "HTML": 0,
     "PowerShell": 0,
+    "HTML": 0,
     "Dockerfile": 0
   },
   "readmeExcerpt": "OpenClaw is a personal AI assistant that runs on your devices and meets you in the channels you already use. It is designed for a single operator and connects models, tools, messaging channels, and optional companion apps through one Gateway.",
@@ -295,6 +295,10 @@
     {
       "date": "2026-08-07",
       "stars": 385400
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 385506
     }
   ],
   "links": {

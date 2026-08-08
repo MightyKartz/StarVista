@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 207406,
-  "forks": 17913,
-  "openIssues": 295,
-  "pushedAt": "2026-08-06T19:49:51Z",
+  "stars": 208976,
+  "forks": 18045,
+  "openIssues": 306,
+  "pushedAt": "2026-08-07T15:50:46Z",
   "topics": [],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 10731,
+  "starDelta7d": 10930,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4",
   "languages": {
     "Shell": 0.71,
@@ -276,10 +276,14 @@
     {
       "date": "2026-08-07",
       "stars": 207406
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 208976
     }
   ],
   "links": {
     "repo": "https://github.com/mattpocock/skills",
-    "homepage": null
+    "homepage": "https://aihero.dev/skills"
   }
 }
