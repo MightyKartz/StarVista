@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 102271,
-  "forks": 28773,
-  "openIssues": 16999,
-  "pushedAt": "2026-08-08T03:35:01Z",
+  "stars": 102284,
+  "forks": 28780,
+  "openIssues": 17002,
+  "pushedAt": "2026-08-09T03:51:46Z",
   "topics": [
     "autograd",
     "deep-learning",
@@ -23,7 +23,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 176,
+  "starDelta7d": 167,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4",
   "languages": {
     "Python": 0.64,
@@ -313,6 +313,10 @@
     {
       "date": "2026-08-08",
       "stars": 102271
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 102284
     }
   ],
   "links": {

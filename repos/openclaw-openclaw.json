@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 385506,
-  "forks": 81031,
-  "openIssues": 5606,
-  "pushedAt": "2026-08-08T03:41:53Z",
+  "stars": 385588,
+  "forks": 81057,
+  "openIssues": 5634,
+  "pushedAt": "2026-08-09T03:50:32Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 751,
+  "starDelta7d": 724,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.89,
@@ -37,7 +37,9 @@
     "Ruby": 0,
     "PowerShell": 0,
     "HTML": 0,
-    "Dockerfile": 0
+    "Dockerfile": 0,
+    "Objective-C": 0,
+    "C": 0
   },
   "readmeExcerpt": "OpenClaw is a personal AI assistant that runs on your devices and meets you in the channels you already use. It is designed for a single operator and connects models, tools, messaging channels, and optional companion apps through one Gateway.",
   "summary": {
@@ -56,6 +58,11 @@
       "publishedAt": "2026-08-04T00:41:25Z"
     },
     {
+      "tag": "v2026.6.34",
+      "name": "openclaw 2026.6.34",
+      "publishedAt": "2026-08-08T07:22:14Z"
+    },
+    {
       "tag": "v2026.7.2-beta.7",
       "name": "openclaw 2026.7.2-beta.7",
       "publishedAt": "2026-08-02T08:11:31Z"
@@ -64,11 +71,6 @@
       "tag": "v2026.7.2-beta.6",
       "name": "openclaw 2026.7.2-beta.6",
       "publishedAt": "2026-08-01T05:34:32Z"
-    },
-    {
-      "tag": "v2026.7.2-beta.5",
-      "name": "openclaw 2026.7.2-beta.5",
-      "publishedAt": "2026-07-28T03:23:12Z"
     }
   ],
   "starHistory": [
@@ -299,6 +301,10 @@
     {
       "date": "2026-08-08",
       "stars": 385506
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 385588
     }
   ],
   "links": {

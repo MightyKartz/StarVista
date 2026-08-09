@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 108189,
+  "stars": 108200,
   "forks": 6321,
-  "openIssues": 1479,
-  "pushedAt": "2026-08-07T23:53:23Z",
+  "openIssues": 1488,
+  "pushedAt": "2026-08-08T08:48:56Z",
   "topics": [
     "deno",
     "javascript",
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 310,
+  "starDelta7d": 307,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/42048915?v=4",
   "languages": {
     "Rust": 0.62,
@@ -300,6 +300,10 @@
     {
       "date": "2026-08-08",
       "stars": 108189
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 108200
     }
   ],
   "links": {
