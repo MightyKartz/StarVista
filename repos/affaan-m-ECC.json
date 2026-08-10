@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 238844,
-  "forks": 36273,
-  "openIssues": 127,
-  "pushedAt": "2026-08-08T21:06:19Z",
+  "stars": 239054,
+  "forks": 36311,
+  "openIssues": 136,
+  "pushedAt": "2026-08-09T22:39:00Z",
   "topics": [
     "ai-agents",
     "anthropic",
@@ -23,10 +23,10 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1981,
+  "starDelta7d": 1922,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
   "languages": {
-    "JavaScript": 0.68,
+    "JavaScript": 0.69,
     "Rust": 0.23,
     "Python": 0.05,
     "Shell": 0.02,
@@ -300,6 +300,10 @@
     {
       "date": "2026-08-09",
       "stars": 238844
+    },
+    {
+      "date": "2026-08-10",
+      "stars": 239054
     }
   ],
   "links": {
