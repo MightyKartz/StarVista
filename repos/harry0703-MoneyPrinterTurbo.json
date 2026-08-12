@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 102517,
-  "forks": 15468,
+  "stars": 102669,
+  "forks": 15502,
   "openIssues": 19,
-  "pushedAt": "2026-08-11T02:41:36Z",
+  "pushedAt": "2026-08-12T02:51:41Z",
   "topics": [
     "ai-video-generator",
     "content-creation",
@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1061,
+  "starDelta7d": 1021,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4",
   "languages": {
     "Python": 0.98,
@@ -45,6 +45,11 @@
     "text": "MoneyPrinterTurbo is a Python project focused on 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. It is tagged with ai-video-generator, content-creation, and ffmpeg."
   },
   "releases": [
+    {
+      "tag": "v1.3.4",
+      "name": "v1.3.4",
+      "publishedAt": "2026-08-12T02:51:41Z"
+    },
     {
       "tag": "v1.3.3",
       "name": "v1.3.3",
@@ -64,11 +69,6 @@
       "tag": "v1.3.0",
       "name": "v1.3.0",
       "publishedAt": "2026-06-10T09:39:34Z"
-    },
-    {
-      "tag": "v1.2.9",
-      "name": "v1.2.9",
-      "publishedAt": "2026-05-30T09:38:54Z"
     }
   ],
   "starHistory": [
@@ -243,6 +243,10 @@
     {
       "date": "2026-08-11",
       "stars": 102517
+    },
+    {
+      "date": "2026-08-12",
+      "stars": 102669
     }
   ],
   "links": {

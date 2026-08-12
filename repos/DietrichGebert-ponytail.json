@@ -1,0 +1,78 @@
+{
+  "id": "DietrichGebert/ponytail",
+  "slug": "DietrichGebert-ponytail",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "archived": false,
+  "primaryLanguage": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 100967,
+  "forks": 5561,
+  "openIssues": 125,
+  "pushedAt": "2026-08-07T21:44:01Z",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm",
+    "prompt-engineering",
+    "yagni"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
+  "languages": {
+    "JavaScript": 0.62,
+    "Python": 0.37,
+    "PowerShell": 0,
+    "Shell": 0
+  },
+  "readmeExcerpt": "Ponytail",
+  "summary": {
+    "mode": "template",
+    "text": "ponytail is a JavaScript project focused on Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. It is tagged with agent-skills, ai-agents, and claude."
+  },
+  "releases": [
+    {
+      "tag": "v4.9.0",
+      "name": "v4.9.0: 53 commits of doing less",
+      "publishedAt": "2026-08-07T21:15:11Z"
+    },
+    {
+      "tag": "v4.8.4",
+      "name": "v4.8.4: lazy in Hermes now",
+      "publishedAt": "2026-06-29T05:26:41Z"
+    },
+    {
+      "tag": "v4.8.3",
+      "name": "v4.8.3: lazy in subagents too",
+      "publishedAt": "2026-06-24T02:38:23Z"
+    },
+    {
+      "tag": "v4.8.2",
+      "name": "v4.8.2: now on npm",
+      "publishedAt": "2026-06-24T02:27:30Z"
+    },
+    {
+      "tag": "v4.8.1",
+      "name": "v4.8.1: consistent versioning",
+      "publishedAt": "2026-06-23T16:29:54Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-08-12",
+      "stars": 100967
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/DietrichGebert/ponytail",
+    "homepage": "https://ponytail.dev"
+  }
+}

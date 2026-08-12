@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": null,
   "languageColor": null,
-  "stars": 142711,
-  "forks": 34840,
+  "stars": 142742,
+  "forks": 34839,
   "openIssues": 158,
-  "pushedAt": "2026-08-06T22:48:55Z",
+  "pushedAt": "2026-08-11T13:01:09Z",
   "topics": [
     "ai",
     "bolt",
@@ -35,10 +35,10 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 164,
+  "starDelta7d": 174,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/185671340?v=4",
   "languages": {},
-  "readmeExcerpt": "Gauss — GPU-native CI. Get early access →",
+  "readmeExcerpt": "---",
   "summary": {
     "mode": "template",
     "text": "system-prompts-and-models-of-ai-tools is a open-source project focused on FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models. It is tagged with ai, bolt, and cluely."
@@ -284,6 +284,10 @@
     {
       "date": "2026-08-11",
       "stars": 142711
+    },
+    {
+      "date": "2026-08-12",
+      "stars": 142742
     }
   ],
   "links": {

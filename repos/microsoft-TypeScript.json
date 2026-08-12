@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 110125,
-  "forks": 13717,
-  "openIssues": 5084,
+  "stars": 110146,
+  "forks": 13720,
+  "openIssues": 5083,
   "pushedAt": "2026-08-10T23:12:50Z",
   "topics": [
     "javascript",
@@ -19,7 +19,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 66,
+  "starDelta7d": 80,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "TypeScript": 1,
@@ -298,6 +298,10 @@
     {
       "date": "2026-08-11",
       "stars": 110125
+    },
+    {
+      "date": "2026-08-12",
+      "stars": 110146
     }
   ],
   "links": {
