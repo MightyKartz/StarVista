@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 229130,
-  "forks": 45164,
-  "openIssues": 31193,
-  "pushedAt": "2026-08-12T03:39:14Z",
+  "stars": 229681,
+  "forks": 45346,
+  "openIssues": 31524,
+  "pushedAt": "2026-08-13T04:20:03Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -19,26 +19,23 @@
     "chatgpt",
     "claude",
     "claude-code",
-    "clawdbot",
     "codex",
     "hermes",
     "hermes-agent",
     "llm",
-    "moltbot",
     "nous-research",
-    "openai",
-    "openclaw"
+    "openai"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3507,
+  "starDelta7d": 3496,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.77,
     "TypeScript": 0.2,
     "JavaScript": 0.01,
     "TeX": 0.01,
-    "Shell": 0.01,
+    "Shell": 0,
     "PowerShell": 0,
     "Rust": 0,
     "CSS": 0,
@@ -55,6 +52,7 @@
     "Roff": 0,
     "Io": 0,
     "BitBake": 0,
+    "C++": 0,
     "IL Assembly": 0
   },
   "readmeExcerpt": "Hermes Agent | Hermes Desktop",
@@ -333,6 +331,10 @@
     {
       "date": "2026-08-12",
       "stars": 229130
+    },
+    {
+      "date": "2026-08-13",
+      "stars": 229681
     }
   ],
   "links": {

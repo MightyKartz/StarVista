@@ -3,14 +3,14 @@
   "slug": "nextlevelbuilder-ui-ux-pro-max-skill",
   "owner": "nextlevelbuilder",
   "name": "ui-ux-pro-max-skill",
-  "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+  "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 115750,
-  "forks": 12400,
-  "openIssues": 118,
-  "pushedAt": "2026-08-06T01:29:27Z",
+  "stars": 116169,
+  "forks": 12474,
+  "openIssues": 80,
+  "pushedAt": "2026-08-12T10:20:40Z",
   "topics": [
     "ai-skills",
     "antigravity",
@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2209,
+  "starDelta7d": 2266,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/246974152?v=4",
   "languages": {
     "Python": 0.69,
@@ -47,9 +47,14 @@
   "readmeExcerpt": "🇨🇳 简体中文 | 🇺🇸 English",
   "summary": {
     "mode": "template",
-    "text": "ui-ux-pro-max-skill is a Python project focused on An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms. It is tagged with ai-skills, antigravity, and claude."
+    "text": "ui-ux-pro-max-skill is a Python project focused on An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. It is tagged with ai-skills, antigravity, and claude."
   },
   "releases": [
+    {
+      "tag": "v2.14.2",
+      "name": "v2.14.2",
+      "publishedAt": "2026-08-12T09:35:02Z"
+    },
     {
       "tag": "v2.14.1",
       "name": "v2.14.1",
@@ -69,11 +74,6 @@
       "tag": "v2.12.0",
       "name": "v2.12.0",
       "publishedAt": "2026-08-01T01:29:59Z"
-    },
-    {
-      "tag": "v2.11.5",
-      "name": "v2.11.5",
-      "publishedAt": "2026-07-31T16:03:13Z"
     }
   ],
   "starHistory": [
@@ -288,6 +288,10 @@
     {
       "date": "2026-08-12",
       "stars": 115750
+    },
+    {
+      "date": "2026-08-13",
+      "stars": 116169
     }
   ],
   "links": {

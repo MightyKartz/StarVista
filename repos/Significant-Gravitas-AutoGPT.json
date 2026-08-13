@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 186537,
-  "forks": 46086,
-  "openIssues": 509,
-  "pushedAt": "2026-08-12T04:00:43Z",
+  "stars": 186572,
+  "forks": 46088,
+  "openIssues": 508,
+  "pushedAt": "2026-08-13T04:14:57Z",
   "topics": [
     "agentic-ai",
     "agents",
@@ -26,20 +26,22 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 715,
+  "starDelta7d": 734,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130738209?v=4",
   "languages": {
     "Python": 0.68,
     "TypeScript": 0.31,
-    "JavaScript": 0,
-    "PLpgSQL": 0,
+    "JavaScript": 0.01,
     "Shell": 0,
+    "PLpgSQL": 0,
     "Jinja": 0,
-    "CSS": 0,
-    "Batchfile": 0,
     "Dockerfile": 0,
+    "CSS": 0,
+    "C": 0,
+    "Batchfile": 0,
     "Makefile": 0,
-    "Elixir": 0
+    "Elixir": 0,
+    "HCL": 0
   },
   "readmeExcerpt": "AutoGPT — AI agents that finish the work",
   "summary": {
@@ -47,6 +49,11 @@
     "text": "AutoGPT is a Python project focused on AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. It is tagged with agentic-ai, agents, and ai."
   },
   "releases": [
+    {
+      "tag": "autogpt-platform-beta-v0.7.1",
+      "name": "🚀 Release `autogpt-platform-beta-v0.7.1`",
+      "publishedAt": "2026-08-13T04:14:57Z"
+    },
     {
       "tag": "preview-seed-fixture",
       "name": "Preview seed fixture (rolling)",
@@ -66,11 +73,6 @@
       "tag": "autogpt-platform-beta-v0.6.69",
       "name": "🚀 AutoGPT Platform v0.6.69",
       "publishedAt": "2026-07-22T15:55:18Z"
-    },
-    {
-      "tag": "autogpt-platform-beta-v0.6.68",
-      "name": "AutoGPT Platform v0.6.68",
-      "publishedAt": "2026-07-17T11:48:38Z"
     }
   ],
   "starHistory": [
@@ -317,6 +319,10 @@
     {
       "date": "2026-08-12",
       "stars": 186537
+    },
+    {
+      "date": "2026-08-13",
+      "stars": 186572
     }
   ],
   "links": {

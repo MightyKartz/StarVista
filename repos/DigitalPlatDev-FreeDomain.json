@@ -3,32 +3,42 @@
   "slug": "DigitalPlatDev-FreeDomain",
   "owner": "DigitalPlatDev",
   "name": "FreeDomain",
-  "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+  "description": "Free domain registration and practical DNS learning resources for everyone.",
   "archived": false,
-  "primaryLanguage": null,
+  "primaryLanguage": "Markdown",
   "languageColor": null,
-  "stars": 192297,
-  "forks": 4085,
+  "stars": 192433,
+  "forks": 4092,
   "openIssues": 37,
-  "pushedAt": "2026-07-16T15:38:52Z",
+  "pushedAt": "2026-08-12T10:36:46Z",
   "topics": [
     "digitalplat",
+    "dns",
+    "dns-tutorial",
+    "documentation",
     "domain",
     "domain-platform",
+    "domain-registration",
     "domainname",
     "domains",
+    "education",
     "free",
-    "freedomain"
+    "free-domain",
+    "freedomain",
+    "internet-infrastructure",
+    "nameserver"
   ],
   "license": "AGPL-3.0",
-  "activity": "stable",
-  "starDelta7d": 1409,
+  "activity": "active",
+  "starDelta7d": 1308,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126394654?v=4",
-  "languages": {},
-  "readmeExcerpt": "Welcome to DigitalPlat FreeDomain, where we believe everyone deserves a digital identity. Whether you're an individual, or an organization, we’re offering free domain names to bring your ideas to life – no strings attached!",
+  "languages": {
+    "Markdown": 1
+  },
+  "readmeExcerpt": "Free domain registration and practical DNS learning resources for everyone.",
   "summary": {
     "mode": "template",
-    "text": "FreeDomain is a open-source project focused on DigitalPlat FreeDomain: Free Domain For Everyone. It is tagged with digitalplat, domain, and domain-platform."
+    "text": "FreeDomain is a Markdown project focused on Free domain registration and practical DNS learning resources for everyone. It is tagged with digitalplat, dns, and dns-tutorial."
   },
   "releases": [],
   "starHistory": [
@@ -139,6 +149,10 @@
     {
       "date": "2026-08-12",
       "stars": 192297
+    },
+    {
+      "date": "2026-08-13",
+      "stars": 192433
     }
   ],
   "links": {
