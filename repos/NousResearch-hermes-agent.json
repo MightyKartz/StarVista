@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 229681,
-  "forks": 45346,
-  "openIssues": 31524,
-  "pushedAt": "2026-08-13T04:20:03Z",
+  "stars": 230239,
+  "forks": 45571,
+  "openIssues": 31908,
+  "pushedAt": "2026-08-14T03:43:43Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3496,
+  "starDelta7d": 3551,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.77,
@@ -62,6 +62,11 @@
   },
   "releases": [
     {
+      "tag": "v2026.8.13",
+      "name": "Hermes Agent v0.20.1 (2026.8.13)",
+      "publishedAt": "2026-08-13T20:37:37Z"
+    },
+    {
       "tag": "v2026.8.3",
       "name": "Hermes Agent v0.20.0 (2026.8.3)",
       "publishedAt": "2026-08-03T16:57:52Z"
@@ -80,11 +85,6 @@
       "tag": "v2026.7.7.2",
       "name": "Hermes Agent v0.18.2 (2026.7.7.2)",
       "publishedAt": "2026-07-08T03:11:22Z"
-    },
-    {
-      "tag": "v2026.7.7",
-      "name": "Hermes Agent v0.18.1 (2026.7.7)",
-      "publishedAt": "2026-07-08T01:15:00Z"
     }
   ],
   "starHistory": [
@@ -335,6 +335,10 @@
     {
       "date": "2026-08-13",
       "stars": 229681
+    },
+    {
+      "date": "2026-08-14",
+      "stars": 230239
     }
   ],
   "links": {
