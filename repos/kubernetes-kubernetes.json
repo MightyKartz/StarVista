@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 124505,
-  "forks": 43858,
-  "openIssues": 2882,
+  "stars": 124495,
+  "forks": 43855,
+  "openIssues": 2898,
   "pushedAt": "2026-08-14T00:41:27Z",
   "topics": [
     "cncf",
@@ -19,7 +19,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 169,
+  "starDelta7d": 135,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13629408?v=4",
   "languages": {
     "Go": 0.98,
@@ -317,6 +317,10 @@
     {
       "date": "2026-08-14",
       "stars": 124505
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 124495
     }
   ],
   "links": {
