@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 230690,
-  "forks": 45732,
-  "openIssues": 32296,
-  "pushedAt": "2026-08-15T02:49:48Z",
+  "stars": 231121,
+  "forks": 45911,
+  "openIssues": 32260,
+  "pushedAt": "2026-08-16T02:12:08Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,13 +28,13 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3558,
+  "starDelta7d": 3542,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.77,
     "TypeScript": 0.2,
     "JavaScript": 0.01,
-    "TeX": 0.01,
+    "TeX": 0,
     "Shell": 0,
     "PowerShell": 0,
     "CSS": 0,
@@ -44,8 +44,8 @@
     "HTML": 0,
     "Dockerfile": 0,
     "MDX": 0,
-    "C": 0,
     "DIGITAL Command Language": 0,
+    "C": 0,
     "Go Template": 0,
     "Batchfile": 0,
     "Makefile": 0,
@@ -343,6 +343,10 @@
     {
       "date": "2026-08-15",
       "stars": 230690
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 231121
     }
   ],
   "links": {

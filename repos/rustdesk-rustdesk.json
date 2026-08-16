@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 120665,
-  "forks": 18459,
-  "openIssues": 134,
+  "stars": 120897,
+  "forks": 18484,
+  "openIssues": 137,
   "pushedAt": "2026-08-14T17:04:14Z",
   "topics": [
     "android",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 800,
+  "starDelta7d": 975,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
   "languages": {
     "Rust": 0.68,
@@ -342,6 +342,10 @@
     {
       "date": "2026-08-15",
       "stars": 120665
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 120897
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 135811,
-  "forks": 7818,
-  "openIssues": 7,
-  "pushedAt": "2026-08-15T01:20:34Z",
+  "stars": 135932,
+  "forks": 7828,
+  "openIssues": 3,
+  "pushedAt": "2026-08-16T02:24:25Z",
   "topics": [
     "iptv",
     "m3u",
@@ -20,11 +20,11 @@
   ],
   "license": "Unlicense",
   "activity": "active",
-  "starDelta7d": 442,
+  "starDelta7d": 476,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/55937028?v=4",
   "languages": {
-    "TypeScript": 0.55,
-    "JavaScript": 0.45
+    "TypeScript": 0.57,
+    "JavaScript": 0.43
   },
   "readmeExcerpt": "Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.",
   "summary": {
@@ -288,6 +288,10 @@
     {
       "date": "2026-08-15",
       "stars": 135811
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 135932
     }
   ],
   "links": {
