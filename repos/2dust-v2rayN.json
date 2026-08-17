@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "C#",
   "languageColor": null,
-  "stars": 113915,
-  "forks": 15692,
-  "openIssues": 26,
+  "stars": 113999,
+  "forks": 15701,
+  "openIssues": 24,
   "pushedAt": "2026-08-16T02:08:08Z",
   "topics": [
     "proxy",
@@ -26,7 +26,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 497,
+  "starDelta7d": 509,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4",
   "languages": {
     "C#": 0.92,
@@ -324,6 +324,10 @@
     {
       "date": "2026-08-16",
       "stars": 113915
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 113999
     }
   ],
   "links": {

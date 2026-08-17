@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 231121,
-  "forks": 45911,
-  "openIssues": 32260,
-  "pushedAt": "2026-08-16T02:12:08Z",
+  "stars": 231579,
+  "forks": 46065,
+  "openIssues": 32496,
+  "pushedAt": "2026-08-17T03:11:08Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,10 +28,10 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3542,
+  "starDelta7d": 3567,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
-    "Python": 0.77,
+    "Python": 0.76,
     "TypeScript": 0.2,
     "JavaScript": 0.01,
     "TeX": 0,
@@ -52,6 +52,7 @@
     "Roff": 0,
     "BitBake": 0,
     "Io": 0,
+    "RenderScript": 0,
     "C++": 0,
     "IL Assembly": 0
   },
@@ -61,6 +62,11 @@
     "text": "hermes-agent is a Python project focused on The agent that grows with you. It is tagged with ai, ai-agent, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "v2026.8.16",
+      "name": "Hermes Agent v0.20.2 (2026.8.16)",
+      "publishedAt": "2026-08-16T17:33:22Z"
+    },
     {
       "tag": "v2026.8.13",
       "name": "Hermes Agent v0.20.1 (2026.8.13)",
@@ -80,11 +86,6 @@
       "tag": "v2026.7.20",
       "name": "Hermes Agent v0.19.0 (2026.7.20) — The Quicksilver Release",
       "publishedAt": "2026-07-20T18:35:55Z"
-    },
-    {
-      "tag": "v2026.7.7.2",
-      "name": "Hermes Agent v0.18.2 (2026.7.7.2)",
-      "publishedAt": "2026-07-08T03:11:22Z"
     }
   ],
   "starHistory": [
@@ -347,6 +348,10 @@
     {
       "date": "2026-08-16",
       "stars": 231121
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 231579
     }
   ],
   "links": {

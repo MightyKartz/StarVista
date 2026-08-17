@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 171045,
-  "forks": 12597,
-  "openIssues": 600,
+  "stars": 171243,
+  "forks": 12603,
+  "openIssues": 608,
   "pushedAt": "2026-08-02T07:58:25Z",
   "topics": [
     "awesome",
@@ -18,8 +18,8 @@
     "python"
   ],
   "license": null,
-  "activity": "active",
-  "starDelta7d": 1177,
+  "activity": "stable",
+  "starDelta7d": 1200,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8255800?v=4",
   "languages": {
     "Python": 1
@@ -316,6 +316,10 @@
     {
       "date": "2026-08-16",
       "stars": 171045
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 171243
     }
   ],
   "links": {

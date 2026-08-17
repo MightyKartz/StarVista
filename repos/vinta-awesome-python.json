@@ -3,14 +3,14 @@
   "slug": "vinta-awesome-python",
   "owner": "vinta",
   "name": "awesome-python",
-  "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+  "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 314179,
-  "forks": 28518,
-  "openIssues": 27,
-  "pushedAt": "2026-08-05T06:11:04Z",
+  "stars": 314339,
+  "forks": 28526,
+  "openIssues": 16,
+  "pushedAt": "2026-08-16T13:31:43Z",
   "topics": [
     "awesome",
     "collections",
@@ -21,19 +21,19 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 1235,
+  "starDelta7d": 1217,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/652070?v=4",
   "languages": {
     "Python": 0.59,
-    "HTML": 0.18,
-    "CSS": 0.16,
-    "JavaScript": 0.07,
+    "HTML": 0.2,
+    "CSS": 0.15,
+    "JavaScript": 0.06,
     "Makefile": 0
   },
-  "readmeExcerpt": "An opinionated guide to the best Python frameworks, libraries, tools, and resources.",
+  "readmeExcerpt": "An opinionated guide to the best Python frameworks, libraries, and tools.",
   "summary": {
     "mode": "template",
-    "text": "awesome-python is a Python project focused on An opinionated list of Python frameworks, libraries, tools, and resources. It is tagged with awesome, collections, and python."
+    "text": "awesome-python is a Python project focused on The definitive list that answers \"I want to do X in Python, which tool should I use?\". It is tagged with awesome, collections, and python."
   },
   "releases": [],
   "starHistory": [
@@ -296,6 +296,10 @@
     {
       "date": "2026-08-16",
       "stars": 314179
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 314339
     }
   ],
   "links": {
