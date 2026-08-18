@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 144358,
-  "forks": 24025,
-  "openIssues": 413,
-  "pushedAt": "2026-08-16T08:08:02Z",
+  "stars": 144426,
+  "forks": 24041,
+  "openIssues": 410,
+  "pushedAt": "2026-08-18T01:51:37Z",
   "topics": [
     "agents",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 523,
+  "starDelta7d": 496,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
   "languages": {
     "Python": 0.99,
@@ -53,6 +53,16 @@
   },
   "releases": [
     {
+      "tag": "langchain-openai==1.5.2a1",
+      "name": "langchain-openai==1.5.2a1",
+      "publishedAt": "2026-08-18T01:51:38Z"
+    },
+    {
+      "tag": "langchain-core==1.5.6",
+      "name": "langchain-core==1.5.6",
+      "publishedAt": "2026-08-17T21:26:47Z"
+    },
+    {
       "tag": "langchain-openrouter==0.2.8",
       "name": "langchain-openrouter==0.2.8",
       "publishedAt": "2026-08-14T19:03:45Z"
@@ -66,16 +76,6 @@
       "tag": "langchain-core==1.5.5",
       "name": "langchain-core==1.5.5",
       "publishedAt": "2026-08-14T18:56:41Z"
-    },
-    {
-      "tag": "langchain-openai==1.5.0",
-      "name": "langchain-openai==1.5.0",
-      "publishedAt": "2026-08-13T13:15:00Z"
-    },
-    {
-      "tag": "langchain-anthropic==1.5.6",
-      "name": "langchain-anthropic==1.5.6",
-      "publishedAt": "2026-08-13T02:31:03Z"
     }
   ],
   "starHistory": [
@@ -342,6 +342,10 @@
     {
       "date": "2026-08-17",
       "stars": 144358
+    },
+    {
+      "date": "2026-08-18",
+      "stars": 144426
     }
   ],
   "links": {

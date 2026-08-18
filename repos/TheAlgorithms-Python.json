@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 223795,
-  "forks": 50964,
-  "openIssues": 1030,
+  "stars": 223821,
+  "forks": 50968,
+  "openIssues": 1037,
   "pushedAt": "2026-08-03T18:44:56Z",
   "topics": [
     "algorithm",
@@ -28,8 +28,8 @@
     "sorts"
   ],
   "license": "MIT",
-  "activity": "active",
-  "starDelta7d": 194,
+  "activity": "stable",
+  "starDelta7d": 186,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/20487725?v=4",
   "languages": {
     "Python": 1,
@@ -306,6 +306,10 @@
     {
       "date": "2026-08-17",
       "stars": 223795
+    },
+    {
+      "date": "2026-08-18",
+      "stars": 223821
     }
   ],
   "links": {

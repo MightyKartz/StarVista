@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 129581,
-  "forks": 11595,
-  "openIssues": 336,
-  "pushedAt": "2026-08-14T16:44:52Z",
+  "stars": 129865,
+  "forks": 11625,
+  "openIssues": 326,
+  "pushedAt": "2026-08-17T23:32:16Z",
   "topics": [
     "ai",
     "copilot",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3578,
+  "starDelta7d": 3739,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
   "languages": {
     "Python": 0.96,
@@ -325,6 +325,10 @@
     {
       "date": "2026-08-17",
       "stars": 129581
+    },
+    {
+      "date": "2026-08-18",
+      "stars": 129865
     }
   ],
   "links": {

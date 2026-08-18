@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 386476,
-  "forks": 81212,
-  "openIssues": 5574,
-  "pushedAt": "2026-08-17T03:12:01Z",
+  "stars": 386572,
+  "forks": 81235,
+  "openIssues": 5701,
+  "pushedAt": "2026-08-18T03:06:46Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 766,
+  "starDelta7d": 739,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.9,
@@ -48,11 +48,6 @@
   },
   "releases": [
     {
-      "tag": "pr-124528-profiles",
-      "name": "PR #124528 Gateway profile evidence",
-      "publishedAt": "2026-08-16T10:15:43Z"
-    },
-    {
       "tag": "v2026.8.1-beta.2",
       "name": "OpenClaw 2026.8.1-beta.2",
       "publishedAt": "2026-08-15T05:36:23Z"
@@ -71,6 +66,11 @@
       "tag": "v2026.6.34",
       "name": "openclaw 2026.6.34",
       "publishedAt": "2026-08-08T07:22:14Z"
+    },
+    {
+      "tag": "v2026.7.2-beta.7",
+      "name": "openclaw 2026.7.2-beta.7",
+      "publishedAt": "2026-08-02T08:11:31Z"
     }
   ],
   "starHistory": [
@@ -337,6 +337,10 @@
     {
       "date": "2026-08-17",
       "stars": 386476
+    },
+    {
+      "date": "2026-08-18",
+      "stars": 386572
     }
   ],
   "links": {
