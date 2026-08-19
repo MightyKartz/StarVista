@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 136046,
-  "forks": 7842,
-  "openIssues": 9,
-  "pushedAt": "2026-08-18T00:50:42Z",
+  "stars": 136137,
+  "forks": 7844,
+  "openIssues": 21,
+  "pushedAt": "2026-08-19T00:51:19Z",
   "topics": [
     "iptv",
     "m3u",
@@ -20,7 +20,7 @@
   ],
   "license": "Unlicense",
   "activity": "active",
-  "starDelta7d": 437,
+  "starDelta7d": 456,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/55937028?v=4",
   "languages": {
     "TypeScript": 0.57,
@@ -300,6 +300,10 @@
     {
       "date": "2026-08-18",
       "stars": 136046
+    },
+    {
+      "date": "2026-08-19",
+      "stars": 136137
     }
   ],
   "links": {

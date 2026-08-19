@@ -1,7 +1,32 @@
 {
-  "generatedAt": "2026-08-18T03:08:42.569Z",
+  "generatedAt": "2026-08-19T03:11:23.582Z",
   "repoCount": 118,
   "repos": [
+    {
+      "id": "sindresorhus/awesome",
+      "slug": "sindresorhus-awesome",
+      "owner": "sindresorhus",
+      "name": "awesome",
+      "description": "😎 Awesome lists about all kinds of interesting topics",
+      "archived": false,
+      "primaryLanguage": null,
+      "languageColor": null,
+      "stars": 497464,
+      "forks": 36470,
+      "openIssues": 102,
+      "pushedAt": "2026-08-18T13:28:50Z",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lists",
+        "resources",
+        "unicorns"
+      ],
+      "license": "CC0-1.0",
+      "activity": "active",
+      "starDelta7d": 6980,
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
+    },
     {
       "id": "public-apis/public-apis",
       "slug": "public-apis-public-apis",
@@ -11,10 +36,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 463302,
-      "forks": 51187,
-      "openIssues": 1682,
-      "pushedAt": "2026-08-17T21:04:12Z",
+      "stars": 464718,
+      "forks": 51332,
+      "openIssues": 1698,
+      "pushedAt": "2026-08-18T19:20:39Z",
       "topics": [
         "api",
         "apis",
@@ -32,7 +57,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 7921,
+      "starDelta7d": 9182,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/51121562?v=4"
     },
     {
@@ -44,10 +69,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 454216,
-      "forks": 45996,
+      "stars": 454294,
+      "forks": 46010,
       "openIssues": 278,
-      "pushedAt": "2026-08-17T21:13:55Z",
+      "pushedAt": "2026-08-18T21:03:08Z",
       "topics": [
         "careers",
         "certification",
@@ -67,7 +92,7 @@
       ],
       "license": "BSD-3-Clause",
       "activity": "active",
-      "starDelta7d": 450,
+      "starDelta7d": 452,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9892522?v=4"
     },
     {
@@ -79,10 +104,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 394645,
-      "forks": 66668,
-      "openIssues": 82,
-      "pushedAt": "2026-08-16T17:14:23Z",
+      "stars": 394712,
+      "forks": 66673,
+      "openIssues": 81,
+      "pushedAt": "2026-08-18T14:16:15Z",
       "topics": [
         "books",
         "education",
@@ -92,7 +117,7 @@
       ],
       "license": "CC-BY-4.0",
       "activity": "active",
-      "starDelta7d": 533,
+      "starDelta7d": 528,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4"
     },
     {
@@ -104,10 +129,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 386572,
-      "forks": 81235,
-      "openIssues": 5701,
-      "pushedAt": "2026-08-18T03:06:46Z",
+      "stars": 386690,
+      "forks": 81263,
+      "openIssues": 5759,
+      "pushedAt": "2026-08-19T03:10:40Z",
       "topics": [
         "ai",
         "assistant",
@@ -119,7 +144,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 739,
+      "starDelta7d": 694,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4"
     },
     {
@@ -131,10 +156,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 364762,
-      "forks": 44814,
-      "openIssues": 9,
-      "pushedAt": "2026-08-14T17:26:59Z",
+      "stars": 364878,
+      "forks": 44821,
+      "openIssues": 7,
+      "pushedAt": "2026-08-18T11:56:04Z",
       "topics": [
         "angular-roadmap",
         "backend-roadmap",
@@ -157,7 +182,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 657,
+      "starDelta7d": 696,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4921183?v=4"
     },
     {
@@ -169,9 +194,9 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 314518,
-      "forks": 28529,
-      "openIssues": 16,
+      "stars": 314731,
+      "forks": 28540,
+      "openIssues": 18,
       "pushedAt": "2026-08-16T13:31:43Z",
       "topics": [
         "awesome",
@@ -183,7 +208,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 1236,
+      "starDelta7d": 1254,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/652070?v=4"
     },
     {
@@ -195,8 +220,8 @@
       "archived": false,
       "primaryLanguage": null,
       "languageColor": null,
-      "stars": 313325,
-      "forks": 14710,
+      "stars": 313559,
+      "forks": 14725,
       "openIssues": 0,
       "pushedAt": "2026-08-17T08:30:25Z",
       "topics": [
@@ -211,7 +236,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 1464,
+      "starDelta7d": 1457,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/24270415?v=4"
     },
     {
@@ -223,9 +248,9 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 279649,
-      "forks": 35909,
-      "openIssues": 268,
+      "stars": 279816,
+      "forks": 35935,
+      "openIssues": 269,
       "pushedAt": "2026-08-17T06:46:47Z",
       "topics": [
         "beginner-project",
@@ -239,7 +264,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 1615,
+      "starDelta7d": 1266,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/89421154?v=4"
     },
     {
@@ -251,9 +276,9 @@
       "archived": false,
       "primaryLanguage": "Shell",
       "languageColor": null,
-      "stars": 273272,
-      "forks": 24446,
-      "openIssues": 341,
+      "stars": 273735,
+      "forks": 24499,
+      "openIssues": 287,
       "pushedAt": "2026-08-13T00:36:31Z",
       "topics": [
         "ai",
@@ -267,7 +292,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 2956,
+      "starDelta7d": 2892,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45416?v=4"
     },
     {
@@ -279,9 +304,9 @@
       "archived": false,
       "primaryLanguage": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 247341,
-      "forks": 51239,
-      "openIssues": 1257,
+      "stars": 247416,
+      "forks": 51245,
+      "openIssues": 1258,
       "pushedAt": "2026-08-17T11:16:23Z",
       "topics": [
         "declarative",
@@ -293,7 +318,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 213,
+      "starDelta7d": 244,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102812?v=4"
     },
     {
@@ -305,14 +330,14 @@
       "archived": false,
       "primaryLanguage": "C",
       "languageColor": "#555555",
-      "stars": 243054,
-      "forks": 63969,
+      "stars": 243233,
+      "forks": 63981,
       "openIssues": 3,
-      "pushedAt": "2026-08-17T22:25:15Z",
+      "pushedAt": "2026-08-19T02:54:46Z",
       "topics": [],
       "license": null,
       "activity": "active",
-      "starDelta7d": 670,
+      "starDelta7d": 694,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1024025?v=4"
     },
     {
@@ -324,10 +349,10 @@
       "archived": false,
       "primaryLanguage": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 240735,
-      "forks": 36516,
-      "openIssues": 131,
-      "pushedAt": "2026-08-17T04:55:56Z",
+      "stars": 240999,
+      "forks": 36554,
+      "openIssues": 139,
+      "pushedAt": "2026-08-18T20:07:38Z",
       "topics": [
         "ai-agents",
         "anthropic",
@@ -340,7 +365,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 1450,
+      "starDelta7d": 1479,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4"
     },
     {
@@ -352,10 +377,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 232090,
-      "forks": 46241,
-      "openIssues": 32798,
-      "pushedAt": "2026-08-18T03:04:46Z",
+      "stars": 232613,
+      "forks": 46439,
+      "openIssues": 33305,
+      "pushedAt": "2026-08-19T03:09:39Z",
       "topics": [
         "ai",
         "ai-agent",
@@ -373,7 +398,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 3537,
+      "starDelta7d": 3483,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4"
     },
     {
@@ -385,9 +410,9 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 223821,
-      "forks": 50968,
-      "openIssues": 1037,
+      "stars": 223842,
+      "forks": 50974,
+      "openIssues": 1045,
       "pushedAt": "2026-08-03T18:44:56Z",
       "topics": [
         "algorithm",
@@ -407,7 +432,7 @@
       ],
       "license": "MIT",
       "activity": "stable",
-      "starDelta7d": 186,
+      "starDelta7d": 177,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/20487725?v=4"
     },
     {
@@ -419,14 +444,14 @@
       "archived": false,
       "primaryLanguage": "Shell",
       "languageColor": null,
-      "stars": 220480,
-      "forks": 19004,
-      "openIssues": 360,
+      "stars": 221691,
+      "forks": 19100,
+      "openIssues": 368,
       "pushedAt": "2026-08-17T07:54:42Z",
       "topics": [],
       "license": "MIT",
       "activity": "fast-rising",
-      "starDelta7d": 7699,
+      "starDelta7d": 7650,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4"
     },
     {
@@ -438,10 +463,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 201009,
-      "forks": 60204,
-      "openIssues": 1307,
-      "pushedAt": "2026-08-18T03:06:05Z",
+      "stars": 201127,
+      "forks": 60213,
+      "openIssues": 1137,
+      "pushedAt": "2026-08-19T01:03:42Z",
       "topics": [
         "ai",
         "apis",
@@ -466,7 +491,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 851,
+      "starDelta7d": 838,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45487711?v=4"
     },
     {
@@ -478,14 +503,14 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 198525,
-      "forks": 25583,
-      "openIssues": 5174,
-      "pushedAt": "2026-08-18T02:49:52Z",
+      "stars": 198879,
+      "forks": 25656,
+      "openIssues": 5167,
+      "pushedAt": "2026-08-19T03:03:54Z",
       "topics": [],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 2645,
+      "starDelta7d": 2580,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66570915?v=4"
     },
     {
@@ -497,10 +522,10 @@
       "archived": false,
       "primaryLanguage": "C++",
       "languageColor": "#f34b7d",
-      "stars": 196990,
-      "forks": 76044,
-      "openIssues": 2922,
-      "pushedAt": "2026-08-18T03:04:24Z",
+      "stars": 197053,
+      "forks": 76062,
+      "openIssues": 3005,
+      "pushedAt": "2026-08-19T03:05:37Z",
       "topics": [
         "deep-learning",
         "deep-neural-networks",
@@ -513,7 +538,7 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 58,
+      "starDelta7d": 93,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4"
     },
     {
@@ -525,8 +550,8 @@
       "archived": false,
       "primaryLanguage": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 196509,
-      "forks": 31040,
+      "stars": 196515,
+      "forks": 31041,
       "openIssues": 404,
       "pushedAt": "2026-07-26T02:43:08Z",
       "topics": [
@@ -541,7 +566,7 @@
       ],
       "license": "MIT",
       "activity": "stable",
-      "starDelta7d": 85,
+      "starDelta7d": 73,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3000285?v=4"
     },
     {
@@ -553,14 +578,14 @@
       "archived": false,
       "primaryLanguage": "Rust",
       "languageColor": "#dea584",
-      "stars": 195065,
-      "forks": 109073,
-      "openIssues": 40,
+      "stars": 195090,
+      "forks": 109055,
+      "openIssues": 39,
       "pushedAt": "2026-08-16T06:18:45Z",
       "topics": [],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 40,
+      "starDelta7d": 39,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/272961631?v=4"
     },
     {
@@ -572,8 +597,8 @@
       "archived": false,
       "primaryLanguage": "Markdown",
       "languageColor": null,
-      "stars": 193987,
-      "forks": 4170,
+      "stars": 194199,
+      "forks": 4171,
       "openIssues": 37,
       "pushedAt": "2026-08-12T10:36:46Z",
       "topics": [
@@ -595,7 +620,7 @@
       ],
       "license": "AGPL-3.0",
       "activity": "active",
-      "starDelta7d": 1989,
+      "starDelta7d": 1902,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126394654?v=4"
     },
     {
@@ -607,9 +632,9 @@
       "archived": false,
       "primaryLanguage": "Shell",
       "languageColor": null,
-      "stars": 189232,
-      "forks": 26581,
-      "openIssues": 598,
+      "stars": 189252,
+      "forks": 26580,
+      "openIssues": 599,
       "pushedAt": "2026-08-17T21:45:08Z",
       "topics": [
         "cli",
@@ -630,7 +655,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 137,
+      "starDelta7d": 131,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/22552083?v=4"
     },
     {
@@ -642,10 +667,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 188834,
-      "forks": 41697,
-      "openIssues": 19988,
-      "pushedAt": "2026-08-18T03:06:07Z",
+      "stars": 188913,
+      "forks": 41711,
+      "openIssues": 19953,
+      "pushedAt": "2026-08-19T02:47:08Z",
       "topics": [
         "editor",
         "electron",
@@ -655,7 +680,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 276,
+      "starDelta7d": 300,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
     {
@@ -667,10 +692,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 186661,
-      "forks": 46062,
-      "openIssues": 504,
-      "pushedAt": "2026-08-18T02:41:34Z",
+      "stars": 186680,
+      "forks": 46053,
+      "openIssues": 507,
+      "pushedAt": "2026-08-19T02:23:33Z",
       "topics": [
         "agentic-ai",
         "agents",
@@ -686,27 +711,8 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 154,
+      "starDelta7d": 143,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130738209?v=4"
-    },
-    {
-      "id": "jackfrued/Python-100-Days",
-      "slug": "jackfrued-Python-100-Days",
-      "owner": "jackfrued",
-      "name": "Python-100-Days",
-      "description": "Python - 100天从新手到大师",
-      "archived": false,
-      "primaryLanguage": "Jupyter Notebook",
-      "languageColor": null,
-      "stars": 185303,
-      "forks": 55683,
-      "openIssues": 704,
-      "pushedAt": "2026-07-29T15:18:29Z",
-      "topics": [],
-      "license": null,
-      "activity": "stable",
-      "starDelta7d": 223,
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7474657?v=4"
     },
     {
       "id": "yt-dlp/yt-dlp",
@@ -717,10 +723,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 185149,
-      "forks": 15949,
-      "openIssues": 2599,
-      "pushedAt": "2026-08-17T07:37:53Z",
+      "stars": 185432,
+      "forks": 15965,
+      "openIssues": 2597,
+      "pushedAt": "2026-08-19T02:48:42Z",
       "topics": [
         "cli",
         "downloader",
@@ -732,8 +738,27 @@
       ],
       "license": "Unlicense",
       "activity": "active",
-      "starDelta7d": 1413,
+      "starDelta7d": 1475,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/79589310?v=4"
+    },
+    {
+      "id": "jackfrued/Python-100-Days",
+      "slug": "jackfrued-Python-100-Days",
+      "owner": "jackfrued",
+      "name": "Python-100-Days",
+      "description": "Python - 100天从新手到大师",
+      "archived": false,
+      "primaryLanguage": "Jupyter Notebook",
+      "languageColor": null,
+      "stars": 185343,
+      "forks": 55682,
+      "openIssues": 704,
+      "pushedAt": "2026-07-29T15:18:29Z",
+      "topics": [],
+      "license": null,
+      "activity": "stable",
+      "starDelta7d": 230,
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7474657?v=4"
     },
     {
       "id": "avelino/awesome-go",
@@ -744,10 +769,10 @@
       "archived": false,
       "primaryLanguage": "Go",
       "languageColor": "#00add8",
-      "stars": 181341,
-      "forks": 13487,
-      "openIssues": 212,
-      "pushedAt": "2026-08-16T12:09:33Z",
+      "stars": 181447,
+      "forks": 13490,
+      "openIssues": 213,
+      "pushedAt": "2026-08-18T22:23:15Z",
       "topics": [
         "awesome",
         "awesome-list",
@@ -758,7 +783,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 617,
+      "starDelta7d": 624,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31996?v=4"
     },
     {
@@ -770,10 +795,10 @@
       "archived": false,
       "primaryLanguage": "Go",
       "languageColor": "#00add8",
-      "stars": 178817,
-      "forks": 17446,
-      "openIssues": 3737,
-      "pushedAt": "2026-08-16T16:49:36Z",
+      "stars": 178906,
+      "forks": 17461,
+      "openIssues": 3749,
+      "pushedAt": "2026-08-19T03:04:24Z",
       "topics": [
         "deepseek",
         "gemma",
@@ -793,7 +818,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 578,
+      "starDelta7d": 597,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/151674099?v=4"
     },
     {
@@ -805,10 +830,10 @@
       "archived": false,
       "primaryLanguage": "Dart",
       "languageColor": null,
-      "stars": 178434,
-      "forks": 30963,
-      "openIssues": 13159,
-      "pushedAt": "2026-08-18T02:13:15Z",
+      "stars": 178470,
+      "forks": 30972,
+      "openIssues": 13161,
+      "pushedAt": "2026-08-19T03:05:07Z",
       "topics": [
         "android",
         "app-framework",
@@ -832,7 +857,7 @@
       ],
       "license": "BSD-3-Clause",
       "activity": "active",
-      "starDelta7d": 142,
+      "starDelta7d": 137,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4"
     },
     {
@@ -844,9 +869,9 @@
       "archived": false,
       "primaryLanguage": null,
       "languageColor": null,
-      "stars": 175355,
-      "forks": 82274,
-      "openIssues": 83,
+      "stars": 175363,
+      "forks": 82267,
+      "openIssues": 84,
       "pushedAt": "2026-07-23T16:06:45Z",
       "topics": [
         "git",
@@ -854,7 +879,7 @@
       ],
       "license": "CC0-1.0",
       "activity": "stable",
-      "starDelta7d": 131,
+      "starDelta7d": 112,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4"
     },
     {
@@ -866,10 +891,10 @@
       "archived": false,
       "primaryLanguage": "MDX",
       "languageColor": null,
-      "stars": 174608,
-      "forks": 78669,
-      "openIssues": 233,
-      "pushedAt": "2026-08-13T03:36:08Z",
+      "stars": 174610,
+      "forks": 78663,
+      "openIssues": 237,
+      "pushedAt": "2026-08-19T02:15:32Z",
       "topics": [
         "bootstrap",
         "css",
@@ -893,9 +918,9 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 174301,
-      "forks": 12744,
-      "openIssues": 868,
+      "stars": 174534,
+      "forks": 12763,
+      "openIssues": 872,
       "pushedAt": "2026-07-29T18:18:09Z",
       "topics": [
         "autogen",
@@ -908,7 +933,7 @@
       ],
       "license": "MIT",
       "activity": "stable",
-      "starDelta7d": 1320,
+      "starDelta7d": 1310,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
     {
@@ -920,9 +945,9 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 171415,
-      "forks": 12606,
-      "openIssues": 610,
+      "stars": 171608,
+      "forks": 12610,
+      "openIssues": 613,
       "pushedAt": "2026-08-02T07:58:25Z",
       "topics": [
         "awesome",
@@ -932,7 +957,7 @@
       ],
       "license": null,
       "activity": "stable",
-      "starDelta7d": 1198,
+      "starDelta7d": 1188,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8255800?v=4"
     },
     {
@@ -944,16 +969,16 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 170053,
-      "forks": 20241,
-      "openIssues": 1119,
-      "pushedAt": "2026-08-17T17:23:18Z",
+      "stars": 170312,
+      "forks": 20268,
+      "openIssues": 1120,
+      "pushedAt": "2026-08-18T16:02:06Z",
       "topics": [
         "agent-skills"
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 2446,
+      "starDelta7d": 2071,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4"
     },
     {
@@ -965,10 +990,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 168690,
-      "forks": 9432,
-      "openIssues": 520,
-      "pushedAt": "2026-08-17T23:40:12Z",
+      "stars": 169196,
+      "forks": 9450,
+      "openIssues": 524,
+      "pushedAt": "2026-08-18T23:53:14Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -992,7 +1017,7 @@
       ],
       "license": "AGPL-3.0",
       "activity": "active",
-      "starDelta7d": 3472,
+      "starDelta7d": 3231,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4"
     },
     {
@@ -1004,10 +1029,10 @@
       "archived": false,
       "primaryLanguage": "HTML",
       "languageColor": null,
-      "stars": 167339,
-      "forks": 21593,
-      "openIssues": 65,
-      "pushedAt": "2026-08-17T03:22:38Z",
+      "stars": 167468,
+      "forks": 21622,
+      "openIssues": 66,
+      "pushedAt": "2026-08-18T03:20:31Z",
       "topics": [
         "ai",
         "artificial-intelligence",
@@ -1030,7 +1055,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 363,
+      "starDelta7d": 452,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/196477?v=4"
     },
     {
@@ -1042,10 +1067,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 164196,
-      "forks": 34260,
-      "openIssues": 2387,
-      "pushedAt": "2026-08-18T02:22:55Z",
+      "stars": 164231,
+      "forks": 34270,
+      "openIssues": 2368,
+      "pushedAt": "2026-08-19T02:41:30Z",
       "topics": [
         "audio",
         "deep-learning",
@@ -1069,8 +1094,32 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 633,
+      "starDelta7d": 367,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4"
+    },
+    {
+      "id": "deepseek-ai/deepseek-harness",
+      "slug": "deepseek-ai-deepseek-harness",
+      "owner": "deepseek-ai",
+      "name": "deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "archived": false,
+      "primaryLanguage": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 161608,
+      "forks": 16990,
+      "openIssues": 0,
+      "pushedAt": "2026-08-17T12:01:58Z",
+      "topics": [
+        "ai-agents",
+        "cordis",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "license": "MIT",
+      "activity": "active",
+      "starDelta7d": null,
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4"
     },
     {
       "id": "Snailclimb/JavaGuide",
@@ -1081,10 +1130,10 @@
       "archived": false,
       "primaryLanguage": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 157830,
-      "forks": 46175,
+      "stars": 157871,
+      "forks": 46174,
       "openIssues": 59,
-      "pushedAt": "2026-08-17T08:45:22Z",
+      "pushedAt": "2026-08-18T13:05:40Z",
       "topics": [
         "agent",
         "ai",
@@ -1102,7 +1151,7 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 154,
+      "starDelta7d": 162,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/29880145?v=4"
     },
     {
@@ -1114,10 +1163,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 153376,
-      "forks": 9876,
-      "openIssues": 966,
-      "pushedAt": "2026-08-18T03:08:15Z",
+      "stars": 153432,
+      "forks": 9889,
+      "openIssues": 972,
+      "pushedAt": "2026-08-19T02:28:23Z",
       "topics": [
         "agents",
         "chatgpt",
@@ -1128,7 +1177,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 337,
+      "starDelta7d": 358,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/85702467?v=4"
     },
     {
@@ -1140,10 +1189,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 152737,
-      "forks": 24121,
-      "openIssues": 1001,
-      "pushedAt": "2026-08-18T03:07:43Z",
+      "stars": 152854,
+      "forks": 24141,
+      "openIssues": 988,
+      "pushedAt": "2026-08-19T03:04:50Z",
       "topics": [
         "agent",
         "agentic-ai",
@@ -1168,32 +1217,8 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 717,
+      "starDelta7d": 709,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127165244?v=4"
-    },
-    {
-      "id": "deepseek-ai/deepseek-harness",
-      "slug": "deepseek-ai-deepseek-harness",
-      "owner": "deepseek-ai",
-      "name": "deepseek-harness",
-      "description": "DeepSeek Harness: Everything is a Plugin.",
-      "archived": false,
-      "primaryLanguage": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 152088,
-      "forks": 15672,
-      "openIssues": 0,
-      "pushedAt": "2026-08-17T12:01:58Z",
-      "topics": [
-        "ai-agents",
-        "cordis",
-        "dsh",
-        "dsh-plugin"
-      ],
-      "license": "MIT",
-      "activity": "active",
-      "starDelta7d": null,
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4"
     },
     {
       "id": "open-webui/open-webui",
@@ -1204,10 +1229,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 149066,
-      "forks": 21712,
-      "openIssues": 357,
-      "pushedAt": "2026-08-17T20:56:30Z",
+      "stars": 149178,
+      "forks": 21735,
+      "openIssues": 371,
+      "pushedAt": "2026-08-19T02:37:21Z",
       "topics": [
         "ai",
         "llm",
@@ -1227,7 +1252,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 631,
+      "starDelta7d": 655,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/158137808?v=4"
     },
     {
@@ -1239,8 +1264,8 @@
       "archived": false,
       "primaryLanguage": "C",
       "languageColor": "#555555",
-      "stars": 147827,
-      "forks": 13609,
+      "stars": 147871,
+      "forks": 13614,
       "openIssues": 2880,
       "pushedAt": "2026-08-17T10:27:07Z",
       "topics": [
@@ -1255,7 +1280,7 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 441,
+      "starDelta7d": 485,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3427627?v=4"
     },
     {
@@ -1267,14 +1292,14 @@
       "archived": false,
       "primaryLanguage": "Shell",
       "languageColor": null,
-      "stars": 146002,
-      "forks": 23588,
+      "stars": 146136,
+      "forks": 23629,
       "openIssues": 140,
       "pushedAt": "2026-08-06T13:29:47Z",
       "topics": [],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 4056,
+      "starDelta7d": 2576,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1972242?v=4"
     },
     {
@@ -1286,10 +1311,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 144426,
-      "forks": 24041,
-      "openIssues": 410,
-      "pushedAt": "2026-08-18T01:51:37Z",
+      "stars": 144508,
+      "forks": 24062,
+      "openIssues": 402,
+      "pushedAt": "2026-08-19T00:14:32Z",
       "topics": [
         "agents",
         "ai",
@@ -1314,7 +1339,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 496,
+      "starDelta7d": 477,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4"
     },
     {
@@ -1326,8 +1351,8 @@
       "archived": false,
       "primaryLanguage": null,
       "languageColor": null,
-      "stars": 142874,
-      "forks": 34844,
+      "stars": 142903,
+      "forks": 34843,
       "openIssues": 159,
       "pushedAt": "2026-08-11T13:01:09Z",
       "topics": [
@@ -1354,7 +1379,7 @@
       ],
       "license": "GPL-3.0",
       "activity": "active",
-      "starDelta7d": 163,
+      "starDelta7d": 161,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/185671340?v=4"
     },
     {
@@ -1366,8 +1391,8 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 141935,
-      "forks": 16754,
+      "stars": 141972,
+      "forks": 16759,
       "openIssues": 34,
       "pushedAt": "2026-08-07T12:06:42Z",
       "topics": [
@@ -1384,8 +1409,27 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 197,
+      "starDelta7d": 187,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1315101?v=4"
+    },
+    {
+      "id": "anthropics/claude-code",
+      "slug": "anthropics-claude-code",
+      "owner": "anthropics",
+      "name": "claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "archived": false,
+      "primaryLanguage": "Python",
+      "languageColor": "#3572a5",
+      "stars": 141915,
+      "forks": 22772,
+      "openIssues": 15026,
+      "pushedAt": "2026-08-18T20:38:54Z",
+      "topics": [],
+      "license": null,
+      "activity": "active",
+      "starDelta7d": 798,
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4"
     },
     {
       "id": "vercel/next.js",
@@ -1396,10 +1440,10 @@
       "archived": false,
       "primaryLanguage": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 141814,
-      "forks": 31755,
-      "openIssues": 4137,
-      "pushedAt": "2026-08-18T02:09:00Z",
+      "stars": 141857,
+      "forks": 31764,
+      "openIssues": 4080,
+      "pushedAt": "2026-08-19T02:04:36Z",
       "topics": [
         "blog",
         "browser",
@@ -1422,25 +1466,6 @@
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4"
     },
     {
-      "id": "anthropics/claude-code",
-      "slug": "anthropics-claude-code",
-      "owner": "anthropics",
-      "name": "claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "archived": false,
-      "primaryLanguage": "Python",
-      "languageColor": "#3572a5",
-      "stars": 141785,
-      "forks": 22762,
-      "openIssues": 14824,
-      "pushedAt": "2026-08-17T20:20:58Z",
-      "topics": [],
-      "license": null,
-      "activity": "active",
-      "starDelta7d": 820,
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4"
-    },
-    {
       "id": "clash-verge-rev/clash-verge-rev",
       "slug": "clash-verge-rev-clash-verge-rev",
       "owner": "clash-verge-rev",
@@ -1449,10 +1474,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 138477,
-      "forks": 9974,
+      "stars": 138679,
+      "forks": 9986,
       "openIssues": 406,
-      "pushedAt": "2026-08-18T01:11:37Z",
+      "pushedAt": "2026-08-19T02:27:49Z",
       "topics": [
         "clash",
         "clash-meta",
@@ -1465,7 +1490,7 @@
       ],
       "license": "GPL-3.0",
       "activity": "active",
-      "starDelta7d": 1471,
+      "starDelta7d": 1435,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4"
     },
     {
@@ -1477,10 +1502,10 @@
       "archived": false,
       "primaryLanguage": "C",
       "languageColor": "#555555",
-      "stars": 137828,
+      "stars": 137858,
       "forks": 8492,
-      "openIssues": 7513,
-      "pushedAt": "2026-08-18T02:24:46Z",
+      "openIssues": 7496,
+      "pushedAt": "2026-08-19T02:53:21Z",
       "topics": [
         "advanced-paste",
         "color-picker",
@@ -1497,7 +1522,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 186,
+      "starDelta7d": 183,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
     {
@@ -1509,10 +1534,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 136046,
-      "forks": 7842,
-      "openIssues": 9,
-      "pushedAt": "2026-08-18T00:50:42Z",
+      "stars": 136137,
+      "forks": 7844,
+      "openIssues": 21,
+      "pushedAt": "2026-08-19T00:51:19Z",
       "topics": [
         "iptv",
         "m3u",
@@ -1522,7 +1547,7 @@
       ],
       "license": "Unlicense",
       "activity": "active",
-      "starDelta7d": 437,
+      "starDelta7d": 456,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/55937028?v=4"
     },
     {
@@ -1534,10 +1559,10 @@
       "archived": false,
       "primaryLanguage": "Go",
       "languageColor": "#00add8",
-      "stars": 135846,
-      "forks": 19283,
-      "openIssues": 10229,
-      "pushedAt": "2026-08-17T23:33:37Z",
+      "stars": 135891,
+      "forks": 19287,
+      "openIssues": 10227,
+      "pushedAt": "2026-08-19T00:24:25Z",
       "topics": [
         "go",
         "golang",
@@ -1546,7 +1571,7 @@
       ],
       "license": "BSD-3-Clause",
       "activity": "active",
-      "starDelta7d": 150,
+      "starDelta7d": 168,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4314092?v=4"
     },
     {
@@ -1558,8 +1583,8 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 132992,
-      "forks": 19568,
+      "stars": 133141,
+      "forks": 19595,
       "openIssues": 14,
       "pushedAt": "2026-08-17T02:42:50Z",
       "topics": [
@@ -1570,7 +1595,7 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 980,
+      "starDelta7d": 938,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31396011?v=4"
     },
     {
@@ -1582,8 +1607,8 @@
       "archived": false,
       "primaryLanguage": "HTML",
       "languageColor": null,
-      "stars": 132060,
-      "forks": 13858,
+      "stars": 132157,
+      "forks": 13874,
       "openIssues": 11,
       "pushedAt": "2026-08-17T11:45:22Z",
       "topics": [
@@ -1592,8 +1617,35 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 608,
+      "starDelta7d": 635,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/82342?v=4"
+    },
+    {
+      "id": "github/spec-kit",
+      "slug": "github-spec-kit",
+      "owner": "github",
+      "name": "spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "archived": false,
+      "primaryLanguage": "Python",
+      "languageColor": "#3572a5",
+      "stars": 130161,
+      "forks": 11679,
+      "openIssues": 337,
+      "pushedAt": "2026-08-18T19:24:18Z",
+      "topics": [
+        "ai",
+        "copilot",
+        "development",
+        "engineering",
+        "prd",
+        "spec",
+        "spec-driven"
+      ],
+      "license": "MIT",
+      "activity": "active",
+      "starDelta7d": 3861,
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4"
     },
     {
       "id": "excalidraw/excalidraw",
@@ -1604,9 +1656,9 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 129903,
-      "forks": 14896,
-      "openIssues": 3330,
+      "stars": 129978,
+      "forks": 14911,
+      "openIssues": 3333,
       "pushedAt": "2026-08-16T15:30:04Z",
       "topics": [
         "canvas",
@@ -1619,35 +1671,8 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 609,
+      "starDelta7d": 599,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4"
-    },
-    {
-      "id": "github/spec-kit",
-      "slug": "github-spec-kit",
-      "owner": "github",
-      "name": "spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "archived": false,
-      "primaryLanguage": "Python",
-      "languageColor": "#3572a5",
-      "stars": 129865,
-      "forks": 11625,
-      "openIssues": 326,
-      "pushedAt": "2026-08-17T23:32:16Z",
-      "topics": [
-        "ai",
-        "copilot",
-        "development",
-        "engineering",
-        "prd",
-        "spec",
-        "spec-driven"
-      ],
-      "license": "MIT",
-      "activity": "active",
-      "starDelta7d": 3739,
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4"
     },
     {
       "id": "krahets/hello-algo",
@@ -1658,9 +1683,9 @@
       "archived": false,
       "primaryLanguage": "Java",
       "languageColor": "#b07219",
-      "stars": 129428,
-      "forks": 15510,
-      "openIssues": 41,
+      "stars": 129462,
+      "forks": 15512,
+      "openIssues": 42,
       "pushedAt": "2026-08-17T20:58:58Z",
       "topics": [
         "algo",
@@ -1677,7 +1702,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 85,
+      "starDelta7d": 96,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26993056?v=4"
     },
     {
@@ -1689,7 +1714,7 @@
       "archived": false,
       "primaryLanguage": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 128734,
+      "stars": 128745,
       "forks": 12486,
       "openIssues": 1,
       "pushedAt": "2026-08-08T05:23:45Z",
@@ -1710,7 +1735,7 @@
       ],
       "license": "CC-BY-4.0",
       "activity": "active",
-      "starDelta7d": 70,
+      "starDelta7d": 61,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8281875?v=4"
     },
     {
@@ -1722,14 +1747,14 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 128425,
-      "forks": 19333,
-      "openIssues": 782,
-      "pushedAt": "2026-08-17T21:37:41Z",
+      "stars": 128613,
+      "forks": 19353,
+      "openIssues": 788,
+      "pushedAt": "2026-08-19T00:14:32Z",
       "topics": [],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 1003,
+      "starDelta7d": 1009,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19957?v=4"
     },
     {
@@ -1741,10 +1766,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 128161,
-      "forks": 15088,
-      "openIssues": 4622,
-      "pushedAt": "2026-08-18T00:59:17Z",
+      "stars": 128319,
+      "forks": 15119,
+      "openIssues": 4636,
+      "pushedAt": "2026-08-19T02:59:59Z",
       "topics": [
         "ai",
         "comfy",
@@ -1755,7 +1780,7 @@
       ],
       "license": "GPL-3.0",
       "activity": "active",
-      "starDelta7d": 1732,
+      "starDelta7d": 1449,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166579949?v=4"
     },
     {
@@ -1767,10 +1792,10 @@
       "archived": false,
       "primaryLanguage": "Rust",
       "languageColor": "#dea584",
-      "stars": 127897,
-      "forks": 8752,
-      "openIssues": 2229,
-      "pushedAt": "2026-08-18T02:51:38Z",
+      "stars": 128121,
+      "forks": 8768,
+      "openIssues": 2253,
+      "pushedAt": "2026-08-18T08:57:45Z",
       "topics": [
         "ai-tools",
         "claude-code",
@@ -1795,7 +1820,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 1643,
+      "starDelta7d": 1597,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4"
     },
     {
@@ -1807,10 +1832,10 @@
       "archived": false,
       "primaryLanguage": "C++",
       "languageColor": "#f34b7d",
-      "stars": 126354,
-      "forks": 25216,
-      "openIssues": 1053,
-      "pushedAt": "2026-08-18T01:01:02Z",
+      "stars": 126359,
+      "forks": 25221,
+      "openIssues": 1050,
+      "pushedAt": "2026-08-18T19:37:58Z",
       "topics": [
         "android",
         "app-framework",
@@ -1823,7 +1848,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 44,
+      "starDelta7d": 31,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102812?v=4"
     },
     {
@@ -1835,10 +1860,10 @@
       "archived": false,
       "primaryLanguage": "Go",
       "languageColor": "#00add8",
-      "stars": 124523,
-      "forks": 43865,
-      "openIssues": 2934,
-      "pushedAt": "2026-08-17T18:51:47Z",
+      "stars": 124580,
+      "forks": 43868,
+      "openIssues": 2953,
+      "pushedAt": "2026-08-18T18:53:48Z",
       "topics": [
         "cncf",
         "containers",
@@ -1847,7 +1872,7 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 132,
+      "starDelta7d": 136,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13629408?v=4"
     },
     {
@@ -1859,16 +1884,16 @@
       "archived": false,
       "primaryLanguage": "C++",
       "languageColor": "#f34b7d",
-      "stars": 124411,
-      "forks": 21827,
-      "openIssues": 2096,
-      "pushedAt": "2026-08-17T22:43:55Z",
+      "stars": 124574,
+      "forks": 21884,
+      "openIssues": 2115,
+      "pushedAt": "2026-08-18T23:55:28Z",
       "topics": [
         "ggml"
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 1026,
+      "starDelta7d": 1053,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134263123?v=4"
     },
     {
@@ -1880,10 +1905,10 @@
       "archived": false,
       "primaryLanguage": "C++",
       "languageColor": "#f34b7d",
-      "stars": 122512,
-      "forks": 17423,
-      "openIssues": 818,
-      "pushedAt": "2026-08-18T00:51:24Z",
+      "stars": 122563,
+      "forks": 17427,
+      "openIssues": 858,
+      "pushedAt": "2026-08-19T02:50:50Z",
       "topics": [
         "c-plus-plus",
         "chrome",
@@ -1897,7 +1922,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 96,
+      "starDelta7d": 106,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13409222?v=4"
     },
     {
@@ -1909,10 +1934,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 121520,
-      "forks": 9886,
-      "openIssues": 2298,
-      "pushedAt": "2026-08-17T12:17:16Z",
+      "stars": 121607,
+      "forks": 9908,
+      "openIssues": 2305,
+      "pushedAt": "2026-08-19T02:51:52Z",
       "topics": [
         "base-ui",
         "components",
@@ -1928,7 +1953,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 508,
+      "starDelta7d": 497,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4"
     },
     {
@@ -1940,10 +1965,10 @@
       "archived": false,
       "primaryLanguage": "Rust",
       "languageColor": "#dea584",
-      "stars": 121110,
-      "forks": 18518,
-      "openIssues": 135,
-      "pushedAt": "2026-08-18T02:40:04Z",
+      "stars": 121211,
+      "forks": 18538,
+      "openIssues": 137,
+      "pushedAt": "2026-08-19T02:48:30Z",
       "topics": [
         "android",
         "anydesk",
@@ -1967,7 +1992,7 @@
       ],
       "license": "AGPL-3.0",
       "activity": "active",
-      "starDelta7d": 1061,
+      "starDelta7d": 1068,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4"
     },
     {
@@ -1979,10 +2004,10 @@
       "archived": false,
       "primaryLanguage": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 118934,
-      "forks": 36514,
-      "openIssues": 1486,
-      "pushedAt": "2026-08-18T00:33:45Z",
+      "stars": 119012,
+      "forks": 36525,
+      "openIssues": 1489,
+      "pushedAt": "2026-08-18T16:34:18Z",
       "topics": [
         "javascript",
         "js",
@@ -1996,7 +2021,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 100,
+      "starDelta7d": 136,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9950313?v=4"
     },
     {
@@ -2008,9 +2033,9 @@
       "archived": false,
       "primaryLanguage": null,
       "languageColor": null,
-      "stars": 118518,
-      "forks": 10656,
-      "openIssues": 39,
+      "stars": 118581,
+      "forks": 10661,
+      "openIssues": 40,
       "pushedAt": "2026-07-26T03:29:02Z",
       "topics": [
         "android",
@@ -2025,7 +2050,7 @@
       ],
       "license": "CC0-1.0",
       "activity": "stable",
-      "starDelta7d": 568,
+      "starDelta7d": 546,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/18143746?v=4"
     },
     {
@@ -2037,9 +2062,9 @@
       "archived": false,
       "primaryLanguage": null,
       "languageColor": null,
-      "stars": 118369,
-      "forks": 28253,
-      "openIssues": 2,
+      "stars": 118382,
+      "forks": 28251,
+      "openIssues": 3,
       "pushedAt": "2026-07-29T00:39:06Z",
       "topics": [
         "android",
@@ -2059,7 +2084,7 @@
       ],
       "license": "GPL-3.0",
       "activity": "stable",
-      "starDelta7d": 103,
+      "starDelta7d": 88,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/359395?v=4"
     },
     {
@@ -2071,8 +2096,8 @@
       "archived": false,
       "primaryLanguage": "Jupyter Notebook",
       "languageColor": null,
-      "stars": 117958,
-      "forks": 62232,
+      "stars": 118043,
+      "forks": 62267,
       "openIssues": 26,
       "pushedAt": "2026-08-13T03:43:40Z",
       "topics": [
@@ -2093,7 +2118,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 571,
+      "starDelta7d": 503,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
     {
@@ -2105,10 +2130,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 117663,
-      "forks": 12649,
+      "stars": 117969,
+      "forks": 12687,
       "openIssues": 82,
-      "pushedAt": "2026-08-13T17:10:11Z",
+      "pushedAt": "2026-08-18T18:16:41Z",
       "topics": [
         "ai-skills",
         "antigravity",
@@ -2132,7 +2157,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 2276,
+      "starDelta7d": 2219,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/246974152?v=4"
     },
     {
@@ -2144,10 +2169,10 @@
       "archived": false,
       "primaryLanguage": "C++",
       "languageColor": "#f34b7d",
-      "stars": 115769,
-      "forks": 26368,
+      "stars": 115844,
+      "forks": 26384,
       "openIssues": 18726,
-      "pushedAt": "2026-08-17T17:38:58Z",
+      "pushedAt": "2026-08-18T15:11:52Z",
       "topics": [
         "game-development",
         "game-engine",
@@ -2159,7 +2184,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 281,
+      "starDelta7d": 275,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6318500?v=4"
     },
     {
@@ -2171,10 +2196,10 @@
       "archived": false,
       "primaryLanguage": "Rust",
       "languageColor": "#dea584",
-      "stars": 115525,
-      "forks": 15426,
-      "openIssues": 12703,
-      "pushedAt": "2026-08-18T03:04:19Z",
+      "stars": 115599,
+      "forks": 15431,
+      "openIssues": 12712,
+      "pushedAt": "2026-08-19T02:43:40Z",
       "topics": [
         "compiler",
         "language",
@@ -2182,7 +2207,7 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 127,
+      "starDelta7d": 152,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5430905?v=4"
     },
     {
@@ -2194,10 +2219,10 @@
       "archived": false,
       "primaryLanguage": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 114581,
-      "forks": 36483,
-      "openIssues": 371,
-      "pushedAt": "2026-08-17T20:52:20Z",
+      "stars": 114599,
+      "forks": 36488,
+      "openIssues": 375,
+      "pushedAt": "2026-08-18T20:18:18Z",
       "topics": [
         "3d",
         "augmented-reality",
@@ -2214,7 +2239,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 165,
+      "starDelta7d": 153,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/97088?v=4"
     },
     {
@@ -2226,10 +2251,10 @@
       "archived": false,
       "primaryLanguage": "C#",
       "languageColor": null,
-      "stars": 114075,
-      "forks": 15709,
-      "openIssues": 25,
-      "pushedAt": "2026-08-17T06:33:33Z",
+      "stars": 114153,
+      "forks": 15719,
+      "openIssues": 24,
+      "pushedAt": "2026-08-19T01:56:39Z",
       "topics": [
         "proxy",
         "shadowsocks",
@@ -2245,8 +2270,44 @@
       ],
       "license": "GPL-3.0",
       "activity": "active",
-      "starDelta7d": 564,
+      "starDelta7d": 544,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4"
+    },
+    {
+      "id": "immich-app/immich",
+      "slug": "immich-app-immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "archived": false,
+      "primaryLanguage": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 111580,
+      "forks": 6603,
+      "openIssues": 714,
+      "pushedAt": "2026-08-19T00:51:34Z",
+      "topics": [
+        "backup-tool",
+        "flutter",
+        "google-photos",
+        "google-photos-alternative",
+        "javascript",
+        "mobile-app",
+        "nestjs",
+        "nodejs",
+        "photo-gallery",
+        "photos",
+        "photos-management",
+        "self-hosted",
+        "svelte",
+        "sveltekit",
+        "typescript",
+        "videos"
+      ],
+      "license": "AGPL-3.0",
+      "activity": "active",
+      "starDelta7d": 1335,
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/109746326?v=4"
     },
     {
       "id": "jaywcjlove/awesome-mac",
@@ -2257,9 +2318,9 @@
       "archived": false,
       "primaryLanguage": "Swift",
       "languageColor": "#f05138",
-      "stars": 111317,
-      "forks": 8497,
-      "openIssues": 681,
+      "stars": 111389,
+      "forks": 8510,
+      "openIssues": 688,
       "pushedAt": "2026-08-17T03:21:26Z",
       "topics": [
         "app",
@@ -2284,44 +2345,8 @@
       ],
       "license": "CC0-1.0",
       "activity": "active",
-      "starDelta7d": 1260,
+      "starDelta7d": 822,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4"
-    },
-    {
-      "id": "immich-app/immich",
-      "slug": "immich-app-immich",
-      "owner": "immich-app",
-      "name": "immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "archived": false,
-      "primaryLanguage": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 111245,
-      "forks": 6580,
-      "openIssues": 742,
-      "pushedAt": "2026-08-18T00:29:26Z",
-      "topics": [
-        "backup-tool",
-        "flutter",
-        "google-photos",
-        "google-photos-alternative",
-        "javascript",
-        "mobile-app",
-        "nestjs",
-        "nodejs",
-        "photo-gallery",
-        "photos",
-        "photos-management",
-        "self-hosted",
-        "svelte",
-        "sveltekit",
-        "typescript",
-        "videos"
-      ],
-      "license": "AGPL-3.0",
-      "activity": "active",
-      "starDelta7d": 1086,
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/109746326?v=4"
     },
     {
       "id": "tauri-apps/tauri",
@@ -2332,9 +2357,9 @@
       "archived": false,
       "primaryLanguage": "Rust",
       "languageColor": "#dea584",
-      "stars": 110297,
-      "forks": 3864,
-      "openIssues": 1431,
+      "stars": 110342,
+      "forks": 3867,
+      "openIssues": 1436,
       "pushedAt": "2026-08-17T20:01:17Z",
       "topics": [
         "desktop-app",
@@ -2347,7 +2372,7 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 206,
+      "starDelta7d": 211,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4"
     },
     {
@@ -2359,9 +2384,9 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 110183,
-      "forks": 13719,
-      "openIssues": 5072,
+      "stars": 110197,
+      "forks": 13720,
+      "openIssues": 5052,
       "pushedAt": "2026-08-14T19:07:48Z",
       "topics": [
         "javascript",
@@ -2371,7 +2396,7 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 58,
+      "starDelta7d": 51,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
     {
@@ -2383,10 +2408,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 109545,
-      "forks": 12042,
+      "stars": 109665,
+      "forks": 12053,
       "openIssues": 360,
-      "pushedAt": "2026-08-18T00:25:56Z",
+      "pushedAt": "2026-08-18T17:07:08Z",
       "topics": [
         "ai-agents",
         "ai-tools",
@@ -2398,7 +2423,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 865,
+      "starDelta7d": 813,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192012301?v=4"
     },
     {
@@ -2410,10 +2435,10 @@
       "archived": false,
       "primaryLanguage": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 109202,
-      "forks": 11818,
-      "openIssues": 67,
-      "pushedAt": "2026-08-13T18:14:46Z",
+      "stars": 109196,
+      "forks": 11817,
+      "openIssues": 69,
+      "pushedAt": "2026-08-18T10:13:13Z",
       "topics": [
         "hacktoberfest",
         "http-client",
@@ -2423,7 +2448,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": -12,
+      "starDelta7d": -27,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32372333?v=4"
     },
     {
@@ -2435,8 +2460,8 @@
       "archived": false,
       "primaryLanguage": null,
       "languageColor": null,
-      "stars": 108965,
-      "forks": 12434,
+      "stars": 109184,
+      "forks": 12458,
       "openIssues": 317,
       "pushedAt": "2026-07-31T12:32:42Z",
       "topics": [
@@ -2453,7 +2478,7 @@
       ],
       "license": "MIT",
       "activity": "stable",
-      "starDelta7d": 1225,
+      "starDelta7d": 1260,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/201282378?v=4"
     },
     {
@@ -2465,9 +2490,9 @@
       "archived": false,
       "primaryLanguage": "Go",
       "languageColor": "#00add8",
-      "stars": 108841,
-      "forks": 15183,
-      "openIssues": 50,
+      "stars": 108861,
+      "forks": 15186,
+      "openIssues": 51,
       "pushedAt": "2026-08-17T16:24:14Z",
       "topics": [
         "expose",
@@ -2483,8 +2508,42 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 140,
+      "starDelta7d": 136,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7346661?v=4"
+    },
+    {
+      "id": "harry0703/MoneyPrinterTurbo",
+      "slug": "harry0703-MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "archived": false,
+      "primaryLanguage": "Python",
+      "languageColor": "#3572a5",
+      "stars": 108768,
+      "forks": 16514,
+      "openIssues": 26,
+      "pushedAt": "2026-08-19T02:50:54Z",
+      "topics": [
+        "ai-video-generator",
+        "content-creation",
+        "ffmpeg",
+        "instagram-reels",
+        "llm",
+        "python",
+        "short-video",
+        "subtitles",
+        "text-to-speech",
+        "tiktok",
+        "video-automation",
+        "video-workflow",
+        "workflow-automation",
+        "youtube-shorts"
+      ],
+      "license": "MIT",
+      "activity": "fast-rising",
+      "starDelta7d": 6099,
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4"
     },
     {
       "id": "denoland/deno",
@@ -2495,10 +2554,10 @@
       "archived": false,
       "primaryLanguage": "Rust",
       "languageColor": "#dea584",
-      "stars": 108235,
-      "forks": 6340,
-      "openIssues": 1506,
-      "pushedAt": "2026-08-17T23:18:54Z",
+      "stars": 108255,
+      "forks": 6342,
+      "openIssues": 1510,
+      "pushedAt": "2026-08-19T00:52:28Z",
       "topics": [
         "deno",
         "javascript",
@@ -2519,10 +2578,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 108103,
-      "forks": 13567,
-      "openIssues": 1280,
-      "pushedAt": "2026-08-18T03:05:29Z",
+      "stars": 108142,
+      "forks": 13585,
+      "openIssues": 1283,
+      "pushedAt": "2026-08-19T03:08:15Z",
       "topics": [
         "ai",
         "alternative",
@@ -2546,7 +2605,7 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 295,
+      "starDelta7d": 281,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54469796?v=4"
     },
     {
@@ -2558,9 +2617,9 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 107548,
-      "forks": 10443,
-      "openIssues": 981,
+      "stars": 107971,
+      "forks": 10484,
+      "openIssues": 997,
       "pushedAt": "2026-08-17T18:42:58Z",
       "topics": [
         "ai-agents",
@@ -2585,7 +2644,7 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 2512,
+      "starDelta7d": 2608,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/297659074?v=4"
     },
     {
@@ -2597,14 +2656,33 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 107476,
-      "forks": 13056,
-      "openIssues": 135,
+      "stars": 107570,
+      "forks": 13058,
+      "openIssues": 134,
       "pushedAt": "2026-07-28T20:18:29Z",
       "topics": [],
       "license": "MIT",
       "activity": "stable",
-      "starDelta7d": 435,
+      "starDelta7d": 466,
+      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    {
+      "id": "openai/codex",
+      "slug": "openai-codex",
+      "owner": "openai",
+      "name": "codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "archived": false,
+      "primaryLanguage": "Rust",
+      "languageColor": "#dea584",
+      "stars": 106707,
+      "forks": 16208,
+      "openIssues": 13069,
+      "pushedAt": "2026-08-19T03:04:10Z",
+      "topics": [],
+      "license": "Apache-2.0",
+      "activity": "active",
+      "starDelta7d": 1302,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4"
     },
     {
@@ -2616,10 +2694,10 @@
       "archived": false,
       "primaryLanguage": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 106544,
+      "stars": 106565,
       "forks": 14440,
-      "openIssues": 776,
-      "pushedAt": "2026-08-18T02:01:01Z",
+      "openIssues": 778,
+      "pushedAt": "2026-08-19T01:07:23Z",
       "topics": [
         "ai",
         "ai-agents",
@@ -2631,61 +2709,8 @@
       ],
       "license": "Apache-2.0",
       "activity": "active",
-      "starDelta7d": 96,
+      "starDelta7d": 88,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4"
-    },
-    {
-      "id": "openai/codex",
-      "slug": "openai-codex",
-      "owner": "openai",
-      "name": "codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "archived": false,
-      "primaryLanguage": "Rust",
-      "languageColor": "#dea584",
-      "stars": 106519,
-      "forks": 16182,
-      "openIssues": 12889,
-      "pushedAt": "2026-08-18T02:26:19Z",
-      "topics": [],
-      "license": "Apache-2.0",
-      "activity": "active",
-      "starDelta7d": 1322,
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4"
-    },
-    {
-      "id": "harry0703/MoneyPrinterTurbo",
-      "slug": "harry0703-MoneyPrinterTurbo",
-      "owner": "harry0703",
-      "name": "MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "archived": false,
-      "primaryLanguage": "Python",
-      "languageColor": "#3572a5",
-      "stars": 106386,
-      "forks": 16151,
-      "openIssues": 24,
-      "pushedAt": "2026-08-17T11:12:12Z",
-      "topics": [
-        "ai-video-generator",
-        "content-creation",
-        "ffmpeg",
-        "instagram-reels",
-        "llm",
-        "python",
-        "short-video",
-        "subtitles",
-        "text-to-speech",
-        "tiktok",
-        "video-automation",
-        "video-workflow",
-        "workflow-automation",
-        "youtube-shorts"
-      ],
-      "license": "MIT",
-      "activity": "fast-rising",
-      "starDelta7d": 3869,
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4"
     },
     {
       "id": "DietrichGebert/ponytail",
@@ -2696,9 +2721,9 @@
       "archived": false,
       "primaryLanguage": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 104798,
-      "forks": 5787,
-      "openIssues": 140,
+      "stars": 105477,
+      "forks": 5826,
+      "openIssues": 144,
       "pushedAt": "2026-08-07T21:44:01Z",
       "topics": [
         "agent-skills",
@@ -2713,8 +2738,8 @@
         "yagni"
       ],
       "license": "MIT",
-      "activity": "active",
-      "starDelta7d": null,
+      "activity": "fast-rising",
+      "starDelta7d": 4510,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4"
     },
     {
@@ -2726,10 +2751,10 @@
       "archived": false,
       "primaryLanguage": "C++",
       "languageColor": "#f34b7d",
-      "stars": 104621,
-      "forks": 9528,
-      "openIssues": 1737,
-      "pushedAt": "2026-08-15T17:59:05Z",
+      "stars": 104627,
+      "forks": 9532,
+      "openIssues": 1734,
+      "pushedAt": "2026-08-18T22:23:50Z",
       "topics": [
         "cmd",
         "command-line",
@@ -2745,7 +2770,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 76,
+      "starDelta7d": 59,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4"
     },
     {
@@ -2757,8 +2782,8 @@
       "archived": false,
       "primaryLanguage": "Jupyter Notebook",
       "languageColor": null,
-      "stars": 102855,
-      "forks": 15760,
+      "stars": 102957,
+      "forks": 15774,
       "openIssues": 2,
       "pushedAt": "2026-08-10T01:11:40Z",
       "topics": [
@@ -2784,7 +2809,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 533,
+      "starDelta7d": 509,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5618407?v=4"
     },
     {
@@ -2796,10 +2821,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 102443,
-      "forks": 28897,
-      "openIssues": 17058,
-      "pushedAt": "2026-08-18T03:01:55Z",
+      "stars": 102470,
+      "forks": 28910,
+      "openIssues": 17121,
+      "pushedAt": "2026-08-19T03:06:34Z",
       "topics": [
         "autograd",
         "deep-learning",
@@ -2812,7 +2837,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 142,
+      "starDelta7d": 141,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4"
     },
     {
@@ -2824,9 +2849,9 @@
       "archived": false,
       "primaryLanguage": null,
       "languageColor": null,
-      "stars": 101863,
-      "forks": 11080,
-      "openIssues": 464,
+      "stars": 101881,
+      "forks": 11079,
+      "openIssues": 465,
       "pushedAt": "2026-08-17T12:25:16Z",
       "topics": [
         "chinese",
@@ -2837,7 +2862,7 @@
       ],
       "license": "Unlicense",
       "activity": "active",
-      "starDelta7d": 164,
+      "starDelta7d": 155,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19531547?v=4"
     },
     {
@@ -2849,10 +2874,10 @@
       "archived": false,
       "primaryLanguage": "Vim Script",
       "languageColor": null,
-      "stars": 101822,
-      "forks": 7026,
-      "openIssues": 1873,
-      "pushedAt": "2026-08-18T01:54:24Z",
+      "stars": 101855,
+      "forks": 7029,
+      "openIssues": 1866,
+      "pushedAt": "2026-08-18T23:47:25Z",
       "topics": [
         "api",
         "c",
@@ -2864,7 +2889,7 @@
       ],
       "license": null,
       "activity": "active",
-      "starDelta7d": 97,
+      "starDelta7d": 98,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6471485?v=4"
     },
     {
@@ -2876,10 +2901,10 @@
       "archived": false,
       "primaryLanguage": "Python",
       "languageColor": "#3572a5",
-      "stars": 101662,
-      "forks": 9785,
-      "openIssues": 85,
-      "pushedAt": "2026-08-17T20:15:06Z",
+      "stars": 101683,
+      "forks": 9793,
+      "openIssues": 86,
+      "pushedAt": "2026-08-18T19:46:42Z",
       "topics": [
         "api",
         "async",
@@ -2904,7 +2929,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 184,
+      "starDelta7d": 173,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/156354296?v=4"
     },
     {
@@ -2931,7 +2956,7 @@
       ],
       "license": "MIT",
       "activity": "active",
-      "starDelta7d": 32,
+      "starDelta7d": 10,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139426?v=4"
     },
     {
@@ -3003,7 +3028,7 @@
       ],
       "license": null,
       "activity": "stable",
-      "starDelta7d": 711,
+      "starDelta7d": 324,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/58904235?v=4"
     },
     {
@@ -3027,7 +3052,7 @@
       ],
       "license": "MIT",
       "activity": "stable",
-      "starDelta7d": 89,
+      "starDelta7d": 38,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957346?v=4"
     },
     {
@@ -3092,31 +3117,6 @@
       "activity": "stable",
       "starDelta7d": 0,
       "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6187757?v=4"
-    },
-    {
-      "id": "sindresorhus/awesome",
-      "slug": "sindresorhus-awesome",
-      "owner": "sindresorhus",
-      "name": "awesome",
-      "description": "😎 Awesome lists about all kinds of interesting topics",
-      "archived": false,
-      "primaryLanguage": null,
-      "languageColor": null,
-      "stars": 490484,
-      "forks": 36124,
-      "openIssues": 98,
-      "pushedAt": "2026-06-30T18:21:16Z",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "lists",
-        "resources",
-        "unicorns"
-      ],
-      "license": "CC0-1.0",
-      "activity": "stable",
-      "starDelta7d": 0,
-      "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
     {
       "id": "mui/material-ui",

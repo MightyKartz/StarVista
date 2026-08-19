@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 141785,
-  "forks": 22762,
-  "openIssues": 14824,
-  "pushedAt": "2026-08-17T20:20:58Z",
+  "stars": 141915,
+  "forks": 22772,
+  "openIssues": 15026,
+  "pushedAt": "2026-08-18T20:38:54Z",
   "topics": [],
   "license": null,
   "activity": "active",
-  "starDelta7d": 820,
+  "starDelta7d": 798,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
   "languages": {
     "Python": 0.8,
@@ -29,6 +29,11 @@
     "text": "claude-code is a Python project focused on Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   "releases": [
+    {
+      "tag": "v2.1.235",
+      "name": "v2.1.235",
+      "publishedAt": "2026-08-18T20:38:54Z"
+    },
     {
       "tag": "v2.1.234",
       "name": "v2.1.234",
@@ -48,11 +53,6 @@
       "tag": "v2.1.231",
       "name": "v2.1.231",
       "publishedAt": "2026-08-13T08:38:50Z"
-    },
-    {
-      "tag": "v2.1.229",
-      "name": "v2.1.229",
-      "publishedAt": "2026-08-12T20:56:22Z"
     }
   ],
   "starHistory": [
@@ -323,6 +323,10 @@
     {
       "date": "2026-08-18",
       "stars": 141785
+    },
+    {
+      "date": "2026-08-19",
+      "stars": 141915
     }
   ],
   "links": {
