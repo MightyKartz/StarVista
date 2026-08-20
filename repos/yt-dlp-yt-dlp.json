@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 185432,
-  "forks": 15965,
-  "openIssues": 2597,
-  "pushedAt": "2026-08-19T02:48:42Z",
+  "stars": 185678,
+  "forks": 15993,
+  "openIssues": 2590,
+  "pushedAt": "2026-08-19T23:48:28Z",
   "topics": [
     "cli",
     "downloader",
@@ -22,7 +22,7 @@
   ],
   "license": "Unlicense",
   "activity": "active",
-  "starDelta7d": 1475,
+  "starDelta7d": 1553,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/79589310?v=4",
   "languages": {
     "Python": 1,
@@ -37,6 +37,11 @@
     "text": "yt-dlp is a Python project focused on A feature-rich command-line audio/video downloader. It is tagged with cli, downloader, and python."
   },
   "releases": [
+    {
+      "tag": "2026.08.19",
+      "name": "yt-dlp 2026.08.19",
+      "publishedAt": "2026-08-19T23:48:43Z"
+    },
     {
       "tag": "2026.07.04",
       "name": "yt-dlp 2026.07.04",
@@ -56,11 +61,6 @@
       "tag": "2026.03.13",
       "name": "yt-dlp 2026.03.13",
       "publishedAt": "2026-03-13T09:02:00Z"
-    },
-    {
-      "tag": "2026.03.03",
-      "name": "yt-dlp 2026.03.03",
-      "publishedAt": "2026-03-03T16:54:38Z"
     }
   ],
   "starHistory": [
@@ -335,6 +335,10 @@
     {
       "date": "2026-08-19",
       "stars": 185432
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 185678
     }
   ],
   "links": {
