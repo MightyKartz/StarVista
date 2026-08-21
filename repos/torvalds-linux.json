@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "C",
   "languageColor": "#555555",
-  "stars": 243331,
-  "forks": 64001,
+  "stars": 243448,
+  "forks": 64015,
   "openIssues": 3,
-  "pushedAt": "2026-08-20T00:54:11Z",
+  "pushedAt": "2026-08-21T03:08:26Z",
   "topics": [],
   "license": null,
   "activity": "active",
-  "starDelta7d": 672,
+  "starDelta7d": 679,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1024025?v=4",
   "languages": {
     "C": 0.98,
@@ -35,13 +35,13 @@
     "Gherkin": 0,
     "Linker Script": 0,
     "SWIG": 0,
+    "RPC": 0,
     "M4": 0,
     "Clojure": 0,
     "sed": 0,
     "MATLAB": 0,
     "CSS": 0,
-    "XS": 0,
-    "RPC": 0
+    "XS": 0
   },
   "readmeExcerpt": "Linux kernel ============",
   "summary": {
@@ -325,6 +325,10 @@
     {
       "date": "2026-08-20",
       "stars": 243331
+    },
+    {
+      "date": "2026-08-21",
+      "stars": 243448
     }
   ],
   "links": {

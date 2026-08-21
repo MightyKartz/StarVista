@@ -5,12 +5,12 @@
   "name": "TypeScript",
   "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
   "archived": false,
-  "primaryLanguage": "TypeScript",
-  "languageColor": "#3178c6",
-  "stars": 110212,
-  "forks": 13716,
-  "openIssues": 5045,
-  "pushedAt": "2026-08-14T19:07:48Z",
+  "primaryLanguage": "Go",
+  "languageColor": "#00add8",
+  "stars": 110317,
+  "forks": 13727,
+  "openIssues": 5199,
+  "pushedAt": "2026-08-20T20:41:20Z",
   "topics": [
     "javascript",
     "language",
@@ -19,19 +19,26 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 50,
+  "starDelta7d": 140,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
-    "TypeScript": 1,
-    "JavaScript": 0,
+    "Go": 0.9,
+    "TypeScript": 0.09,
+    "JavaScript": 0.01,
+    "Assembly": 0,
     "Shell": 0
   },
   "readmeExcerpt": "TypeScript is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript. Try it out at the playground, and stay up to date via our blog and Twitter account.",
   "summary": {
     "mode": "template",
-    "text": "TypeScript is a TypeScript project focused on TypeScript is a superset of JavaScript that compiles to clean JavaScript output. It is tagged with javascript, language, and typechecker."
+    "text": "TypeScript is a Go project focused on TypeScript is a superset of JavaScript that compiles to clean JavaScript output. It is tagged with javascript, language, and typechecker."
   },
   "releases": [
+    {
+      "tag": "v7.0.2",
+      "name": "TypeScript 7.0.2",
+      "publishedAt": "2026-08-20T18:09:49Z"
+    },
     {
       "tag": "v6.0.3",
       "name": "TypeScript 6.0.3",
@@ -51,11 +58,6 @@
       "tag": "v6.0-beta",
       "name": "TypeScript 6.0 Beta",
       "publishedAt": "2026-02-18T18:11:46Z"
-    },
-    {
-      "tag": "v5.9.3",
-      "name": "TypeScript 5.9.3",
-      "publishedAt": "2025-10-01T19:06:07Z"
     }
   ],
   "starHistory": [
@@ -334,6 +336,10 @@
     {
       "date": "2026-08-20",
       "stars": 110212
+    },
+    {
+      "date": "2026-08-21",
+      "stars": 110317
     }
   ],
   "links": {

@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Swift",
   "languageColor": "#f05138",
-  "stars": 111455,
-  "forks": 8522,
-  "openIssues": 694,
+  "stars": 111509,
+  "forks": 8531,
+  "openIssues": 702,
   "pushedAt": "2026-08-19T05:26:55Z",
   "topics": [
     "app",
@@ -34,7 +34,7 @@
   ],
   "license": "CC0-1.0",
   "activity": "active",
-  "starDelta7d": 621,
+  "starDelta7d": 555,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4",
   "languages": {
     "Swift": 0.99,
@@ -348,6 +348,10 @@
     {
       "date": "2026-08-20",
       "stars": 111455
+    },
+    {
+      "date": "2026-08-21",
+      "stars": 111509
     }
   ],
   "links": {
