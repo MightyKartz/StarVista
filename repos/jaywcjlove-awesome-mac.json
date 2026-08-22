@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Swift",
   "languageColor": "#f05138",
-  "stars": 111509,
-  "forks": 8531,
-  "openIssues": 702,
-  "pushedAt": "2026-08-19T05:26:55Z",
+  "stars": 111560,
+  "forks": 8539,
+  "openIssues": 707,
+  "pushedAt": "2026-08-21T08:08:53Z",
   "topics": [
     "app",
     "apple",
@@ -34,7 +34,7 @@
   ],
   "license": "CC0-1.0",
   "activity": "active",
-  "starDelta7d": 555,
+  "starDelta7d": 514,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4",
   "languages": {
     "Swift": 0.99,
@@ -352,6 +352,10 @@
     {
       "date": "2026-08-21",
       "stars": 111509
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 111560
     }
   ],
   "links": {

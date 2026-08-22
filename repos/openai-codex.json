@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 108347,
-  "forks": 16519,
-  "openIssues": 13281,
-  "pushedAt": "2026-08-21T02:35:23Z",
+  "stars": 111496,
+  "forks": 17125,
+  "openIssues": 13405,
+  "pushedAt": "2026-08-22T00:44:40Z",
   "topics": [],
   "license": "Apache-2.0",
-  "activity": "active",
-  "starDelta7d": 2535,
+  "activity": "fast-rising",
+  "starDelta7d": 5516,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
   "languages": {
     "Rust": 0.96,
@@ -40,29 +40,29 @@
   },
   "releases": [
     {
-      "tag": "rust-v0.149.0-alpha.4.1",
-      "name": "0.149.0-alpha.4.1",
-      "publishedAt": "2026-08-21T02:28:23Z"
+      "tag": "rust-v0.150.0-alpha.6",
+      "name": "0.150.0-alpha.6",
+      "publishedAt": "2026-08-21T22:42:06Z"
     },
     {
-      "tag": "rust-v0.149.0",
-      "name": "0.149.0",
-      "publishedAt": "2026-08-20T21:04:55Z"
+      "tag": "rust-v0.150.0-alpha.5",
+      "name": "0.150.0-alpha.5",
+      "publishedAt": "2026-08-21T18:12:34Z"
     },
     {
-      "tag": "rust-v0.150.0-alpha.1",
-      "name": "0.150.0-alpha.1",
-      "publishedAt": "2026-08-20T22:06:34Z"
+      "tag": "rust-v0.150.0-alpha.3",
+      "name": "0.150.0-alpha.3",
+      "publishedAt": "2026-08-21T16:43:40Z"
     },
     {
-      "tag": "rust-v0.149.0-alpha.7",
-      "name": "0.149.0-alpha.7",
-      "publishedAt": "2026-08-20T18:29:14Z"
+      "tag": "rust-v0.150.0-alpha.2",
+      "name": "0.150.0-alpha.2",
+      "publishedAt": "2026-08-21T04:24:03Z"
     },
     {
-      "tag": "rust-v0.149.0-alpha.4",
-      "name": "0.149.0-alpha.4",
-      "publishedAt": "2026-08-20T09:39:59Z"
+      "tag": "rust-v0.149.0-alpha.7.1",
+      "name": "0.149.0-alpha.7.1",
+      "publishedAt": "2026-08-21T05:21:49Z"
     }
   ],
   "starHistory": [
@@ -337,6 +337,10 @@
     {
       "date": "2026-08-21",
       "stars": 108347
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 111496
     }
   ],
   "links": {

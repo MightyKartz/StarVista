@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 233599,
-  "forks": 46818,
-  "openIssues": 34030,
-  "pushedAt": "2026-08-21T03:13:12Z",
+  "stars": 234026,
+  "forks": 47001,
+  "openIssues": 34429,
+  "pushedAt": "2026-08-22T02:56:37Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,18 +28,18 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3360,
+  "starDelta7d": 3336,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.75,
     "TypeScript": 0.21,
-    "JavaScript": 0.01,
+    "JavaScript": 0.02,
     "TeX": 0,
     "Shell": 0,
     "PowerShell": 0,
+    "Nix": 0,
     "CSS": 0,
     "Rust": 0,
-    "Nix": 0,
     "BibTeX Style": 0,
     "HTML": 0,
     "Dockerfile": 0,
@@ -55,6 +55,7 @@
     "Io": 0,
     "RenderScript": 0,
     "C++": 0,
+    "Charity": 0,
     "IL Assembly": 0,
     "LOLCODE": 0
   },
@@ -64,6 +65,11 @@
     "text": "hermes-agent is a Python project focused on The agent that grows with you. It is tagged with ai, ai-agent, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "v2026.8.19",
+      "name": "Hermes Agent v0.20.5 (v2026.8.19)",
+      "publishedAt": "2026-08-21T12:16:39Z"
+    },
     {
       "tag": "v2026.8.18",
       "name": "Hermes Agent v0.20.4 (2026.8.18)",
@@ -83,11 +89,6 @@
       "tag": "v2026.8.13",
       "name": "Hermes Agent v0.20.1 (2026.8.13)",
       "publishedAt": "2026-08-13T20:37:37Z"
-    },
-    {
-      "tag": "v2026.8.3",
-      "name": "Hermes Agent v0.20.0 (2026.8.3)",
-      "publishedAt": "2026-08-03T16:57:52Z"
     }
   ],
   "starHistory": [
@@ -370,6 +371,10 @@
     {
       "date": "2026-08-21",
       "stars": 233599
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 234026
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 119053,
-  "forks": 36540,
-  "openIssues": 1434,
-  "pushedAt": "2026-08-21T01:21:47Z",
+  "stars": 119144,
+  "forks": 36549,
+  "openIssues": 1419,
+  "pushedAt": "2026-08-22T02:46:41Z",
   "topics": [
     "javascript",
     "js",
@@ -24,7 +24,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 119,
+  "starDelta7d": 228,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9950313?v=4",
   "languages": {
     "JavaScript": 0.66,
@@ -41,8 +41,7 @@
     "R": 0,
     "PowerShell": 0,
     "Go Template": 0,
-    "TypeScript": 0,
-    "Assembly": 0
+    "TypeScript": 0
   },
   "readmeExcerpt": "Node.js is an open-source, cross-platform JavaScript runtime environment.",
   "summary": {
@@ -356,6 +355,10 @@
     {
       "date": "2026-08-21",
       "stars": 119053
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 119144
     }
   ],
   "links": {

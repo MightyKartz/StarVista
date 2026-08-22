@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 201404,
-  "forks": 60251,
-  "openIssues": 1070,
-  "pushedAt": "2026-08-21T01:26:46Z",
+  "stars": 201551,
+  "forks": 60273,
+  "openIssues": 1062,
+  "pushedAt": "2026-08-21T23:35:22Z",
   "topics": [
     "ai",
     "apis",
@@ -35,7 +35,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 858,
+  "starDelta7d": 910,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45487711?v=4",
   "languages": {
     "TypeScript": 0.92,
@@ -45,9 +45,9 @@
     "Python": 0,
     "Handlebars": 0,
     "Shell": 0,
+    "HTML": 0,
     "Dockerfile": 0,
     "MDX": 0,
-    "HTML": 0,
     "HCL": 0,
     "CSS": 0,
     "Mermaid": 0,
@@ -65,27 +65,27 @@
     {
       "tag": "stable",
       "name": "stable",
-      "publishedAt": "2026-08-20T08:21:56Z"
+      "publishedAt": "2026-08-21T10:23:34Z"
     },
     {
-      "tag": "n8n@2.35.5",
-      "name": "n8n@2.35.5",
-      "publishedAt": "2026-08-20T08:21:55Z"
+      "tag": "n8n@2.35.7",
+      "name": "n8n@2.35.7",
+      "publishedAt": "2026-08-21T10:23:33Z"
     },
     {
-      "tag": "n8n@1.123.74",
-      "name": "n8n@1.123.74",
-      "publishedAt": "2026-08-20T08:01:23Z"
+      "tag": "n8n@2.35.6",
+      "name": "n8n@2.35.6",
+      "publishedAt": "2026-08-21T07:58:47Z"
     },
     {
-      "tag": "n8n@2.36.3",
-      "name": "n8n@2.36.3",
-      "publishedAt": "2026-08-20T08:00:25Z"
+      "tag": "n8n@1.123.75",
+      "name": "n8n@1.123.75",
+      "publishedAt": "2026-08-21T07:59:01Z"
     },
     {
-      "tag": "beta",
-      "name": "beta",
-      "publishedAt": "2026-08-20T08:00:27Z"
+      "tag": "n8n@2.36.5",
+      "name": "n8n@2.36.5",
+      "publishedAt": "2026-08-21T10:30:07Z"
     }
   ],
   "starHistory": [
@@ -368,6 +368,10 @@
     {
       "date": "2026-08-21",
       "stars": 201404
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 201551
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 130543,
-  "forks": 11720,
-  "openIssues": 340,
-  "pushedAt": "2026-08-20T22:52:56Z",
+  "stars": 130699,
+  "forks": 11736,
+  "openIssues": 342,
+  "pushedAt": "2026-08-21T21:29:37Z",
   "topics": [
     "ai",
     "copilot",
@@ -22,10 +22,10 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2952,
+  "starDelta7d": 2138,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
   "languages": {
-    "Python": 0.96,
+    "Python": 0.97,
     "Shell": 0.02,
     "PowerShell": 0.02
   },
@@ -35,6 +35,16 @@
     "text": "spec-kit is a Python project focused on 💫 Toolkit to help you get started with Spec-Driven Development. It is tagged with ai, copilot, and development."
   },
   "releases": [
+    {
+      "tag": "v1.0.1",
+      "name": "Spec Kit - 1.0.1",
+      "publishedAt": "2026-08-21T19:56:33Z"
+    },
+    {
+      "tag": "v1.0.0",
+      "name": "Spec Kit - 1.0.0",
+      "publishedAt": "2026-08-21T11:40:31Z"
+    },
     {
       "tag": "v0.16.5",
       "name": "Spec Kit - 0.16.5",
@@ -49,16 +59,6 @@
       "tag": "v0.16.3",
       "name": "Spec Kit - 0.16.3",
       "publishedAt": "2026-08-13T15:37:18Z"
-    },
-    {
-      "tag": "v0.16.2",
-      "name": "Spec Kit - 0.16.2",
-      "publishedAt": "2026-08-10T19:46:01Z"
-    },
-    {
-      "tag": "v0.16.1",
-      "name": "Spec Kit - 0.16.1",
-      "publishedAt": "2026-08-07T17:30:26Z"
     }
   ],
   "starHistory": [
@@ -341,6 +341,10 @@
     {
       "date": "2026-08-21",
       "stars": 130543
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 130699
     }
   ],
   "links": {
