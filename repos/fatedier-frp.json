@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 108933,
-  "forks": 15195,
-  "openIssues": 55,
+  "stars": 108946,
+  "forks": 15199,
+  "openIssues": 56,
   "pushedAt": "2026-08-17T16:24:14Z",
   "topics": [
     "expose",
@@ -25,7 +25,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 142,
+  "starDelta7d": 135,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7346661?v=4",
   "languages": {
     "Go": 0.83,
@@ -354,6 +354,10 @@
     {
       "date": "2026-08-22",
       "stars": 108933
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 108946
     }
   ],
   "links": {

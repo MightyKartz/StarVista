@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 142312,
-  "forks": 22817,
-  "openIssues": 15045,
-  "pushedAt": "2026-08-21T19:54:23Z",
+  "stars": 142577,
+  "forks": 22839,
+  "openIssues": 15086,
+  "pushedAt": "2026-08-23T00:52:16Z",
   "topics": [],
   "license": null,
   "activity": "active",
-  "starDelta7d": 826,
+  "starDelta7d": 998,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
   "languages": {
     "Python": 0.8,
@@ -30,6 +30,16 @@
   },
   "releases": [
     {
+      "tag": "v2.1.241",
+      "name": "v2.1.241",
+      "publishedAt": "2026-08-23T00:52:16Z"
+    },
+    {
+      "tag": "v2.1.240",
+      "name": "v2.1.240",
+      "publishedAt": "2026-08-22T14:45:30Z"
+    },
+    {
       "tag": "v2.1.239",
       "name": "v2.1.239",
       "publishedAt": "2026-08-21T19:54:23Z"
@@ -43,16 +53,6 @@
       "tag": "v2.1.237",
       "name": "v2.1.237",
       "publishedAt": "2026-08-20T00:54:41Z"
-    },
-    {
-      "tag": "v2.1.236",
-      "name": "v2.1.236",
-      "publishedAt": "2026-08-19T20:02:05Z"
-    },
-    {
-      "tag": "v2.1.235",
-      "name": "v2.1.235",
-      "publishedAt": "2026-08-18T20:38:54Z"
     }
   ],
   "starHistory": [
@@ -339,6 +339,10 @@
     {
       "date": "2026-08-22",
       "stars": 142312
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 142577
     }
   ],
   "links": {
