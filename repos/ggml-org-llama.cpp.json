@@ -7,16 +7,16 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 125192,
-  "forks": 22033,
-  "openIssues": 2170,
-  "pushedAt": "2026-08-22T23:40:47Z",
+  "stars": 125319,
+  "forks": 22075,
+  "openIssues": 2194,
+  "pushedAt": "2026-08-23T23:08:38Z",
   "topics": [
     "ggml"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1145,
+  "starDelta7d": 1088,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134263123?v=4",
   "languages": {
     "C++": 0.56,
@@ -29,8 +29,8 @@
     "Metal": 0.01,
     "Jinja": 0.01,
     "GLSL": 0.01,
-    "CMake": 0.01,
     "Shell": 0.01,
+    "CMake": 0.01,
     "WGSL": 0.01,
     "Go Template": 0.01,
     "Objective-C": 0,
@@ -53,29 +53,29 @@
   },
   "releases": [
     {
-      "tag": "b10588",
-      "name": "b10588",
-      "publishedAt": "2026-08-22T23:40:48Z"
+      "tag": "b10603",
+      "name": "b10603",
+      "publishedAt": "2026-08-23T18:45:59Z"
     },
     {
-      "tag": "b10587",
-      "name": "b10587",
-      "publishedAt": "2026-08-22T20:11:39Z"
+      "tag": "b10599",
+      "name": "b10599",
+      "publishedAt": "2026-08-23T17:39:41Z"
     },
     {
-      "tag": "b10586",
-      "name": "b10586",
-      "publishedAt": "2026-08-22T16:03:58Z"
+      "tag": "b10598",
+      "name": "b10598",
+      "publishedAt": "2026-08-23T17:16:10Z"
     },
     {
-      "tag": "b10585",
-      "name": "b10585",
-      "publishedAt": "2026-08-22T15:40:46Z"
+      "tag": "b10595",
+      "name": "b10595",
+      "publishedAt": "2026-08-23T13:44:15Z"
     },
     {
-      "tag": "b10584",
-      "name": "b10584",
-      "publishedAt": "2026-08-22T15:06:15Z"
+      "tag": "b10594",
+      "name": "b10594",
+      "publishedAt": "2026-08-23T13:21:44Z"
     }
   ],
   "starHistory": [
@@ -366,6 +366,10 @@
     {
       "date": "2026-08-23",
       "stars": 125192
+    },
+    {
+      "date": "2026-08-24",
+      "stars": 125319
     }
   ],
   "links": {

@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 128866,
-  "forks": 8825,
-  "openIssues": 2360,
+  "stars": 129030,
+  "forks": 8843,
+  "openIssues": 2386,
   "pushedAt": "2026-08-21T14:55:47Z",
   "topics": [
     "ai-tools",
@@ -25,17 +25,17 @@
     "openclaw",
     "openclaw-ui",
     "opencode",
+    "pi",
     "provider-management",
     "rust",
     "skills",
     "skills-management",
     "tauri",
-    "typescript",
     "wsl-support"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1434,
+  "starDelta7d": 1385,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.65,
@@ -364,6 +364,10 @@
     {
       "date": "2026-08-23",
       "stars": 128866
+    },
+    {
+      "date": "2026-08-24",
+      "stars": 129030
     }
   ],
   "links": {

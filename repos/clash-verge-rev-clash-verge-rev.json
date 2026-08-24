@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 139503,
-  "forks": 10053,
-  "openIssues": 407,
-  "pushedAt": "2026-08-22T13:46:01Z",
+  "stars": 139708,
+  "forks": 10065,
+  "openIssues": 410,
+  "pushedAt": "2026-08-24T02:24:30Z",
   "topics": [
     "clash",
     "clash-meta",
@@ -23,7 +23,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 1475,
+  "starDelta7d": 1461,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
   "languages": {
     "TypeScript": 0.47,
@@ -354,6 +354,10 @@
     {
       "date": "2026-08-23",
       "stars": 139503
+    },
+    {
+      "date": "2026-08-24",
+      "stars": 139708
     }
   ],
   "links": {
