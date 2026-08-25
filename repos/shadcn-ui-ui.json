@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 121948,
-  "forks": 9949,
-  "openIssues": 2310,
-  "pushedAt": "2026-08-23T11:17:54Z",
+  "stars": 122025,
+  "forks": 9970,
+  "openIssues": 2319,
+  "pushedAt": "2026-08-24T19:23:00Z",
   "topics": [
     "base-ui",
     "components",
@@ -18,6 +18,8 @@
     "nextjs",
     "radix-ui",
     "react",
+    "react-aria",
+    "react-aria-components",
     "shadcn",
     "tailwindcss",
     "tanstack",
@@ -26,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 497,
+  "starDelta7d": 505,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
   "languages": {
     "TypeScript": 0.87,
@@ -362,6 +364,10 @@
     {
       "date": "2026-08-24",
       "stars": 121948
+    },
+    {
+      "date": "2026-08-25",
+      "stars": 122025
     }
   ],
   "links": {

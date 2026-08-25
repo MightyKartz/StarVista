@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 108277,
-  "forks": 6398,
-  "openIssues": 2,
-  "pushedAt": "2026-07-01T09:14:27Z",
+  "stars": 108974,
+  "forks": 6416,
+  "openIssues": 3,
+  "pushedAt": "2026-08-24T09:14:23Z",
   "topics": [
     "awesome",
     "computer-science",
@@ -21,8 +21,8 @@
     "theory"
   ],
   "license": null,
-  "activity": "stable",
-  "starDelta7d": 0,
+  "activity": "active",
+  "starDelta7d": 697,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6187757?v=4",
   "languages": {
     "Shell": 1
@@ -325,6 +325,10 @@
     {
       "date": "2026-08-24",
       "stars": 108277
+    },
+    {
+      "date": "2026-08-25",
+      "stars": 108974
     }
   ],
   "links": {

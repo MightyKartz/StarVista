@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Jupyter Notebook",
   "languageColor": null,
-  "stars": 103575,
-  "forks": 15845,
+  "stars": 103694,
+  "forks": 15869,
   "openIssues": 3,
-  "pushedAt": "2026-08-10T01:11:40Z",
+  "pushedAt": "2026-08-24T13:50:37Z",
   "topics": [
     "ai",
     "artificial-intelligence",
@@ -33,8 +33,8 @@
     "transformers"
   ],
   "license": null,
-  "activity": "stable",
-  "starDelta7d": 772,
+  "activity": "active",
+  "starDelta7d": 839,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5618407?v=4",
   "languages": {
     "Jupyter Notebook": 0.73,
@@ -339,6 +339,10 @@
     {
       "date": "2026-08-24",
       "stars": 103575
+    },
+    {
+      "date": "2026-08-25",
+      "stars": 103694
     }
   ],
   "links": {
