@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 387455,
-  "forks": 81348,
-  "openIssues": 5917,
-  "pushedAt": "2026-08-25T03:09:49Z",
+  "stars": 387624,
+  "forks": 81377,
+  "openIssues": 5909,
+  "pushedAt": "2026-08-26T03:17:37Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 883,
+  "starDelta7d": 934,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.9,
@@ -369,6 +369,10 @@
     {
       "date": "2026-08-25",
       "stars": 387455
+    },
+    {
+      "date": "2026-08-26",
+      "stars": 387624
     }
   ],
   "links": {

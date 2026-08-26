@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 121729,
-  "forks": 18642,
-  "openIssues": 145,
-  "pushedAt": "2026-08-25T01:19:37Z",
+  "stars": 121829,
+  "forks": 18651,
+  "openIssues": 147,
+  "pushedAt": "2026-08-25T11:53:56Z",
   "topics": [
     "android",
     "anydesk",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 619,
+  "starDelta7d": 618,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
   "languages": {
     "Rust": 0.68,
@@ -54,7 +54,7 @@
     "Dockerfile": 0,
     "Objective-C": 0
   },
-  "readmeExcerpt": "Build • Docker • Structure • Snapshot [ Українська ] | [ česky ] | [ 中文 ] | [ Magyar ] | [ Español ] | [ فارسی ] | [ Français ] | [ Deutsch ] | [ Polski ] | [ Indonesian ] | [ Suomi ] | [ മലയാളം ] | [ 日本語 ] | [ Nederlands ] | [ Italiano ] | [ Русский ] | [ Português (Brasil) ] | [ Esperanto ] | [ 한국어 ] | [ العربي ] | [ Tiếng Việt ] | [ Dansk ] | [ Ελληνικά ] | [ Türkçe ] | [ Norsk ] | [ Română ] We need your help to translate this README, RustDesk UI and RustDesk Doc to your native language",
+  "readmeExcerpt": "Build • Docker • Structure • Screenshots [ Українська ] | [ česky ] | [ 中文 ] | [ Magyar ] | [ Español ] | [ فارسی ] | [ Français ] | [ Deutsch ] | [ Polski ] | [ Indonesian ] | [ Suomi ] | [ മലയാളം ] | [ 日本語 ] | [ Nederlands ] | [ Italiano ] | [ Русский ] | [ Português (Brasil) ] | [ Esperanto ] | [ 한국어 ] | [ العربي ] | [ Tiếng Việt ] | [ Dansk ] | [ Ελληνικά ] | [ Türkçe ] | [ Norsk ] | [ Română ] We need your help to translate this README, RustDesk UI and RustDesk Doc to your native language",
   "summary": {
     "mode": "template",
     "text": "rustdesk is a Rust project focused on An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. It is tagged with android, anydesk, and dart."
@@ -382,6 +382,10 @@
     {
       "date": "2026-08-25",
       "stars": 121729
+    },
+    {
+      "date": "2026-08-26",
+      "stars": 121829
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 153408,
-  "forks": 24240,
-  "openIssues": 968,
-  "pushedAt": "2026-08-25T03:09:13Z",
+  "stars": 153518,
+  "forks": 24259,
+  "openIssues": 944,
+  "pushedAt": "2026-08-26T03:16:27Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -34,7 +34,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 671,
+  "starDelta7d": 664,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127165244?v=4",
   "languages": {
     "TypeScript": 0.5,
@@ -58,8 +58,13 @@
   },
   "releases": [
     {
+      "tag": "1.17.0",
+      "name": "v1.17.0",
+      "publishedAt": "2026-08-25T11:28:25Z"
+    },
+    {
       "tag": "1.16.1",
-      "name": "Release v1.16.1 - Bug Fixes and Security Enhancements",
+      "name": "v1.16.1 - Bug Fixes and Security Enhancements",
       "publishedAt": "2026-07-28T03:43:51Z"
     },
     {
@@ -76,11 +81,6 @@
       "tag": "1.15.0",
       "name": "1.15.0",
       "publishedAt": "2026-06-25T13:16:14Z"
-    },
-    {
-      "tag": "1.14.2",
-      "name": "v1.14.2 - Security fixes, agent groundwork, workflow reliability, and deployment updates",
-      "publishedAt": "2026-05-19T05:34:25Z"
     }
   ],
   "starHistory": [
@@ -379,6 +379,10 @@
     {
       "date": "2026-08-25",
       "stars": 153408
+    },
+    {
+      "date": "2026-08-26",
+      "stars": 153518
     }
   ],
   "links": {

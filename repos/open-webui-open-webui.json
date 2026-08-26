@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 149816,
-  "forks": 21853,
-  "openIssues": 232,
-  "pushedAt": "2026-08-25T01:15:56Z",
+  "stars": 149924,
+  "forks": 21871,
+  "openIssues": 193,
+  "pushedAt": "2026-08-26T01:45:36Z",
   "topics": [
     "ai",
     "llm",
@@ -30,12 +30,12 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 750,
+  "starDelta7d": 746,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/158137808?v=4",
   "languages": {
     "Python": 0.37,
-    "Svelte": 0.33,
-    "JavaScript": 0.22,
+    "Svelte": 0.34,
+    "JavaScript": 0.21,
     "TypeScript": 0.05,
     "CSS": 0.02,
     "Shell": 0,
@@ -51,6 +51,11 @@
     "text": "open-webui is a Python project focused on User-friendly AI Interface (Supports Ollama, OpenAI API, ...). It is tagged with ai, llm, and llm-ui."
   },
   "releases": [
+    {
+      "tag": "v0.11.1",
+      "name": "v0.11.1",
+      "publishedAt": "2026-08-25T21:17:57Z"
+    },
     {
       "tag": "v0.11.0",
       "name": "v0.11.0",
@@ -70,11 +75,6 @@
       "tag": "v0.10.0",
       "name": "v0.10.0",
       "publishedAt": "2026-06-29T19:17:48Z"
-    },
-    {
-      "tag": "v0.9.6",
-      "name": "v0.9.6",
-      "publishedAt": "2026-06-01T21:57:03Z"
     }
   ],
   "starHistory": [
@@ -373,6 +373,10 @@
     {
       "date": "2026-08-25",
       "stars": 149816
+    },
+    {
+      "date": "2026-08-26",
+      "stars": 149924
     }
   ],
   "links": {

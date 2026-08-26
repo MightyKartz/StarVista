@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 142135,
-  "forks": 16772,
-  "openIssues": 34,
+  "stars": 142167,
+  "forks": 16773,
+  "openIssues": 35,
   "pushedAt": "2026-08-07T12:06:42Z",
   "topics": [
     "algorithm",
@@ -25,7 +25,7 @@
   ],
   "license": "MIT",
   "activity": "stable",
-  "starDelta7d": 200,
+  "starDelta7d": 195,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1315101?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -147,6 +147,10 @@
     {
       "date": "2026-08-25",
       "stars": 142135
+    },
+    {
+      "date": "2026-08-26",
+      "stars": 142167
     }
   ],
   "links": {
