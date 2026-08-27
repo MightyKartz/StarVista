@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 158038,
-  "forks": 46171,
-  "openIssues": 20,
-  "pushedAt": "2026-08-24T09:08:16Z",
+  "stars": 158067,
+  "forks": 46167,
+  "openIssues": 18,
+  "pushedAt": "2026-08-26T13:59:47Z",
   "topics": [
     "agent",
     "ai",
@@ -28,7 +28,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 167,
+  "starDelta7d": 173,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/29880145?v=4",
   "languages": {
     "JavaScript": 1
@@ -339,6 +339,10 @@
     {
       "date": "2026-08-26",
       "stars": 158038
+    },
+    {
+      "date": "2026-08-27",
+      "stars": 158067
     }
   ],
   "links": {

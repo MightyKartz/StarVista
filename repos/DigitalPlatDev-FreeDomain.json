@@ -7,8 +7,8 @@
   "archived": false,
   "primaryLanguage": "Markdown",
   "languageColor": null,
-  "stars": 195699,
-  "forks": 4234,
+  "stars": 195957,
+  "forks": 4244,
   "openIssues": 38,
   "pushedAt": "2026-08-12T10:36:46Z",
   "topics": [
@@ -29,8 +29,8 @@
     "nameserver"
   ],
   "license": "AGPL-3.0",
-  "activity": "active",
-  "starDelta7d": 1500,
+  "activity": "stable",
+  "starDelta7d": 1580,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126394654?v=4",
   "languages": {
     "Markdown": 1
@@ -205,6 +205,10 @@
     {
       "date": "2026-08-26",
       "stars": 195699
+    },
+    {
+      "date": "2026-08-27",
+      "stars": 195957
     }
   ],
   "links": {

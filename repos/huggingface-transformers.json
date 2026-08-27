@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 164443,
-  "forks": 34364,
-  "openIssues": 2414,
-  "pushedAt": "2026-08-26T03:03:55Z",
+  "stars": 164498,
+  "forks": 34381,
+  "openIssues": 2408,
+  "pushedAt": "2026-08-27T12:43:29Z",
   "topics": [
     "audio",
     "deep-learning",
@@ -34,7 +34,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 212,
+  "starDelta7d": 229,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
   "languages": {
     "Python": 1,
@@ -50,6 +50,16 @@
   },
   "releases": [
     {
+      "tag": "v5.16.1",
+      "name": "Release v5.16.1",
+      "publishedAt": "2026-08-26T14:50:01Z"
+    },
+    {
+      "tag": "v5.16.0",
+      "name": "Release: v5.16.0",
+      "publishedAt": "2026-08-26T12:35:15Z"
+    },
+    {
       "tag": "v5.15.1",
       "name": "Patch release: v5.15.1",
       "publishedAt": "2026-08-19T10:50:47Z"
@@ -63,16 +73,6 @@
       "tag": "v5.14.1",
       "name": "Patch release: v5.14.1",
       "publishedAt": "2026-07-16T09:41:36Z"
-    },
-    {
-      "tag": "v5.14.0",
-      "name": "Release v5.14.0",
-      "publishedAt": "2026-07-15T19:02:19Z"
-    },
-    {
-      "tag": "v5.13.1",
-      "name": "Patch release v5.13.1",
-      "publishedAt": "2026-07-11T09:15:36Z"
     }
   ],
   "starHistory": [
@@ -375,6 +375,10 @@
     {
       "date": "2026-08-26",
       "stars": 164443
+    },
+    {
+      "date": "2026-08-27",
+      "stars": 164498
     }
   ],
   "links": {

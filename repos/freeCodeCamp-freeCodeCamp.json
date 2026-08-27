@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 454609,
-  "forks": 46049,
-  "openIssues": 242,
-  "pushedAt": "2026-08-25T09:47:05Z",
+  "stars": 454671,
+  "forks": 46055,
+  "openIssues": 247,
+  "pushedAt": "2026-08-27T11:04:50Z",
   "topics": [
     "careers",
     "certification",
@@ -30,15 +30,15 @@
   ],
   "license": "BSD-3-Clause",
   "activity": "active",
-  "starDelta7d": 315,
+  "starDelta7d": 331,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9892522?v=4",
   "languages": {
     "TypeScript": 0.62,
     "JavaScript": 0.34,
     "CSS": 0.04,
     "Dockerfile": 0,
-    "HCL": 0,
     "Shell": 0,
+    "HCL": 0,
     "HTML": 0
   },
   "readmeExcerpt": "freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a donor-supported 501(c)(3) charity to help millions of busy adults transition into tech. Our community has already helped more than 100,000 people get their first developer job.",
@@ -347,6 +347,10 @@
     {
       "date": "2026-08-26",
       "stars": 454609
+    },
+    {
+      "date": "2026-08-27",
+      "stars": 454671
     }
   ],
   "links": {

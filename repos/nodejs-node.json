@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 119566,
-  "forks": 36609,
-  "openIssues": 1386,
-  "pushedAt": "2026-08-26T02:28:51Z",
+  "stars": 119640,
+  "forks": 36616,
+  "openIssues": 1225,
+  "pushedAt": "2026-08-27T12:25:16Z",
   "topics": [
     "javascript",
     "js",
@@ -24,7 +24,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 554,
+  "starDelta7d": 620,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9950313?v=4",
   "languages": {
     "JavaScript": 0.66,
@@ -50,6 +50,21 @@
   },
   "releases": [
     {
+      "tag": "v26.8.1",
+      "name": "2026-08-26, Version 26.8.1 (Current), @aduh95",
+      "publishedAt": "2026-08-26T22:10:37Z"
+    },
+    {
+      "tag": "v26.8.0",
+      "name": "2026-08-26, Version 26.8.0 (Current), @aduh95",
+      "publishedAt": "2026-08-26T14:28:49Z"
+    },
+    {
+      "tag": "v24.20.0",
+      "name": "2026-08-26, Version 24.20.0 'Krypton' (LTS), @aduh95",
+      "publishedAt": "2026-08-26T14:28:32Z"
+    },
+    {
       "tag": "v26.7.0",
       "name": "2026-08-05, Version 26.7.0 (Current), @aduh95",
       "publishedAt": "2026-08-05T16:25:04Z"
@@ -58,21 +73,6 @@
       "tag": "v26.6.0",
       "name": "2026-08-03, Version 26.6.0 (Current), @aduh95",
       "publishedAt": "2026-08-03T13:50:21Z"
-    },
-    {
-      "tag": "v24.19.0",
-      "name": "2026-08-03, Version 24.19.0 'Krypton' (LTS), @aduh95",
-      "publishedAt": "2026-08-03T13:48:33Z"
-    },
-    {
-      "tag": "v26.5.1",
-      "name": "2026-07-29, Version 26.5.1 (Current), @RafaelGSS",
-      "publishedAt": "2026-07-29T14:02:10Z"
-    },
-    {
-      "tag": "v24.18.1",
-      "name": "2026-07-29, Version 24.18.1 'Krypton' (LTS), @juanarbol",
-      "publishedAt": "2026-07-29T16:17:25Z"
     }
   ],
   "starHistory": [
@@ -375,6 +375,10 @@
     {
       "date": "2026-08-26",
       "stars": 119566
+    },
+    {
+      "date": "2026-08-27",
+      "stars": 119640
     }
   ],
   "links": {

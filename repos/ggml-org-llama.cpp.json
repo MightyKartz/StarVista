@@ -7,16 +7,16 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 125657,
-  "forks": 22172,
-  "openIssues": 2217,
-  "pushedAt": "2026-08-26T02:52:39Z",
+  "stars": 125892,
+  "forks": 22258,
+  "openIssues": 2229,
+  "pushedAt": "2026-08-27T12:41:24Z",
   "topics": [
     "ggml"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1083,
+  "starDelta7d": 1139,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134263123?v=4",
   "languages": {
     "C++": 0.56,
@@ -26,11 +26,11 @@
     "TypeScript": 0.04,
     "Svelte": 0.02,
     "HTML": 0.02,
-    "Metal": 0.01,
+    "Metal": 0.02,
     "Jinja": 0.01,
     "GLSL": 0.01,
-    "Shell": 0.01,
     "CMake": 0.01,
+    "Shell": 0.01,
     "WGSL": 0.01,
     "Go Template": 0.01,
     "Objective-C": 0,
@@ -38,7 +38,6 @@
     "JavaScript": 0,
     "Nix": 0,
     "CSS": 0,
-    "PowerShell": 0,
     "Linker Script": 0,
     "MDX": 0,
     "Makefile": 0,
@@ -53,29 +52,29 @@
   },
   "releases": [
     {
-      "tag": "v0.3.0",
-      "name": "v0.3.0",
-      "publishedAt": "2026-08-25T10:22:58Z"
+      "tag": "b10649",
+      "name": "b10649",
+      "publishedAt": "2026-08-27T12:28:28Z"
     },
     {
-      "tag": "b10630",
-      "name": "b10630",
-      "publishedAt": "2026-08-25T21:37:00Z"
+      "tag": "b10648",
+      "name": "b10648",
+      "publishedAt": "2026-08-27T11:59:24Z"
     },
     {
-      "tag": "b10629",
-      "name": "b10629",
-      "publishedAt": "2026-08-25T20:24:28Z"
+      "tag": "b10647",
+      "name": "b10647",
+      "publishedAt": "2026-08-27T11:25:52Z"
     },
     {
-      "tag": "b10628",
-      "name": "b10628",
-      "publishedAt": "2026-08-25T18:06:50Z"
+      "tag": "b10646",
+      "name": "b10646",
+      "publishedAt": "2026-08-27T10:43:44Z"
     },
     {
-      "tag": "b10625",
-      "name": "b10625",
-      "publishedAt": "2026-08-25T17:26:21Z"
+      "tag": "b10645",
+      "name": "b10645",
+      "publishedAt": "2026-08-27T10:02:19Z"
     }
   ],
   "starHistory": [
@@ -378,6 +377,10 @@
     {
       "date": "2026-08-26",
       "stars": 125657
+    },
+    {
+      "date": "2026-08-27",
+      "stars": 125892
     }
   ],
   "links": {

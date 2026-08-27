@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 182256,
-  "forks": 13510,
-  "openIssues": 217,
-  "pushedAt": "2026-08-25T00:32:48Z",
+  "stars": 182405,
+  "forks": 13519,
+  "openIssues": 219,
+  "pushedAt": "2026-08-27T09:04:15Z",
   "topics": [
     "awesome",
     "awesome-list",
@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 809,
+  "starDelta7d": 802,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31996?v=4",
   "languages": {
     "Go": 1
@@ -332,6 +332,10 @@
     {
       "date": "2026-08-26",
       "stars": 182256
+    },
+    {
+      "date": "2026-08-27",
+      "stars": 182405
     }
   ],
   "links": {

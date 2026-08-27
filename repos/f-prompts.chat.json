@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "HTML",
   "languageColor": null,
-  "stars": 167905,
-  "forks": 21667,
+  "stars": 168052,
+  "forks": 21678,
   "openIssues": 68,
-  "pushedAt": "2026-08-25T03:21:48Z",
+  "pushedAt": "2026-08-27T10:04:29Z",
   "topics": [
     "ai",
     "artificial-intelligence",
@@ -33,7 +33,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 437,
+  "starDelta7d": 457,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/196477?v=4",
   "languages": {
     "HTML": 0.48,
@@ -42,7 +42,8 @@
     "JavaScript": 0,
     "Shell": 0,
     "CSS": 0,
-    "Dockerfile": 0
+    "Dockerfile": 0,
+    "PLpgSQL": 0
   },
   "readmeExcerpt": "prompts.chat",
   "summary": {
@@ -350,6 +351,10 @@
     {
       "date": "2026-08-26",
       "stars": 167905
+    },
+    {
+      "date": "2026-08-27",
+      "stars": 168052
     }
   ],
   "links": {
