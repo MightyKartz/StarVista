@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 110728,
-  "forks": 13766,
-  "openIssues": 5193,
-  "pushedAt": "2026-08-26T23:49:27Z",
+  "stars": 110745,
+  "forks": 13770,
+  "openIssues": 5186,
+  "pushedAt": "2026-08-27T23:48:59Z",
   "topics": [
     "javascript",
     "language",
@@ -19,11 +19,11 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 516,
+  "starDelta7d": 428,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
-    "Go": 0.9,
-    "TypeScript": 0.1,
+    "Go": 0.89,
+    "TypeScript": 0.11,
     "JavaScript": 0,
     "Assembly": 0,
     "Shell": 0
@@ -364,6 +364,10 @@
     {
       "date": "2026-08-27",
       "stars": 110728
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 110745
     }
   ],
   "links": {

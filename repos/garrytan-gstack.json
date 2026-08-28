@@ -7,20 +7,20 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 129975,
-  "forks": 19553,
-  "openIssues": 800,
-  "pushedAt": "2026-08-26T17:56:45Z",
+  "stars": 130166,
+  "forks": 19574,
+  "openIssues": 808,
+  "pushedAt": "2026-08-28T05:09:01Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1215,
+  "starDelta7d": 1229,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19957?v=4",
   "languages": {
-    "TypeScript": 0.8,
+    "TypeScript": 0.81,
     "Go Template": 0.09,
-    "Shell": 0.06,
-    "JavaScript": 0.03,
+    "Shell": 0.07,
+    "JavaScript": 0.02,
     "CSS": 0,
     "Swift": 0,
     "HTML": 0,
@@ -336,6 +336,10 @@
     {
       "date": "2026-08-27",
       "stars": 129975
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 130166
     }
   ],
   "links": {

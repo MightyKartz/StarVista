@@ -1,0 +1,82 @@
+{
+  "id": "JuliusBrussee/caveman",
+  "slug": "JuliusBrussee-caveman",
+  "owner": "JuliusBrussee",
+  "name": "caveman",
+  "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+  "archived": false,
+  "primaryLanguage": "Go",
+  "languageColor": "#00add8",
+  "stars": 101558,
+  "forks": 5899,
+  "openIssues": 378,
+  "pushedAt": "2026-08-27T13:59:59Z",
+  "topics": [
+    "ai",
+    "anthropic",
+    "caveman",
+    "claude",
+    "claude-code",
+    "llm",
+    "meme",
+    "prompt-engineering",
+    "skill",
+    "tokens"
+  ],
+  "license": null,
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
+  "languages": {
+    "Go": 0.5,
+    "JavaScript": 0.25,
+    "TypeScript": 0.18,
+    "Python": 0.06,
+    "Shell": 0,
+    "PowerShell": 0,
+    "HTML": 0,
+    "CSS": 0
+  },
+  "readmeExcerpt": "why use many token when few do trick",
+  "summary": {
+    "mode": "template",
+    "text": "caveman is a Go project focused on 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman. It is tagged with ai, anthropic, and caveman."
+  },
+  "releases": [
+    {
+      "tag": "v2.3.1",
+      "name": "v2.3.1",
+      "publishedAt": "2026-08-23T09:01:48Z"
+    },
+    {
+      "tag": "v2.3.0",
+      "name": "v2.3.0",
+      "publishedAt": "2026-08-23T08:55:50Z"
+    },
+    {
+      "tag": "bin-v1.1.3",
+      "name": "bin-v1.1.3",
+      "publishedAt": "2026-08-23T08:51:23Z"
+    },
+    {
+      "tag": "v2.2.0",
+      "name": "v2.2.0",
+      "publishedAt": "2026-08-20T11:20:50Z"
+    },
+    {
+      "tag": "bin-v1.1.2",
+      "name": "bin-v1.1.2",
+      "publishedAt": "2026-08-20T11:16:04Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-08-28",
+      "stars": 101558
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/JuliusBrussee/caveman",
+    "homepage": "https://docs.caveman.so/docs/quickstart"
+  }
+}

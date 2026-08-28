@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 129713,
-  "forks": 8899,
-  "openIssues": 2495,
-  "pushedAt": "2026-08-27T07:30:59Z",
+  "stars": 129884,
+  "forks": 8911,
+  "openIssues": 2515,
+  "pushedAt": "2026-08-28T00:29:46Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1381,
+  "starDelta7d": 1339,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.65,
@@ -50,6 +50,11 @@
     "text": "cc-switch is a Rust project focused on A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io. It is tagged with ai-tools, claude-code, and codex."
   },
   "releases": [
+    {
+      "tag": "v3.20.1",
+      "name": "CC Switch v3.20.1",
+      "publishedAt": "2026-08-28T00:43:03Z"
+    },
     {
       "tag": "v3.20.0",
       "name": "CC Switch v3.20.0",
@@ -69,11 +74,6 @@
       "tag": "v3.19.0",
       "name": "CC Switch v3.19.0",
       "publishedAt": "2026-07-30T04:27:46Z"
-    },
-    {
-      "tag": "v3.18.0",
-      "name": "CC Switch v3.18.0",
-      "publishedAt": "2026-07-21T15:34:53Z"
     }
   ],
   "starHistory": [
@@ -380,6 +380,10 @@
     {
       "date": "2026-08-27",
       "stars": 129713
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 129884
     }
   ],
   "links": {

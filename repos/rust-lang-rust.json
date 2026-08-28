@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 116282,
-  "forks": 15466,
-  "openIssues": 12623,
-  "pushedAt": "2026-08-27T10:27:24Z",
+  "stars": 116313,
+  "forks": 15473,
+  "openIssues": 12618,
+  "pushedAt": "2026-08-28T13:58:31Z",
   "topics": [
     "compiler",
     "language",
@@ -18,7 +18,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 671,
+  "starDelta7d": 654,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5430905?v=4",
   "languages": {
     "Rust": 0.9,
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-27",
       "stars": 116282
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 116313
     }
   ],
   "links": {

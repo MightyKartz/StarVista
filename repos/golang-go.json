@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 136538,
-  "forks": 19306,
-  "openIssues": 10085,
-  "pushedAt": "2026-08-27T04:31:00Z",
+  "stars": 136553,
+  "forks": 19312,
+  "openIssues": 10094,
+  "pushedAt": "2026-08-28T13:14:29Z",
   "topics": [
     "go",
     "golang",
@@ -19,7 +19,7 @@
   ],
   "license": "BSD-3-Clause",
   "activity": "active",
-  "starDelta7d": 624,
+  "starDelta7d": 619,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4314092?v=4",
   "languages": {
     "Go": 0.9,
@@ -345,6 +345,10 @@
     {
       "date": "2026-08-27",
       "stars": 136538
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 136553
     }
   ],
   "links": {
