@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 136897,
-  "forks": 7919,
-  "openIssues": 21,
+  "stars": 136949,
+  "forks": 7926,
+  "openIssues": 42,
   "pushedAt": "2026-08-28T02:44:49Z",
   "topics": [
     "iptv",
@@ -20,7 +20,7 @@
   ],
   "license": "Unlicense",
   "activity": "active",
-  "starDelta7d": 653,
+  "starDelta7d": 639,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/55937028?v=4",
   "languages": {
     "TypeScript": 0.57,
@@ -340,6 +340,10 @@
     {
       "date": "2026-08-28",
       "stars": 136897
+    },
+    {
+      "date": "2026-08-29",
+      "stars": 136949
     }
   ],
   "links": {

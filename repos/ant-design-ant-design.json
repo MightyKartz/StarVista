@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 99076,
-  "forks": 54692,
-  "openIssues": 1103,
-  "pushedAt": "2026-08-14T03:12:14Z",
+  "stars": 99262,
+  "forks": 54698,
+  "openIssues": 1107,
+  "pushedAt": "2026-08-28T15:21:33Z",
   "topics": [
     "ant-design",
     "antd",
@@ -21,8 +21,8 @@
     "ui-library"
   ],
   "license": "MIT",
-  "activity": "stable",
-  "starDelta7d": 0,
+  "activity": "active",
+  "starDelta7d": 186,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/12101536?v=4",
   "languages": {
     "TypeScript": 0.99,
@@ -39,6 +39,16 @@
   },
   "releases": [
     {
+      "tag": "6.6.2",
+      "name": "6.6.2",
+      "publishedAt": "2026-08-28T05:53:19Z"
+    },
+    {
+      "tag": "6.6.1",
+      "name": "6.6.1",
+      "publishedAt": "2026-08-17T07:58:24Z"
+    },
+    {
       "tag": "6.6.0",
       "name": "6.6.0",
       "publishedAt": "2026-08-10T09:00:04Z"
@@ -52,16 +62,6 @@
       "tag": "6.5.3",
       "name": "6.5.3",
       "publishedAt": "2026-07-31T07:52:58Z"
-    },
-    {
-      "tag": "6.5.2",
-      "name": "6.5.2",
-      "publishedAt": "2026-07-24T04:23:43Z"
-    },
-    {
-      "tag": "6.5.1",
-      "name": "6.5.1",
-      "publishedAt": "2026-07-13T12:51:00Z"
     }
   ],
   "starHistory": [
@@ -372,6 +372,10 @@
     {
       "date": "2026-08-28",
       "stars": 99076
+    },
+    {
+      "date": "2026-08-29",
+      "stars": 99262
     }
   ],
   "links": {

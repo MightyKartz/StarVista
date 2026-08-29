@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 387908,
-  "forks": 81445,
-  "openIssues": 5724,
-  "pushedAt": "2026-08-28T14:17:52Z",
+  "stars": 387955,
+  "forks": 81465,
+  "openIssues": 5719,
+  "pushedAt": "2026-08-29T09:00:55Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 976,
+  "starDelta7d": 905,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -36,18 +36,23 @@
     "Go": 0,
     "Ruby": 0,
     "PowerShell": 0,
-    "Dockerfile": 0,
     "HTML": 0,
+    "Dockerfile": 0,
     "Objective-C": 0,
     "Lobster": 0,
     "C": 0
   },
-  "readmeExcerpt": "OpenClaw is a personal AI assistant that runs on your devices and meets you in the channels you already use. It is designed for a single operator and connects models, tools, messaging channels, and optional companion apps through one Gateway.",
+  "readmeExcerpt": "OpenClaw is an AI assistant that runs on your devices and meets you in the channels you already use. It connects models, tools, messaging channels, and optional companion apps through one Gateway, for a single operator or for a team whose members trust each other: the same gateway runs as a personal assistant on one laptop or as a shared team deployment, and configuration is the only difference. The architecture case — trusted gateway, untrusted execution, deterministic policy — is in Why Ope...",
   "summary": {
     "mode": "template",
     "text": "openclaw is a TypeScript project focused on Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 . It is tagged with ai, assistant, and crustacean."
   },
   "releases": [
+    {
+      "tag": "v2026.9.1-beta.1",
+      "name": "openclaw 2026.9.1-beta.1",
+      "publishedAt": "2026-08-28T20:43:46Z"
+    },
     {
       "tag": "v2026.8.1-beta.3",
       "name": "OpenClaw 2026.8.1-beta.3",
@@ -67,11 +72,6 @@
       "tag": "v2026.7.1-1",
       "name": "openclaw 2026.7.1-1",
       "publishedAt": "2026-08-04T00:41:25Z"
-    },
-    {
-      "tag": "v2026.6.34",
-      "name": "openclaw 2026.6.34",
-      "publishedAt": "2026-08-08T07:22:14Z"
     }
   ],
   "starHistory": [
@@ -382,6 +382,10 @@
     {
       "date": "2026-08-28",
       "stars": 387908
+    },
+    {
+      "date": "2026-08-29",
+      "stars": 387955
     }
   ],
   "links": {

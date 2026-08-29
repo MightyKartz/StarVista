@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 145184,
-  "forks": 24225,
-  "openIssues": 426,
-  "pushedAt": "2026-08-28T11:55:00Z",
+  "stars": 145223,
+  "forks": 24236,
+  "openIssues": 432,
+  "pushedAt": "2026-08-29T08:14:11Z",
   "topics": [
     "agents",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 514,
+  "starDelta7d": 482,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
   "languages": {
     "Python": 0.99,
@@ -52,6 +52,11 @@
     "text": "langchain is a Python project focused on The agent engineering platform. It is tagged with agents, ai, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "langchain==1.4.0a2",
+      "name": "langchain==1.4.0a2",
+      "publishedAt": "2026-08-28T16:19:22Z"
+    },
     {
       "tag": "langchain==1.4.0a1",
       "name": "langchain==1.4.0a1",
@@ -71,11 +76,6 @@
       "tag": "langchain-core==1.6.1",
       "name": "langchain-core==1.6.1",
       "publishedAt": "2026-08-27T19:31:34Z"
-    },
-    {
-      "tag": "langchain-anthropic==1.7.0",
-      "name": "langchain-anthropic==1.7.0",
-      "publishedAt": "2026-08-27T15:24:16Z"
     }
   ],
   "starHistory": [
@@ -386,6 +386,10 @@
     {
       "date": "2026-08-28",
       "stars": 145184
+    },
+    {
+      "date": "2026-08-29",
+      "stars": 145223
     }
   ],
   "links": {

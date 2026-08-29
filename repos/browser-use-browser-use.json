@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 111545,
-  "forks": 12238,
-  "openIssues": 389,
-  "pushedAt": "2026-08-28T03:42:29Z",
+  "stars": 111607,
+  "forks": 12249,
+  "openIssues": 387,
+  "pushedAt": "2026-08-29T02:08:30Z",
   "topics": [
     "ai-agents",
     "ai-tools",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1640,
+  "starDelta7d": 1583,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192012301?v=4",
   "languages": {
     "Python": 0.99,
@@ -370,6 +370,10 @@
     {
       "date": "2026-08-28",
       "stars": 111545
+    },
+    {
+      "date": "2026-08-29",
+      "stars": 111607
     }
   ],
   "links": {

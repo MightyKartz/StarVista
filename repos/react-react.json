@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 248001,
-  "forks": 51255,
-  "openIssues": 1279,
+  "stars": 248020,
+  "forks": 51260,
+  "openIssues": 1282,
   "pushedAt": "2026-08-28T11:10:40Z",
   "topics": [
     "declarative",
@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 553,
+  "starDelta7d": 525,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102812?v=4",
   "languages": {
     "JavaScript": 0.5,
@@ -372,6 +372,10 @@
     {
       "date": "2026-08-28",
       "stars": 248001
+    },
+    {
+      "date": "2026-08-29",
+      "stars": 248020
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 243881,
-  "forks": 36887,
-  "openIssues": 177,
-  "pushedAt": "2026-08-28T01:14:39Z",
+  "stars": 244037,
+  "forks": 36912,
+  "openIssues": 146,
+  "pushedAt": "2026-08-29T04:22:27Z",
   "topics": [
     "ai-agents",
     "anthropic",
@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2393,
+  "starDelta7d": 2216,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
   "languages": {
     "JavaScript": 0.7,
@@ -36,12 +36,17 @@
     "PowerShell": 0,
     "Dockerfile": 0
   },
-  "readmeExcerpt": "Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español",
+  "readmeExcerpt": "Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español | Українська",
   "summary": {
     "mode": "template",
     "text": "ECC is a JavaScript project focused on The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. It is tagged with ai-agents, anthropic, and claude."
   },
   "releases": [
+    {
+      "tag": "v2.2.0",
+      "name": "ECC 2.2.0: Guided Setup, Antigravity 2.0, and the Nasiko CLI Bridge",
+      "publishedAt": "2026-08-28T19:55:05Z"
+    },
     {
       "tag": "v2.1.0",
       "name": "ECC 2.1.0: Plan Canvas, Kimi Harness, and Self-Hosted Compute",
@@ -61,11 +66,6 @@
       "tag": "v1.10.0",
       "name": "ECC v1.10.0 — Surface Refresh, Operator Workflows, and ECC 2.0 Alpha",
       "publishedAt": "2026-04-05T20:20:57Z"
-    },
-    {
-      "tag": "v1.9.0",
-      "name": "v1.9.0 — Selective Install, ECC Tools Pro, 12 Language Ecosystems",
-      "publishedAt": "2026-03-21T00:29:53Z"
     }
   ],
   "starHistory": [
@@ -376,6 +376,10 @@
     {
       "date": "2026-08-28",
       "stars": 243881
+    },
+    {
+      "date": "2026-08-29",
+      "stars": 244037
     }
   ],
   "links": {
