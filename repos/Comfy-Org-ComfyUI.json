@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 130520,
-  "forks": 15378,
-  "openIssues": 4735,
-  "pushedAt": "2026-08-29T06:47:39Z",
+  "stars": 130672,
+  "forks": 15395,
+  "openIssues": 4751,
+  "pushedAt": "2026-08-30T00:10:24Z",
   "topics": [
     "ai",
     "comfy",
@@ -21,7 +21,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 1662,
+  "starDelta7d": 1649,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166579949?v=4",
   "languages": {
     "Python": 1,
@@ -373,6 +373,10 @@
     {
       "date": "2026-08-29",
       "stars": 130520
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 130672
     }
   ],
   "links": {

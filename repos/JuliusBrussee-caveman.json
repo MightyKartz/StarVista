@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 101680,
-  "forks": 5912,
-  "openIssues": 381,
-  "pushedAt": "2026-08-27T13:59:59Z",
+  "stars": 101795,
+  "forks": 5922,
+  "openIssues": 104,
+  "pushedAt": "2026-08-29T22:17:17Z",
   "topics": [
     "ai",
     "anthropic",
@@ -28,10 +28,10 @@
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
-    "Go": 0.5,
+    "Go": 0.49,
     "JavaScript": 0.25,
     "TypeScript": 0.18,
-    "Python": 0.06,
+    "Python": 0.07,
     "Shell": 0,
     "PowerShell": 0,
     "HTML": 0,
@@ -43,6 +43,16 @@
     "text": "caveman is a Go project focused on 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman. It is tagged with ai, anthropic, and caveman."
   },
   "releases": [
+    {
+      "tag": "v2.4.0",
+      "name": "v2.4.0",
+      "publishedAt": "2026-08-29T22:15:14Z"
+    },
+    {
+      "tag": "bin-v1.1.4",
+      "name": "bin-v1.1.4",
+      "publishedAt": "2026-08-29T21:02:30Z"
+    },
     {
       "tag": "v2.3.1",
       "name": "v2.3.1",
@@ -57,16 +67,6 @@
       "tag": "bin-v1.1.3",
       "name": "bin-v1.1.3",
       "publishedAt": "2026-08-23T08:51:23Z"
-    },
-    {
-      "tag": "v2.2.0",
-      "name": "v2.2.0",
-      "publishedAt": "2026-08-20T11:20:50Z"
-    },
-    {
-      "tag": "bin-v1.1.2",
-      "name": "bin-v1.1.2",
-      "publishedAt": "2026-08-20T11:16:04Z"
     }
   ],
   "starHistory": [
@@ -77,6 +77,10 @@
     {
       "date": "2026-08-29",
       "stars": 101680
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 101795
     }
   ],
   "links": {
