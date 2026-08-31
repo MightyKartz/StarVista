@@ -1,0 +1,71 @@
+{
+  "id": "earendil-works/pi",
+  "slug": "earendil-works-pi",
+  "owner": "earendil-works",
+  "name": "pi",
+  "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 99705,
+  "forks": 12368,
+  "openIssues": 138,
+  "pushedAt": "2026-08-31T02:52:26Z",
+  "topics": [],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/207902832?v=4",
+  "languages": {
+    "TypeScript": 0.96,
+    "JavaScript": 0.03,
+    "Shell": 0,
+    "CSS": 0,
+    "C": 0,
+    "HTML": 0,
+    "PowerShell": 0,
+    "Batchfile": 0
+  },
+  "readmeExcerpt": "> New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md.",
+  "summary": {
+    "mode": "template",
+    "text": "pi is a TypeScript project focused on AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI."
+  },
+  "releases": [
+    {
+      "tag": "v0.84.4",
+      "name": "v0.84.4",
+      "publishedAt": "2026-08-28T22:08:23Z"
+    },
+    {
+      "tag": "v0.84.3",
+      "name": "v0.84.3",
+      "publishedAt": "2026-08-24T11:09:57Z"
+    },
+    {
+      "tag": "v0.84.2",
+      "name": "v0.84.2",
+      "publishedAt": "2026-08-14T10:14:32Z"
+    },
+    {
+      "tag": "v0.84.1",
+      "name": "v0.84.1",
+      "publishedAt": "2026-08-07T06:07:00Z"
+    },
+    {
+      "tag": "v0.84.0",
+      "name": "v0.84.0",
+      "publishedAt": "2026-08-06T11:07:05Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-08-31",
+      "stars": 99705
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/earendil-works/pi",
+    "homepage": null
+  }
+}

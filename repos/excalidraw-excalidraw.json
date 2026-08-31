@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 130788,
-  "forks": 15066,
-  "openIssues": 3423,
+  "stars": 130846,
+  "forks": 15077,
+  "openIssues": 3424,
   "pushedAt": "2026-08-30T08:06:49Z",
   "topics": [
     "canvas",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 553,
+  "starDelta7d": 515,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4",
   "languages": {
     "TypeScript": 0.94,
@@ -382,6 +382,10 @@
     {
       "date": "2026-08-30",
       "stars": 130788
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 130846
     }
   ],
   "links": {

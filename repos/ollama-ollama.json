@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 179765,
-  "forks": 17614,
-  "openIssues": 3851,
+  "stars": 179817,
+  "forks": 17618,
+  "openIssues": 3856,
   "pushedAt": "2026-08-29T03:47:58Z",
   "topics": [
     "deepseek",
@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 546,
+  "starDelta7d": 530,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/151674099?v=4",
   "languages": {
     "Go": 0.71,
@@ -397,6 +397,10 @@
     {
       "date": "2026-08-30",
       "stars": 179765
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 179817
     }
   ],
   "links": {

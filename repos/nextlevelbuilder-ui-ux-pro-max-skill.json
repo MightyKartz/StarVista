@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 123049,
-  "forks": 13177,
-  "openIssues": 91,
-  "pushedAt": "2026-08-27T09:15:37Z",
+  "stars": 123334,
+  "forks": 13201,
+  "openIssues": 92,
+  "pushedAt": "2026-08-31T05:11:48Z",
   "topics": [
     "ai-skills",
     "antigravity",
@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3140,
+  "starDelta7d": 3062,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/246974152?v=4",
   "languages": {
     "Python": 0.8,
@@ -44,7 +44,7 @@
     "Shell": 0.01,
     "CSS": 0
   },
-  "readmeExcerpt": "🇻🇳 Tiếng Việt | 🇨🇳 简体中文 | 🇺🇸 English",
+  "readmeExcerpt": "🇰🇷 한국어 | 🇻🇳 Tiếng Việt | 🇨🇳 简体中文 | 🇺🇸 English",
   "summary": {
     "mode": "template",
     "text": "ui-ux-pro-max-skill is a Python project focused on An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. It is tagged with ai-skills, antigravity, and claude."
@@ -360,6 +360,10 @@
     {
       "date": "2026-08-30",
       "stars": 123049
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 123334
     }
   ],
   "links": {

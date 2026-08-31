@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 110664,
-  "forks": 3906,
-  "openIssues": 1464,
-  "pushedAt": "2026-08-28T16:18:58Z",
+  "stars": 110699,
+  "forks": 3908,
+  "openIssues": 1462,
+  "pushedAt": "2026-08-31T08:13:48Z",
   "topics": [
     "desktop-app",
     "high-performance",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 195,
+  "starDelta7d": 197,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4",
   "languages": {
     "Rust": 0.84,
@@ -392,6 +392,10 @@
     {
       "date": "2026-08-30",
       "stars": 110664
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 110699
     }
   ],
   "links": {

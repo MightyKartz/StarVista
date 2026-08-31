@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 150383,
-  "forks": 21957,
-  "openIssues": 243,
-  "pushedAt": "2026-08-29T20:14:33Z",
+  "stars": 150468,
+  "forks": 21966,
+  "openIssues": 197,
+  "pushedAt": "2026-08-31T05:53:31Z",
   "topics": [
     "ai",
     "llm",
@@ -30,7 +30,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 780,
+  "starDelta7d": 770,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/158137808?v=4",
   "languages": {
     "Python": 0.37,
@@ -45,12 +45,17 @@
     "Mako": 0,
     "Makefile": 0
   },
-  "readmeExcerpt": "Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution.",
+  "readmeExcerpt": "Open WebUI is a home for AI, a self-hosted AI platform that's extensible, feature-rich, user-friendly, and built to run entirely offline. With support for Ollama and OpenAI-compatible APIs, it gives you a powerful, provider-agnostic interface for both local and cloud-based models.",
   "summary": {
     "mode": "template",
     "text": "open-webui is a Python project focused on User-friendly AI Interface (Supports Ollama, OpenAI API, ...). It is tagged with ai, llm, and llm-ui."
   },
   "releases": [
+    {
+      "tag": "v0.11.2",
+      "name": "v0.11.2",
+      "publishedAt": "2026-08-31T05:48:23Z"
+    },
     {
       "tag": "v0.11.1",
       "name": "v0.11.1",
@@ -70,11 +75,6 @@
       "tag": "v0.10.1",
       "name": "v0.10.1",
       "publishedAt": "2026-06-29T19:38:44Z"
-    },
-    {
-      "tag": "v0.10.0",
-      "name": "v0.10.0",
-      "publishedAt": "2026-06-29T19:17:48Z"
     }
   ],
   "starHistory": [
@@ -393,6 +393,10 @@
     {
       "date": "2026-08-30",
       "stars": 150383
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 150468
     }
   ],
   "links": {
