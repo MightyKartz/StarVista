@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 205554,
-  "forks": 23813,
+  "stars": 207117,
+  "forks": 24087,
   "openIssues": 0,
-  "pushedAt": "2026-08-30T13:52:13Z",
+  "pushedAt": "2026-08-31T16:03:39Z",
   "topics": [
     "ai-agents",
     "cordis",
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 16859,
+  "starDelta7d": 14608,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4",
   "languages": {
     "TypeScript": 0.97,
@@ -29,8 +29,7 @@
     "Shell": 0,
     "C": 0,
     "C++": 0,
-    "HTML": 0,
-    "PLpgSQL": 0
+    "HTML": 0
   },
   "readmeExcerpt": "English | 中文",
   "summary": {
@@ -38,6 +37,11 @@
     "text": "deepseek-harness is a TypeScript project focused on DeepSeek Harness: Everything is a Plugin. It is tagged with ai-agents, cordis, and dsh."
   },
   "releases": [
+    {
+      "tag": "dsh-v0.1.2-alpha.3",
+      "name": "v0.1.2-alpha.3",
+      "publishedAt": "2026-08-31T16:03:39Z"
+    },
     {
       "tag": "dsh-v0.1.2-alpha.2",
       "name": "v0.1.2-alpha.2",
@@ -57,11 +61,6 @@
       "tag": "dsh-v0.1.1-rc.1",
       "name": "v0.1.1-rc.1",
       "publishedAt": "2026-08-21T07:12:39Z"
-    },
-    {
-      "tag": "dsh-v0.1.0-rc.8",
-      "name": "v0.1.0-rc.8",
-      "publishedAt": "2026-08-19T15:37:57Z"
     }
   ],
   "starHistory": [
@@ -128,6 +127,10 @@
     {
       "date": "2026-08-31",
       "stars": 205554
+    },
+    {
+      "date": "2026-09-01",
+      "stars": 207117
     }
   ],
   "links": {

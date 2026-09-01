@@ -7,8 +7,8 @@
   "archived": false,
   "primaryLanguage": "Java",
   "languageColor": "#b07219",
-  "stars": 129691,
-  "forks": 15531,
+  "stars": 129706,
+  "forks": 15534,
   "openIssues": 42,
   "pushedAt": "2026-08-17T20:58:58Z",
   "topics": [
@@ -25,8 +25,8 @@
     "programming"
   ],
   "license": null,
-  "activity": "active",
-  "starDelta7d": 116,
+  "activity": "stable",
+  "starDelta7d": 114,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26993056?v=4",
   "languages": {
     "Java": 0.16,
@@ -247,6 +247,10 @@
     {
       "date": "2026-08-31",
       "stars": 129691
+    },
+    {
+      "date": "2026-09-01",
+      "stars": 129706
     }
   ],
   "links": {

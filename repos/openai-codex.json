@@ -7,17 +7,17 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 120286,
-  "forks": 18381,
-  "openIssues": 14575,
-  "pushedAt": "2026-08-31T08:33:45Z",
+  "stars": 120556,
+  "forks": 18452,
+  "openIssues": 14705,
+  "pushedAt": "2026-09-01T07:34:44Z",
   "topics": [],
   "license": "Apache-2.0",
-  "activity": "fast-rising",
-  "starDelta7d": 4628,
+  "activity": "active",
+  "starDelta7d": 3299,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
   "languages": {
-    "Rust": 0.96,
+    "Rust": 0.97,
     "Python": 0.03,
     "Starlark": 0,
     "TypeScript": 0,
@@ -40,29 +40,29 @@
   },
   "releases": [
     {
-      "tag": "rust-v0.152.0-alpha.6",
-      "name": "0.152.0-alpha.6",
-      "publishedAt": "2026-08-31T02:12:53Z"
+      "tag": "rust-v0.152.0",
+      "name": "0.152.0",
+      "publishedAt": "2026-09-01T01:58:32Z"
     },
     {
-      "tag": "rust-v0.152.0-alpha.5",
-      "name": "0.152.0-alpha.5",
-      "publishedAt": "2026-08-31T01:11:03Z"
+      "tag": "rust-v0.153.0-alpha.2",
+      "name": "0.153.0-alpha.2",
+      "publishedAt": "2026-09-01T06:15:12Z"
     },
     {
-      "tag": "rust-v0.152.0-alpha.4",
-      "name": "0.152.0-alpha.4",
-      "publishedAt": "2026-08-30T13:56:08Z"
+      "tag": "rust-v0.153.0-alpha.1",
+      "name": "0.153.0-alpha.1",
+      "publishedAt": "2026-09-01T04:40:58Z"
     },
     {
-      "tag": "rust-v0.151.0",
-      "name": "0.151.0",
-      "publishedAt": "2026-08-29T09:55:39Z"
+      "tag": "rust-v0.152.0-alpha.7.2",
+      "name": "0.152.0-alpha.7.2",
+      "publishedAt": "2026-09-01T00:30:15Z"
     },
     {
-      "tag": "rust-v0.152.0-alpha.1",
-      "name": "0.152.0-alpha.1",
-      "publishedAt": "2026-08-29T10:47:53Z"
+      "tag": "rust-v0.152.0-alpha.7",
+      "name": "0.152.0-alpha.7",
+      "publishedAt": "2026-08-31T16:18:27Z"
     }
   ],
   "starHistory": [
@@ -377,6 +377,10 @@
     {
       "date": "2026-08-31",
       "stars": 120286
+    },
+    {
+      "date": "2026-09-01",
+      "stars": 120556
     }
   ],
   "links": {

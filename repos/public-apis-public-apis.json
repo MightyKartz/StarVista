@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 473459,
-  "forks": 52262,
-  "openIssues": 1839,
-  "pushedAt": "2026-08-30T16:27:33Z",
+  "stars": 473941,
+  "forks": 52332,
+  "openIssues": 1850,
+  "pushedAt": "2026-08-31T20:26:11Z",
   "topics": [
     "api",
     "apis",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 4171,
+  "starDelta7d": 4003,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/51121562?v=4",
   "languages": {
     "Python": 0.97,
@@ -360,6 +360,10 @@
     {
       "date": "2026-08-31",
       "stars": 473459
+    },
+    {
+      "date": "2026-09-01",
+      "stars": 473941
     }
   ],
   "links": {
