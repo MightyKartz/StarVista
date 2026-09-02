@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 179864,
-  "forks": 17630,
-  "openIssues": 3870,
-  "pushedAt": "2026-09-01T00:12:46Z",
+  "stars": 179933,
+  "forks": 17654,
+  "openIssues": 3878,
+  "pushedAt": "2026-09-01T23:59:36Z",
   "topics": [
     "deepseek",
     "gemma",
@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 503,
+  "starDelta7d": 498,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/151674099?v=4",
   "languages": {
     "Go": 0.71,
@@ -56,6 +56,11 @@
   },
   "releases": [
     {
+      "tag": "v0.33.3-rc0",
+      "name": "v0.33.3",
+      "publishedAt": "2026-09-02T00:11:33Z"
+    },
+    {
       "tag": "v0.33.2",
       "name": "v0.33.2",
       "publishedAt": "2026-08-27T20:31:47Z"
@@ -74,11 +79,6 @@
       "tag": "v0.32.15",
       "name": "v0.32.15",
       "publishedAt": "2026-08-19T17:25:16Z"
-    },
-    {
-      "tag": "v0.32.14",
-      "name": "v0.32.14",
-      "publishedAt": "2026-08-15T19:41:23Z"
     }
   ],
   "starHistory": [
@@ -405,6 +405,10 @@
     {
       "date": "2026-09-01",
       "stars": 179864
+    },
+    {
+      "date": "2026-09-02",
+      "stars": 179933
     }
   ],
   "links": {

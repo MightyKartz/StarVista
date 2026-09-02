@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 198339,
-  "forks": 76229,
-  "openIssues": 2998,
-  "pushedAt": "2026-09-01T07:47:59Z",
+  "stars": 198352,
+  "forks": 76224,
+  "openIssues": 3024,
+  "pushedAt": "2026-09-02T07:05:02Z",
   "topics": [
     "deep-learning",
     "deep-neural-networks",
@@ -23,7 +23,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 777,
+  "starDelta7d": 716,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
   "languages": {
     "C++": 0.55,
@@ -408,6 +408,10 @@
     {
       "date": "2026-09-01",
       "stars": 198339
+    },
+    {
+      "date": "2026-09-02",
+      "stars": 198352
     }
   ],
   "links": {

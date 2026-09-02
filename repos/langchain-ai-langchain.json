@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 145406,
-  "forks": 24257,
-  "openIssues": 437,
-  "pushedAt": "2026-09-01T05:25:38Z",
+  "stars": 145475,
+  "forks": 24275,
+  "openIssues": 463,
+  "pushedAt": "2026-09-02T05:35:19Z",
   "topics": [
     "agents",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 484,
+  "starDelta7d": 483,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
   "languages": {
     "Python": 0.99,
@@ -53,6 +53,16 @@
   },
   "releases": [
     {
+      "tag": "langchain==1.4.0a4",
+      "name": "langchain==1.4.0a4",
+      "publishedAt": "2026-09-02T05:35:20Z"
+    },
+    {
+      "tag": "langchain==1.4.0a3",
+      "name": "langchain==1.4.0a3",
+      "publishedAt": "2026-09-01T17:19:30Z"
+    },
+    {
       "tag": "langchain==1.4.0a2",
       "name": "langchain==1.4.0a2",
       "publishedAt": "2026-08-28T16:19:22Z"
@@ -66,16 +76,6 @@
       "tag": "langchain==1.3.18",
       "name": "langchain==1.3.18",
       "publishedAt": "2026-08-27T17:33:28Z"
-    },
-    {
-      "tag": "langchain-fireworks==1.6.1",
-      "name": "langchain-fireworks==1.6.1",
-      "publishedAt": "2026-08-27T21:56:28Z"
-    },
-    {
-      "tag": "langchain-core==1.6.1",
-      "name": "langchain-core==1.6.1",
-      "publishedAt": "2026-08-27T19:31:34Z"
     }
   ],
   "starHistory": [
@@ -402,6 +402,10 @@
     {
       "date": "2026-09-01",
       "stars": 145406
+    },
+    {
+      "date": "2026-09-02",
+      "stars": 145475
     }
   ],
   "links": {

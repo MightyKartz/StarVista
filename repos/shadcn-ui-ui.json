@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 122690,
-  "forks": 10060,
-  "openIssues": 2068,
-  "pushedAt": "2026-08-31T09:55:44Z",
+  "stars": 122760,
+  "forks": 10068,
+  "openIssues": 2057,
+  "pushedAt": "2026-09-01T19:50:21Z",
   "topics": [
     "base-ui",
     "components",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 665,
+  "starDelta7d": 630,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
   "languages": {
     "TypeScript": 0.87,
@@ -396,6 +396,10 @@
     {
       "date": "2026-09-01",
       "stars": 122690
+    },
+    {
+      "date": "2026-09-02",
+      "stars": 122760
     }
   ],
   "links": {
