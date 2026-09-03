@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 122760,
-  "forks": 10068,
-  "openIssues": 2057,
-  "pushedAt": "2026-09-01T19:50:21Z",
+  "stars": 122861,
+  "forks": 10075,
+  "openIssues": 2045,
+  "pushedAt": "2026-09-02T16:34:12Z",
   "topics": [
     "base-ui",
     "components",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 630,
+  "starDelta7d": 604,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
   "languages": {
     "TypeScript": 0.87,
@@ -47,6 +47,16 @@
   },
   "releases": [
     {
+      "tag": "shadcn@4.20.1",
+      "name": "shadcn@4.20.1",
+      "publishedAt": "2026-09-02T16:34:13Z"
+    },
+    {
+      "tag": "shadcn@4.20.0",
+      "name": "shadcn@4.20.0",
+      "publishedAt": "2026-09-02T12:02:03Z"
+    },
+    {
       "tag": "shadcn@4.19.1",
       "name": "shadcn@4.19.1",
       "publishedAt": "2026-08-31T09:55:48Z"
@@ -60,16 +70,6 @@
       "tag": "shadcn@4.19.0",
       "name": "shadcn@4.19.0",
       "publishedAt": "2026-08-21T17:28:23Z"
-    },
-    {
-      "tag": "shadcn@4.18.0",
-      "name": "shadcn@4.18.0",
-      "publishedAt": "2026-08-13T18:44:31Z"
-    },
-    {
-      "tag": "shadcn@4.17.0",
-      "name": "shadcn@4.17.0",
-      "publishedAt": "2026-08-11T20:39:12Z"
     }
   ],
   "starHistory": [
@@ -400,6 +400,10 @@
     {
       "date": "2026-09-02",
       "stars": 122760
+    },
+    {
+      "date": "2026-09-03",
+      "stars": 122861
     }
   ],
   "links": {
