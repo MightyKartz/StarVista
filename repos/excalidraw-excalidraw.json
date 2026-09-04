@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 131044,
-  "forks": 15121,
-  "openIssues": 3436,
-  "pushedAt": "2026-09-01T13:43:08Z",
+  "stars": 131122,
+  "forks": 15128,
+  "openIssues": 3437,
+  "pushedAt": "2026-09-03T15:24:44Z",
   "topics": [
     "canvas",
     "collaboration",
@@ -22,10 +22,10 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 415,
+  "starDelta7d": 429,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4",
   "languages": {
-    "TypeScript": 0.94,
+    "TypeScript": 0.95,
     "SCSS": 0.03,
     "MDX": 0.02,
     "JavaScript": 0.01,
@@ -398,6 +398,10 @@
     {
       "date": "2026-09-03",
       "stars": 131044
+    },
+    {
+      "date": "2026-09-04",
+      "stars": 131122
     }
   ],
   "links": {

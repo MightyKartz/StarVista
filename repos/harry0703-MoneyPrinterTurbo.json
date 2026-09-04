@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 120029,
-  "forks": 18384,
-  "openIssues": 17,
-  "pushedAt": "2026-09-02T14:01:53Z",
+  "stars": 120343,
+  "forks": 18452,
+  "openIssues": 25,
+  "pushedAt": "2026-09-04T06:41:55Z",
   "topics": [
     "ai-video-generator",
     "content-creation",
@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2911,
+  "starDelta7d": 2447,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4",
   "languages": {
     "Python": 0.99,
@@ -335,6 +335,10 @@
     {
       "date": "2026-09-03",
       "stars": 120029
+    },
+    {
+      "date": "2026-09-04",
+      "stars": 120343
     }
   ],
   "links": {

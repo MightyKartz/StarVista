@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 112118,
-  "forks": 12337,
-  "openIssues": 401,
-  "pushedAt": "2026-09-03T00:37:55Z",
+  "stars": 112217,
+  "forks": 12345,
+  "openIssues": 404,
+  "pushedAt": "2026-09-04T04:07:09Z",
   "topics": [
     "ai-agents",
     "ai-tools",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 741,
+  "starDelta7d": 672,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192012301?v=4",
   "languages": {
     "Python": 0.99,
@@ -37,6 +37,16 @@
   },
   "releases": [
     {
+      "tag": "0.13.10",
+      "name": "0.13.10",
+      "publishedAt": "2026-09-04T03:28:53Z"
+    },
+    {
+      "tag": "0.13.9",
+      "name": "0.13.9",
+      "publishedAt": "2026-09-04T01:29:32Z"
+    },
+    {
       "tag": "0.13.8",
       "name": "0.13.8",
       "publishedAt": "2026-08-16T18:48:54Z"
@@ -50,16 +60,6 @@
       "tag": "0.13.6",
       "name": "0.13.6",
       "publishedAt": "2026-07-17T05:29:18Z"
-    },
-    {
-      "tag": "0.13.5",
-      "name": "0.13.5",
-      "publishedAt": "2026-07-17T00:49:17Z"
-    },
-    {
-      "tag": "0.13.4",
-      "name": "0.13.4",
-      "publishedAt": "2026-07-11T18:50:05Z"
     }
   ],
   "starHistory": [
@@ -394,6 +394,10 @@
     {
       "date": "2026-09-03",
       "stars": 112118
+    },
+    {
+      "date": "2026-09-04",
+      "stars": 112217
     }
   ],
   "links": {

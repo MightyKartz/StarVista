@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 126481,
-  "forks": 25232,
-  "openIssues": 1157,
-  "pushedAt": "2026-09-03T02:47:48Z",
+  "stars": 126491,
+  "forks": 25236,
+  "openIssues": 1161,
+  "pushedAt": "2026-09-03T21:11:30Z",
   "topics": [
     "android",
     "app-framework",
@@ -35,8 +35,8 @@
     "Java": 0.02,
     "Python": 0.01,
     "CMake": 0.01,
-    "C": 0,
     "TypeScript": 0,
+    "C": 0,
     "Shell": 0,
     "Swift": 0,
     "Assembly": 0,
@@ -407,6 +407,10 @@
     {
       "date": "2026-09-03",
       "stars": 126481
+    },
+    {
+      "date": "2026-09-04",
+      "stars": 126491
     }
   ],
   "links": {

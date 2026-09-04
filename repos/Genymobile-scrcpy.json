@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C",
   "languageColor": "#555555",
-  "stars": 148771,
-  "forks": 13680,
-  "openIssues": 2892,
-  "pushedAt": "2026-08-17T10:27:07Z",
+  "stars": 148853,
+  "forks": 13684,
+  "openIssues": 2897,
+  "pushedAt": "2026-09-03T11:00:58Z",
   "topics": [
     "android",
     "c",
@@ -22,8 +22,8 @@
     "sdl2"
   ],
   "license": "Apache-2.0",
-  "activity": "stable",
-  "starDelta7d": 403,
+  "activity": "active",
+  "starDelta7d": 428,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3427627?v=4",
   "languages": {
     "C": 0.63,
@@ -399,6 +399,10 @@
     {
       "date": "2026-09-03",
       "stars": 148771
+    },
+    {
+      "date": "2026-09-04",
+      "stars": 148853
     }
   ],
   "links": {

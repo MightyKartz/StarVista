@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 116994,
-  "forks": 15501,
-  "openIssues": 12632,
-  "pushedAt": "2026-09-03T06:09:27Z",
+  "stars": 117428,
+  "forks": 15516,
+  "openIssues": 12621,
+  "pushedAt": "2026-09-04T07:18:41Z",
   "topics": [
     "compiler",
     "language",
@@ -18,7 +18,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 712,
+  "starDelta7d": 1115,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5430905?v=4",
   "languages": {
     "Rust": 0.9,
@@ -54,6 +54,11 @@
   },
   "releases": [
     {
+      "tag": "1.98.1",
+      "name": "Rust 1.98.1",
+      "publishedAt": "2026-09-03T13:14:07Z"
+    },
+    {
       "tag": "1.98.0",
       "name": "Rust 1.98.0",
       "publishedAt": "2026-08-20T18:05:33Z"
@@ -72,11 +77,6 @@
       "tag": "1.96.1",
       "name": "Rust 1.96.1",
       "publishedAt": "2026-07-05T23:50:27Z"
-    },
-    {
-      "tag": "1.96.0",
-      "name": "Rust 1.96.0",
-      "publishedAt": "2026-05-28T17:50:42Z"
     }
   ],
   "starHistory": [
@@ -411,6 +411,10 @@
     {
       "date": "2026-09-03",
       "stars": 116994
+    },
+    {
+      "date": "2026-09-04",
+      "stars": 117428
     }
   ],
   "links": {

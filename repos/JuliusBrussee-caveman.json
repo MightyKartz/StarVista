@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 102777,
-  "forks": 5974,
-  "openIssues": 113,
-  "pushedAt": "2026-09-02T13:48:52Z",
+  "stars": 103238,
+  "forks": 5997,
+  "openIssues": 99,
+  "pushedAt": "2026-09-04T00:31:14Z",
   "topics": [
     "ai",
     "anthropic",
@@ -25,7 +25,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": null,
+  "starDelta7d": 1680,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
     "Go": 0.45,
@@ -44,6 +44,16 @@
   },
   "releases": [
     {
+      "tag": "v2.6.0",
+      "name": "v2.6.0",
+      "publishedAt": "2026-09-04T00:19:58Z"
+    },
+    {
+      "tag": "bin-v1.1.6",
+      "name": "bin-v1.1.6",
+      "publishedAt": "2026-09-04T00:23:53Z"
+    },
+    {
       "tag": "v2.5.0",
       "name": "v2.5.0",
       "publishedAt": "2026-09-02T13:40:03Z"
@@ -57,16 +67,6 @@
       "tag": "v2.4.0",
       "name": "v2.4.0",
       "publishedAt": "2026-08-29T22:15:14Z"
-    },
-    {
-      "tag": "bin-v1.1.4",
-      "name": "bin-v1.1.4",
-      "publishedAt": "2026-08-29T21:02:30Z"
-    },
-    {
-      "tag": "v2.3.1",
-      "name": "v2.3.1",
-      "publishedAt": "2026-08-23T09:01:48Z"
     }
   ],
   "starHistory": [
@@ -97,6 +97,10 @@
     {
       "date": "2026-09-03",
       "stars": 102777
+    },
+    {
+      "date": "2026-09-04",
+      "stars": 103238
     }
   ],
   "links": {

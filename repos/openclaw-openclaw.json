@@ -3,14 +3,14 @@
   "slug": "openclaw-openclaw",
   "owner": "openclaw",
   "name": "openclaw",
-  "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+  "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 388678,
-  "forks": 81623,
-  "openIssues": 6096,
-  "pushedAt": "2026-09-03T07:10:22Z",
+  "stars": 388800,
+  "forks": 81648,
+  "openIssues": 6309,
+  "pushedAt": "2026-09-04T07:18:43Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 891,
+  "starDelta7d": 892,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -45,9 +45,14 @@
   "readmeExcerpt": "OpenClaw is an AI assistant that runs on your devices and meets you in the channels you already use. It connects models, tools, messaging channels, and optional companion apps through one Gateway, for a single operator or for a team whose members trust each other: the same gateway runs as a personal assistant on one laptop or as a shared team deployment, and configuration is the only difference. The architecture case — trusted gateway, untrusted execution, deterministic policy — is in Why Ope...",
   "summary": {
     "mode": "template",
-    "text": "openclaw is a TypeScript project focused on Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 . It is tagged with ai, assistant, and crustacean."
+    "text": "openclaw is a TypeScript project focused on The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 . It is tagged with ai, assistant, and crustacean."
   },
   "releases": [
+    {
+      "tag": "v2026.9.1",
+      "name": "openclaw 2026.9.1",
+      "publishedAt": "2026-09-03T18:31:33Z"
+    },
     {
       "tag": "v2026.8.2",
       "name": "openclaw 2026.8.2",
@@ -67,11 +72,6 @@
       "tag": "v2026.8.1-beta.3",
       "name": "OpenClaw 2026.8.1-beta.3",
       "publishedAt": "2026-08-24T04:40:41Z"
-    },
-    {
-      "tag": "v2026.8.1-beta.2",
-      "name": "OpenClaw 2026.8.1-beta.2",
-      "publishedAt": "2026-08-15T05:36:23Z"
     }
   ],
   "starHistory": [
@@ -406,6 +406,10 @@
     {
       "date": "2026-09-03",
       "stars": 388678
+    },
+    {
+      "date": "2026-09-04",
+      "stars": 388800
     }
   ],
   "links": {

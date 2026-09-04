@@ -7,18 +7,18 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 149794,
-  "forks": 24140,
-  "openIssues": 151,
-  "pushedAt": "2026-09-03T03:31:49Z",
+  "stars": 149960,
+  "forks": 24162,
+  "openIssues": 150,
+  "pushedAt": "2026-09-03T14:23:29Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1406,
+  "starDelta7d": 1371,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1972242?v=4",
   "languages": {
-    "Shell": 0.83,
-    "Python": 0.16,
+    "Shell": 0.86,
+    "Python": 0.13,
     "PowerShell": 0.01
   },
   "readmeExcerpt": "> A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
@@ -359,6 +359,10 @@
     {
       "date": "2026-09-03",
       "stars": 149794
+    },
+    {
+      "date": "2026-09-04",
+      "stars": 149960
     }
   ],
   "links": {
