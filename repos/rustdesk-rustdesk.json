@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 122636,
-  "forks": 18843,
-  "openIssues": 138,
-  "pushedAt": "2026-09-05T06:30:36Z",
+  "stars": 122713,
+  "forks": 18856,
+  "openIssues": 139,
+  "pushedAt": "2026-09-06T06:46:58Z",
   "topics": [
     "android",
     "anydesk",
@@ -34,15 +34,15 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 556,
+  "starDelta7d": 583,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
   "languages": {
-    "Rust": 0.67,
-    "Dart": 0.24,
+    "Rust": 0.68,
+    "Dart": 0.23,
     "Python": 0.02,
     "C++": 0.02,
+    "C": 0.02,
     "Kotlin": 0.02,
-    "C": 0.01,
     "CMake": 0.01,
     "Objective-C++": 0,
     "CSS": 0,
@@ -426,6 +426,10 @@
     {
       "date": "2026-09-05",
       "stars": 122636
+    },
+    {
+      "date": "2026-09-06",
+      "stars": 122713
     }
   ],
   "links": {

@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 189046,
-  "forks": 16372,
-  "openIssues": 2626,
+  "stars": 189280,
+  "forks": 16414,
+  "openIssues": 2634,
   "pushedAt": "2026-08-30T13:58:45Z",
   "topics": [
     "cli",
@@ -22,7 +22,7 @@
   ],
   "license": "Unlicense",
   "activity": "active",
-  "starDelta7d": 1406,
+  "starDelta7d": 1465,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/79589310?v=4",
   "languages": {
     "Python": 1,
@@ -403,6 +403,10 @@
     {
       "date": "2026-09-05",
       "stars": 189046
+    },
+    {
+      "date": "2026-09-06",
+      "stars": 189280
     }
   ],
   "links": {
