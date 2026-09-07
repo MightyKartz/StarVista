@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 189568,
-  "forks": 26580,
-  "openIssues": 446,
-  "pushedAt": "2026-09-06T06:25:35Z",
+  "stars": 189606,
+  "forks": 26591,
+  "openIssues": 442,
+  "pushedAt": "2026-09-06T20:09:02Z",
   "topics": [
     "cli",
     "cli-app",
@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 117,
+  "starDelta7d": 140,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/22552083?v=4",
   "languages": {
     "Shell": 0.99,
@@ -387,6 +387,10 @@
     {
       "date": "2026-09-06",
       "stars": 189568
+    },
+    {
+      "date": "2026-09-07",
+      "stars": 189606
     }
   ],
   "links": {

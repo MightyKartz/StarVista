@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 101016,
-  "forks": 27447,
-  "openIssues": 1146,
-  "pushedAt": "2026-09-01T21:42:10Z",
+  "stars": 101015,
+  "forks": 27444,
+  "openIssues": 1162,
+  "pushedAt": "2026-09-04T16:02:07Z",
   "topics": [
     "angular",
     "javascript",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 5,
+  "starDelta7d": 1,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139426?v=4",
   "languages": {
     "TypeScript": 0.88,
@@ -40,6 +40,16 @@
   },
   "releases": [
     {
+      "tag": "v22.2.0-next.5",
+      "name": "22.2.0-next.5",
+      "publishedAt": "2026-09-03T02:40:54Z"
+    },
+    {
+      "tag": "v22.1.5",
+      "name": "22.1.5",
+      "publishedAt": "2026-09-03T02:35:12Z"
+    },
+    {
       "tag": "v22.2.0-next.4",
       "name": "22.2.0-next.4",
       "publishedAt": "2026-08-27T00:16:52Z"
@@ -53,16 +63,6 @@
       "tag": "v21.2.22",
       "name": "21.2.22",
       "publishedAt": "2026-08-26T23:52:02Z"
-    },
-    {
-      "tag": "v20.3.30",
-      "name": "20.3.30",
-      "publishedAt": "2026-08-26T23:37:08Z"
-    },
-    {
-      "tag": "v22.2.0-next.3",
-      "name": "22.2.0-next.3",
-      "publishedAt": "2026-08-19T20:18:48Z"
     }
   ],
   "starHistory": [
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-06",
       "stars": 101016
+    },
+    {
+      "date": "2026-09-07",
+      "stars": 101015
     }
   ],
   "links": {

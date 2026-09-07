@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 190935,
-  "forks": 41995,
-  "openIssues": 20623,
-  "pushedAt": "2026-09-06T06:55:28Z",
+  "stars": 191425,
+  "forks": 42027,
+  "openIssues": 20660,
+  "pushedAt": "2026-09-07T07:07:57Z",
   "topics": [
     "editor",
     "electron",
@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 886,
+  "starDelta7d": 1341,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "TypeScript": 0.96,
@@ -447,6 +447,10 @@
     {
       "date": "2026-09-06",
       "stars": 190935
+    },
+    {
+      "date": "2026-09-07",
+      "stars": 191425
     }
   ],
   "links": {

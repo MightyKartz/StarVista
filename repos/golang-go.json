@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 137541,
-  "forks": 19350,
-  "openIssues": 10121,
+  "stars": 138013,
+  "forks": 19359,
+  "openIssues": 10124,
   "pushedAt": "2026-09-05T22:11:46Z",
   "topics": [
     "go",
@@ -19,7 +19,7 @@
   ],
   "license": "BSD-3-Clause",
   "activity": "active",
-  "starDelta7d": 716,
+  "starDelta7d": 1163,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4314092?v=4",
   "languages": {
     "Go": 0.9,
@@ -385,6 +385,10 @@
     {
       "date": "2026-09-06",
       "stars": 137541
+    },
+    {
+      "date": "2026-09-07",
+      "stars": 138013
     }
   ],
   "links": {

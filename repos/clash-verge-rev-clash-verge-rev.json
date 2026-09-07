@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 142516,
-  "forks": 10250,
-  "openIssues": 418,
-  "pushedAt": "2026-09-06T02:02:07Z",
+  "stars": 142735,
+  "forks": 10263,
+  "openIssues": 420,
+  "pushedAt": "2026-09-07T02:04:12Z",
   "topics": [
     "clash",
     "clash-meta",
@@ -23,16 +23,17 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 1462,
+  "starDelta7d": 1483,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
   "languages": {
-    "TypeScript": 0.47,
-    "Rust": 0.46,
-    "JavaScript": 0.05,
+    "TypeScript": 0.46,
+    "Rust": 0.45,
+    "JavaScript": 0.06,
     "NSIS": 0.02,
     "SCSS": 0,
     "Shell": 0,
-    "HTML": 0
+    "HTML": 0,
+    "C": 0
   },
   "readmeExcerpt": "Continuation of Clash Verge",
   "summary": {
@@ -410,6 +411,10 @@
     {
       "date": "2026-09-06",
       "stars": 142516
+    },
+    {
+      "date": "2026-09-07",
+      "stars": 142735
     }
   ],
   "links": {
