@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 389074,
-  "forks": 81761,
-  "openIssues": 6242,
-  "pushedAt": "2026-09-07T07:19:04Z",
+  "stars": 389181,
+  "forks": 81775,
+  "openIssues": 6343,
+  "pushedAt": "2026-09-08T07:14:41Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,11 +22,11 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 923,
+  "starDelta7d": 784,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.91,
-    "Swift": 0.05,
+    "Swift": 0.04,
     "Kotlin": 0.02,
     "JavaScript": 0.01,
     "Shell": 0.01,
@@ -36,13 +36,13 @@
     "Go": 0,
     "Ruby": 0,
     "PowerShell": 0,
-    "HTML": 0,
     "Dockerfile": 0,
+    "HTML": 0,
     "Objective-C": 0,
     "C": 0,
     "Lobster": 0
   },
-  "readmeExcerpt": "OpenClaw is an AI assistant that runs on your devices and meets you in the channels you already use. It connects models, tools, messaging channels, and optional companion apps through one Gateway, for a single operator or for a team whose members trust each other: the same gateway runs as a personal assistant on one laptop or as a shared team deployment, and configuration is the only difference. The architecture case — trusted gateway, untrusted execution, deterministic policy — is in Why Ope...",
+  "readmeExcerpt": "OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux. One Gateway runs it as a personal assistant on a laptop or as a shared team deployment; configuration is the only difference.",
   "summary": {
     "mode": "template",
     "text": "openclaw is a TypeScript project focused on The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 . It is tagged with ai, assistant, and crustacean."
@@ -422,6 +422,10 @@
     {
       "date": "2026-09-07",
       "stars": 389074
+    },
+    {
+      "date": "2026-09-08",
+      "stars": 389181
     }
   ],
   "links": {

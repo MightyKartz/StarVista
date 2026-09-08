@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 106844,
-  "forks": 14535,
-  "openIssues": 836,
-  "pushedAt": "2026-09-07T01:27:16Z",
+  "stars": 106860,
+  "forks": 14540,
+  "openIssues": 830,
+  "pushedAt": "2026-09-08T01:26:08Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 91,
+  "starDelta7d": 104,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
     "TypeScript": 0.97,
@@ -40,6 +40,11 @@
     "text": "gemini-cli is a TypeScript project focused on An open-source AI agent that brings the power of Gemini directly into your terminal. It is tagged with ai, ai-agents, and cli."
   },
   "releases": [
+    {
+      "tag": "v0.60.0-nightly.20260908.g85aca163f",
+      "name": "Release v0.60.0-nightly.20260908.g85aca163f",
+      "publishedAt": "2026-09-08T01:26:09Z"
+    },
     {
       "tag": "v0.60.0-nightly.20260907.g85aca163f",
       "name": "Release v0.60.0-nightly.20260907.g85aca163f",
@@ -59,11 +64,6 @@
       "tag": "v0.60.0-nightly.20260904.g87a9c71d5",
       "name": "Release v0.60.0-nightly.20260904.g87a9c71d5",
       "publishedAt": "2026-09-04T01:40:22Z"
-    },
-    {
-      "tag": "v0.59.0-nightly.20260902.g4963a4456",
-      "name": "Release v0.59.0-nightly.20260902.g4963a4456",
-      "publishedAt": "2026-09-02T01:29:10Z"
     }
   ],
   "starHistory": [
@@ -414,6 +414,10 @@
     {
       "date": "2026-09-07",
       "stars": 106844
+    },
+    {
+      "date": "2026-09-08",
+      "stars": 106860
     }
   ],
   "links": {
