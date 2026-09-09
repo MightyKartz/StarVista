@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 129003,
-  "forks": 12484,
-  "openIssues": 1,
-  "pushedAt": "2026-09-02T19:38:53Z",
+  "stars": 129020,
+  "forks": 12481,
+  "openIssues": 3,
+  "pushedAt": "2026-09-09T07:11:11Z",
   "topics": [
     "astro",
     "awesome-list",
@@ -28,7 +28,7 @@
   ],
   "license": "CC-BY-4.0",
   "activity": "active",
-  "starDelta7d": 122,
+  "starDelta7d": 120,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8281875?v=4",
   "languages": {
     "JavaScript": 0.65,
@@ -422,6 +422,10 @@
     {
       "date": "2026-09-08",
       "stars": 129003
+    },
+    {
+      "date": "2026-09-09",
+      "stars": 129020
     }
   ],
   "links": {

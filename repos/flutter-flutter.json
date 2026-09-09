@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Dart",
   "languageColor": null,
-  "stars": 178842,
+  "stars": 178864,
   "forks": 31073,
-  "openIssues": 13134,
-  "pushedAt": "2026-09-08T06:40:19Z",
+  "openIssues": 13116,
+  "pushedAt": "2026-09-09T05:11:53Z",
   "topics": [
     "android",
     "app-framework",
@@ -34,7 +34,7 @@
   ],
   "license": "BSD-3-Clause",
   "activity": "active",
-  "starDelta7d": 105,
+  "starDelta7d": 122,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4",
   "languages": {
     "Dart": 0.75,
@@ -43,7 +43,7 @@
     "Java": 0.03,
     "Objective-C": 0.01,
     "C": 0.01,
-    "Kotlin": 0,
+    "Kotlin": 0.01,
     "Go Template": 0,
     "Python": 0,
     "GLSL": 0,
@@ -443,6 +443,10 @@
     {
       "date": "2026-09-08",
       "stars": 178842
+    },
+    {
+      "date": "2026-09-09",
+      "stars": 178864
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 253251,
-  "forks": 37983,
-  "openIssues": 172,
-  "pushedAt": "2026-09-07T22:36:32Z",
+  "stars": 254585,
+  "forks": 38140,
+  "openIssues": 191,
+  "pushedAt": "2026-09-09T07:16:00Z",
   "topics": [
     "ai-agents",
     "anthropic",
@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 7830,
+  "starDelta7d": 8696,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
   "languages": {
     "JavaScript": 0.72,
@@ -43,6 +43,11 @@
   },
   "releases": [
     {
+      "tag": "v2.2.1",
+      "name": "v2.2.1",
+      "publishedAt": "2026-09-08T17:52:08Z"
+    },
+    {
       "tag": "v2.2.0",
       "name": "ECC 2.2.0: Guided Setup, Antigravity 2.0, and the Nasiko CLI Bridge",
       "publishedAt": "2026-08-28T19:55:05Z"
@@ -61,11 +66,6 @@
       "tag": "v2.0.0-rc.1",
       "name": "v2.0.0-rc.1",
       "publishedAt": "2026-05-25T18:29:31Z"
-    },
-    {
-      "tag": "v1.10.0",
-      "name": "ECC v1.10.0 — Surface Refresh, Operator Workflows, and ECC 2.0 Alpha",
-      "publishedAt": "2026-04-05T20:20:57Z"
     }
   ],
   "starHistory": [
@@ -420,6 +420,10 @@
     {
       "date": "2026-09-08",
       "stars": 253251
+    },
+    {
+      "date": "2026-09-09",
+      "stars": 254585
     }
   ],
   "links": {
