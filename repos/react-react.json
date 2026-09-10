@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 249673,
-  "forks": 51315,
-  "openIssues": 1350,
-  "pushedAt": "2026-09-08T23:18:55Z",
+  "stars": 249643,
+  "forks": 51322,
+  "openIssues": 1357,
+  "pushedAt": "2026-09-09T17:37:19Z",
   "topics": [
     "declarative",
     "frontend",
@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1024,
+  "starDelta7d": 972,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102812?v=4",
   "languages": {
     "JavaScript": 0.5,
@@ -38,6 +38,11 @@
     "text": "react is a JavaScript project focused on The library for web and native user interfaces. It is tagged with declarative, frontend, and javascript."
   },
   "releases": [
+    {
+      "tag": "v19.3.0",
+      "name": "19.3.0 (September 9, 2026)",
+      "publishedAt": "2026-09-09T18:01:33Z"
+    },
     {
       "tag": "v19.2.8",
       "name": "19.2.8 (July 21st, 2026)",
@@ -57,11 +62,6 @@
       "tag": "v19.2.7",
       "name": "19.2.7 (June 1st, 2026)",
       "publishedAt": "2026-06-01T18:04:24Z"
-    },
-    {
-      "tag": "v19.1.8",
-      "name": "19.1.8 (June 1st, 2026)",
-      "publishedAt": "2026-06-01T18:04:14Z"
     }
   ],
   "starHistory": [
@@ -420,6 +420,10 @@
     {
       "date": "2026-09-09",
       "stars": 249673
+    },
+    {
+      "date": "2026-09-10",
+      "stars": 249643
     }
   ],
   "links": {

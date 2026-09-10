@@ -5,12 +5,12 @@
   "name": "clash-verge-rev",
   "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
   "archived": false,
-  "primaryLanguage": "TypeScript",
-  "languageColor": "#3178c6",
-  "stars": 143256,
-  "forks": 10313,
-  "openIssues": 421,
-  "pushedAt": "2026-09-09T04:17:02Z",
+  "primaryLanguage": "Rust",
+  "languageColor": "#dea584",
+  "stars": 143490,
+  "forks": 10329,
+  "openIssues": 419,
+  "pushedAt": "2026-09-10T04:17:27Z",
   "topics": [
     "clash",
     "clash-meta",
@@ -23,22 +23,22 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 1602,
+  "starDelta7d": 1632,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
   "languages": {
+    "Rust": 0.46,
     "TypeScript": 0.46,
-    "Rust": 0.45,
     "JavaScript": 0.06,
     "NSIS": 0.02,
-    "SCSS": 0,
     "Shell": 0,
+    "SCSS": 0,
     "HTML": 0,
     "C": 0
   },
   "readmeExcerpt": "Continuation of Clash Verge",
   "summary": {
     "mode": "template",
-    "text": "clash-verge-rev is a TypeScript project focused on A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience. It is tagged with clash, clash-meta, and clash-verge."
+    "text": "clash-verge-rev is a Rust project focused on A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience. It is tagged with clash, clash-meta, and clash-verge."
   },
   "releases": [
     {
@@ -423,6 +423,10 @@
     {
       "date": "2026-09-09",
       "stars": 143256
+    },
+    {
+      "date": "2026-09-10",
+      "stars": 143490
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 389262,
-  "forks": 81806,
-  "openIssues": 6447,
-  "pushedAt": "2026-09-09T07:22:44Z",
+  "stars": 389333,
+  "forks": 81821,
+  "openIssues": 6583,
+  "pushedAt": "2026-09-10T07:17:59Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 699,
+  "starDelta7d": 655,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -49,6 +49,11 @@
   },
   "releases": [
     {
+      "tag": "v2026.6.35",
+      "name": "openclaw 2026.6.35",
+      "publishedAt": "2026-09-10T06:39:30Z"
+    },
+    {
       "tag": "v2026.9.3",
       "name": "openclaw 2026.9.3",
       "publishedAt": "2026-09-08T14:15:53Z"
@@ -67,11 +72,6 @@
       "tag": "v2026.8.2",
       "name": "openclaw 2026.8.2",
       "publishedAt": "2026-09-01T16:00:56Z"
-    },
-    {
-      "tag": "v2026.8.1",
-      "name": "OpenClaw 2026.8.1",
-      "publishedAt": "2026-08-31T03:30:51Z"
     }
   ],
   "starHistory": [
@@ -430,6 +430,10 @@
     {
       "date": "2026-09-09",
       "stars": 389262
+    },
+    {
+      "date": "2026-09-10",
+      "stars": 389333
     }
   ],
   "links": {

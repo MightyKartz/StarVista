@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 129020,
+  "stars": 129032,
   "forks": 12481,
-  "openIssues": 3,
-  "pushedAt": "2026-09-09T07:11:11Z",
+  "openIssues": 5,
+  "pushedAt": "2026-09-10T02:17:20Z",
   "topics": [
     "astro",
     "awesome-list",
@@ -28,15 +28,15 @@
   ],
   "license": "CC-BY-4.0",
   "activity": "active",
-  "starDelta7d": 120,
+  "starDelta7d": 123,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8281875?v=4",
   "languages": {
-    "JavaScript": 0.65,
+    "JavaScript": 0.64,
     "SCSS": 0.26,
     "Astro": 0.08,
+    "TypeScript": 0.01,
     "CSS": 0,
-    "Shell": 0,
-    "TypeScript": 0
+    "Shell": 0
   },
   "readmeExcerpt": "> Coding articles to level up your development skills",
   "summary": {
@@ -426,6 +426,10 @@
     {
       "date": "2026-09-09",
       "stars": 129020
+    },
+    {
+      "date": "2026-09-10",
+      "stars": 129032
     }
   ],
   "links": {
