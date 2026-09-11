@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 122956,
-  "forks": 18918,
-  "openIssues": 16382,
-  "pushedAt": "2026-09-10T06:06:36Z",
+  "stars": 123199,
+  "forks": 18967,
+  "openIssues": 16576,
+  "pushedAt": "2026-09-11T07:13:34Z",
   "topics": [],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1892,
+  "starDelta7d": 1832,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
   "languages": {
     "Rust": 0.97,
@@ -40,29 +40,29 @@
   },
   "releases": [
     {
-      "tag": "rust-v0.154.0",
-      "name": "0.154.0",
-      "publishedAt": "2026-09-09T22:35:38Z"
+      "tag": "rust-v0.155.0-alpha.3",
+      "name": "0.155.0-alpha.3",
+      "publishedAt": "2026-09-11T02:35:52Z"
     },
     {
-      "tag": "rust-v0.154.0-alpha.6.1",
-      "name": "0.154.0-alpha.6.1",
-      "publishedAt": "2026-09-09T11:51:56Z"
+      "tag": "rust-v0.154.0-alpha.6.2",
+      "name": "0.154.0-alpha.6.2",
+      "publishedAt": "2026-09-11T01:25:48Z"
     },
     {
-      "tag": "rust-v0.154.0-alpha.11",
-      "name": "0.154.0-alpha.11",
-      "publishedAt": "2026-09-09T09:14:16Z"
+      "tag": "python-v0.154.0",
+      "name": "Python SDK 0.154.0",
+      "publishedAt": "2026-09-10T19:51:43Z"
     },
     {
-      "tag": "rust-v0.154.0-alpha.10.2",
-      "name": "0.154.0-alpha.10.2",
-      "publishedAt": "2026-09-09T07:55:45Z"
+      "tag": "voice-cygwin-108b38cf67cbb731",
+      "name": "Cygwin build inputs and matching source for Windows voice",
+      "publishedAt": "2026-09-10T20:19:50Z"
     },
     {
-      "tag": "rust-v0.154.0-alpha.8",
-      "name": "0.154.0-alpha.8",
-      "publishedAt": "2026-09-08T23:15:41Z"
+      "tag": "rust-v0.155.0-alpha.2.3",
+      "name": "0.155.0-alpha.2.3",
+      "publishedAt": "2026-09-11T00:28:26Z"
     }
   ],
   "starHistory": [
@@ -417,6 +417,10 @@
     {
       "date": "2026-09-10",
       "stars": 122956
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 123199
     }
   ],
   "links": {

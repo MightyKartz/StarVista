@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Batchfile",
   "languageColor": null,
-  "stars": 185747,
-  "forks": 17782,
-  "openIssues": 3,
-  "pushedAt": "2026-07-04T16:54:38Z",
+  "stars": 190117,
+  "forks": 18110,
+  "openIssues": 10,
+  "pushedAt": "2026-09-10T22:33:44Z",
   "topics": [
     "activator",
     "hwid",
@@ -30,8 +30,8 @@
     "windows-11"
   ],
   "license": "GPL-3.0",
-  "activity": "stable",
-  "starDelta7d": 0,
+  "activity": "active",
+  "starDelta7d": 4370,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59795046?v=4",
   "languages": {
     "Batchfile": 1,
@@ -251,10 +251,6 @@
       "stars": 184645
     },
     {
-      "date": "2026-07-28",
-      "stars": 184744
-    },
-    {
       "date": "2026-07-29",
       "stars": 184853
     },
@@ -429,6 +425,10 @@
     {
       "date": "2026-09-10",
       "stars": 185747
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 190117
     }
   ],
   "links": {
