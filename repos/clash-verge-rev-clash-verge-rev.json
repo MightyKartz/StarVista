@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 143705,
-  "forks": 10348,
-  "openIssues": 419,
-  "pushedAt": "2026-09-11T05:41:09Z",
+  "stars": 143925,
+  "forks": 10360,
+  "openIssues": 422,
+  "pushedAt": "2026-09-12T05:49:10Z",
   "topics": [
     "clash",
     "clash-meta",
@@ -23,11 +23,11 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 1623,
+  "starDelta7d": 1616,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
   "languages": {
     "Rust": 0.46,
-    "TypeScript": 0.46,
+    "TypeScript": 0.45,
     "JavaScript": 0.06,
     "NSIS": 0.02,
     "Shell": 0,
@@ -161,10 +161,6 @@
       "stars": 129626
     },
     {
-      "date": "2026-07-06",
-      "stars": 129805
-    },
-    {
       "date": "2026-07-07",
       "stars": 129979
     },
@@ -247,6 +243,10 @@
     {
       "date": "2026-07-27",
       "stars": 133949
+    },
+    {
+      "date": "2026-07-28",
+      "stars": 134137
     },
     {
       "date": "2026-07-29",
@@ -337,10 +337,6 @@
       "stars": 138679
     },
     {
-      "date": "2026-08-20",
-      "stars": 138916
-    },
-    {
       "date": "2026-08-21",
       "stars": 139125
     },
@@ -427,6 +423,10 @@
     {
       "date": "2026-09-11",
       "stars": 143705
+    },
+    {
+      "date": "2026-09-12",
+      "stars": 143925
     }
   ],
   "links": {

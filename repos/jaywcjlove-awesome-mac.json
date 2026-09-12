@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Swift",
   "languageColor": "#f05138",
-  "stars": 113513,
-  "forks": 8785,
-  "openIssues": 852,
-  "pushedAt": "2026-09-11T03:31:53Z",
+  "stars": 113609,
+  "forks": 8796,
+  "openIssues": 863,
+  "pushedAt": "2026-09-11T10:45:30Z",
   "topics": [
     "app",
     "apple",
@@ -18,7 +18,6 @@
     "apps",
     "awesome",
     "awesome-list",
-    "awesome-lists",
     "awesome-mac",
     "desktop-app",
     "desktop-application",
@@ -30,11 +29,13 @@
     "macos-app",
     "macos-apps",
     "macosx",
-    "software"
+    "software",
+    "swift",
+    "swiftui"
   ],
   "license": "CC0-1.0",
   "activity": "active",
-  "starDelta7d": 1100,
+  "starDelta7d": 1113,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4",
   "languages": {
     "Swift": 0.99,
@@ -166,10 +167,6 @@
       "stars": 106718
     },
     {
-      "date": "2026-07-06",
-      "stars": 106774
-    },
-    {
       "date": "2026-07-07",
       "stars": 106827
     },
@@ -252,6 +249,10 @@
     {
       "date": "2026-07-27",
       "stars": 108730
+    },
+    {
+      "date": "2026-07-28",
+      "stars": 108782
     },
     {
       "date": "2026-07-29",
@@ -342,10 +343,6 @@
       "stars": 111389
     },
     {
-      "date": "2026-08-20",
-      "stars": 111455
-    },
-    {
       "date": "2026-08-21",
       "stars": 111509
     },
@@ -432,6 +429,10 @@
     {
       "date": "2026-09-11",
       "stars": 113513
+    },
+    {
+      "date": "2026-09-12",
+      "stars": 113609
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 132259,
-  "forks": 9116,
-  "openIssues": 2647,
-  "pushedAt": "2026-09-11T03:47:30Z",
+  "stars": 132419,
+  "forks": 9132,
+  "openIssues": 2669,
+  "pushedAt": "2026-09-11T15:33:41Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1263,
+  "starDelta7d": 1300,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.65,
@@ -50,6 +50,11 @@
     "text": "cc-switch is a Rust project focused on A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io. It is tagged with ai-tools, claude-code, and codex."
   },
   "releases": [
+    {
+      "tag": "v3.20.3",
+      "name": "CC Switch v3.20.3",
+      "publishedAt": "2026-09-11T16:10:52Z"
+    },
     {
       "tag": "v3.20.2",
       "name": "CC Switch v3.20.2",
@@ -69,11 +74,6 @@
       "tag": "v3.19.2",
       "name": "CC Switch v3.19.2",
       "publishedAt": "2026-08-06T04:39:34Z"
-    },
-    {
-      "tag": "v3.19.1",
-      "name": "CC Switch v3.19.1",
-      "publishedAt": "2026-07-31T14:53:23Z"
     }
   ],
   "starHistory": [
@@ -170,10 +170,6 @@
       "stars": 113274
     },
     {
-      "date": "2026-07-06",
-      "stars": 113655
-    },
-    {
       "date": "2026-07-07",
       "stars": 114087
     },
@@ -256,6 +252,10 @@
     {
       "date": "2026-07-27",
       "stars": 121480
+    },
+    {
+      "date": "2026-07-28",
+      "stars": 121802
     },
     {
       "date": "2026-07-29",
@@ -346,10 +346,6 @@
       "stars": 128121
     },
     {
-      "date": "2026-08-20",
-      "stars": 128332
-    },
-    {
       "date": "2026-08-21",
       "stars": 128545
     },
@@ -436,6 +432,10 @@
     {
       "date": "2026-09-11",
       "stars": 132259
+    },
+    {
+      "date": "2026-09-12",
+      "stars": 132419
     }
   ],
   "links": {

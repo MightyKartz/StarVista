@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 123199,
-  "forks": 18967,
-  "openIssues": 16576,
-  "pushedAt": "2026-09-11T07:13:34Z",
+  "stars": 123479,
+  "forks": 19008,
+  "openIssues": 16739,
+  "pushedAt": "2026-09-12T05:04:25Z",
   "topics": [],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1832,
+  "starDelta7d": 1870,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
   "languages": {
     "Rust": 0.97,
@@ -40,29 +40,29 @@
   },
   "releases": [
     {
+      "tag": "rust-v0.155.0-alpha.3.9",
+      "name": "0.155.0-alpha.3.9",
+      "publishedAt": "2026-09-11T11:51:30Z"
+    },
+    {
+      "tag": "rust-v0.155.0-alpha.3.8",
+      "name": "0.155.0-alpha.3.8",
+      "publishedAt": "2026-09-11T09:18:04Z"
+    },
+    {
+      "tag": "rust-v0.155.0-alpha.3.7",
+      "name": "0.155.0-alpha.3.7",
+      "publishedAt": "2026-09-11T07:58:14Z"
+    },
+    {
+      "tag": "rust-v0.155.0-alpha.3.10",
+      "name": "0.155.0-alpha.3.10",
+      "publishedAt": "2026-09-11T15:52:58Z"
+    },
+    {
       "tag": "rust-v0.155.0-alpha.3",
       "name": "0.155.0-alpha.3",
       "publishedAt": "2026-09-11T02:35:52Z"
-    },
-    {
-      "tag": "rust-v0.154.0-alpha.6.2",
-      "name": "0.154.0-alpha.6.2",
-      "publishedAt": "2026-09-11T01:25:48Z"
-    },
-    {
-      "tag": "python-v0.154.0",
-      "name": "Python SDK 0.154.0",
-      "publishedAt": "2026-09-10T19:51:43Z"
-    },
-    {
-      "tag": "voice-cygwin-108b38cf67cbb731",
-      "name": "Cygwin build inputs and matching source for Windows voice",
-      "publishedAt": "2026-09-10T20:19:50Z"
-    },
-    {
-      "tag": "rust-v0.155.0-alpha.2.3",
-      "name": "0.155.0-alpha.2.3",
-      "publishedAt": "2026-09-11T00:28:26Z"
     }
   ],
   "starHistory": [
@@ -421,6 +421,10 @@
     {
       "date": "2026-09-11",
       "stars": 123199
+    },
+    {
+      "date": "2026-09-12",
+      "stars": 123479
     }
   ],
   "links": {

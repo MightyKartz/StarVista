@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 389417,
-  "forks": 81852,
-  "openIssues": 6720,
-  "pushedAt": "2026-09-11T07:16:54Z",
+  "stars": 389479,
+  "forks": 81874,
+  "openIssues": 6919,
+  "pushedAt": "2026-09-12T07:08:44Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 617,
+  "starDelta7d": 577,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -38,6 +38,7 @@
     "PowerShell": 0,
     "Dockerfile": 0,
     "HTML": 0,
+    "QML": 0,
     "Objective-C": 0,
     "C": 0,
     "Lobster": 0
@@ -168,10 +169,6 @@
       "stars": 381765
     },
     {
-      "date": "2026-07-06",
-      "stars": 381869
-    },
-    {
       "date": "2026-07-07",
       "stars": 381997
     },
@@ -254,6 +251,10 @@
     {
       "date": "2026-07-27",
       "stars": 384259
+    },
+    {
+      "date": "2026-07-28",
+      "stars": 384380
     },
     {
       "date": "2026-07-29",
@@ -344,10 +345,6 @@
       "stars": 386690
     },
     {
-      "date": "2026-08-20",
-      "stars": 386808
-    },
-    {
       "date": "2026-08-21",
       "stars": 386932
     },
@@ -434,6 +431,10 @@
     {
       "date": "2026-09-11",
       "stars": 389417
+    },
+    {
+      "date": "2026-09-12",
+      "stars": 389479
     }
   ],
   "links": {

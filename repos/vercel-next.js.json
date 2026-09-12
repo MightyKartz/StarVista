@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 142231,
-  "forks": 31903,
-  "openIssues": 3343,
-  "pushedAt": "2026-09-11T07:06:12Z",
+  "stars": 142248,
+  "forks": 31906,
+  "openIssues": 3350,
+  "pushedAt": "2026-09-12T06:25:10Z",
   "topics": [
     "blog",
     "browser",
@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 146,
+  "starDelta7d": 153,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
   "languages": {
     "JavaScript": 0.51,
@@ -55,6 +55,16 @@
   },
   "releases": [
     {
+      "tag": "v16.4.0-canary.27",
+      "name": "v16.4.0-canary.27",
+      "publishedAt": "2026-09-11T23:43:04Z"
+    },
+    {
+      "tag": "v16.3.5",
+      "name": "v16.3.5",
+      "publishedAt": "2026-09-11T19:15:50Z"
+    },
+    {
       "tag": "v16.4.0-canary.26",
       "name": "v16.4.0-canary.26",
       "publishedAt": "2026-09-10T23:42:29Z"
@@ -68,16 +78,6 @@
       "tag": "v16.4.0-canary.24",
       "name": "v16.4.0-canary.24",
       "publishedAt": "2026-09-09T16:30:57Z"
-    },
-    {
-      "tag": "v16.4.0-canary.23",
-      "name": "v16.4.0-canary.23",
-      "publishedAt": "2026-09-09T15:09:57Z"
-    },
-    {
-      "tag": "v16.4.0-canary.22",
-      "name": "v16.4.0-canary.22",
-      "publishedAt": "2026-09-08T23:43:20Z"
     }
   ],
   "starHistory": [
@@ -174,10 +174,6 @@
       "stars": 140330
     },
     {
-      "date": "2026-07-06",
-      "stars": 140355
-    },
-    {
       "date": "2026-07-07",
       "stars": 140375
     },
@@ -260,6 +256,10 @@
     {
       "date": "2026-07-27",
       "stars": 141150
+    },
+    {
+      "date": "2026-07-28",
+      "stars": 141167
     },
     {
       "date": "2026-07-29",
@@ -350,10 +350,6 @@
       "stars": 141857
     },
     {
-      "date": "2026-08-20",
-      "stars": 141871
-    },
-    {
       "date": "2026-08-21",
       "stars": 141882
     },
@@ -440,6 +436,10 @@
     {
       "date": "2026-09-11",
       "stars": 142231
+    },
+    {
+      "date": "2026-09-12",
+      "stars": 142248
     }
   ],
   "links": {
