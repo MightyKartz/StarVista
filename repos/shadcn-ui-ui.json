@@ -3,14 +3,14 @@
   "slug": "shadcn-ui-ui",
   "owner": "shadcn-ui",
   "name": "ui",
-  "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+  "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 123605,
-  "forks": 10148,
-  "openIssues": 1976,
-  "pushedAt": "2026-09-11T09:00:12Z",
+  "stars": 123664,
+  "forks": 10157,
+  "openIssues": 1842,
+  "pushedAt": "2026-09-12T13:26:36Z",
   "topics": [
     "base-ui",
     "components",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 545,
+  "starDelta7d": 527,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
   "languages": {
     "TypeScript": 0.87,
@@ -43,7 +43,7 @@
   "readmeExcerpt": "A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source. Open Code. Use this to build your own component library.",
   "summary": {
     "mode": "template",
-    "text": "ui is a TypeScript project focused on A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. It is tagged with base-ui, components, and laravel."
+    "text": "ui is a TypeScript project focused on Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. It is tagged with base-ui, components, and laravel."
   },
   "releases": [
     {
@@ -73,10 +73,6 @@
     }
   ],
   "starHistory": [
-    {
-      "date": "2026-06-13",
-      "stars": 116435
-    },
     {
       "date": "2026-06-14",
       "stars": 116519
@@ -166,8 +162,8 @@
       "stars": 118092
     },
     {
-      "date": "2026-07-07",
-      "stars": 118289
+      "date": "2026-07-06",
+      "stars": 118190
     },
     {
       "date": "2026-07-08",
@@ -342,8 +338,8 @@
       "stars": 121607
     },
     {
-      "date": "2026-08-21",
-      "stars": 121739
+      "date": "2026-08-20",
+      "stars": 121675
     },
     {
       "date": "2026-08-22",
@@ -432,6 +428,10 @@
     {
       "date": "2026-09-12",
       "stars": 123605
+    },
+    {
+      "date": "2026-09-13",
+      "stars": 123664
     }
   ],
   "links": {

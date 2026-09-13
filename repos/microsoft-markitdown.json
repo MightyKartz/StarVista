@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 182767,
-  "forks": 13441,
-  "openIssues": 634,
-  "pushedAt": "2026-09-11T22:53:02Z",
+  "stars": 183356,
+  "forks": 13488,
+  "openIssues": 639,
+  "pushedAt": "2026-09-12T20:25:34Z",
   "topics": [
     "autogen",
     "autogen-extension",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 4549,
+  "starDelta7d": 4971,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "Python": 1,
@@ -61,10 +61,6 @@
     }
   ],
   "starHistory": [
-    {
-      "date": "2026-06-13",
-      "stars": 152172
-    },
     {
       "date": "2026-06-14",
       "stars": 152883
@@ -154,8 +150,8 @@
       "stars": 163004
     },
     {
-      "date": "2026-07-07",
-      "stars": 163541
+      "date": "2026-07-06",
+      "stars": 163252
     },
     {
       "date": "2026-07-08",
@@ -330,8 +326,8 @@
       "stars": 174534
     },
     {
-      "date": "2026-08-21",
-      "stars": 174995
+      "date": "2026-08-20",
+      "stars": 174733
     },
     {
       "date": "2026-08-22",
@@ -420,6 +416,10 @@
     {
       "date": "2026-09-12",
       "stars": 182767
+    },
+    {
+      "date": "2026-09-13",
+      "stars": 183356
     }
   ],
   "links": {

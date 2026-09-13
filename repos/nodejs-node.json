@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 121595,
-  "forks": 36720,
-  "openIssues": 1220,
-  "pushedAt": "2026-09-12T05:15:39Z",
+  "stars": 121602,
+  "forks": 36736,
+  "openIssues": 1195,
+  "pushedAt": "2026-09-13T01:00:18Z",
   "topics": [
     "javascript",
     "js",
@@ -24,7 +24,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 965,
+  "starDelta7d": 935,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9950313?v=4",
   "languages": {
     "JavaScript": 0.66,
@@ -76,10 +76,6 @@
     }
   ],
   "starHistory": [
-    {
-      "date": "2026-06-13",
-      "stars": 117740
-    },
     {
       "date": "2026-06-14",
       "stars": 117760
@@ -169,8 +165,8 @@
       "stars": 118063
     },
     {
-      "date": "2026-07-07",
-      "stars": 118096
+      "date": "2026-07-06",
+      "stars": 118087
     },
     {
       "date": "2026-07-08",
@@ -345,8 +341,8 @@
       "stars": 119012
     },
     {
-      "date": "2026-08-21",
-      "stars": 119053
+      "date": "2026-08-20",
+      "stars": 119020
     },
     {
       "date": "2026-08-22",
@@ -435,6 +431,10 @@
     {
       "date": "2026-09-12",
       "stars": 121595
+    },
+    {
+      "date": "2026-09-13",
+      "stars": 121602
     }
   ],
   "links": {

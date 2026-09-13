@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 189679,
-  "forks": 26574,
+  "stars": 189703,
+  "forks": 26572,
   "openIssues": 334,
-  "pushedAt": "2026-09-11T16:24:46Z",
+  "pushedAt": "2026-09-13T06:30:02Z",
   "topics": [
     "cli",
     "cli-app",
@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 127,
+  "starDelta7d": 135,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/22552083?v=4",
   "languages": {
     "Shell": 0.99,
@@ -44,10 +44,6 @@
   },
   "releases": [],
   "starHistory": [
-    {
-      "date": "2026-06-13",
-      "stars": 187960
-    },
     {
       "date": "2026-06-14",
       "stars": 187997
@@ -137,8 +133,8 @@
       "stars": 188358
     },
     {
-      "date": "2026-07-07",
-      "stars": 188443
+      "date": "2026-07-06",
+      "stars": 188415
     },
     {
       "date": "2026-07-08",
@@ -313,8 +309,8 @@
       "stars": 189252
     },
     {
-      "date": "2026-08-21",
-      "stars": 189278
+      "date": "2026-08-20",
+      "stars": 189270
     },
     {
       "date": "2026-08-22",
@@ -403,6 +399,10 @@
     {
       "date": "2026-09-12",
       "stars": 189679
+    },
+    {
+      "date": "2026-09-13",
+      "stars": 189703
     }
   ],
   "links": {

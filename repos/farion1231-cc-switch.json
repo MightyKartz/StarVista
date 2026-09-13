@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 132419,
-  "forks": 9132,
-  "openIssues": 2669,
-  "pushedAt": "2026-09-11T15:33:41Z",
+  "stars": 132575,
+  "forks": 9142,
+  "openIssues": 2693,
+  "pushedAt": "2026-09-12T12:29:06Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1300,
+  "starDelta7d": 1327,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.65,
@@ -77,10 +77,6 @@
     }
   ],
   "starHistory": [
-    {
-      "date": "2026-06-13",
-      "stars": 99464
-    },
     {
       "date": "2026-06-14",
       "stars": 100216
@@ -170,8 +166,8 @@
       "stars": 113274
     },
     {
-      "date": "2026-07-07",
-      "stars": 114087
+      "date": "2026-07-06",
+      "stars": 113655
     },
     {
       "date": "2026-07-08",
@@ -346,8 +342,8 @@
       "stars": 128121
     },
     {
-      "date": "2026-08-21",
-      "stars": 128545
+      "date": "2026-08-20",
+      "stars": 128332
     },
     {
       "date": "2026-08-22",
@@ -436,6 +432,10 @@
     {
       "date": "2026-09-12",
       "stars": 132419
+    },
+    {
+      "date": "2026-09-13",
+      "stars": 132575
     }
   ],
   "links": {

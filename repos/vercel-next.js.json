@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 142248,
+  "stars": 142264,
   "forks": 31906,
-  "openIssues": 3350,
-  "pushedAt": "2026-09-12T06:25:10Z",
+  "openIssues": 3355,
+  "pushedAt": "2026-09-13T00:23:37Z",
   "topics": [
     "blog",
     "browser",
@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 153,
+  "starDelta7d": 133,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
   "languages": {
     "JavaScript": 0.51,
@@ -55,6 +55,11 @@
   },
   "releases": [
     {
+      "tag": "v16.4.0-canary.28",
+      "name": "v16.4.0-canary.28",
+      "publishedAt": "2026-09-12T23:43:37Z"
+    },
+    {
       "tag": "v16.4.0-canary.27",
       "name": "v16.4.0-canary.27",
       "publishedAt": "2026-09-11T23:43:04Z"
@@ -73,18 +78,9 @@
       "tag": "v16.4.0-canary.25",
       "name": "v16.4.0-canary.25",
       "publishedAt": "2026-09-09T23:46:52Z"
-    },
-    {
-      "tag": "v16.4.0-canary.24",
-      "name": "v16.4.0-canary.24",
-      "publishedAt": "2026-09-09T16:30:57Z"
     }
   ],
   "starHistory": [
-    {
-      "date": "2026-06-13",
-      "stars": 139959
-    },
     {
       "date": "2026-06-14",
       "stars": 139990
@@ -174,8 +170,8 @@
       "stars": 140330
     },
     {
-      "date": "2026-07-07",
-      "stars": 140375
+      "date": "2026-07-06",
+      "stars": 140355
     },
     {
       "date": "2026-07-08",
@@ -350,8 +346,8 @@
       "stars": 141857
     },
     {
-      "date": "2026-08-21",
-      "stars": 141882
+      "date": "2026-08-20",
+      "stars": 141871
     },
     {
       "date": "2026-08-22",
@@ -440,6 +436,10 @@
     {
       "date": "2026-09-12",
       "stars": 142248
+    },
+    {
+      "date": "2026-09-13",
+      "stars": 142264
     }
   ],
   "links": {

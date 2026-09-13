@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 183872,
-  "forks": 13555,
-  "openIssues": 233,
-  "pushedAt": "2026-09-10T07:37:37Z",
+  "stars": 183978,
+  "forks": 13552,
+  "openIssues": 232,
+  "pushedAt": "2026-09-12T19:39:06Z",
   "topics": [
     "awesome",
     "awesome-list",
@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 688,
+  "starDelta7d": 693,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31996?v=4",
   "languages": {
     "Go": 1
@@ -33,10 +33,6 @@
   },
   "releases": [],
   "starHistory": [
-    {
-      "date": "2026-06-13",
-      "stars": 175281
-    },
     {
       "date": "2026-06-14",
       "stars": 175387
@@ -126,8 +122,8 @@
       "stars": 177183
     },
     {
-      "date": "2026-07-07",
-      "stars": 177402
+      "date": "2026-07-06",
+      "stars": 177298
     },
     {
       "date": "2026-07-08",
@@ -302,8 +298,8 @@
       "stars": 181447
     },
     {
-      "date": "2026-08-21",
-      "stars": 181737
+      "date": "2026-08-20",
+      "stars": 181603
     },
     {
       "date": "2026-08-22",
@@ -392,6 +388,10 @@
     {
       "date": "2026-09-12",
       "stars": 183872
+    },
+    {
+      "date": "2026-09-13",
+      "stars": 183978
     }
   ],
   "links": {

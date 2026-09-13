@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 118404,
-  "forks": 15554,
-  "openIssues": 12606,
-  "pushedAt": "2026-09-12T04:10:08Z",
+  "stars": 118480,
+  "forks": 15563,
+  "openIssues": 12624,
+  "pushedAt": "2026-09-13T05:55:54Z",
   "topics": [
     "compiler",
     "language",
@@ -18,7 +18,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 951,
+  "starDelta7d": 993,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5430905?v=4",
   "languages": {
     "Rust": 0.9,
@@ -80,10 +80,6 @@
     }
   ],
   "starHistory": [
-    {
-      "date": "2026-06-13",
-      "stars": 113785
-    },
     {
       "date": "2026-06-14",
       "stars": 113822
@@ -173,8 +169,8 @@
       "stars": 114325
     },
     {
-      "date": "2026-07-07",
-      "stars": 114414
+      "date": "2026-07-06",
+      "stars": 114400
     },
     {
       "date": "2026-07-08",
@@ -349,8 +345,8 @@
       "stars": 115599
     },
     {
-      "date": "2026-08-21",
-      "stars": 115659
+      "date": "2026-08-20",
+      "stars": 115611
     },
     {
       "date": "2026-08-22",
@@ -439,6 +435,10 @@
     {
       "date": "2026-09-12",
       "stars": 118404
+    },
+    {
+      "date": "2026-09-13",
+      "stars": 118480
     }
   ],
   "links": {

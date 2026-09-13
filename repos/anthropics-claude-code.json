@@ -7,18 +7,18 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 144798,
-  "forks": 23117,
-  "openIssues": 12541,
-  "pushedAt": "2026-09-11T19:17:55Z",
+  "stars": 144880,
+  "forks": 23133,
+  "openIssues": 12534,
+  "pushedAt": "2026-09-13T03:16:44Z",
   "topics": [],
   "license": null,
   "activity": "active",
-  "starDelta7d": 683,
+  "starDelta7d": 678,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
   "languages": {
-    "Python": 0.53,
-    "TypeScript": 0.37,
+    "Python": 0.52,
+    "TypeScript": 0.38,
     "Shell": 0.09,
     "PowerShell": 0.01,
     "Dockerfile": 0
@@ -29,6 +29,11 @@
     "text": "claude-code is a Python project focused on Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   "releases": [
+    {
+      "tag": "v2.1.270",
+      "name": "v2.1.270",
+      "publishedAt": "2026-09-12T19:45:44Z"
+    },
     {
       "tag": "v2.1.269",
       "name": "v2.1.269",
@@ -48,18 +53,9 @@
       "tag": "v2.1.266",
       "name": "v2.1.266",
       "publishedAt": "2026-09-08T23:55:14Z"
-    },
-    {
-      "tag": "v2.1.265",
-      "name": "v2.1.265",
-      "publishedAt": "2026-09-08T20:37:31Z"
     }
   ],
   "starHistory": [
-    {
-      "date": "2026-06-13",
-      "stars": 132091
-    },
     {
       "date": "2026-06-14",
       "stars": 132265
@@ -149,8 +145,8 @@
       "stars": 136111
     },
     {
-      "date": "2026-07-07",
-      "stars": 136598
+      "date": "2026-07-06",
+      "stars": 136402
     },
     {
       "date": "2026-07-08",
@@ -325,8 +321,8 @@
       "stars": 141915
     },
     {
-      "date": "2026-08-21",
-      "stars": 142167
+      "date": "2026-08-20",
+      "stars": 142043
     },
     {
       "date": "2026-08-22",
@@ -415,6 +411,10 @@
     {
       "date": "2026-09-12",
       "stars": 144798
+    },
+    {
+      "date": "2026-09-13",
+      "stars": 144880
     }
   ],
   "links": {
