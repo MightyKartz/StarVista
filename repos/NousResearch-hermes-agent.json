@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 244969,
-  "forks": 50867,
-  "openIssues": 42436,
-  "pushedAt": "2026-09-13T07:26:45Z",
+  "stars": 245263,
+  "forks": 51041,
+  "openIssues": 42886,
+  "pushedAt": "2026-09-14T07:51:01Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2843,
+  "starDelta7d": 2546,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.73,
@@ -54,8 +54,8 @@
     "BitBake": 0,
     "Io": 0,
     "Perl": 0,
-    "Berry": 0,
     "Ruby": 0,
+    "Berry": 0,
     "Charity": 0,
     "RenderScript": 0,
     "C++": 0,
@@ -156,10 +156,6 @@
       "stars": 204484
     },
     {
-      "date": "2026-06-29",
-      "stars": 205202
-    },
-    {
       "date": "2026-06-30",
       "stars": 205916
     },
@@ -186,6 +182,10 @@
     {
       "date": "2026-07-06",
       "stars": 209867
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 210530
     },
     {
       "date": "2026-07-08",
@@ -276,10 +276,6 @@
       "stars": 222000
     },
     {
-      "date": "2026-07-30",
-      "stars": 222449
-    },
-    {
       "date": "2026-07-31",
       "stars": 223017
     },
@@ -364,6 +360,10 @@
       "stars": 233101
     },
     {
+      "date": "2026-08-21",
+      "stars": 233599
+    },
+    {
       "date": "2026-08-22",
       "stars": 234026
     },
@@ -394,10 +394,6 @@
     {
       "date": "2026-08-29",
       "stars": 237876
-    },
-    {
-      "date": "2026-08-30",
-      "stars": 238250
     },
     {
       "date": "2026-08-31",
@@ -454,6 +450,10 @@
     {
       "date": "2026-09-13",
       "stars": 244969
+    },
+    {
+      "date": "2026-09-14",
+      "stars": 245263
     }
   ],
   "links": {

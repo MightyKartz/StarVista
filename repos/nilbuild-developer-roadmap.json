@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 367013,
-  "forks": 44933,
-  "openIssues": 1,
-  "pushedAt": "2026-09-12T16:57:52Z",
+  "stars": 367136,
+  "forks": 44939,
+  "openIssues": 3,
+  "pushedAt": "2026-09-13T20:06:43Z",
   "topics": [
     "angular-roadmap",
     "backend-roadmap",
@@ -33,7 +33,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 625,
+  "starDelta7d": 686,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4921183?v=4",
   "languages": {
     "TypeScript": 1,
@@ -113,10 +113,6 @@
       "stars": 358492
     },
     {
-      "date": "2026-06-29",
-      "stars": 358562
-    },
-    {
       "date": "2026-06-30",
       "stars": 358665
     },
@@ -143,6 +139,10 @@
     {
       "date": "2026-07-06",
       "stars": 359432
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 359548
     },
     {
       "date": "2026-07-08",
@@ -233,10 +233,6 @@
       "stars": 363012
     },
     {
-      "date": "2026-07-30",
-      "stars": 363112
-    },
-    {
       "date": "2026-07-31",
       "stars": 363206
     },
@@ -321,6 +317,10 @@
       "stars": 364948
     },
     {
+      "date": "2026-08-21",
+      "stars": 365023
+    },
+    {
       "date": "2026-08-22",
       "stars": 365094
     },
@@ -351,10 +351,6 @@
     {
       "date": "2026-08-29",
       "stars": 365808
-    },
-    {
-      "date": "2026-08-30",
-      "stars": 365873
     },
     {
       "date": "2026-08-31",
@@ -411,6 +407,10 @@
     {
       "date": "2026-09-13",
       "stars": 367013
+    },
+    {
+      "date": "2026-09-14",
+      "stars": 367136
     }
   ],
   "links": {

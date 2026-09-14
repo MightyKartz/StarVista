@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 109374,
-  "forks": 15210,
-  "openIssues": 52,
+  "stars": 109413,
+  "forks": 15213,
+  "openIssues": 53,
   "pushedAt": "2026-09-09T17:28:29Z",
   "topics": [
     "expose",
@@ -25,7 +25,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 145,
+  "starDelta7d": 164,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/7346661?v=4",
   "languages": {
     "Go": 0.83,
@@ -132,10 +132,6 @@
       "stars": 107614
     },
     {
-      "date": "2026-06-29",
-      "stars": 107642
-    },
-    {
       "date": "2026-06-30",
       "stars": 107664
     },
@@ -162,6 +158,10 @@
     {
       "date": "2026-07-06",
       "stars": 107799
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 107824
     },
     {
       "date": "2026-07-08",
@@ -252,10 +252,6 @@
       "stars": 108425
     },
     {
-      "date": "2026-07-30",
-      "stars": 108443
-    },
-    {
       "date": "2026-07-31",
       "stars": 108467
     },
@@ -340,6 +336,10 @@
       "stars": 108884
     },
     {
+      "date": "2026-08-21",
+      "stars": 108912
+    },
+    {
       "date": "2026-08-22",
       "stars": 108933
     },
@@ -370,10 +370,6 @@
     {
       "date": "2026-08-29",
       "stars": 109086
-    },
-    {
-      "date": "2026-08-30",
-      "stars": 109094
     },
     {
       "date": "2026-08-31",
@@ -430,6 +426,10 @@
     {
       "date": "2026-09-13",
       "stars": 109374
+    },
+    {
+      "date": "2026-09-14",
+      "stars": 109413
     }
   ],
   "links": {

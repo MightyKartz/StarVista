@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 111034,
-  "forks": 3951,
-  "openIssues": 1462,
-  "pushedAt": "2026-09-13T01:52:51Z",
+  "stars": 111050,
+  "forks": 3953,
+  "openIssues": 1464,
+  "pushedAt": "2026-09-13T19:19:54Z",
   "topics": [
     "desktop-app",
     "high-performance",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 198,
+  "starDelta7d": 180,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4",
   "languages": {
     "Rust": 0.84,
@@ -61,6 +61,11 @@
       "publishedAt": "2026-09-13T01:52:51Z"
     },
     {
+      "tag": "tauri-runtime-cef-v3.0.0-alpha.0",
+      "name": "tauri-runtime-cef v3.0.0-alpha.0",
+      "publishedAt": "2026-09-13T10:05:34Z"
+    },
+    {
       "tag": "tauri-plugin-v3.0.0-alpha.0",
       "name": "tauri-plugin v3.0.0-alpha.0",
       "publishedAt": "2026-09-13T01:51:17Z"
@@ -69,11 +74,6 @@
       "tag": "tauri-macros-v3.0.0-alpha.0",
       "name": "tauri-macros v3.0.0-alpha.0",
       "publishedAt": "2026-09-13T01:51:04Z"
-    },
-    {
-      "tag": "tauri-codegen-v3.0.0-alpha.0",
-      "name": "tauri-codegen v3.0.0-alpha.0",
-      "publishedAt": "2026-09-13T01:50:36Z"
     }
   ],
   "starHistory": [
@@ -138,10 +138,6 @@
       "stars": 108421
     },
     {
-      "date": "2026-06-29",
-      "stars": 108455
-    },
-    {
       "date": "2026-06-30",
       "stars": 108499
     },
@@ -168,6 +164,10 @@
     {
       "date": "2026-07-06",
       "stars": 108700
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 108749
     },
     {
       "date": "2026-07-08",
@@ -258,10 +258,6 @@
       "stars": 109624
     },
     {
-      "date": "2026-07-30",
-      "stars": 109683
-    },
-    {
       "date": "2026-07-31",
       "stars": 109727
     },
@@ -346,6 +342,10 @@
       "stars": 110382
     },
     {
+      "date": "2026-08-21",
+      "stars": 110411
+    },
+    {
       "date": "2026-08-22",
       "stars": 110446
     },
@@ -376,10 +376,6 @@
     {
       "date": "2026-08-29",
       "stars": 110633
-    },
-    {
-      "date": "2026-08-30",
-      "stars": 110664
     },
     {
       "date": "2026-08-31",
@@ -436,6 +432,10 @@
     {
       "date": "2026-09-13",
       "stars": 111034
+    },
+    {
+      "date": "2026-09-14",
+      "stars": 111050
     }
   ],
   "links": {
