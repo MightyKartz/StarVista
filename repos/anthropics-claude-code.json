@@ -5,30 +5,40 @@
   "name": "claude-code",
   "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
   "archived": false,
-  "primaryLanguage": "Python",
-  "languageColor": "#3572a5",
-  "stars": 144961,
-  "forks": 23140,
-  "openIssues": 12587,
-  "pushedAt": "2026-09-14T03:39:01Z",
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 145097,
+  "forks": 23158,
+  "openIssues": 12552,
+  "pushedAt": "2026-09-15T00:42:25Z",
   "topics": [],
   "license": null,
   "activity": "active",
-  "starDelta7d": 652,
+  "starDelta7d": 691,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
   "languages": {
-    "Python": 0.46,
-    "TypeScript": 0.45,
-    "Shell": 0.08,
+    "TypeScript": 0.5,
+    "Python": 0.42,
+    "Shell": 0.07,
     "PowerShell": 0.01,
     "Dockerfile": 0
   },
   "readmeExcerpt": "[npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square",
   "summary": {
     "mode": "template",
-    "text": "claude-code is a Python project focused on Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+    "text": "claude-code is a TypeScript project focused on Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   "releases": [
+    {
+      "tag": "v2.1.272",
+      "name": "v2.1.272",
+      "publishedAt": "2026-09-15T00:42:25Z"
+    },
+    {
+      "tag": "v2.1.271",
+      "name": "v2.1.271",
+      "publishedAt": "2026-09-14T22:12:54Z"
+    },
     {
       "tag": "v2.1.270",
       "name": "v2.1.270",
@@ -43,26 +53,12 @@
       "tag": "v2.1.268",
       "name": "v2.1.268",
       "publishedAt": "2026-09-10T20:30:54Z"
-    },
-    {
-      "tag": "v2.1.267",
-      "name": "v2.1.267",
-      "publishedAt": "2026-09-09T19:58:14Z"
-    },
-    {
-      "tag": "v2.1.266",
-      "name": "v2.1.266",
-      "publishedAt": "2026-09-08T23:55:14Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 132265
-    },
-    {
-      "date": "2026-06-15",
-      "stars": 132448
     },
     {
       "date": "2026-06-16",
@@ -117,8 +113,8 @@
       "stars": 134737
     },
     {
-      "date": "2026-06-30",
-      "stars": 135029
+      "date": "2026-06-29",
+      "stars": 134875
     },
     {
       "date": "2026-07-01",
@@ -237,8 +233,8 @@
       "stars": 139445
     },
     {
-      "date": "2026-07-31",
-      "stars": 139718
+      "date": "2026-07-30",
+      "stars": 139593
     },
     {
       "date": "2026-08-01",
@@ -357,8 +353,8 @@
       "stars": 143339
     },
     {
-      "date": "2026-08-31",
-      "stars": 143512
+      "date": "2026-08-30",
+      "stars": 143426
     },
     {
       "date": "2026-09-01",
@@ -415,6 +411,10 @@
     {
       "date": "2026-09-14",
       "stars": 144961
+    },
+    {
+      "date": "2026-09-15",
+      "stars": 145097
     }
   ],
   "links": {

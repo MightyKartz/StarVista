@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 245263,
-  "forks": 51041,
-  "openIssues": 42886,
-  "pushedAt": "2026-09-14T07:51:01Z",
+  "stars": 245615,
+  "forks": 51196,
+  "openIssues": 43258,
+  "pushedAt": "2026-09-15T07:33:32Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2546,
+  "starDelta7d": 2446,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.73,
@@ -51,8 +51,8 @@
     "Batchfile": 0,
     "Makefile": 0,
     "Roff": 0,
-    "BitBake": 0,
     "Io": 0,
+    "BitBake": 0,
     "Perl": 0,
     "Ruby": 0,
     "Berry": 0,
@@ -68,6 +68,11 @@
     "text": "hermes-agent is a Python project focused on The agent that grows with you. It is tagged with ai, ai-agent, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "v2026.9.14",
+      "name": "Hermes Agent v0.21.3 (v2026.9.14)",
+      "publishedAt": "2026-09-14T16:04:14Z"
+    },
     {
       "tag": "v2026.9.11",
       "name": "Hermes Agent v0.21.2 (v2026.9.11)",
@@ -87,21 +92,12 @@
       "tag": "v2026.8.27",
       "name": "Hermes Agent v0.20.6 (v2026.8.27)",
       "publishedAt": "2026-08-27T12:06:53Z"
-    },
-    {
-      "tag": "v2026.8.19",
-      "name": "Hermes Agent v0.20.5 (v2026.8.19)",
-      "publishedAt": "2026-08-21T12:16:39Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 192938
-    },
-    {
-      "date": "2026-06-15",
-      "stars": 193822
     },
     {
       "date": "2026-06-16",
@@ -156,8 +152,8 @@
       "stars": 204484
     },
     {
-      "date": "2026-06-30",
-      "stars": 205916
+      "date": "2026-06-29",
+      "stars": 205202
     },
     {
       "date": "2026-07-01",
@@ -276,8 +272,8 @@
       "stars": 222000
     },
     {
-      "date": "2026-07-31",
-      "stars": 223017
+      "date": "2026-07-30",
+      "stars": 222449
     },
     {
       "date": "2026-08-01",
@@ -396,8 +392,8 @@
       "stars": 237876
     },
     {
-      "date": "2026-08-31",
-      "stars": 238670
+      "date": "2026-08-30",
+      "stars": 238250
     },
     {
       "date": "2026-09-01",
@@ -454,6 +450,10 @@
     {
       "date": "2026-09-14",
       "stars": 245263
+    },
+    {
+      "date": "2026-09-15",
+      "stars": 245615
     }
   ],
   "links": {

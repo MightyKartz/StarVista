@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 180133,
-  "forks": 9785,
-  "openIssues": 630,
-  "pushedAt": "2026-09-14T06:33:45Z",
+  "stars": 180555,
+  "forks": 9796,
+  "openIssues": 626,
+  "pushedAt": "2026-09-15T06:27:03Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 2747,
+  "starDelta7d": 2798,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4",
   "languages": {
     "TypeScript": 0.72,
@@ -42,9 +42,9 @@
     "Rust": 0.03,
     "Java": 0.03,
     "PHP": 0.02,
+    "Go": 0.01,
     "Elixir": 0.01,
     "C#": 0.01,
-    "Go": 0.01,
     "Ruby": 0.01,
     "Astro": 0,
     "PLpgSQL": 0,
@@ -94,10 +94,6 @@
     {
       "date": "2026-06-14",
       "stars": 132465
-    },
-    {
-      "date": "2026-06-15",
-      "stars": 132897
     },
     {
       "date": "2026-06-16",
@@ -152,8 +148,8 @@
       "stars": 140133
     },
     {
-      "date": "2026-06-30",
-      "stars": 141677
+      "date": "2026-06-29",
+      "stars": 141006
     },
     {
       "date": "2026-07-01",
@@ -272,8 +268,8 @@
       "stars": 157625
     },
     {
-      "date": "2026-07-31",
-      "stars": 158442
+      "date": "2026-07-30",
+      "stars": 157985
     },
     {
       "date": "2026-08-01",
@@ -392,8 +388,8 @@
       "stars": 173777
     },
     {
-      "date": "2026-08-31",
-      "stars": 174576
+      "date": "2026-08-30",
+      "stars": 174186
     },
     {
       "date": "2026-09-01",
@@ -450,6 +446,10 @@
     {
       "date": "2026-09-14",
       "stars": 180133
+    },
+    {
+      "date": "2026-09-15",
+      "stars": 180555
     }
   ],
   "links": {

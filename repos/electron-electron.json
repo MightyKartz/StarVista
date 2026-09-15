@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 123040,
-  "forks": 17496,
-  "openIssues": 771,
-  "pushedAt": "2026-09-14T07:33:59Z",
+  "stars": 123067,
+  "forks": 17499,
+  "openIssues": 765,
+  "pushedAt": "2026-09-15T07:44:31Z",
   "topics": [
     "c-plus-plus",
     "chrome",
@@ -24,11 +24,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 121,
+  "starDelta7d": 129,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13409222?v=4",
   "languages": {
     "C++": 0.53,
-    "TypeScript": 0.37,
+    "TypeScript": 0.36,
     "Objective-C++": 0.05,
     "JavaScript": 0.03,
     "Python": 0.02,
@@ -45,6 +45,11 @@
     "text": "electron is a C++ project focused on :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS. It is tagged with c-plus-plus, chrome, and css."
   },
   "releases": [
+    {
+      "tag": "v45.0.0-alpha.7",
+      "name": "electron v45.0.0-alpha.7",
+      "publishedAt": "2026-09-14T22:23:51Z"
+    },
     {
       "tag": "v45.0.0-alpha.6",
       "name": "electron v45.0.0-alpha.6",
@@ -64,21 +69,12 @@
       "tag": "v42.11.3",
       "name": "electron v42.11.3",
       "publishedAt": "2026-09-08T17:42:13Z"
-    },
-    {
-      "tag": "v45.0.0-alpha.5",
-      "name": "electron v45.0.0-alpha.5",
-      "publishedAt": "2026-09-07T22:24:01Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 121621
-    },
-    {
-      "date": "2026-06-15",
-      "stars": 121636
     },
     {
       "date": "2026-06-16",
@@ -133,8 +129,8 @@
       "stars": 121805
     },
     {
-      "date": "2026-06-30",
-      "stars": 121837
+      "date": "2026-06-29",
+      "stars": 121817
     },
     {
       "date": "2026-07-01",
@@ -253,8 +249,8 @@
       "stars": 122219
     },
     {
-      "date": "2026-07-31",
-      "stars": 122275
+      "date": "2026-07-30",
+      "stars": 122244
     },
     {
       "date": "2026-08-01",
@@ -373,8 +369,8 @@
       "stars": 122776
     },
     {
-      "date": "2026-08-31",
-      "stars": 122814
+      "date": "2026-08-30",
+      "stars": 122797
     },
     {
       "date": "2026-09-01",
@@ -431,6 +427,10 @@
     {
       "date": "2026-09-14",
       "stars": 123040
+    },
+    {
+      "date": "2026-09-15",
+      "stars": 123067
     }
   ],
   "links": {

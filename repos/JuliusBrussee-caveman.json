@@ -3,14 +3,14 @@
   "slug": "JuliusBrussee-caveman",
   "owner": "JuliusBrussee",
   "name": "caveman",
-  "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+  "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 105442,
-  "forks": 6109,
-  "openIssues": 137,
-  "pushedAt": "2026-09-14T07:48:29Z",
+  "stars": 105646,
+  "forks": 6115,
+  "openIssues": 109,
+  "pushedAt": "2026-09-15T07:35:19Z",
   "topics": [
     "ai",
     "anthropic",
@@ -25,24 +25,35 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 1454,
+  "starDelta7d": 1438,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
     "Go": 0.45,
-    "JavaScript": 0.28,
+    "JavaScript": 0.27,
     "TypeScript": 0.19,
-    "Python": 0.07,
+    "Python": 0.08,
     "Shell": 0,
     "PowerShell": 0,
     "HTML": 0,
-    "CSS": 0
+    "CSS": 0,
+    "Dockerfile": 0
   },
-  "readmeExcerpt": "why use many token when few do trick",
+  "readmeExcerpt": "Your AI coding agent bills by the word and writes like it knows that. Caveman make it stop.",
   "summary": {
     "mode": "template",
-    "text": "caveman is a Go project focused on 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman. It is tagged with ai, anthropic, and caveman."
+    "text": "caveman is a Go project focused on 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. It is tagged with ai, anthropic, and caveman."
   },
   "releases": [
+    {
+      "tag": "v2.7.0",
+      "name": "v2.7.0",
+      "publishedAt": "2026-09-15T04:01:16Z"
+    },
+    {
+      "tag": "bin-v1.1.7",
+      "name": "bin-v1.1.7",
+      "publishedAt": "2026-09-15T01:20:27Z"
+    },
     {
       "tag": "v2.6.0",
       "name": "v2.6.0",
@@ -57,16 +68,6 @@
       "tag": "v2.5.0",
       "name": "v2.5.0",
       "publishedAt": "2026-09-02T13:40:03Z"
-    },
-    {
-      "tag": "bin-v1.1.5",
-      "name": "bin-v1.1.5",
-      "publishedAt": "2026-09-02T13:43:33Z"
-    },
-    {
-      "tag": "v2.4.0",
-      "name": "v2.4.0",
-      "publishedAt": "2026-08-29T22:15:14Z"
     }
   ],
   "starHistory": [
@@ -141,6 +142,10 @@
     {
       "date": "2026-09-14",
       "stars": 105442
+    },
+    {
+      "date": "2026-09-15",
+      "stars": 105646
     }
   ],
   "links": {

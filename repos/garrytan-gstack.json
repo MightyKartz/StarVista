@@ -7,24 +7,27 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 132924,
-  "forks": 19838,
-  "openIssues": 888,
-  "pushedAt": "2026-09-11T19:40:16Z",
+  "stars": 133118,
+  "forks": 19858,
+  "openIssues": 892,
+  "pushedAt": "2026-09-14T22:14:58Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1093,
+  "starDelta7d": 1108,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19957?v=4",
   "languages": {
-    "TypeScript": 0.83,
-    "Go Template": 0.08,
-    "Shell": 0.07,
+    "TypeScript": 0.88,
+    "Go Template": 0.06,
+    "Shell": 0.05,
     "JavaScript": 0.01,
+    "C": 0,
     "CSS": 0,
     "Swift": 0,
     "HTML": 0,
-    "Python": 0
+    "Python": 0,
+    "PowerShell": 0,
+    "Dockerfile": 0
   },
   "readmeExcerpt": "> \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — Andrej Karpathy, No Priors podcast, March 2026",
   "summary": {
@@ -36,10 +39,6 @@
     {
       "date": "2026-06-14",
       "stars": 109900
-    },
-    {
-      "date": "2026-06-15",
-      "stars": 110223
     },
     {
       "date": "2026-06-16",
@@ -94,8 +93,8 @@
       "stars": 117401
     },
     {
-      "date": "2026-06-30",
-      "stars": 118183
+      "date": "2026-06-29",
+      "stars": 117853
     },
     {
       "date": "2026-07-01",
@@ -214,8 +213,8 @@
       "stars": 125034
     },
     {
-      "date": "2026-07-31",
-      "stars": 125364
+      "date": "2026-07-30",
+      "stars": 125199
     },
     {
       "date": "2026-08-01",
@@ -334,8 +333,8 @@
       "stars": 130255
     },
     {
-      "date": "2026-08-31",
-      "stars": 130519
+      "date": "2026-08-30",
+      "stars": 130372
     },
     {
       "date": "2026-09-01",
@@ -392,6 +391,10 @@
     {
       "date": "2026-09-14",
       "stars": 132924
+    },
+    {
+      "date": "2026-09-15",
+      "stars": 133118
     }
   ],
   "links": {

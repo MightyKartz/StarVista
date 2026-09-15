@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 137695,
-  "forks": 7387,
-  "openIssues": 263,
-  "pushedAt": "2026-09-07T16:27:01Z",
+  "stars": 138782,
+  "forks": 7452,
+  "openIssues": 270,
+  "pushedAt": "2026-09-14T14:34:56Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -25,11 +25,11 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 7742,
+  "starDelta7d": 7423,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
   "languages": {
-    "JavaScript": 0.62,
-    "Python": 0.37,
+    "JavaScript": 0.65,
+    "Python": 0.34,
     "PowerShell": 0,
     "Shell": 0
   },
@@ -39,6 +39,11 @@
     "text": "ponytail is a JavaScript project focused on Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. It is tagged with agent-skills, ai-agents, and claude."
   },
   "releases": [
+    {
+      "tag": "v4.10.0",
+      "name": "v4.10.0",
+      "publishedAt": "2026-09-14T14:38:56Z"
+    },
     {
       "tag": "v4.9.0",
       "name": "v4.9.0: 53 commits of doing less",
@@ -58,11 +63,6 @@
       "tag": "v4.8.2",
       "name": "v4.8.2: now on npm",
       "publishedAt": "2026-06-24T02:27:30Z"
-    },
-    {
-      "tag": "v4.8.1",
-      "name": "v4.8.1: consistent versioning",
-      "publishedAt": "2026-06-23T16:29:54Z"
     }
   ],
   "starHistory": [
@@ -201,6 +201,10 @@
     {
       "date": "2026-09-14",
       "stars": 137695
+    },
+    {
+      "date": "2026-09-15",
+      "stars": 138782
     }
   ],
   "links": {

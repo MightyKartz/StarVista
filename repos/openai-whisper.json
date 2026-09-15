@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 109059,
-  "forks": 13212,
+  "stars": 109125,
+  "forks": 13221,
   "openIssues": 148,
   "pushedAt": "2026-08-31T17:19:19Z",
   "topics": [],
   "license": "MIT",
-  "activity": "active",
-  "starDelta7d": 401,
+  "activity": "stable",
+  "starDelta7d": 397,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
   "languages": {
     "Python": 1
@@ -243,6 +243,10 @@
     {
       "date": "2026-09-14",
       "stars": 109059
+    },
+    {
+      "date": "2026-09-15",
+      "stars": 109125
     }
   ],
   "links": {

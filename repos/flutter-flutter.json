@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Dart",
   "languageColor": null,
-  "stars": 178937,
-  "forks": 31089,
-  "openIssues": 13156,
-  "pushedAt": "2026-09-14T07:08:45Z",
+  "stars": 178946,
+  "forks": 31094,
+  "openIssues": 13178,
+  "pushedAt": "2026-09-15T01:08:27Z",
   "topics": [
     "android",
     "app-framework",
@@ -34,16 +34,16 @@
   ],
   "license": "BSD-3-Clause",
   "activity": "active",
-  "starDelta7d": 114,
+  "starDelta7d": 104,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4",
   "languages": {
     "Dart": 0.75,
     "C++": 0.16,
-    "Objective-C++": 0.03,
     "Java": 0.03,
+    "Objective-C++": 0.03,
     "Objective-C": 0.01,
     "C": 0.01,
-    "Kotlin": 0.01,
+    "Kotlin": 0,
     "Go Template": 0,
     "Python": 0,
     "GLSL": 0,
@@ -95,10 +95,6 @@
     {
       "date": "2026-06-14",
       "stars": 176913
-    },
-    {
-      "date": "2026-06-15",
-      "stars": 176925
     },
     {
       "date": "2026-06-16",
@@ -153,8 +149,8 @@
       "stars": 177614
     },
     {
-      "date": "2026-06-30",
-      "stars": 177644
+      "date": "2026-06-29",
+      "stars": 177623
     },
     {
       "date": "2026-07-01",
@@ -273,8 +269,8 @@
       "stars": 177957
     },
     {
-      "date": "2026-07-31",
-      "stars": 178014
+      "date": "2026-07-30",
+      "stars": 177975
     },
     {
       "date": "2026-08-01",
@@ -393,8 +389,8 @@
       "stars": 178702
     },
     {
-      "date": "2026-08-31",
-      "stars": 178729
+      "date": "2026-08-30",
+      "stars": 178714
     },
     {
       "date": "2026-09-01",
@@ -451,6 +447,10 @@
     {
       "date": "2026-09-14",
       "stars": 178937
+    },
+    {
+      "date": "2026-09-15",
+      "stars": 178946
     }
   ],
   "links": {
