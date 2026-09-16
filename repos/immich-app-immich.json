@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 114197,
-  "forks": 6916,
-  "openIssues": 754,
-  "pushedAt": "2026-09-15T04:24:28Z",
+  "stars": 114381,
+  "forks": 6923,
+  "openIssues": 751,
+  "pushedAt": "2026-09-16T07:18:28Z",
   "topics": [
     "backup-tool",
     "flutter",
@@ -31,7 +31,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 576,
+  "starDelta7d": 700,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/109746326?v=4",
   "languages": {
     "TypeScript": 0.53,
@@ -61,6 +61,11 @@
   },
   "releases": [
     {
+      "tag": "v3.2.2",
+      "name": "v3.2.2",
+      "publishedAt": "2026-09-15T20:14:33Z"
+    },
+    {
       "tag": "v3.2.1",
       "name": "v3.2.1",
       "publishedAt": "2026-09-14T18:24:25Z"
@@ -79,21 +84,12 @@
       "tag": "v3.2.0-rc.2",
       "name": "v3.2.0-rc.2",
       "publishedAt": "2026-08-31T19:36:49Z"
-    },
-    {
-      "tag": "v3.2.0-rc.1",
-      "name": "v3.2.0-rc.1",
-      "publishedAt": "2026-08-28T18:14:36Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 103277
-    },
-    {
-      "date": "2026-06-16",
-      "stars": 103484
     },
     {
       "date": "2026-06-17",
@@ -148,8 +144,8 @@
       "stars": 104634
     },
     {
-      "date": "2026-07-01",
-      "stars": 104791
+      "date": "2026-06-30",
+      "stars": 104710
     },
     {
       "date": "2026-07-02",
@@ -268,8 +264,8 @@
       "stars": 109225
     },
     {
-      "date": "2026-08-01",
-      "stars": 109417
+      "date": "2026-07-31",
+      "stars": 109318
     },
     {
       "date": "2026-08-02",
@@ -388,8 +384,8 @@
       "stars": 112959
     },
     {
-      "date": "2026-09-01",
-      "stars": 113125
+      "date": "2026-08-31",
+      "stars": 113049
     },
     {
       "date": "2026-09-02",
@@ -446,6 +442,10 @@
     {
       "date": "2026-09-15",
       "stars": 114197
+    },
+    {
+      "date": "2026-09-16",
+      "stars": 114381
     }
   ],
   "links": {

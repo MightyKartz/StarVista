@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 181004,
-  "forks": 17875,
-  "openIssues": 4008,
-  "pushedAt": "2026-09-15T06:32:32Z",
+  "stars": 181106,
+  "forks": 17897,
+  "openIssues": 4015,
+  "pushedAt": "2026-09-16T00:37:09Z",
   "topics": [
     "deepseek",
     "gemma",
@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 559,
+  "starDelta7d": 610,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/151674099?v=4",
   "languages": {
     "Go": 0.69,
@@ -56,7 +56,12 @@
   },
   "releases": [
     {
-      "tag": "v0.34.1-rc2",
+      "tag": "v0.34.2-rc0",
+      "name": "v0.34.2",
+      "publishedAt": "2026-09-15T21:21:07Z"
+    },
+    {
+      "tag": "v0.34.1",
       "name": "v0.34.1",
       "publishedAt": "2026-09-14T22:14:03Z"
     },
@@ -74,21 +79,12 @@
       "tag": "v0.33.2",
       "name": "v0.33.2",
       "publishedAt": "2026-08-27T20:31:47Z"
-    },
-    {
-      "tag": "v0.33.1",
-      "name": "v0.33.1",
-      "publishedAt": "2026-08-26T18:09:57Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 174089
-    },
-    {
-      "date": "2026-06-16",
-      "stars": 174275
     },
     {
       "date": "2026-06-17",
@@ -143,8 +139,8 @@
       "stars": 175098
     },
     {
-      "date": "2026-07-01",
-      "stars": 175203
+      "date": "2026-06-30",
+      "stars": 175161
     },
     {
       "date": "2026-07-02",
@@ -263,8 +259,8 @@
       "stars": 177255
     },
     {
-      "date": "2026-08-01",
-      "stars": 177463
+      "date": "2026-07-31",
+      "stars": 177373
     },
     {
       "date": "2026-08-02",
@@ -383,8 +379,8 @@
       "stars": 179765
     },
     {
-      "date": "2026-09-01",
-      "stars": 179864
+      "date": "2026-08-31",
+      "stars": 179817
     },
     {
       "date": "2026-09-02",
@@ -441,6 +437,10 @@
     {
       "date": "2026-09-15",
       "stars": 181004
+    },
+    {
+      "date": "2026-09-16",
+      "stars": 181106
     }
   ],
   "links": {
