@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 98640,
-  "forks": 32546,
-  "openIssues": 1490,
-  "pushedAt": "2026-07-28T08:59:13Z",
+  "stars": 99050,
+  "forks": 32526,
+  "openIssues": 1468,
+  "pushedAt": "2026-09-17T07:25:52Z",
   "topics": [
     "design-system",
     "material-design",
@@ -19,8 +19,8 @@
     "react-components"
   ],
   "license": "MIT",
-  "activity": "stable",
-  "starDelta7d": 0,
+  "activity": "active",
+  "starDelta7d": 410,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/33663932?v=4",
   "languages": {
     "JavaScript": 0.57,
@@ -35,6 +35,21 @@
   },
   "releases": [
     {
+      "tag": "v9.4.0",
+      "name": "v9.4.0",
+      "publishedAt": "2026-08-28T02:03:14Z"
+    },
+    {
+      "tag": "v9.3.1",
+      "name": "v9.3.1",
+      "publishedAt": "2026-08-06T10:11:56Z"
+    },
+    {
+      "tag": "v9.3.0",
+      "name": "v9.3.0",
+      "publishedAt": "2026-08-05T08:44:43Z"
+    },
+    {
       "tag": "v9.2.0",
       "name": "v9.2.0",
       "publishedAt": "2026-07-03T08:02:08Z"
@@ -43,31 +58,12 @@
       "tag": "v9.1.2",
       "name": "v9.1.2",
       "publishedAt": "2026-06-23T17:03:08Z"
-    },
-    {
-      "tag": "v9.1.1",
-      "name": "v9.1.1",
-      "publishedAt": "2026-06-23T17:02:02Z"
-    },
-    {
-      "tag": "v9.1.0",
-      "name": "v9.1.0",
-      "publishedAt": "2026-06-08T08:42:14Z"
-    },
-    {
-      "tag": "v9.0.1",
-      "name": "v9.0.1",
-      "publishedAt": "2026-05-07T05:40:17Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 98403
-    },
-    {
-      "date": "2026-06-17",
-      "stars": 98422
     },
     {
       "date": "2026-06-18",
@@ -122,8 +118,8 @@
       "stars": 98497
     },
     {
-      "date": "2026-07-02",
-      "stars": 98512
+      "date": "2026-07-01",
+      "stars": 98505
     },
     {
       "date": "2026-07-03",
@@ -242,7 +238,7 @@
       "stars": 98640
     },
     {
-      "date": "2026-08-02",
+      "date": "2026-08-01",
       "stars": 98640
     },
     {
@@ -362,7 +358,7 @@
       "stars": 98640
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-01",
       "stars": 98640
     },
     {
@@ -420,6 +416,10 @@
     {
       "date": "2026-09-16",
       "stars": 98640
+    },
+    {
+      "date": "2026-09-17",
+      "stars": 99050
     }
   ],
   "links": {

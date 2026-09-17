@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 146429,
-  "forks": 24481,
-  "openIssues": 516,
-  "pushedAt": "2026-09-16T07:20:58Z",
+  "stars": 146493,
+  "forks": 24495,
+  "openIssues": 529,
+  "pushedAt": "2026-09-16T19:58:47Z",
   "topics": [
     "agents",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 444,
+  "starDelta7d": 451,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
   "languages": {
     "Python": 0.99,
@@ -52,6 +52,11 @@
     "text": "langchain is a Python project focused on The agent engineering platform. It is tagged with agents, ai, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "langchain==1.4.1",
+      "name": "langchain==1.4.1",
+      "publishedAt": "2026-09-16T17:07:03Z"
+    },
     {
       "tag": "langchain-core==1.6.3",
       "name": "langchain-core==1.6.3",
@@ -71,21 +76,12 @@
       "tag": "langchain-openai==1.6.1",
       "name": "langchain-openai==1.6.1",
       "publishedAt": "2026-09-08T14:20:40Z"
-    },
-    {
-      "tag": "langchain-core==1.6.2",
-      "name": "langchain-core==1.6.2",
-      "publishedAt": "2026-09-04T21:29:42Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 139227
-    },
-    {
-      "date": "2026-06-17",
-      "stars": 139525
     },
     {
       "date": "2026-06-18",
@@ -140,8 +136,8 @@
       "stars": 140532
     },
     {
-      "date": "2026-07-02",
-      "stars": 140695
+      "date": "2026-07-01",
+      "stars": 140607
     },
     {
       "date": "2026-07-03",
@@ -260,8 +256,8 @@
       "stars": 143059
     },
     {
-      "date": "2026-08-02",
-      "stars": 143196
+      "date": "2026-08-01",
+      "stars": 143138
     },
     {
       "date": "2026-08-03",
@@ -380,8 +376,8 @@
       "stars": 145321
     },
     {
-      "date": "2026-09-02",
-      "stars": 145475
+      "date": "2026-09-01",
+      "stars": 145406
     },
     {
       "date": "2026-09-03",
@@ -438,6 +434,10 @@
     {
       "date": "2026-09-16",
       "stars": 146429
+    },
+    {
+      "date": "2026-09-17",
+      "stars": 146493
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 106821,
-  "forks": 20403,
-  "openIssues": 350,
-  "pushedAt": "2026-09-15T01:33:49Z",
+  "stars": 107153,
+  "forks": 20465,
+  "openIssues": 342,
+  "pushedAt": "2026-09-17T07:31:46Z",
   "topics": [
     "agent",
     "finance",
@@ -19,8 +19,8 @@
     "trading"
   ],
   "license": "Apache-2.0",
-  "activity": "fast-rising",
-  "starDelta7d": 3348,
+  "activity": "active",
+  "starDelta7d": 2933,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192884433?v=4",
   "languages": {
     "Python": 1,
@@ -130,6 +130,10 @@
     {
       "date": "2026-09-16",
       "stars": 106821
+    },
+    {
+      "date": "2026-09-17",
+      "stars": 107153
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C",
   "languageColor": "#555555",
-  "stars": 138699,
-  "forks": 8572,
-  "openIssues": 7701,
-  "pushedAt": "2026-09-16T06:53:07Z",
+  "stars": 138772,
+  "forks": 8575,
+  "openIssues": 7711,
+  "pushedAt": "2026-09-17T05:46:29Z",
   "topics": [
     "advanced-paste",
     "color-picker",
@@ -27,11 +27,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 188,
+  "starDelta7d": 246,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
-    "C": 0.51,
-    "C#": 0.32,
+    "C": 0.5,
+    "C#": 0.33,
     "C++": 0.16,
     "PowerShell": 0.01,
     "Python": 0,
@@ -78,10 +78,6 @@
     {
       "date": "2026-06-14",
       "stars": 134750
-    },
-    {
-      "date": "2026-06-17",
-      "stars": 135107
     },
     {
       "date": "2026-06-18",
@@ -136,8 +132,8 @@
       "stars": 135910
     },
     {
-      "date": "2026-07-02",
-      "stars": 135889
+      "date": "2026-07-01",
+      "stars": 135863
     },
     {
       "date": "2026-07-03",
@@ -256,8 +252,8 @@
       "stars": 137214
     },
     {
-      "date": "2026-08-02",
-      "stars": 137364
+      "date": "2026-08-01",
+      "stars": 137328
     },
     {
       "date": "2026-08-03",
@@ -376,8 +372,8 @@
       "stars": 138243
     },
     {
-      "date": "2026-09-02",
-      "stars": 138288
+      "date": "2026-09-01",
+      "stars": 138266
     },
     {
       "date": "2026-09-03",
@@ -434,6 +430,10 @@
     {
       "date": "2026-09-16",
       "stars": 138699
+    },
+    {
+      "date": "2026-09-17",
+      "stars": 138772
     }
   ],
   "links": {

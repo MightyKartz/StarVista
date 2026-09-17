@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 389821,
-  "forks": 81936,
-  "openIssues": 7429,
-  "pushedAt": "2026-09-16T07:40:47Z",
+  "stars": 389933,
+  "forks": 81963,
+  "openIssues": 7591,
+  "pushedAt": "2026-09-17T07:39:44Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 559,
+  "starDelta7d": 600,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -31,8 +31,8 @@
     "JavaScript": 0.01,
     "Shell": 0.01,
     "CSS": 0,
-    "Python": 0,
     "Rust": 0,
+    "Python": 0,
     "Go": 0,
     "Ruby": 0,
     "PowerShell": 0,
@@ -79,10 +79,6 @@
     {
       "date": "2026-06-14",
       "stars": 378602
-    },
-    {
-      "date": "2026-06-17",
-      "stars": 379093
     },
     {
       "date": "2026-06-18",
@@ -137,8 +133,8 @@
       "stars": 381065
     },
     {
-      "date": "2026-07-02",
-      "stars": 381375
+      "date": "2026-07-01",
+      "stars": 381226
     },
     {
       "date": "2026-07-03",
@@ -257,8 +253,8 @@
       "stars": 384635
     },
     {
-      "date": "2026-08-02",
-      "stars": 384864
+      "date": "2026-08-01",
+      "stars": 384755
     },
     {
       "date": "2026-08-03",
@@ -377,8 +373,8 @@
       "stars": 388151
     },
     {
-      "date": "2026-09-02",
-      "stars": 388563
+      "date": "2026-09-01",
+      "stars": 388397
     },
     {
       "date": "2026-09-03",
@@ -435,6 +431,10 @@
     {
       "date": "2026-09-16",
       "stars": 389821
+    },
+    {
+      "date": "2026-09-17",
+      "stars": 389933
     }
   ],
   "links": {
