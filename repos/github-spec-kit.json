@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 137463,
-  "forks": 12311,
-  "openIssues": 320,
-  "pushedAt": "2026-09-16T21:13:46Z",
+  "stars": 137690,
+  "forks": 12333,
+  "openIssues": 315,
+  "pushedAt": "2026-09-17T21:54:52Z",
   "topics": [
     "ai",
     "copilot",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2984,
+  "starDelta7d": 2327,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
   "languages": {
     "Python": 0.97,
@@ -35,6 +35,11 @@
     "text": "spec-kit is a Python project focused on 💫 Toolkit to help you get started with Spec-Driven Development. It is tagged with ai, copilot, and development."
   },
   "releases": [
+    {
+      "tag": "v1.0.8",
+      "name": "Spec Kit - 1.0.8",
+      "publishedAt": "2026-09-17T17:44:48Z"
+    },
     {
       "tag": "v1.0.7",
       "name": "Spec Kit - 1.0.7",
@@ -54,21 +59,12 @@
       "tag": "v1.0.4",
       "name": "Spec Kit - 1.0.4",
       "publishedAt": "2026-09-02T21:06:05Z"
-    },
-    {
-      "tag": "v1.0.3",
-      "name": "Spec Kit - 1.0.3",
-      "publishedAt": "2026-09-01T14:56:28Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 111997
-    },
-    {
-      "date": "2026-06-18",
-      "stars": 113599
     },
     {
       "date": "2026-06-19",
@@ -123,8 +119,8 @@
       "stars": 116791
     },
     {
-      "date": "2026-07-03",
-      "stars": 117512
+      "date": "2026-07-02",
+      "stars": 117235
     },
     {
       "date": "2026-07-04",
@@ -243,8 +239,8 @@
       "stars": 124825
     },
     {
-      "date": "2026-08-03",
-      "stars": 125076
+      "date": "2026-08-02",
+      "stars": 124935
     },
     {
       "date": "2026-08-04",
@@ -363,8 +359,8 @@
       "stars": 132698
     },
     {
-      "date": "2026-09-03",
-      "stars": 133171
+      "date": "2026-09-02",
+      "stars": 132959
     },
     {
       "date": "2026-09-04",
@@ -421,6 +417,10 @@
     {
       "date": "2026-09-17",
       "stars": 137463
+    },
+    {
+      "date": "2026-09-18",
+      "stars": 137690
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 101007,
-  "forks": 27740,
-  "openIssues": 1188,
-  "pushedAt": "2026-09-16T19:12:09Z",
+  "stars": 101010,
+  "forks": 27851,
+  "openIssues": 1187,
+  "pushedAt": "2026-09-17T21:48:20Z",
   "topics": [
     "angular",
     "javascript",
@@ -22,11 +22,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 12,
+  "starDelta7d": 17,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139426?v=4",
   "languages": {
-    "TypeScript": 0.88,
-    "JavaScript": 0.06,
+    "TypeScript": 0.87,
+    "JavaScript": 0.07,
     "HTML": 0.02,
     "Starlark": 0.02,
     "CSS": 0.01,
@@ -69,10 +69,6 @@
     {
       "date": "2026-06-14",
       "stars": 100328
-    },
-    {
-      "date": "2026-06-18",
-      "stars": 100360
     },
     {
       "date": "2026-06-19",
@@ -127,8 +123,8 @@
       "stars": 100376
     },
     {
-      "date": "2026-07-03",
-      "stars": 100452
+      "date": "2026-07-02",
+      "stars": 100390
     },
     {
       "date": "2026-07-04",
@@ -247,8 +243,8 @@
       "stars": 100616
     },
     {
-      "date": "2026-08-03",
-      "stars": 100697
+      "date": "2026-08-02",
+      "stars": 100616
     },
     {
       "date": "2026-08-04",
@@ -367,7 +363,7 @@
       "stars": 101018
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-02",
       "stars": 101016
     },
     {
@@ -425,6 +421,10 @@
     {
       "date": "2026-09-17",
       "stars": 101007
+    },
+    {
+      "date": "2026-09-18",
+      "stars": 101010
     }
   ],
   "links": {

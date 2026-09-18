@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 108454,
-  "forks": 6373,
-  "openIssues": 1592,
-  "pushedAt": "2026-09-16T16:05:26Z",
+  "stars": 108458,
+  "forks": 6372,
+  "openIssues": 1591,
+  "pushedAt": "2026-09-17T10:35:32Z",
   "topics": [
     "deno",
     "javascript",
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 58,
+  "starDelta7d": 56,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/42048915?v=4",
   "languages": {
     "Rust": 0.62,
@@ -47,6 +47,11 @@
   },
   "releases": [
     {
+      "tag": "v2.9.7",
+      "name": "v2.9.7",
+      "publishedAt": "2026-09-17T09:04:55Z"
+    },
+    {
       "tag": "v2.9.6",
       "name": "v2.9.6",
       "publishedAt": "2026-08-27T17:29:30Z"
@@ -65,21 +70,12 @@
       "tag": "v2.9.3",
       "name": "v2.9.3",
       "publishedAt": "2026-07-15T15:35:06Z"
-    },
-    {
-      "tag": "v2.9.2",
-      "name": "v2.9.2",
-      "publishedAt": "2026-07-08T14:36:21Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 107061
-    },
-    {
-      "date": "2026-06-18",
-      "stars": 107135
     },
     {
       "date": "2026-06-19",
@@ -134,8 +130,8 @@
       "stars": 107344
     },
     {
-      "date": "2026-07-03",
-      "stars": 107405
+      "date": "2026-07-02",
+      "stars": 107348
     },
     {
       "date": "2026-07-04",
@@ -254,8 +250,8 @@
       "stars": 107879
     },
     {
-      "date": "2026-08-03",
-      "stars": 107970
+      "date": "2026-08-02",
+      "stars": 107893
     },
     {
       "date": "2026-08-04",
@@ -374,8 +370,8 @@
       "stars": 108359
     },
     {
-      "date": "2026-09-03",
-      "stars": 108372
+      "date": "2026-09-02",
+      "stars": 108363
     },
     {
       "date": "2026-09-04",
@@ -432,6 +428,10 @@
     {
       "date": "2026-09-17",
       "stars": 108454
+    },
+    {
+      "date": "2026-09-18",
+      "stars": 108458
     }
   ],
   "links": {

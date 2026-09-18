@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 145685,
-  "forks": 23510,
-  "openIssues": 12508,
-  "pushedAt": "2026-09-17T00:12:02Z",
+  "stars": 145977,
+  "forks": 23659,
+  "openIssues": 12505,
+  "pushedAt": "2026-09-18T02:12:25Z",
   "topics": [],
   "license": null,
   "activity": "active",
-  "starDelta7d": 1089,
+  "starDelta7d": 1275,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
   "languages": {
     "TypeScript": 0.5,
@@ -30,6 +30,16 @@
   },
   "releases": [
     {
+      "tag": "v2.1.276",
+      "name": "v2.1.276",
+      "publishedAt": "2026-09-18T02:12:26Z"
+    },
+    {
+      "tag": "v2.1.275",
+      "name": "v2.1.275",
+      "publishedAt": "2026-09-17T22:33:17Z"
+    },
+    {
       "tag": "v2.1.274",
       "name": "v2.1.274",
       "publishedAt": "2026-09-17T00:12:02Z"
@@ -43,26 +53,12 @@
       "tag": "v2.1.272",
       "name": "v2.1.272",
       "publishedAt": "2026-09-15T00:42:25Z"
-    },
-    {
-      "tag": "v2.1.271",
-      "name": "v2.1.271",
-      "publishedAt": "2026-09-14T22:12:54Z"
-    },
-    {
-      "tag": "v2.1.270",
-      "name": "v2.1.270",
-      "publishedAt": "2026-09-12T19:45:44Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 132265
-    },
-    {
-      "date": "2026-06-18",
-      "stars": 133117
     },
     {
       "date": "2026-06-19",
@@ -117,8 +113,8 @@
       "stars": 135208
     },
     {
-      "date": "2026-07-03",
-      "stars": 135562
+      "date": "2026-07-02",
+      "stars": 135373
     },
     {
       "date": "2026-07-04",
@@ -237,8 +233,8 @@
       "stars": 139846
     },
     {
-      "date": "2026-08-03",
-      "stars": 140046
+      "date": "2026-08-02",
+      "stars": 139942
     },
     {
       "date": "2026-08-04",
@@ -357,8 +353,8 @@
       "stars": 143617
     },
     {
-      "date": "2026-09-03",
-      "stars": 143854
+      "date": "2026-09-02",
+      "stars": 143727
     },
     {
       "date": "2026-09-04",
@@ -415,6 +411,10 @@
     {
       "date": "2026-09-17",
       "stars": 145685
+    },
+    {
+      "date": "2026-09-18",
+      "stars": 145977
     }
   ],
   "links": {
