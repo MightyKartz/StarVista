@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 288248,
-  "forks": 25784,
-  "openIssues": 376,
-  "pushedAt": "2026-09-18T05:27:50Z",
+  "stars": 288609,
+  "forks": 25815,
+  "openIssues": 366,
+  "pushedAt": "2026-09-19T00:32:57Z",
   "topics": [
     "ai",
     "brainstorming",
@@ -23,12 +23,12 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3360,
+  "starDelta7d": 3113,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45416?v=4",
   "languages": {
-    "Shell": 0.54,
-    "JavaScript": 0.36,
-    "Python": 0.05,
+    "Shell": 0.52,
+    "JavaScript": 0.39,
+    "Python": 0.04,
     "TypeScript": 0.02,
     "HTML": 0.02,
     "Batchfile": 0
@@ -39,6 +39,11 @@
     "text": "superpowers is a Shell project focused on An agentic skills framework & software development methodology that works. It is tagged with ai, brainstorming, and coding."
   },
   "releases": [
+    {
+      "tag": "v6.4.1",
+      "name": "v6.4.1",
+      "publishedAt": "2026-09-19T00:32:44Z"
+    },
     {
       "tag": "v6.3.0",
       "name": "v6.3.0",
@@ -58,21 +63,12 @@
       "tag": "v6.1.0",
       "name": "v6.1.0",
       "publishedAt": "2026-06-30T18:42:18Z"
-    },
-    {
-      "tag": "v6.0.3",
-      "name": "v6.0.3",
-      "publishedAt": "2026-06-18T22:45:19Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 227173
-    },
-    {
-      "date": "2026-06-19",
-      "stars": 232674
     },
     {
       "date": "2026-06-20",
@@ -127,8 +123,8 @@
       "stars": 243673
     },
     {
-      "date": "2026-07-04",
-      "stars": 245675
+      "date": "2026-07-03",
+      "stars": 244717
     },
     {
       "date": "2026-07-05",
@@ -247,8 +243,8 @@
       "stars": 264851
     },
     {
-      "date": "2026-08-04",
-      "stars": 265838
+      "date": "2026-08-03",
+      "stars": 265268
     },
     {
       "date": "2026-08-05",
@@ -367,8 +363,8 @@
       "stars": 280565
     },
     {
-      "date": "2026-09-04",
-      "stars": 281500
+      "date": "2026-09-03",
+      "stars": 280958
     },
     {
       "date": "2026-09-05",
@@ -425,6 +421,10 @@
     {
       "date": "2026-09-18",
       "stars": 288248
+    },
+    {
+      "date": "2026-09-19",
+      "stars": 288609
     }
   ],
   "links": {

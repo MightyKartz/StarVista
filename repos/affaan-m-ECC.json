@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 261395,
-  "forks": 39130,
-  "openIssues": 227,
-  "pushedAt": "2026-09-17T18:04:07Z",
+  "stars": 262286,
+  "forks": 39234,
+  "openIssues": 207,
+  "pushedAt": "2026-09-19T06:58:33Z",
   "topics": [
     "ai-agents",
     "anthropic",
@@ -23,12 +23,12 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 5340,
+  "starDelta7d": 5624,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
   "languages": {
     "JavaScript": 0.67,
-    "Rust": 0.18,
-    "Python": 0.13,
+    "Rust": 0.17,
+    "Python": 0.12,
     "Shell": 0.02,
     "TypeScript": 0.01,
     "Swift": 0,
@@ -73,10 +73,6 @@
     {
       "date": "2026-06-14",
       "stars": 215037
-    },
-    {
-      "date": "2026-06-19",
-      "stars": 217893
     },
     {
       "date": "2026-06-20",
@@ -131,8 +127,8 @@
       "stars": 224764
     },
     {
-      "date": "2026-07-04",
-      "stars": 225752
+      "date": "2026-07-03",
+      "stars": 225324
     },
     {
       "date": "2026-07-05",
@@ -251,8 +247,8 @@
       "stars": 236863
     },
     {
-      "date": "2026-08-04",
-      "stars": 237396
+      "date": "2026-08-03",
+      "stars": 237132
     },
     {
       "date": "2026-08-05",
@@ -371,8 +367,8 @@
       "stars": 245889
     },
     {
-      "date": "2026-09-04",
-      "stars": 247502
+      "date": "2026-09-03",
+      "stars": 246554
     },
     {
       "date": "2026-09-05",
@@ -429,6 +425,10 @@
     {
       "date": "2026-09-18",
       "stars": 261395
+    },
+    {
+      "date": "2026-09-19",
+      "stars": 262286
     }
   ],
   "links": {

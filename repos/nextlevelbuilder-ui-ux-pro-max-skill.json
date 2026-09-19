@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 128614,
-  "forks": 13715,
-  "openIssues": 86,
-  "pushedAt": "2026-09-15T09:29:30Z",
+  "stars": 128897,
+  "forks": 13741,
+  "openIssues": 84,
+  "pushedAt": "2026-09-19T00:58:38Z",
   "topics": [
     "ai-skills",
     "antigravity",
@@ -34,12 +34,12 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1864,
+  "starDelta7d": 1924,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/246974152?v=4",
   "languages": {
     "Python": 0.8,
-    "TypeScript": 0.07,
     "JavaScript": 0.07,
+    "TypeScript": 0.07,
     "HTML": 0.05,
     "Shell": 0,
     "CSS": 0
@@ -258,10 +258,6 @@
       "stars": 113149
     },
     {
-      "date": "2026-08-05",
-      "stars": 113541
-    },
-    {
       "date": "2026-08-06",
       "stars": 113903
     },
@@ -436,6 +432,10 @@
     {
       "date": "2026-09-18",
       "stars": 128614
+    },
+    {
+      "date": "2026-09-19",
+      "stars": 128897
     }
   ],
   "links": {
