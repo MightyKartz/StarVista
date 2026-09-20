@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 111171,
-  "forks": 4005,
-  "openIssues": 1469,
-  "pushedAt": "2026-09-18T21:43:22Z",
+  "stars": 111206,
+  "forks": 4008,
+  "openIssues": 1464,
+  "pushedAt": "2026-09-19T23:50:09Z",
   "topics": [
     "desktop-app",
     "high-performance",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 162,
+  "starDelta7d": 172,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4",
   "languages": {
     "Rust": 0.83,
@@ -51,6 +51,21 @@
   },
   "releases": [
     {
+      "tag": "tauri-v2.11.6",
+      "name": "tauri v2.11.6",
+      "publishedAt": "2026-09-19T23:47:56Z"
+    },
+    {
+      "tag": "tauri-cli-v2.11.5",
+      "name": "tauri-cli v2.11.5",
+      "publishedAt": "2026-09-19T23:50:09Z"
+    },
+    {
+      "tag": "@tauri-apps/cli-v2.11.5",
+      "name": "@tauri-apps/cli v2.11.5",
+      "publishedAt": "2026-09-19T23:47:58Z"
+    },
+    {
       "tag": "tauri-v3.0.0-alpha.1",
       "name": "tauri v3.0.0-alpha.1",
       "publishedAt": "2026-09-15T10:58:29Z"
@@ -59,31 +74,12 @@
       "tag": "tauri-runtime-wry-v3.0.0-alpha.1",
       "name": "tauri-runtime-wry v3.0.0-alpha.1",
       "publishedAt": "2026-09-15T10:59:08Z"
-    },
-    {
-      "tag": "tauri-runtime-cef-v3.0.0-alpha.1",
-      "name": "tauri-runtime-cef v3.0.0-alpha.1",
-      "publishedAt": "2026-09-15T11:01:05Z"
-    },
-    {
-      "tag": "@tauri-apps/cli-v3.0.0-alpha.1",
-      "name": "@tauri-apps/cli v3.0.0-alpha.1",
-      "publishedAt": "2026-09-15T11:01:07Z"
-    },
-    {
-      "tag": "tauri-cli-v3.0.0-alpha.1",
-      "name": "tauri-cli v3.0.0-alpha.1",
-      "publishedAt": "2026-09-15T11:02:53Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 107852
-    },
-    {
-      "date": "2026-06-20",
-      "stars": 108097
     },
     {
       "date": "2026-06-21",
@@ -138,8 +134,8 @@
       "stars": 108602
     },
     {
-      "date": "2026-07-05",
-      "stars": 108670
+      "date": "2026-07-04",
+      "stars": 108646
     },
     {
       "date": "2026-07-06",
@@ -258,8 +254,8 @@
       "stars": 109819
     },
     {
-      "date": "2026-08-05",
-      "stars": 109899
+      "date": "2026-08-04",
+      "stars": 109864
     },
     {
       "date": "2026-08-06",
@@ -378,8 +374,8 @@
       "stars": 110761
     },
     {
-      "date": "2026-09-05",
-      "stars": 110817
+      "date": "2026-09-04",
+      "stars": 110795
     },
     {
       "date": "2026-09-06",
@@ -436,6 +432,10 @@
     {
       "date": "2026-09-19",
       "stars": 111171
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 111206
     }
   ],
   "links": {

@@ -7,18 +7,18 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 125210,
-  "forks": 19426,
-  "openIssues": 17810,
-  "pushedAt": "2026-09-19T04:26:50Z",
+  "stars": 125389,
+  "forks": 19470,
+  "openIssues": 17930,
+  "pushedAt": "2026-09-20T03:03:03Z",
   "topics": [],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1731,
+  "starDelta7d": 1692,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
   "languages": {
     "Rust": 0.97,
-    "Python": 0.03,
+    "Python": 0.02,
     "Starlark": 0,
     "TypeScript": 0,
     "PowerShell": 0,
@@ -40,6 +40,16 @@
   },
   "releases": [
     {
+      "tag": "rust-v0.156.0-alpha.9",
+      "name": "0.156.0-alpha.9",
+      "publishedAt": "2026-09-20T00:17:45Z"
+    },
+    {
+      "tag": "rust-v0.156.0-alpha.8",
+      "name": "0.156.0-alpha.8",
+      "publishedAt": "2026-09-19T17:20:24Z"
+    },
+    {
       "tag": "rust-v0.156.0-alpha.7",
       "name": "0.156.0-alpha.7",
       "publishedAt": "2026-09-19T04:08:15Z"
@@ -53,23 +63,9 @@
       "tag": "rust-v0.155.1",
       "name": "0.155.1",
       "publishedAt": "2026-09-18T20:03:04Z"
-    },
-    {
-      "tag": "rust-v0.156.0-alpha.5",
-      "name": "0.156.0-alpha.5",
-      "publishedAt": "2026-09-19T00:22:35Z"
-    },
-    {
-      "tag": "rust-v0.156.0-alpha.4",
-      "name": "0.156.0-alpha.4",
-      "publishedAt": "2026-09-18T21:18:45Z"
     }
   ],
   "starHistory": [
-    {
-      "date": "2026-06-20",
-      "stars": 92227
-    },
     {
       "date": "2026-06-21",
       "stars": 92368
@@ -159,8 +155,8 @@
       "stars": 97244
     },
     {
-      "date": "2026-07-14",
-      "stars": 97807
+      "date": "2026-07-13",
+      "stars": 97477
     },
     {
       "date": "2026-07-15",
@@ -335,8 +331,8 @@
       "stars": 118247
     },
     {
-      "date": "2026-08-28",
-      "stars": 119478
+      "date": "2026-08-27",
+      "stars": 119101
     },
     {
       "date": "2026-08-29",
@@ -425,6 +421,10 @@
     {
       "date": "2026-09-19",
       "stars": 125210
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 125389
     }
   ],
   "links": {

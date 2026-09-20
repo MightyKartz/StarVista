@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C#",
   "languageColor": null,
-  "stars": 116476,
-  "forks": 15946,
-  "openIssues": 10,
-  "pushedAt": "2026-09-19T06:49:01Z",
+  "stars": 116549,
+  "forks": 15953,
+  "openIssues": 12,
+  "pushedAt": "2026-09-20T02:32:04Z",
   "topics": [
     "proxy",
     "shadowsocks",
@@ -26,7 +26,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 520,
+  "starDelta7d": 507,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4",
   "languages": {
     "C#": 0.92,
@@ -38,6 +38,11 @@
     "text": "v2rayN is a C# project focused on A GUI client for Windows, Linux and macOS, support Xray and sing-box and others. It is tagged with proxy, shadowsocks, and socks5."
   },
   "releases": [
+    {
+      "tag": "7.25.2",
+      "name": "7.25.2",
+      "publishedAt": "2026-09-20T02:32:04Z"
+    },
     {
       "tag": "7.25.1",
       "name": "",
@@ -57,21 +62,12 @@
       "tag": "7.24.8",
       "name": "",
       "publishedAt": "2026-08-22T09:33:13Z"
-    },
-    {
-      "tag": "7.24.7",
-      "name": "",
-      "publishedAt": "2026-08-15T02:21:15Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-06-14",
       "stars": 108923
-    },
-    {
-      "date": "2026-06-20",
-      "stars": 109470
     },
     {
       "date": "2026-06-21",
@@ -126,8 +122,8 @@
       "stars": 110449
     },
     {
-      "date": "2026-07-05",
-      "stars": 110573
+      "date": "2026-07-04",
+      "stars": 110514
     },
     {
       "date": "2026-07-06",
@@ -246,8 +242,8 @@
       "stars": 112893
     },
     {
-      "date": "2026-08-05",
-      "stars": 113081
+      "date": "2026-08-04",
+      "stars": 112979
     },
     {
       "date": "2026-08-06",
@@ -366,8 +362,8 @@
       "stars": 115297
     },
     {
-      "date": "2026-09-05",
-      "stars": 115462
+      "date": "2026-09-04",
+      "stars": 115386
     },
     {
       "date": "2026-09-06",
@@ -424,6 +420,10 @@
     {
       "date": "2026-09-19",
       "stars": 116476
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 116549
     }
   ],
   "links": {
