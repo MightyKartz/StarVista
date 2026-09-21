@@ -8,9 +8,9 @@
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
   "stars": 142388,
-  "forks": 32500,
-  "openIssues": 3459,
-  "pushedAt": "2026-09-20T05:46:08Z",
+  "forks": 32590,
+  "openIssues": 3463,
+  "pushedAt": "2026-09-21T07:30:06Z",
   "topics": [
     "blog",
     "browser",
@@ -29,11 +29,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 124,
+  "starDelta7d": 108,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
   "languages": {
     "JavaScript": 0.5,
-    "TypeScript": 0.33,
+    "TypeScript": 0.34,
     "Rust": 0.15,
     "MDX": 0.01,
     "CSS": 0.01,
@@ -130,16 +130,16 @@
       "stars": 140191
     },
     {
-      "date": "2026-07-02",
-      "stars": 140216
-    },
-    {
       "date": "2026-07-03",
       "stars": 140289
     },
     {
       "date": "2026-07-04",
       "stars": 140328
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 140330
     },
     {
       "date": "2026-07-06",
@@ -218,10 +218,6 @@
       "stars": 141096
     },
     {
-      "date": "2026-07-25",
-      "stars": 141119
-    },
-    {
       "date": "2026-07-26",
       "stars": 141138
     },
@@ -260,6 +256,10 @@
     {
       "date": "2026-08-04",
       "stars": 141328
+    },
+    {
+      "date": "2026-08-05",
+      "stars": 141363
     },
     {
       "date": "2026-08-06",
@@ -304,10 +304,6 @@
     {
       "date": "2026-08-16",
       "stars": 141793
-    },
-    {
-      "date": "2026-08-17",
-      "stars": 141823
     },
     {
       "date": "2026-08-18",
@@ -382,6 +378,10 @@
       "stars": 142085
     },
     {
+      "date": "2026-09-05",
+      "stars": 142095
+    },
+    {
       "date": "2026-09-06",
       "stars": 142131
     },
@@ -392,10 +392,6 @@
     {
       "date": "2026-09-08",
       "stars": 142212
-    },
-    {
-      "date": "2026-09-09",
-      "stars": 142232
     },
     {
       "date": "2026-09-10",
@@ -439,6 +435,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 142388
+    },
+    {
+      "date": "2026-09-21",
       "stars": 142388
     }
   ],

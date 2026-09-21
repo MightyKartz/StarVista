@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 125389,
-  "forks": 19470,
-  "openIssues": 17930,
-  "pushedAt": "2026-09-20T03:03:03Z",
+  "stars": 125616,
+  "forks": 19534,
+  "openIssues": 18060,
+  "pushedAt": "2026-09-21T07:52:54Z",
   "topics": [],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1692,
+  "starDelta7d": 1653,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
   "languages": {
     "Rust": 0.97,
@@ -40,29 +40,29 @@
   },
   "releases": [
     {
-      "tag": "rust-v0.156.0-alpha.9",
-      "name": "0.156.0-alpha.9",
-      "publishedAt": "2026-09-20T00:17:45Z"
+      "tag": "rust-v0.156.0-alpha.14",
+      "name": "0.156.0-alpha.14",
+      "publishedAt": "2026-09-21T04:09:08Z"
     },
     {
-      "tag": "rust-v0.156.0-alpha.8",
-      "name": "0.156.0-alpha.8",
-      "publishedAt": "2026-09-19T17:20:24Z"
+      "tag": "rust-v0.156.0-alpha.13",
+      "name": "0.156.0-alpha.13",
+      "publishedAt": "2026-09-21T02:15:06Z"
     },
     {
-      "tag": "rust-v0.156.0-alpha.7",
-      "name": "0.156.0-alpha.7",
-      "publishedAt": "2026-09-19T04:08:15Z"
+      "tag": "rust-v0.156.0-alpha.12",
+      "name": "0.156.0-alpha.12",
+      "publishedAt": "2026-09-21T00:06:46Z"
     },
     {
-      "tag": "rust-v0.156.0-alpha.6",
-      "name": "0.156.0-alpha.6",
-      "publishedAt": "2026-09-19T02:18:41Z"
+      "tag": "rust-v0.156.0-alpha.11",
+      "name": "0.156.0-alpha.11",
+      "publishedAt": "2026-09-20T22:49:40Z"
     },
     {
-      "tag": "rust-v0.155.1",
-      "name": "0.155.1",
-      "publishedAt": "2026-09-18T20:03:04Z"
+      "tag": "rust-v0.156.0-alpha.10",
+      "name": "0.156.0-alpha.10",
+      "publishedAt": "2026-09-20T21:18:52Z"
     }
   ],
   "starHistory": [
@@ -127,10 +127,6 @@
       "stars": 95544
     },
     {
-      "date": "2026-07-06",
-      "stars": 95732
-    },
-    {
       "date": "2026-07-07",
       "stars": 95936
     },
@@ -157,6 +153,10 @@
     {
       "date": "2026-07-13",
       "stars": 97477
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 97807
     },
     {
       "date": "2026-07-15",
@@ -247,10 +247,6 @@
       "stars": 103995
     },
     {
-      "date": "2026-08-06",
-      "stars": 104254
-    },
-    {
       "date": "2026-08-07",
       "stars": 104487
     },
@@ -335,6 +331,10 @@
       "stars": 119101
     },
     {
+      "date": "2026-08-28",
+      "stars": 119478
+    },
+    {
       "date": "2026-08-29",
       "stars": 119663
     },
@@ -365,10 +365,6 @@
     {
       "date": "2026-09-05",
       "stars": 121609
-    },
-    {
-      "date": "2026-09-06",
-      "stars": 121826
     },
     {
       "date": "2026-09-07",
@@ -425,6 +421,10 @@
     {
       "date": "2026-09-20",
       "stars": 125389
+    },
+    {
+      "date": "2026-09-21",
+      "stars": 125616
     }
   ],
   "links": {

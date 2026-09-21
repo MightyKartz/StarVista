@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 247258,
-  "forks": 51969,
-  "openIssues": 43454,
-  "pushedAt": "2026-09-20T07:43:58Z",
+  "stars": 247573,
+  "forks": 52087,
+  "openIssues": 43091,
+  "pushedAt": "2026-09-21T07:56:11Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2289,
+  "starDelta7d": 2310,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.73,
@@ -58,11 +58,13 @@
     "Perl": 0,
     "Berry": 0,
     "Charity": 0,
+    "Erlang": 0,
     "QMake": 0,
     "RenderScript": 0,
     "C++": 0,
     "IL Assembly": 0,
-    "LOLCODE": 0
+    "LOLCODE": 0,
+    "Common Lisp": 0
   },
   "readmeExcerpt": "Hermes Agent | Hermes Desktop",
   "summary": {
@@ -146,16 +148,16 @@
       "stars": 206684
     },
     {
-      "date": "2026-07-02",
-      "stars": 207446
-    },
-    {
       "date": "2026-07-03",
       "stars": 208190
     },
     {
       "date": "2026-07-04",
       "stars": 208819
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 209317
     },
     {
       "date": "2026-07-06",
@@ -234,10 +236,6 @@
       "stars": 219614
     },
     {
-      "date": "2026-07-25",
-      "stars": 220105
-    },
-    {
       "date": "2026-07-26",
       "stars": 220562
     },
@@ -276,6 +274,10 @@
     {
       "date": "2026-08-04",
       "stars": 225017
+    },
+    {
+      "date": "2026-08-05",
+      "stars": 225623
     },
     {
       "date": "2026-08-06",
@@ -320,10 +322,6 @@
     {
       "date": "2026-08-16",
       "stars": 231121
-    },
-    {
-      "date": "2026-08-17",
-      "stars": 231579
     },
     {
       "date": "2026-08-18",
@@ -398,6 +396,10 @@
       "stars": 241055
     },
     {
+      "date": "2026-09-05",
+      "stars": 241633
+    },
+    {
       "date": "2026-09-06",
       "stars": 242126
     },
@@ -408,10 +410,6 @@
     {
       "date": "2026-09-08",
       "stars": 243169
-    },
-    {
-      "date": "2026-09-09",
-      "stars": 243577
     },
     {
       "date": "2026-09-10",
@@ -456,6 +454,10 @@
     {
       "date": "2026-09-20",
       "stars": 247258
+    },
+    {
+      "date": "2026-09-21",
+      "stars": 247573
     }
   ],
   "links": {
