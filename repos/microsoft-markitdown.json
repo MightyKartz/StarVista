@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 186038,
-  "forks": 13702,
+  "stars": 186284,
+  "forks": 13725,
   "openIssues": 695,
-  "pushedAt": "2026-09-16T17:23:11Z",
+  "pushedAt": "2026-09-21T21:03:34Z",
   "topics": [
     "autogen",
     "autogen-extension",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2290,
+  "starDelta7d": 2156,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "Python": 1,
@@ -34,6 +34,11 @@
     "text": "markitdown is a Python project focused on Python tool for converting files and office documents to Markdown. It is tagged with autogen, autogen-extension, and langchain."
   },
   "releases": [
+    {
+      "tag": "v0.1.8",
+      "name": "Version 0.1.8",
+      "publishedAt": "2026-09-21T21:22:51Z"
+    },
     {
       "tag": "v0.1.8b2",
       "name": "Version 0.1.8b2",
@@ -53,11 +58,6 @@
       "tag": "v0.1.6",
       "name": "Version 0.1.6",
       "publishedAt": "2026-05-26T22:42:14Z"
-    },
-    {
-      "tag": "v0.1.5",
-      "name": "v0.1.5",
-      "publishedAt": "2026-02-20T19:49:39Z"
     }
   ],
   "starHistory": [
@@ -68,10 +68,6 @@
     {
       "date": "2026-06-21",
       "stars": 156670
-    },
-    {
-      "date": "2026-06-22",
-      "stars": 157370
     },
     {
       "date": "2026-06-23",
@@ -110,8 +106,8 @@
       "stars": 161873
     },
     {
-      "date": "2026-07-03",
-      "stars": 162530
+      "date": "2026-07-02",
+      "stars": 162196
     },
     {
       "date": "2026-07-04",
@@ -198,8 +194,8 @@
       "stars": 168632
     },
     {
-      "date": "2026-07-26",
-      "stars": 169041
+      "date": "2026-07-25",
+      "stars": 168850
     },
     {
       "date": "2026-07-27",
@@ -286,8 +282,8 @@
       "stars": 173940
     },
     {
-      "date": "2026-08-18",
-      "stars": 174301
+      "date": "2026-08-17",
+      "stars": 174123
     },
     {
       "date": "2026-08-19",
@@ -374,8 +370,8 @@
       "stars": 180867
     },
     {
-      "date": "2026-09-10",
-      "stars": 182265
+      "date": "2026-09-09",
+      "stars": 181946
     },
     {
       "date": "2026-09-11",
@@ -420,6 +416,10 @@
     {
       "date": "2026-09-21",
       "stars": 186038
+    },
+    {
+      "date": "2026-09-22",
+      "stars": 186284
     }
   ],
   "links": {
