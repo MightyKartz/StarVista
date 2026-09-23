@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 111248,
-  "forks": 4014,
-  "openIssues": 1454,
-  "pushedAt": "2026-09-22T03:14:52Z",
+  "stars": 111280,
+  "forks": 4017,
+  "openIssues": 1459,
+  "pushedAt": "2026-09-23T05:56:48Z",
   "topics": [
     "desktop-app",
     "high-performance",
@@ -22,11 +22,11 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 172,
+  "starDelta7d": 180,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4",
   "languages": {
-    "Rust": 0.82,
-    "TypeScript": 0.08,
+    "Rust": 0.81,
+    "TypeScript": 0.1,
     "NSIS": 0.03,
     "Kotlin": 0.02,
     "JavaScript": 0.02,
@@ -86,10 +86,6 @@
       "stars": 108139
     },
     {
-      "date": "2026-06-23",
-      "stars": 108223
-    },
-    {
       "date": "2026-06-24",
       "stars": 108267
     },
@@ -126,8 +122,8 @@
       "stars": 108560
     },
     {
-      "date": "2026-07-04",
-      "stars": 108646
+      "date": "2026-07-03",
+      "stars": 108602
     },
     {
       "date": "2026-07-05",
@@ -214,8 +210,8 @@
       "stars": 109454
     },
     {
-      "date": "2026-07-27",
-      "stars": 109534
+      "date": "2026-07-26",
+      "stars": 109502
     },
     {
       "date": "2026-07-28",
@@ -302,8 +298,8 @@
       "stars": 110276
     },
     {
-      "date": "2026-08-19",
-      "stars": 110342
+      "date": "2026-08-18",
+      "stars": 110297
     },
     {
       "date": "2026-08-20",
@@ -390,8 +386,8 @@
       "stars": 110926
     },
     {
-      "date": "2026-09-11",
-      "stars": 110985
+      "date": "2026-09-10",
+      "stars": 110956
     },
     {
       "date": "2026-09-12",
@@ -436,6 +432,10 @@
     {
       "date": "2026-09-22",
       "stars": 111248
+    },
+    {
+      "date": "2026-09-23",
+      "stars": 111280
     }
   ],
   "links": {
