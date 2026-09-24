@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 109210,
-  "forks": 11872,
-  "openIssues": 95,
-  "pushedAt": "2026-09-22T13:56:11Z",
+  "stars": 109209,
+  "forks": 11873,
+  "openIssues": 96,
+  "pushedAt": "2026-09-24T07:24:33Z",
   "topics": [
     "hacktoberfest",
     "http-client",
@@ -20,14 +20,14 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 4,
+  "starDelta7d": 8,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32372333?v=4",
   "languages": {
     "JavaScript": 0.9,
     "TypeScript": 0.09,
     "HTML": 0.01
   },
-  "readmeExcerpt": "💎 Platinum sponsors <a href=\"https://thanks.dev/?utmsource&#x3D;axios&amp;utmmedium&#x3D;sponsorlist&amp;utmcampaign&#x3D;sponsorship\" style=\"padding: 10px; display: inline-block\" target=\"blank\" > <img width=\"90px\" height=\"90px\" src=\"https://images.opencollective.com/thanks-dev/360b917/logo/256.png?height=256\" alt=\"Thanks.dev\" /> <p align=\"center\" > We're passionate about making open source sustainable. Scan your dependency tree to better understand which open source projects need funding. <...",
+  "readmeExcerpt": "> [!IMPORTANT] > Get Security Updates for Axios v0 →",
   "summary": {
     "mode": "template",
     "text": "axios is a JavaScript project focused on Promise based HTTP client for the browser and node.js. It is tagged with hacktoberfest, http-client, and javascript."
@@ -69,10 +69,6 @@
       "stars": 109082
     },
     {
-      "date": "2026-06-24",
-      "stars": 109090
-    },
-    {
       "date": "2026-06-25",
       "stars": 109097
     },
@@ -109,8 +105,8 @@
       "stars": 109107
     },
     {
-      "date": "2026-07-05",
-      "stars": 109106
+      "date": "2026-07-04",
+      "stars": 109105
     },
     {
       "date": "2026-07-06",
@@ -197,8 +193,8 @@
       "stars": 109164
     },
     {
-      "date": "2026-07-28",
-      "stars": 109167
+      "date": "2026-07-27",
+      "stars": 109161
     },
     {
       "date": "2026-07-29",
@@ -285,8 +281,8 @@
       "stars": 109202
     },
     {
-      "date": "2026-08-20",
-      "stars": 109198
+      "date": "2026-08-19",
+      "stars": 109196
     },
     {
       "date": "2026-08-21",
@@ -373,8 +369,8 @@
       "stars": 109227
     },
     {
-      "date": "2026-09-12",
-      "stars": 109219
+      "date": "2026-09-11",
+      "stars": 109224
     },
     {
       "date": "2026-09-13",
@@ -419,6 +415,10 @@
     {
       "date": "2026-09-23",
       "stars": 109210
+    },
+    {
+      "date": "2026-09-24",
+      "stars": 109209
     }
   ],
   "links": {

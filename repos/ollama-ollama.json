@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 181504,
-  "forks": 17976,
-  "openIssues": 4058,
-  "pushedAt": "2026-09-23T01:28:13Z",
+  "stars": 181563,
+  "forks": 17986,
+  "openIssues": 4065,
+  "pushedAt": "2026-09-24T03:46:00Z",
   "topics": [
     "deepseek",
     "gemma",
@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 398,
+  "starDelta7d": 342,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/151674099?v=4",
   "languages": {
     "Go": 0.69,
@@ -56,7 +56,7 @@
   },
   "releases": [
     {
-      "tag": "v0.34.4-rc0",
+      "tag": "v0.34.4",
       "name": "v0.34.4",
       "publishedAt": "2026-09-23T02:24:43Z"
     },
@@ -89,10 +89,6 @@
     {
       "date": "2026-06-21",
       "stars": 174621
-    },
-    {
-      "date": "2026-06-24",
-      "stars": 174818
     },
     {
       "date": "2026-06-25",
@@ -131,8 +127,8 @@
       "stars": 175335
     },
     {
-      "date": "2026-07-05",
-      "stars": 175488
+      "date": "2026-07-04",
+      "stars": 175410
     },
     {
       "date": "2026-07-06",
@@ -219,8 +215,8 @@
       "stars": 176896
     },
     {
-      "date": "2026-07-28",
-      "stars": 177056
+      "date": "2026-07-27",
+      "stars": 176962
     },
     {
       "date": "2026-07-29",
@@ -307,8 +303,8 @@
       "stars": 178817
     },
     {
-      "date": "2026-08-20",
-      "stars": 178992
+      "date": "2026-08-19",
+      "stars": 178906
     },
     {
       "date": "2026-08-21",
@@ -395,8 +391,8 @@
       "stars": 180548
     },
     {
-      "date": "2026-09-12",
-      "stars": 180713
+      "date": "2026-09-11",
+      "stars": 180632
     },
     {
       "date": "2026-09-13",
@@ -441,6 +437,10 @@
     {
       "date": "2026-09-23",
       "stars": 181504
+    },
+    {
+      "date": "2026-09-24",
+      "stars": 181563
     }
   ],
   "links": {

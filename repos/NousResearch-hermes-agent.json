@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 248197,
-  "forks": 52408,
-  "openIssues": 44256,
-  "pushedAt": "2026-09-23T07:44:36Z",
+  "stars": 248514,
+  "forks": 52544,
+  "openIssues": 44199,
+  "pushedAt": "2026-09-24T07:35:43Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,11 +28,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2222,
+  "starDelta7d": 2209,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
-    "Python": 0.73,
-    "TypeScript": 0.24,
+    "Python": 0.71,
+    "TypeScript": 0.26,
     "JavaScript": 0.01,
     "Shell": 0,
     "PowerShell": 0,
@@ -50,7 +50,6 @@
     "C#": 0,
     "AutoHotkey": 0,
     "Go Template": 0,
-    "M": 0,
     "Batchfile": 0,
     "Makefile": 0,
     "Roff": 0,
@@ -61,6 +60,7 @@
     "Berry": 0,
     "Charity": 0,
     "Erlang": 0,
+    "NewLisp": 0,
     "QMake": 0,
     "RenderScript": 0,
     "C++": 0,
@@ -110,10 +110,6 @@
       "stars": 198482
     },
     {
-      "date": "2026-06-24",
-      "stars": 201234
-    },
-    {
       "date": "2026-06-25",
       "stars": 202325
     },
@@ -150,8 +146,8 @@
       "stars": 208190
     },
     {
-      "date": "2026-07-05",
-      "stars": 209317
+      "date": "2026-07-04",
+      "stars": 208819
     },
     {
       "date": "2026-07-06",
@@ -238,8 +234,8 @@
       "stars": 220562
     },
     {
-      "date": "2026-07-28",
-      "stars": 221527
+      "date": "2026-07-27",
+      "stars": 221047
     },
     {
       "date": "2026-07-29",
@@ -326,8 +322,8 @@
       "stars": 232090
     },
     {
-      "date": "2026-08-20",
-      "stars": 233101
+      "date": "2026-08-19",
+      "stars": 232613
     },
     {
       "date": "2026-08-21",
@@ -414,8 +410,8 @@
       "stars": 243966
     },
     {
-      "date": "2026-09-12",
-      "stars": 244691
+      "date": "2026-09-11",
+      "stars": 244332
     },
     {
       "date": "2026-09-13",
@@ -460,6 +456,10 @@
     {
       "date": "2026-09-23",
       "stars": 248197
+    },
+    {
+      "date": "2026-09-24",
+      "stars": 248514
     }
   ],
   "links": {
