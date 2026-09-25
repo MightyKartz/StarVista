@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 187514,
-  "forks": 45995,
-  "openIssues": 556,
-  "pushedAt": "2026-09-24T07:35:23Z",
+  "stars": 187541,
+  "forks": 45997,
+  "openIssues": 541,
+  "pushedAt": "2026-09-25T07:32:53Z",
   "topics": [
     "agentic-ai",
     "agents",
@@ -26,13 +26,13 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 115,
+  "starDelta7d": 117,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130738209?v=4",
   "languages": {
     "Python": 0.66,
     "TypeScript": 0.32,
-    "JavaScript": 0,
     "Shell": 0,
+    "JavaScript": 0,
     "PLpgSQL": 0,
     "Jinja": 0,
     "Dockerfile": 0,
@@ -55,6 +55,11 @@
       "publishedAt": "2026-08-06T04:50:42Z"
     },
     {
+      "tag": "autogpt-platform-beta-v0.8.1",
+      "name": "AutoGPT Platform v0.8.1",
+      "publishedAt": "2026-09-24T09:35:53Z"
+    },
+    {
       "tag": "autogpt-platform-beta-v0.8.0",
       "name": "AutoGPT Platform v0.8.0",
       "publishedAt": "2026-09-19T05:07:45Z"
@@ -68,11 +73,6 @@
       "tag": "autogpt-platform-beta-v0.7.3",
       "name": "autogpt-platform-beta-v0.7.3",
       "publishedAt": "2026-08-28T06:48:00Z"
-    },
-    {
-      "tag": "autogpt-platform-beta-v0.7.2",
-      "name": "🚀 Release `autogpt-platform-beta-v0.7.2`",
-      "publishedAt": "2026-08-21T04:54:17Z"
     }
   ],
   "starHistory": [
@@ -83,10 +83,6 @@
     {
       "date": "2026-06-21",
       "stars": 185046
-    },
-    {
-      "date": "2026-06-25",
-      "stars": 185154
     },
     {
       "date": "2026-06-26",
@@ -125,8 +121,8 @@
       "stars": 185330
     },
     {
-      "date": "2026-07-06",
-      "stars": 185399
+      "date": "2026-07-05",
+      "stars": 185357
     },
     {
       "date": "2026-07-07",
@@ -213,8 +209,8 @@
       "stars": 185704
     },
     {
-      "date": "2026-07-29",
-      "stars": 185738
+      "date": "2026-07-28",
+      "stars": 185725
     },
     {
       "date": "2026-07-30",
@@ -301,7 +297,7 @@
       "stars": 186680
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-20",
       "stars": 186691
     },
     {
@@ -389,8 +385,8 @@
       "stars": 187251
     },
     {
-      "date": "2026-09-13",
-      "stars": 187292
+      "date": "2026-09-12",
+      "stars": 187276
     },
     {
       "date": "2026-09-14",
@@ -435,6 +431,10 @@
     {
       "date": "2026-09-24",
       "stars": 187514
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 187541
     }
   ],
   "links": {

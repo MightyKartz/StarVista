@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 139595,
-  "forks": 20511,
-  "openIssues": 19,
-  "pushedAt": "2026-09-23T05:24:46Z",
+  "stars": 139696,
+  "forks": 20526,
+  "openIssues": 15,
+  "pushedAt": "2026-09-25T02:36:57Z",
   "topics": [
     "agents",
     "llms",
@@ -19,12 +19,12 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1019,
+  "starDelta7d": 957,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31396011?v=4",
   "languages": {
-    "Python": 0.56,
+    "Python": 0.55,
     "TypeScript": 0.2,
-    "JavaScript": 0.16,
+    "JavaScript": 0.18,
     "HTML": 0.04,
     "CSS": 0.03,
     "Dockerfile": 0,
@@ -46,10 +46,6 @@
     {
       "date": "2026-06-21",
       "stars": 115182
-    },
-    {
-      "date": "2026-06-25",
-      "stars": 115517
     },
     {
       "date": "2026-06-26",
@@ -88,8 +84,8 @@
       "stars": 116377
     },
     {
-      "date": "2026-07-06",
-      "stars": 116583
+      "date": "2026-07-05",
+      "stars": 116453
     },
     {
       "date": "2026-07-07",
@@ -176,8 +172,8 @@
       "stars": 127946
     },
     {
-      "date": "2026-07-29",
-      "stars": 128573
+      "date": "2026-07-28",
+      "stars": 128179
     },
     {
       "date": "2026-07-30",
@@ -264,8 +260,8 @@
       "stars": 133141
     },
     {
-      "date": "2026-08-21",
-      "stars": 133393
+      "date": "2026-08-20",
+      "stars": 133276
     },
     {
       "date": "2026-08-22",
@@ -352,8 +348,8 @@
       "stars": 137035
     },
     {
-      "date": "2026-09-13",
-      "stars": 137751
+      "date": "2026-09-12",
+      "stars": 137275
     },
     {
       "date": "2026-09-14",
@@ -398,6 +394,10 @@
     {
       "date": "2026-09-24",
       "stars": 139595
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 139696
     }
   ],
   "links": {
