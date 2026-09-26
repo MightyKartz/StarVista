@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 136631,
-  "forks": 9314,
-  "openIssues": 2888,
-  "pushedAt": "2026-09-24T18:37:28Z",
+  "stars": 136971,
+  "forks": 9330,
+  "openIssues": 2887,
+  "pushedAt": "2026-09-26T07:36:23Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3154,
+  "starDelta7d": 3369,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.65,
@@ -44,7 +44,7 @@
     "JavaScript": 0,
     "CSS": 0
   },
-  "readmeExcerpt": "English | 中文 | 日本語 | Deutsch | Changelog",
+  "readmeExcerpt": "Switch API providers in one click and manage MCP, Skills, and Prompts in one place — no more hand-editing JSON / TOML / YAML config files.",
   "summary": {
     "mode": "template",
     "text": "cc-switch is a Rust project focused on A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io. It is tagged with ai-tools, claude-code, and codex."
@@ -86,10 +86,6 @@
       "stars": 105343
     },
     {
-      "date": "2026-06-26",
-      "stars": 108656
-    },
-    {
       "date": "2026-06-27",
       "stars": 109143
     },
@@ -126,8 +122,8 @@
       "stars": 113274
     },
     {
-      "date": "2026-07-07",
-      "stars": 114087
+      "date": "2026-07-06",
+      "stars": 113655
     },
     {
       "date": "2026-07-08",
@@ -214,8 +210,8 @@
       "stars": 121802
     },
     {
-      "date": "2026-07-30",
-      "stars": 122348
+      "date": "2026-07-29",
+      "stars": 122079
     },
     {
       "date": "2026-07-31",
@@ -302,8 +298,8 @@
       "stars": 128332
     },
     {
-      "date": "2026-08-22",
-      "stars": 128736
+      "date": "2026-08-21",
+      "stars": 128545
     },
     {
       "date": "2026-08-23",
@@ -390,8 +386,8 @@
       "stars": 132419
     },
     {
-      "date": "2026-09-14",
-      "stars": 132741
+      "date": "2026-09-13",
+      "stars": 132575
     },
     {
       "date": "2026-09-15",
@@ -436,6 +432,10 @@
     {
       "date": "2026-09-25",
       "stars": 136631
+    },
+    {
+      "date": "2026-09-26",
+      "stars": 136971
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 101032,
-  "forks": 28442,
-  "openIssues": 1149,
-  "pushedAt": "2026-09-24T19:32:23Z",
+  "stars": 101037,
+  "forks": 28598,
+  "openIssues": 1159,
+  "pushedAt": "2026-09-25T23:56:17Z",
   "topics": [
     "angular",
     "javascript",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 22,
+  "starDelta7d": 25,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139426?v=4",
   "languages": {
     "TypeScript": 0.87,
@@ -39,6 +39,11 @@
     "text": "angular is a TypeScript project focused on Deliver web apps with confidence 🚀. It is tagged with angular, javascript, and pwa."
   },
   "releases": [
+    {
+      "tag": "vsix-22.2.0",
+      "name": "VSCode Extension: 22.2.0",
+      "publishedAt": "2026-09-25T17:46:04Z"
+    },
     {
       "tag": "v22.2.0",
       "name": "22.2.0",
@@ -58,11 +63,6 @@
       "tag": "v20.3.32",
       "name": "20.3.32",
       "publishedAt": "2026-09-23T17:38:59Z"
-    },
-    {
-      "tag": "v22.2.0-rc.0",
-      "name": "22.2.0-rc.0",
-      "publishedAt": "2026-09-16T19:09:42Z"
     }
   ],
   "starHistory": [
@@ -73,10 +73,6 @@
     {
       "date": "2026-06-21",
       "stars": 100388
-    },
-    {
-      "date": "2026-06-26",
-      "stars": 100463
     },
     {
       "date": "2026-06-27",
@@ -115,8 +111,8 @@
       "stars": 100479
     },
     {
-      "date": "2026-07-07",
-      "stars": 100486
+      "date": "2026-07-06",
+      "stars": 100478
     },
     {
       "date": "2026-07-08",
@@ -203,8 +199,8 @@
       "stars": 100620
     },
     {
-      "date": "2026-07-30",
-      "stars": 100608
+      "date": "2026-07-29",
+      "stars": 100599
     },
     {
       "date": "2026-07-31",
@@ -291,7 +287,7 @@
       "stars": 100994
     },
     {
-      "date": "2026-08-22",
+      "date": "2026-08-21",
       "stars": 100994
     },
     {
@@ -379,8 +375,8 @@
       "stars": 100996
     },
     {
-      "date": "2026-09-14",
-      "stars": 101002
+      "date": "2026-09-13",
+      "stars": 100997
     },
     {
       "date": "2026-09-15",
@@ -425,6 +421,10 @@
     {
       "date": "2026-09-25",
       "stars": 101032
+    },
+    {
+      "date": "2026-09-26",
+      "stars": 101037
     }
   ],
   "links": {

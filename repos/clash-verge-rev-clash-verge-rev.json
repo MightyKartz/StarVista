@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 147205,
-  "forks": 10575,
-  "openIssues": 459,
-  "pushedAt": "2026-09-25T04:16:14Z",
+  "stars": 147382,
+  "forks": 10591,
+  "openIssues": 468,
+  "pushedAt": "2026-09-26T02:59:23Z",
   "topics": [
     "clash",
     "clash-meta",
@@ -23,7 +23,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 2007,
+  "starDelta7d": 2000,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
   "languages": {
     "Rust": 0.46,
@@ -41,6 +41,11 @@
     "text": "clash-verge-rev is a Rust project focused on A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience. It is tagged with clash, clash-meta, and clash-verge."
   },
   "releases": [
+    {
+      "tag": "v2.5.6",
+      "name": "Clash Verge Rev v2.5.6",
+      "publishedAt": "2026-09-26T04:11:55Z"
+    },
     {
       "tag": "v2.5.5",
       "name": "Clash Verge Rev v2.5.5",
@@ -60,11 +65,6 @@
       "tag": "v2.5.2",
       "name": "Clash Verge Rev v2.5.2",
       "publishedAt": "2026-07-19T17:00:26Z"
-    },
-    {
-      "tag": "v2.5.1",
-      "name": "Clash Verge Rev v2.5.1",
-      "publishedAt": "2026-05-20T07:01:22Z"
     }
   ],
   "starHistory": [
@@ -75,10 +75,6 @@
     {
       "date": "2026-06-21",
       "stars": 126877
-    },
-    {
-      "date": "2026-06-26",
-      "stars": 127957
     },
     {
       "date": "2026-06-27",
@@ -117,8 +113,8 @@
       "stars": 129626
     },
     {
-      "date": "2026-07-07",
-      "stars": 129979
+      "date": "2026-07-06",
+      "stars": 129805
     },
     {
       "date": "2026-07-08",
@@ -205,8 +201,8 @@
       "stars": 134137
     },
     {
-      "date": "2026-07-30",
-      "stars": 134476
+      "date": "2026-07-29",
+      "stars": 134308
     },
     {
       "date": "2026-07-31",
@@ -293,8 +289,8 @@
       "stars": 138916
     },
     {
-      "date": "2026-08-22",
-      "stars": 139312
+      "date": "2026-08-21",
+      "stars": 139125
     },
     {
       "date": "2026-08-23",
@@ -381,8 +377,8 @@
       "stars": 143925
     },
     {
-      "date": "2026-09-14",
-      "stars": 144322
+      "date": "2026-09-13",
+      "stars": 144111
     },
     {
       "date": "2026-09-15",
@@ -427,6 +423,10 @@
     {
       "date": "2026-09-25",
       "stars": 147205
+    },
+    {
+      "date": "2026-09-26",
+      "stars": 147382
     }
   ],
   "links": {
