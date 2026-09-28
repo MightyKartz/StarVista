@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 121724,
-  "forks": 11718,
-  "openIssues": 1483,
-  "pushedAt": "2026-09-26T18:16:59Z",
+  "stars": 121971,
+  "forks": 11747,
+  "openIssues": 1476,
+  "pushedAt": "2026-09-28T08:28:51Z",
   "topics": [
     "ai-agents",
     "antigravity",
@@ -34,7 +34,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 2004,
+  "starDelta7d": 1973,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/297659074?v=4",
   "languages": {
     "Python": 1,
@@ -46,6 +46,16 @@
     "text": "graphify is a Python project focused on Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. It is tagged with ai-agents, antigravity, and ast."
   },
   "releases": [
+    {
+      "tag": "v0.9.71",
+      "name": "v0.9.71",
+      "publishedAt": "2026-09-28T08:28:51Z"
+    },
+    {
+      "tag": "v0.9.70",
+      "name": "v0.9.70",
+      "publishedAt": "2026-09-27T18:19:57Z"
+    },
     {
       "tag": "v0.9.69",
       "name": "v0.9.69",
@@ -60,16 +70,6 @@
       "tag": "v0.9.67",
       "name": "v0.9.67",
       "publishedAt": "2026-09-23T19:25:20Z"
-    },
-    {
-      "tag": "v0.9.66",
-      "name": "v0.9.66",
-      "publishedAt": "2026-09-22T21:40:05Z"
-    },
-    {
-      "tag": "v0.9.65",
-      "name": "v0.9.65",
-      "publishedAt": "2026-09-20T17:47:20Z"
     }
   ],
   "starHistory": [
@@ -324,6 +324,10 @@
     {
       "date": "2026-09-27",
       "stars": 121724
+    },
+    {
+      "date": "2026-09-28",
+      "stars": 121971
     }
   ],
   "links": {
