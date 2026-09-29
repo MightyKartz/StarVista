@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Vim Script",
   "languageColor": null,
-  "stars": 102636,
-  "forks": 7141,
-  "openIssues": 1925,
-  "pushedAt": "2026-09-28T05:28:25Z",
+  "stars": 102668,
+  "forks": 7140,
+  "openIssues": 1928,
+  "pushedAt": "2026-09-29T05:26:58Z",
   "topics": [
     "api",
     "c",
@@ -22,7 +22,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 148,
+  "starDelta7d": 165,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6471485?v=4",
   "languages": {
     "Vim Script": 0.39,
@@ -51,7 +51,7 @@
     {
       "tag": "nightly",
       "name": "Nvim development (prerelease) build",
-      "publishedAt": "2026-09-28T05:28:25Z"
+      "publishedAt": "2026-09-29T05:26:58Z"
     },
     {
       "tag": "v0.12.5",
@@ -88,10 +88,6 @@
       "stars": 100773
     },
     {
-      "date": "2026-06-29",
-      "stars": 100907
-    },
-    {
       "date": "2026-06-30",
       "stars": 100927
     },
@@ -112,8 +108,8 @@
       "stars": 100910
     },
     {
-      "date": "2026-07-06",
-      "stars": 100939
+      "date": "2026-07-05",
+      "stars": 100923
     },
     {
       "date": "2026-07-07",
@@ -184,8 +180,8 @@
       "stars": 101298
     },
     {
-      "date": "2026-07-25",
-      "stars": 101328
+      "date": "2026-07-24",
+      "stars": 101325
     },
     {
       "date": "2026-07-26",
@@ -256,8 +252,8 @@
       "stars": 101725
     },
     {
-      "date": "2026-08-13",
-      "stars": 101772
+      "date": "2026-08-12",
+      "stars": 101757
     },
     {
       "date": "2026-08-14",
@@ -328,8 +324,8 @@
       "stars": 102022
     },
     {
-      "date": "2026-09-01",
-      "stars": 102053
+      "date": "2026-08-31",
+      "stars": 102029
     },
     {
       "date": "2026-09-02",
@@ -400,8 +396,8 @@
       "stars": 102400
     },
     {
-      "date": "2026-09-20",
-      "stars": 102465
+      "date": "2026-09-19",
+      "stars": 102422
     },
     {
       "date": "2026-09-21",
@@ -434,6 +430,10 @@
     {
       "date": "2026-09-28",
       "stars": 102636
+    },
+    {
+      "date": "2026-09-29",
+      "stars": 102668
     }
   ],
   "links": {

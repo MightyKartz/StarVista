@@ -7,8 +7,8 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 147113,
-  "forks": 7907,
+  "stars": 147775,
+  "forks": 7941,
   "openIssues": 310,
   "pushedAt": "2026-09-14T14:34:56Z",
   "topics": [
@@ -24,8 +24,8 @@
     "yagni"
   ],
   "license": "MIT",
-  "activity": "active",
-  "starDelta7d": 3799,
+  "activity": "stable",
+  "starDelta7d": 3830,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
   "languages": {
     "JavaScript": 0.65,
@@ -257,6 +257,10 @@
     {
       "date": "2026-09-28",
       "stars": 147113
+    },
+    {
+      "date": "2026-09-29",
+      "stars": 147775
     }
   ],
   "links": {

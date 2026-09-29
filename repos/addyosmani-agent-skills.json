@@ -1,0 +1,75 @@
+{
+  "id": "addyosmani/agent-skills",
+  "slug": "addyosmani-agent-skills",
+  "owner": "addyosmani",
+  "name": "agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "archived": false,
+  "primaryLanguage": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 99750,
+  "forks": 10480,
+  "openIssues": 118,
+  "pushedAt": "2026-09-26T04:19:38Z",
+  "topics": [
+    "agent-skills",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "skills"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/110953?v=4",
+  "languages": {
+    "JavaScript": 0.73,
+    "Shell": 0.26,
+    "Python": 0,
+    "HTML": 0,
+    "TypeScript": 0
+  },
+  "readmeExcerpt": "Production-grade engineering skills for AI coding agents.",
+  "summary": {
+    "mode": "template",
+    "text": "agent-skills is a JavaScript project focused on Production-grade engineering skills for AI coding agents. It is tagged with agent-skills, antigravity, and claude-code."
+  },
+  "releases": [
+    {
+      "tag": "0.6.11",
+      "name": "Agent Skills 0.6.11",
+      "publishedAt": "2026-09-26T04:19:39Z"
+    },
+    {
+      "tag": "0.6.10",
+      "name": "Agent Skills 0.6.10",
+      "publishedAt": "2026-09-18T03:32:23Z"
+    },
+    {
+      "tag": "0.6.9",
+      "name": "0.6.9",
+      "publishedAt": "2026-09-05T03:25:18Z"
+    },
+    {
+      "tag": "0.6.8",
+      "name": "0.6.8",
+      "publishedAt": "2026-08-28T23:31:51Z"
+    },
+    {
+      "tag": "0.6.7",
+      "name": "0.6.7",
+      "publishedAt": "2026-08-14T18:51:44Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-09-29",
+      "stars": 99750
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/addyosmani/agent-skills",
+    "homepage": "https://skills.addy.ie"
+  }
+}

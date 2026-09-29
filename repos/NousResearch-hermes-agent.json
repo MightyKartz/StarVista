@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 249612,
-  "forks": 53108,
-  "openIssues": 44741,
-  "pushedAt": "2026-09-28T08:38:52Z",
+  "stars": 249906,
+  "forks": 53274,
+  "openIssues": 45326,
+  "pushedAt": "2026-09-29T07:58:42Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2039,
+  "starDelta7d": 2018,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.71,
@@ -54,8 +54,8 @@
     "Makefile": 0,
     "Roff": 0,
     "Io": 0,
-    "BitBake": 0,
     "Ruby": 0,
+    "BitBake": 0,
     "Perl": 0,
     "Berry": 0,
     "Charity": 0,
@@ -114,10 +114,6 @@
       "stars": 204484
     },
     {
-      "date": "2026-06-29",
-      "stars": 205202
-    },
-    {
       "date": "2026-06-30",
       "stars": 205916
     },
@@ -138,8 +134,8 @@
       "stars": 208819
     },
     {
-      "date": "2026-07-06",
-      "stars": 209867
+      "date": "2026-07-05",
+      "stars": 209317
     },
     {
       "date": "2026-07-07",
@@ -210,8 +206,8 @@
       "stars": 219066
     },
     {
-      "date": "2026-07-25",
-      "stars": 220105
+      "date": "2026-07-24",
+      "stars": 219614
     },
     {
       "date": "2026-07-26",
@@ -282,8 +278,8 @@
       "stars": 228553
     },
     {
-      "date": "2026-08-13",
-      "stars": 229681
+      "date": "2026-08-12",
+      "stars": 229130
     },
     {
       "date": "2026-08-14",
@@ -354,8 +350,8 @@
       "stars": 238250
     },
     {
-      "date": "2026-09-01",
-      "stars": 239177
+      "date": "2026-08-31",
+      "stars": 238670
     },
     {
       "date": "2026-09-02",
@@ -426,8 +422,8 @@
       "stars": 246657
     },
     {
-      "date": "2026-09-20",
-      "stars": 247258
+      "date": "2026-09-19",
+      "stars": 246981
     },
     {
       "date": "2026-09-21",
@@ -460,6 +456,10 @@
     {
       "date": "2026-09-28",
       "stars": 249612
+    },
+    {
+      "date": "2026-09-29",
+      "stars": 249906
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 108967,
-  "forks": 20906,
-  "openIssues": 92,
-  "pushedAt": "2026-09-25T06:36:11Z",
+  "stars": 109167,
+  "forks": 20955,
+  "openIssues": 94,
+  "pushedAt": "2026-09-29T06:15:10Z",
   "topics": [
     "agent",
     "finance",
@@ -20,7 +20,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1109,
+  "starDelta7d": 1155,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192884433?v=4",
   "languages": {
     "Python": 1,
@@ -32,6 +32,11 @@
     "text": "TradingAgents is a Python project focused on TradingAgents: Multi-Agents LLM Financial Trading Framework. It is tagged with agent, finance, and llm."
   },
   "releases": [
+    {
+      "tag": "v0.5.2",
+      "name": "TradingAgents v0.5.2",
+      "publishedAt": "2026-09-29T05:59:23Z"
+    },
     {
       "tag": "v0.5.1",
       "name": "TradingAgents v0.5.1",
@@ -51,11 +56,6 @@
       "tag": "v0.3.1",
       "name": "TradingAgents v0.3.1",
       "publishedAt": "2026-07-05T14:32:25Z"
-    },
-    {
-      "tag": "v0.3.0",
-      "name": "TradingAgents v0.3.0",
-      "publishedAt": "2026-06-22T02:05:10Z"
     }
   ],
   "starHistory": [
@@ -178,6 +178,10 @@
     {
       "date": "2026-09-28",
       "stars": 108967
+    },
+    {
+      "date": "2026-09-29",
+      "stars": 109167
     }
   ],
   "links": {
