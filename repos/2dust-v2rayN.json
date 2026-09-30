@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C#",
   "languageColor": null,
-  "stars": 117262,
-  "forks": 15996,
-  "openIssues": 25,
-  "pushedAt": "2026-09-28T18:49:05Z",
+  "stars": 117318,
+  "forks": 16008,
+  "openIssues": 26,
+  "pushedAt": "2026-09-30T06:39:04Z",
   "topics": [
     "proxy",
     "shadowsocks",
@@ -26,7 +26,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 583,
+  "starDelta7d": 550,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/31833384?v=4",
   "languages": {
     "C#": 0.92,
@@ -38,6 +38,16 @@
     "text": "v2rayN is a C# project focused on A GUI client for Windows, Linux and macOS, support Xray and sing-box and others. It is tagged with proxy, shadowsocks, and socks5."
   },
   "releases": [
+    {
+      "tag": "7.25.4",
+      "name": "",
+      "publishedAt": "2026-09-30T06:39:05Z"
+    },
+    {
+      "tag": "7.25.3",
+      "name": "",
+      "publishedAt": "2026-09-30T02:21:46Z"
+    },
     {
       "tag": "7.25.2",
       "name": "7.25.2",
@@ -52,16 +62,6 @@
       "tag": "7.25.0",
       "name": "",
       "publishedAt": "2026-09-05T01:56:08Z"
-    },
-    {
-      "tag": "7.24.9",
-      "name": "",
-      "publishedAt": "2026-08-29T02:47:27Z"
-    },
-    {
-      "tag": "7.24.8",
-      "name": "",
-      "publishedAt": "2026-08-22T09:33:13Z"
     }
   ],
   "starHistory": [
@@ -76,10 +76,6 @@
     {
       "date": "2026-06-28",
       "stars": 110072
-    },
-    {
-      "date": "2026-06-30",
-      "stars": 110197
     },
     {
       "date": "2026-07-01",
@@ -102,8 +98,8 @@
       "stars": 110573
     },
     {
-      "date": "2026-07-07",
-      "stars": 110737
+      "date": "2026-07-06",
+      "stars": 110664
     },
     {
       "date": "2026-07-08",
@@ -174,8 +170,8 @@
       "stars": 112079
     },
     {
-      "date": "2026-07-26",
-      "stars": 112221
+      "date": "2026-07-25",
+      "stars": 112145
     },
     {
       "date": "2026-07-27",
@@ -246,8 +242,8 @@
       "stars": 113609
     },
     {
-      "date": "2026-08-14",
-      "stars": 113783
+      "date": "2026-08-13",
+      "stars": 113689
     },
     {
       "date": "2026-08-15",
@@ -318,8 +314,8 @@
       "stars": 115043
     },
     {
-      "date": "2026-09-02",
-      "stars": 115213
+      "date": "2026-09-01",
+      "stars": 115122
     },
     {
       "date": "2026-09-03",
@@ -390,8 +386,8 @@
       "stars": 116476
     },
     {
-      "date": "2026-09-21",
-      "stars": 116604
+      "date": "2026-09-20",
+      "stars": 116549
     },
     {
       "date": "2026-09-22",
@@ -424,6 +420,10 @@
     {
       "date": "2026-09-29",
       "stars": 117262
+    },
+    {
+      "date": "2026-09-30",
+      "stars": 117318
     }
   ],
   "links": {

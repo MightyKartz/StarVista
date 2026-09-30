@@ -3,14 +3,14 @@
   "slug": "firecrawl-firecrawl",
   "owner": "firecrawl",
   "name": "firecrawl",
-  "description": "The web data API to search, scrape, and interact at scale. 🔥",
+  "description": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 186250,
-  "forks": 9976,
-  "openIssues": 695,
-  "pushedAt": "2026-09-29T07:37:57Z",
+  "stars": 186822,
+  "forks": 9993,
+  "openIssues": 701,
+  "pushedAt": "2026-09-30T08:18:50Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 3164,
+  "starDelta7d": 3282,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4",
   "languages": {
     "TypeScript": 0.73,
@@ -61,7 +61,7 @@
   "readmeExcerpt": "<img src=\"https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawllogo.png\" height=\"200\" >",
   "summary": {
     "mode": "template",
-    "text": "firecrawl is a TypeScript project focused on The web data API to search, scrape, and interact at scale. 🔥. It is tagged with ai, ai-agents, and ai-crawler."
+    "text": "firecrawl is a TypeScript project focused on 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources. It is tagged with ai, ai-agents, and ai-crawler."
   },
   "releases": [
     {
@@ -104,10 +104,6 @@
       "stars": 140133
     },
     {
-      "date": "2026-06-30",
-      "stars": 141677
-    },
-    {
       "date": "2026-07-01",
       "stars": 142349
     },
@@ -128,8 +124,8 @@
       "stars": 144546
     },
     {
-      "date": "2026-07-07",
-      "stars": 146589
+      "date": "2026-07-06",
+      "stars": 145334
     },
     {
       "date": "2026-07-08",
@@ -200,8 +196,8 @@
       "stars": 155213
     },
     {
-      "date": "2026-07-26",
-      "stars": 156075
+      "date": "2026-07-25",
+      "stars": 155656
     },
     {
       "date": "2026-07-27",
@@ -272,8 +268,8 @@
       "stars": 165965
     },
     {
-      "date": "2026-08-14",
-      "stars": 167054
+      "date": "2026-08-13",
+      "stars": 166525
     },
     {
       "date": "2026-08-15",
@@ -344,8 +340,8 @@
       "stars": 174576
     },
     {
-      "date": "2026-09-02",
-      "stars": 175399
+      "date": "2026-09-01",
+      "stars": 174985
     },
     {
       "date": "2026-09-03",
@@ -416,8 +412,8 @@
       "stars": 182080
     },
     {
-      "date": "2026-09-21",
-      "stars": 182700
+      "date": "2026-09-20",
+      "stars": 182372
     },
     {
       "date": "2026-09-22",
@@ -450,6 +446,10 @@
     {
       "date": "2026-09-29",
       "stars": 186250
+    },
+    {
+      "date": "2026-09-30",
+      "stars": 186822
     }
   ],
   "links": {

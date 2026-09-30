@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 107182,
-  "forks": 14655,
-  "openIssues": 797,
-  "pushedAt": "2026-09-29T01:19:34Z",
+  "stars": 107191,
+  "forks": 14666,
+  "openIssues": 798,
+  "pushedAt": "2026-09-30T01:33:54Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 51,
+  "starDelta7d": 58,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
     "TypeScript": 0.97,
@@ -41,29 +41,29 @@
   },
   "releases": [
     {
+      "tag": "v0.64.0-nightly.20260930.g38700b4b3",
+      "name": "Release v0.64.0-nightly.20260930.g38700b4b3",
+      "publishedAt": "2026-09-30T01:33:55Z"
+    },
+    {
+      "tag": "v0.63.0-preview.0",
+      "name": "Release v0.63.0-preview.0",
+      "publishedAt": "2026-09-29T20:58:07Z"
+    },
+    {
       "tag": "v0.63.0-nightly.20260929.gfe6350238",
       "name": "Release v0.63.0-nightly.20260929.gfe6350238",
       "publishedAt": "2026-09-29T01:19:35Z"
     },
     {
+      "tag": "v0.62.0",
+      "name": "Release v0.62.0",
+      "publishedAt": "2026-09-29T21:17:07Z"
+    },
+    {
       "tag": "v0.63.0-nightly.20260928.g2fe7c2d3f",
       "name": "Release v0.63.0-nightly.20260928.g2fe7c2d3f",
       "publishedAt": "2026-09-28T01:42:38Z"
-    },
-    {
-      "tag": "v0.63.0-nightly.20260926.g2fe7c2d3f",
-      "name": "Release v0.63.0-nightly.20260926.g2fe7c2d3f",
-      "publishedAt": "2026-09-26T01:20:07Z"
-    },
-    {
-      "tag": "v0.62.0-nightly.20260925.gbedef96ef",
-      "name": "Release v0.62.0-nightly.20260925.gbedef96ef",
-      "publishedAt": "2026-09-25T01:23:57Z"
-    },
-    {
-      "tag": "v0.62.0-nightly.20260924.g8e70c862f",
-      "name": "Release v0.62.0-nightly.20260924.g8e70c862f",
-      "publishedAt": "2026-09-24T01:25:37Z"
     }
   ],
   "starHistory": [
@@ -78,10 +78,6 @@
     {
       "date": "2026-06-28",
       "stars": 105606
-    },
-    {
-      "date": "2026-06-30",
-      "stars": 105667
     },
     {
       "date": "2026-07-01",
@@ -104,8 +100,8 @@
       "stars": 105749
     },
     {
-      "date": "2026-07-07",
-      "stars": 105816
+      "date": "2026-07-06",
+      "stars": 105787
     },
     {
       "date": "2026-07-08",
@@ -176,8 +172,8 @@
       "stars": 106146
     },
     {
-      "date": "2026-07-26",
-      "stars": 106181
+      "date": "2026-07-25",
+      "stars": 106161
     },
     {
       "date": "2026-07-27",
@@ -248,8 +244,8 @@
       "stars": 106477
     },
     {
-      "date": "2026-08-14",
-      "stars": 106511
+      "date": "2026-08-13",
+      "stars": 106496
     },
     {
       "date": "2026-08-15",
@@ -320,8 +316,8 @@
       "stars": 106753
     },
     {
-      "date": "2026-09-02",
-      "stars": 106763
+      "date": "2026-09-01",
+      "stars": 106756
     },
     {
       "date": "2026-09-03",
@@ -392,8 +388,8 @@
       "stars": 107074
     },
     {
-      "date": "2026-09-21",
-      "stars": 107101
+      "date": "2026-09-20",
+      "stars": 107090
     },
     {
       "date": "2026-09-22",
@@ -426,6 +422,10 @@
     {
       "date": "2026-09-29",
       "stars": 107182
+    },
+    {
+      "date": "2026-09-30",
+      "stars": 107191
     }
   ],
   "links": {

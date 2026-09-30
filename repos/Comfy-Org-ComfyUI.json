@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 135436,
-  "forks": 16054,
-  "openIssues": 4994,
-  "pushedAt": "2026-09-29T08:14:52Z",
+  "stars": 135560,
+  "forks": 16074,
+  "openIssues": 5006,
+  "pushedAt": "2026-09-30T08:00:52Z",
   "topics": [
     "ai",
     "comfy",
@@ -21,7 +21,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 1050,
+  "starDelta7d": 975,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166579949?v=4",
   "languages": {
     "Python": 1,
@@ -35,6 +35,11 @@
     "text": "ComfyUI is a Python project focused on The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. It is tagged with ai, comfy, and comfyui."
   },
   "releases": [
+    {
+      "tag": "v0.38.0",
+      "name": "v0.38.0",
+      "publishedAt": "2026-09-29T21:46:45Z"
+    },
     {
       "tag": "v0.37.0",
       "name": "v0.37.0",
@@ -54,11 +59,6 @@
       "tag": "v0.34.0",
       "name": "v0.34.0",
       "publishedAt": "2026-08-26T02:09:08Z"
-    },
-    {
-      "tag": "v0.33.1",
-      "name": "v0.33.1",
-      "publishedAt": "2026-08-13T22:18:34Z"
     }
   ],
   "starHistory": [
@@ -73,10 +73,6 @@
     {
       "date": "2026-06-28",
       "stars": 118565
-    },
-    {
-      "date": "2026-06-30",
-      "stars": 118832
     },
     {
       "date": "2026-07-01",
@@ -99,8 +95,8 @@
       "stars": 119426
     },
     {
-      "date": "2026-07-07",
-      "stars": 119692
+      "date": "2026-07-06",
+      "stars": 119575
     },
     {
       "date": "2026-07-08",
@@ -171,8 +167,8 @@
       "stars": 122028
     },
     {
-      "date": "2026-07-26",
-      "stars": 122256
+      "date": "2026-07-25",
+      "stars": 122139
     },
     {
       "date": "2026-07-27",
@@ -243,8 +239,8 @@
       "stars": 126870
     },
     {
-      "date": "2026-08-14",
-      "stars": 127405
+      "date": "2026-08-13",
+      "stars": 127131
     },
     {
       "date": "2026-08-15",
@@ -315,8 +311,8 @@
       "stars": 130806
     },
     {
-      "date": "2026-09-02",
-      "stars": 131118
+      "date": "2026-09-01",
+      "stars": 130969
     },
     {
       "date": "2026-09-03",
@@ -387,8 +383,8 @@
       "stars": 133841
     },
     {
-      "date": "2026-09-21",
-      "stars": 134179
+      "date": "2026-09-20",
+      "stars": 133986
     },
     {
       "date": "2026-09-22",
@@ -421,6 +417,10 @@
     {
       "date": "2026-09-29",
       "stars": 135436
+    },
+    {
+      "date": "2026-09-30",
+      "stars": 135560
     }
   ],
   "links": {
