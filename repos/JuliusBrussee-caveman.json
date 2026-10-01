@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 108465,
-  "forks": 6286,
-  "openIssues": 145,
-  "pushedAt": "2026-09-30T08:16:25Z",
+  "stars": 108642,
+  "forks": 6298,
+  "openIssues": 156,
+  "pushedAt": "2026-10-01T08:11:54Z",
   "topics": [
     "ai",
     "anthropic",
@@ -23,18 +23,19 @@
     "skill",
     "tokens"
   ],
-  "license": null,
+  "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1029,
+  "starDelta7d": 1041,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
-    "Go": 0.44,
-    "JavaScript": 0.28,
-    "TypeScript": 0.19,
-    "Python": 0.08,
+    "Go": 0.46,
+    "JavaScript": 0.26,
+    "TypeScript": 0.15,
+    "Python": 0.11,
     "Shell": 0,
     "PowerShell": 0,
     "HTML": 0,
+    "PLpgSQL": 0,
     "CSS": 0,
     "Dockerfile": 0
   },
@@ -45,29 +46,29 @@
   },
   "releases": [
     {
-      "tag": "v2.7.0",
-      "name": "v2.7.0",
-      "publishedAt": "2026-09-15T04:01:16Z"
+      "tag": "v3.0.0",
+      "name": "Caveman 3.0.0",
+      "publishedAt": "2026-09-30T19:25:17Z"
     },
     {
-      "tag": "bin-v1.1.7",
-      "name": "bin-v1.1.7",
-      "publishedAt": "2026-09-15T01:20:27Z"
+      "tag": "sdk-ts-v1.2.0",
+      "name": "@caveman-ai/sdk 1.2.0",
+      "publishedAt": "2026-09-30T22:22:05Z"
     },
     {
-      "tag": "v2.6.0",
-      "name": "v2.6.0",
-      "publishedAt": "2026-09-04T00:19:58Z"
+      "tag": "sdk-python-v1.2.0",
+      "name": "caveman-sdk 1.2.0",
+      "publishedAt": "2026-09-30T22:27:49Z"
     },
     {
-      "tag": "bin-v1.1.6",
-      "name": "bin-v1.1.6",
-      "publishedAt": "2026-09-04T00:23:53Z"
+      "tag": "middleware-ts-v1.0.0",
+      "name": "@caveman-ai/middleware 1.0.0",
+      "publishedAt": "2026-09-30T22:30:31Z"
     },
     {
-      "tag": "v2.5.0",
-      "name": "v2.5.0",
-      "publishedAt": "2026-09-02T13:40:03Z"
+      "tag": "middleware-python-v1.0.0",
+      "name": "caveman-middleware 1.0.0",
+      "publishedAt": "2026-09-30T22:34:52Z"
     }
   ],
   "starHistory": [
@@ -206,6 +207,10 @@
     {
       "date": "2026-09-30",
       "stars": 108465
+    },
+    {
+      "date": "2026-10-01",
+      "stars": 108642
     }
   ],
   "links": {

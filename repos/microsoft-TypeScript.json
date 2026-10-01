@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 111282,
-  "forks": 15391,
-  "openIssues": 5049,
-  "pushedAt": "2026-09-30T06:18:24Z",
+  "stars": 111291,
+  "forks": 15394,
+  "openIssues": 5044,
+  "pushedAt": "2026-10-01T03:18:01Z",
   "topics": [
     "javascript",
     "language",
@@ -19,7 +19,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 118,
+  "starDelta7d": 119,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
   "languages": {
     "Go": 0.87,
@@ -34,6 +34,11 @@
     "text": "TypeScript is a Go project focused on TypeScript is a superset of JavaScript that compiles to clean JavaScript output. It is tagged with javascript, language, and typechecker."
   },
   "releases": [
+    {
+      "tag": "vscode-typescript/v1.0.1",
+      "name": "vscode-typescript/v1.0.1",
+      "publishedAt": "2026-09-30T19:10:03Z"
+    },
     {
       "tag": "v7.0.2",
       "name": "TypeScript 7.0.2",
@@ -53,11 +58,6 @@
       "tag": "v6.0-rc",
       "name": "TypeScript 6.0.1 RC",
       "publishedAt": "2026-03-06T17:56:53Z"
-    },
-    {
-      "tag": "v6.0-beta",
-      "name": "TypeScript 6.0 Beta",
-      "publishedAt": "2026-02-18T18:11:46Z"
     }
   ],
   "starHistory": [
@@ -72,10 +72,6 @@
     {
       "date": "2026-06-28",
       "stars": 109422
-    },
-    {
-      "date": "2026-07-01",
-      "stars": 109369
     },
     {
       "date": "2026-07-02",
@@ -98,8 +94,8 @@
       "stars": 109481
     },
     {
-      "date": "2026-07-08",
-      "stars": 109507
+      "date": "2026-07-07",
+      "stars": 109489
     },
     {
       "date": "2026-07-09",
@@ -170,8 +166,8 @@
       "stars": 109943
     },
     {
-      "date": "2026-07-27",
-      "stars": 109963
+      "date": "2026-07-26",
+      "stars": 109956
     },
     {
       "date": "2026-07-28",
@@ -242,8 +238,8 @@
       "stars": 110162
     },
     {
-      "date": "2026-08-15",
-      "stars": 110162
+      "date": "2026-08-14",
+      "stars": 110177
     },
     {
       "date": "2026-08-16",
@@ -314,8 +310,8 @@
       "stars": 110829
     },
     {
-      "date": "2026-09-03",
-      "stars": 110859
+      "date": "2026-09-02",
+      "stars": 110844
     },
     {
       "date": "2026-09-04",
@@ -386,8 +382,8 @@
       "stars": 111123
     },
     {
-      "date": "2026-09-22",
-      "stars": 111154
+      "date": "2026-09-21",
+      "stars": 111136
     },
     {
       "date": "2026-09-23",
@@ -420,6 +416,10 @@
     {
       "date": "2026-09-30",
       "stars": 111282
+    },
+    {
+      "date": "2026-10-01",
+      "stars": 111291
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 101027,
-  "forks": 29042,
-  "openIssues": 1136,
-  "pushedAt": "2026-09-30T01:11:27Z",
+  "stars": 101028,
+  "forks": 29044,
+  "openIssues": 1146,
+  "pushedAt": "2026-09-30T18:56:14Z",
   "topics": [
     "angular",
     "javascript",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 0,
+  "starDelta7d": 1,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139426?v=4",
   "languages": {
     "TypeScript": 0.87,
@@ -40,29 +40,29 @@
   },
   "releases": [
     {
+      "tag": "v22.3.0-next.0",
+      "name": "22.3.0-next.0",
+      "publishedAt": "2026-09-30T18:56:15Z"
+    },
+    {
+      "tag": "v22.2.1",
+      "name": "22.2.1",
+      "publishedAt": "2026-09-30T18:34:00Z"
+    },
+    {
+      "tag": "v21.2.25",
+      "name": "21.2.25",
+      "publishedAt": "2026-09-30T18:17:46Z"
+    },
+    {
+      "tag": "v20.3.33",
+      "name": "20.3.33",
+      "publishedAt": "2026-09-30T17:52:48Z"
+    },
+    {
       "tag": "vsix-22.2.0",
       "name": "VSCode Extension: 22.2.0",
       "publishedAt": "2026-09-25T17:46:04Z"
-    },
-    {
-      "tag": "v22.2.0",
-      "name": "22.2.0",
-      "publishedAt": "2026-09-23T17:53:03Z"
-    },
-    {
-      "tag": "v22.1.8",
-      "name": "22.1.8",
-      "publishedAt": "2026-09-23T17:31:15Z"
-    },
-    {
-      "tag": "v21.2.24",
-      "name": "21.2.24",
-      "publishedAt": "2026-09-23T17:45:23Z"
-    },
-    {
-      "tag": "v20.3.32",
-      "name": "20.3.32",
-      "publishedAt": "2026-09-23T17:38:59Z"
     }
   ],
   "starHistory": [
@@ -77,10 +77,6 @@
     {
       "date": "2026-06-28",
       "stars": 100476
-    },
-    {
-      "date": "2026-07-01",
-      "stars": 100376
     },
     {
       "date": "2026-07-02",
@@ -103,7 +99,7 @@
       "stars": 100478
     },
     {
-      "date": "2026-07-08",
+      "date": "2026-07-07",
       "stars": 100486
     },
     {
@@ -175,8 +171,8 @@
       "stars": 100612
     },
     {
-      "date": "2026-07-27",
-      "stars": 100618
+      "date": "2026-07-26",
+      "stars": 100620
     },
     {
       "date": "2026-07-28",
@@ -247,8 +243,8 @@
       "stars": 100990
     },
     {
-      "date": "2026-08-15",
-      "stars": 101006
+      "date": "2026-08-14",
+      "stars": 100988
     },
     {
       "date": "2026-08-16",
@@ -319,7 +315,7 @@
       "stars": 101018
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-02",
       "stars": 101016
     },
     {
@@ -391,8 +387,8 @@
       "stars": 101014
     },
     {
-      "date": "2026-09-22",
-      "stars": 101022
+      "date": "2026-09-21",
+      "stars": 101020
     },
     {
       "date": "2026-09-23",
@@ -425,6 +421,10 @@
     {
       "date": "2026-09-30",
       "stars": 101027
+    },
+    {
+      "date": "2026-10-01",
+      "stars": 101028
     }
   ],
   "links": {

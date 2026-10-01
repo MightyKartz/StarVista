@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 103537,
-  "forks": 31021,
-  "openIssues": 17592,
-  "pushedAt": "2026-09-30T08:31:36Z",
+  "stars": 103581,
+  "forks": 31025,
+  "openIssues": 17570,
+  "pushedAt": "2026-10-01T08:40:46Z",
   "topics": [
     "autograd",
     "deep-learning",
@@ -23,7 +23,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 353,
+  "starDelta7d": 351,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4",
   "languages": {
     "Python": 0.66,
@@ -60,6 +60,11 @@
   },
   "releases": [
     {
+      "tag": "v2.14.1",
+      "name": "PyTorch 2.14.1 Release",
+      "publishedAt": "2026-09-30T19:14:48Z"
+    },
+    {
       "tag": "v2.14.0",
       "name": "PyTorch 2.14.0 Release",
       "publishedAt": "2026-09-02T17:40:10Z"
@@ -78,11 +83,6 @@
       "tag": "v2.12.0",
       "name": "PyTorch 2.12.0 Release",
       "publishedAt": "2026-05-13T17:38:06Z"
-    },
-    {
-      "tag": "v2.11.0",
-      "name": "PyTorch 2.11.0 Release",
-      "publishedAt": "2026-03-23T18:38:28Z"
     }
   ],
   "starHistory": [
@@ -97,10 +97,6 @@
     {
       "date": "2026-06-28",
       "stars": 101093
-    },
-    {
-      "date": "2026-07-01",
-      "stars": 101000
     },
     {
       "date": "2026-07-02",
@@ -123,8 +119,8 @@
       "stars": 101522
     },
     {
-      "date": "2026-07-08",
-      "stars": 101579
+      "date": "2026-07-07",
+      "stars": 101541
     },
     {
       "date": "2026-07-09",
@@ -195,8 +191,8 @@
       "stars": 101937
     },
     {
-      "date": "2026-07-27",
-      "stars": 101995
+      "date": "2026-07-26",
+      "stars": 101959
     },
     {
       "date": "2026-07-28",
@@ -267,8 +263,8 @@
       "stars": 102353
     },
     {
-      "date": "2026-08-15",
-      "stars": 102379
+      "date": "2026-08-14",
+      "stars": 102365
     },
     {
       "date": "2026-08-16",
@@ -339,8 +335,8 @@
       "stars": 102700
     },
     {
-      "date": "2026-09-03",
-      "stars": 102729
+      "date": "2026-09-02",
+      "stars": 102710
     },
     {
       "date": "2026-09-04",
@@ -411,8 +407,8 @@
       "stars": 103115
     },
     {
-      "date": "2026-09-22",
-      "stars": 103162
+      "date": "2026-09-21",
+      "stars": 103140
     },
     {
       "date": "2026-09-23",
@@ -445,6 +441,10 @@
     {
       "date": "2026-09-30",
       "stars": 103537
+    },
+    {
+      "date": "2026-10-01",
+      "stars": 103581
     }
   ],
   "links": {

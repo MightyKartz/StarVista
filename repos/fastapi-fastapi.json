@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 102721,
-  "forks": 9972,
-  "openIssues": 82,
-  "pushedAt": "2026-09-29T22:36:03Z",
+  "stars": 102741,
+  "forks": 9976,
+  "openIssues": 97,
+  "pushedAt": "2026-10-01T06:14:50Z",
   "topics": [
     "api",
     "async",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 176,
+  "starDelta7d": 174,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/156354296?v=4",
   "languages": {
     "Python": 1,
@@ -50,6 +50,11 @@
     "text": "fastapi is a Python project focused on FastAPI framework, high performance, easy to learn, fast to code, ready for production. It is tagged with api, async, and asyncio."
   },
   "releases": [
+    {
+      "tag": "0.142.2",
+      "name": "0.142.2",
+      "publishedAt": "2026-09-30T09:50:53Z"
+    },
     {
       "tag": "0.142.1",
       "name": "0.142.1",
@@ -69,11 +74,6 @@
       "tag": "0.141.0",
       "name": "0.141.0",
       "publishedAt": "2026-07-29T14:47:36Z"
-    },
-    {
-      "tag": "0.140.13",
-      "name": "0.140.13",
-      "publishedAt": "2026-07-28T15:36:47Z"
     }
   ],
   "starHistory": [
@@ -88,10 +88,6 @@
     {
       "date": "2026-06-28",
       "stars": 99723
-    },
-    {
-      "date": "2026-07-01",
-      "stars": 99837
     },
     {
       "date": "2026-07-02",
@@ -114,8 +110,8 @@
       "stars": 100059
     },
     {
-      "date": "2026-07-08",
-      "stars": 100219
+      "date": "2026-07-07",
+      "stars": 100131
     },
     {
       "date": "2026-07-09",
@@ -186,8 +182,8 @@
       "stars": 100854
     },
     {
-      "date": "2026-07-27",
-      "stars": 100917
+      "date": "2026-07-26",
+      "stars": 100884
     },
     {
       "date": "2026-07-28",
@@ -258,8 +254,8 @@
       "stars": 101547
     },
     {
-      "date": "2026-08-15",
-      "stars": 101600
+      "date": "2026-08-14",
+      "stars": 101581
     },
     {
       "date": "2026-08-16",
@@ -330,8 +326,8 @@
       "stars": 101983
     },
     {
-      "date": "2026-09-03",
-      "stars": 102048
+      "date": "2026-09-02",
+      "stars": 102013
     },
     {
       "date": "2026-09-04",
@@ -402,8 +398,8 @@
       "stars": 102470
     },
     {
-      "date": "2026-09-22",
-      "stars": 102520
+      "date": "2026-09-21",
+      "stars": 102495
     },
     {
       "date": "2026-09-23",
@@ -436,6 +432,10 @@
     {
       "date": "2026-09-30",
       "stars": 102721
+    },
+    {
+      "date": "2026-10-01",
+      "stars": 102741
     }
   ],
   "links": {

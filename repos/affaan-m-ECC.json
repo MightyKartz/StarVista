@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 269809,
-  "forks": 40321,
-  "openIssues": 207,
-  "pushedAt": "2026-09-30T01:24:05Z",
+  "stars": 270358,
+  "forks": 40415,
+  "openIssues": 217,
+  "pushedAt": "2026-09-30T18:45:04Z",
   "topics": [
     "ai-agents",
     "anthropic",
@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 4147,
+  "starDelta7d": 4004,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
   "languages": {
     "JavaScript": 0.71,
@@ -44,6 +44,11 @@
   },
   "releases": [
     {
+      "tag": "v2.2.2",
+      "name": "v2.2.2",
+      "publishedAt": "2026-09-30T19:04:52Z"
+    },
+    {
       "tag": "v2.2.1",
       "name": "v2.2.1",
       "publishedAt": "2026-09-08T17:52:08Z"
@@ -62,11 +67,6 @@
       "tag": "v2.0.0",
       "name": "ECC 2.0.0 — The Agent Harness Operating System",
       "publishedAt": "2026-06-10T01:49:20Z"
-    },
-    {
-      "tag": "v2.0.0-rc.1",
-      "name": "v2.0.0-rc.1",
-      "publishedAt": "2026-05-25T18:29:31Z"
     }
   ],
   "starHistory": [
@@ -81,10 +81,6 @@
     {
       "date": "2026-06-28",
       "stars": 222731
-    },
-    {
-      "date": "2026-07-01",
-      "stars": 224266
     },
     {
       "date": "2026-07-02",
@@ -107,8 +103,8 @@
       "stars": 226407
     },
     {
-      "date": "2026-07-08",
-      "stars": 227143
+      "date": "2026-07-07",
+      "stars": 226742
     },
     {
       "date": "2026-07-09",
@@ -179,8 +175,8 @@
       "stars": 232967
     },
     {
-      "date": "2026-07-27",
-      "stars": 233742
+      "date": "2026-07-26",
+      "stars": 233395
     },
     {
       "date": "2026-07-28",
@@ -251,8 +247,8 @@
       "stars": 239786
     },
     {
-      "date": "2026-08-15",
-      "stars": 240162
+      "date": "2026-08-14",
+      "stars": 240015
     },
     {
       "date": "2026-08-16",
@@ -323,8 +319,8 @@
       "stars": 245421
     },
     {
-      "date": "2026-09-03",
-      "stars": 246554
+      "date": "2026-09-02",
+      "stars": 245889
     },
     {
       "date": "2026-09-04",
@@ -395,8 +391,8 @@
       "stars": 263136
     },
     {
-      "date": "2026-09-22",
-      "stars": 264913
+      "date": "2026-09-21",
+      "stars": 264111
     },
     {
       "date": "2026-09-23",
@@ -429,6 +425,10 @@
     {
       "date": "2026-09-30",
       "stars": 269809
+    },
+    {
+      "date": "2026-10-01",
+      "stars": 270358
     }
   ],
   "links": {
