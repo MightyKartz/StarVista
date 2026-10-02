@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 107212,
-  "forks": 14669,
-  "openIssues": 798,
-  "pushedAt": "2026-10-01T01:34:16Z",
+  "stars": 107219,
+  "forks": 14680,
+  "openIssues": 787,
+  "pushedAt": "2026-10-02T06:42:04Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 73,
+  "starDelta7d": 60,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
     "TypeScript": 0.97,
@@ -40,6 +40,11 @@
     "text": "gemini-cli is a TypeScript project focused on An open-source AI agent that brings the power of Gemini directly into your terminal. It is tagged with ai, ai-agents, and cli."
   },
   "releases": [
+    {
+      "tag": "v0.64.0-nightly.20261002.gc9096a847",
+      "name": "Release v0.64.0-nightly.20261002.gc9096a847",
+      "publishedAt": "2026-10-02T01:33:21Z"
+    },
     {
       "tag": "v0.64.0-nightly.20261001.gc6bccb7ec",
       "name": "Release v0.64.0-nightly.20261001.gc6bccb7ec",
@@ -59,11 +64,6 @@
       "tag": "v0.63.0-nightly.20260929.gfe6350238",
       "name": "Release v0.63.0-nightly.20260929.gfe6350238",
       "publishedAt": "2026-09-29T01:19:35Z"
-    },
-    {
-      "tag": "v0.62.0",
-      "name": "Release v0.62.0",
-      "publishedAt": "2026-09-29T21:17:07Z"
     }
   ],
   "starHistory": [
@@ -78,10 +78,6 @@
     {
       "date": "2026-06-28",
       "stars": 105606
-    },
-    {
-      "date": "2026-07-02",
-      "stars": 105700
     },
     {
       "date": "2026-07-03",
@@ -104,8 +100,8 @@
       "stars": 105816
     },
     {
-      "date": "2026-07-09",
-      "stars": 105853
+      "date": "2026-07-08",
+      "stars": 105835
     },
     {
       "date": "2026-07-10",
@@ -176,8 +172,8 @@
       "stars": 106181
     },
     {
-      "date": "2026-07-28",
-      "stars": 106213
+      "date": "2026-07-27",
+      "stars": 106202
     },
     {
       "date": "2026-07-29",
@@ -248,8 +244,8 @@
       "stars": 106511
     },
     {
-      "date": "2026-08-16",
-      "stars": 106531
+      "date": "2026-08-15",
+      "stars": 106523
     },
     {
       "date": "2026-08-17",
@@ -320,8 +316,8 @@
       "stars": 106763
     },
     {
-      "date": "2026-09-04",
-      "stars": 106809
+      "date": "2026-09-03",
+      "stars": 106784
     },
     {
       "date": "2026-09-05",
@@ -392,8 +388,8 @@
       "stars": 107101
     },
     {
-      "date": "2026-09-23",
-      "stars": 107133
+      "date": "2026-09-22",
+      "stars": 107131
     },
     {
       "date": "2026-09-24",
@@ -426,6 +422,10 @@
     {
       "date": "2026-10-01",
       "stars": 107212
+    },
+    {
+      "date": "2026-10-02",
+      "stars": 107219
     }
   ],
   "links": {

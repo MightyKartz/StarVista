@@ -7,17 +7,17 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 110872,
-  "forks": 14100,
-  "openIssues": 241,
-  "pushedAt": "2026-10-01T08:43:48Z",
+  "stars": 111470,
+  "forks": 14147,
+  "openIssues": 253,
+  "pushedAt": "2026-10-02T08:18:11Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1849,
+  "starDelta7d": 2237,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/207902832?v=4",
   "languages": {
-    "TypeScript": 0.96,
+    "TypeScript": 0.97,
     "JavaScript": 0.03,
     "C": 0,
     "Shell": 0,
@@ -34,6 +34,11 @@
     "text": "pi is a TypeScript project focused on AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI."
   },
   "releases": [
+    {
+      "tag": "v1.0.0",
+      "name": "v1.0.0",
+      "publishedAt": "2026-10-01T19:20:55Z"
+    },
     {
       "tag": "v0.99.2",
       "name": "v0.99.2",
@@ -53,11 +58,6 @@
       "tag": "v0.87.1",
       "name": "v0.87.1",
       "publishedAt": "2026-09-22T19:43:43Z"
-    },
-    {
-      "tag": "v0.87.0",
-      "name": "v0.87.0",
-      "publishedAt": "2026-09-21T18:29:47Z"
     }
   ],
   "starHistory": [
@@ -188,6 +188,10 @@
     {
       "date": "2026-10-01",
       "stars": 110872
+    },
+    {
+      "date": "2026-10-02",
+      "stars": 111470
     }
   ],
   "links": {

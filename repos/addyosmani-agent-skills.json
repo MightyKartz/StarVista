@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 100217,
-  "forks": 10528,
-  "openIssues": 120,
-  "pushedAt": "2026-09-26T04:19:38Z",
+  "stars": 100405,
+  "forks": 10547,
+  "openIssues": 117,
+  "pushedAt": "2026-10-02T03:29:29Z",
   "topics": [
     "agent-skills",
     "antigravity",
@@ -24,8 +24,8 @@
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/110953?v=4",
   "languages": {
-    "JavaScript": 0.73,
-    "Shell": 0.26,
+    "JavaScript": 0.75,
+    "Shell": 0.24,
     "Python": 0,
     "HTML": 0,
     "TypeScript": 0
@@ -74,6 +74,10 @@
     {
       "date": "2026-10-01",
       "stars": 100217
+    },
+    {
+      "date": "2026-10-02",
+      "stars": 100405
     }
   ],
   "links": {
