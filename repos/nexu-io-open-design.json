@@ -1,0 +1,95 @@
+{
+  "id": "nexu-io/open-design",
+  "slug": "nexu-io-open-design",
+  "owner": "nexu-io",
+  "name": "open-design",
+  "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 99230,
+  "forks": 11470,
+  "openIssues": 1163,
+  "pushedAt": "2026-10-03T01:26:22Z",
+  "topics": [
+    "agent-skills",
+    "ai-design",
+    "byok",
+    "claude-code-for-design",
+    "claude-design",
+    "codex-design",
+    "coding-agents",
+    "cursor-design",
+    "deepseek",
+    "deepseek-harness",
+    "design-systems",
+    "desktop-app",
+    "dsh",
+    "dsh-plugin",
+    "figma-alternative",
+    "hermes-agent",
+    "local-first",
+    "prototyping",
+    "ui-generator",
+    "vibe-coding"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/263625318?v=4",
+  "languages": {
+    "TypeScript": 0.71,
+    "HTML": 0.22,
+    "CSS": 0.05,
+    "JavaScript": 0.01,
+    "Python": 0.01,
+    "Shell": 0,
+    "PowerShell": 0,
+    "Bicep": 0,
+    "Dockerfile": 0,
+    "Go Template": 0,
+    "Batchfile": 0
+  },
+  "readmeExcerpt": "OpenDesign: The First Collaborative Design Agent Workspace",
+  "summary": {
+    "mode": "template",
+    "text": "open-design is a TypeScript project focused on 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. It is tagged with agent-skills, ai-design, and byok."
+  },
+  "releases": [
+    {
+      "tag": "open-design-v0.24.1",
+      "name": "Open Design 0.24.1 — ✨ World’s First Design Plan",
+      "publishedAt": "2026-09-24T09:48:53Z"
+    },
+    {
+      "tag": "open-design-v0.24.0",
+      "name": "Open Design 0.24.0 — Every Run, Kept Intact",
+      "publishedAt": "2026-09-22T16:51:27Z"
+    },
+    {
+      "tag": "open-design-v0.23.0",
+      "name": "Open Design 0.23.0 — Home, Rebuilt.",
+      "publishedAt": "2026-09-20T11:10:26Z"
+    },
+    {
+      "tag": "open-design-v0.22.2",
+      "name": "Open Design 0.22.2 — More reliable update restarts",
+      "publishedAt": "2026-09-10T10:24:49Z"
+    },
+    {
+      "tag": "open-design-v0.22.1",
+      "name": "Open Design 0.22.1 — Smoother design runs and recovery",
+      "publishedAt": "2026-09-09T12:30:14Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-10-03",
+      "stars": 99230
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/nexu-io/open-design",
+    "homepage": "https://open-design.ai"
+  }
+}

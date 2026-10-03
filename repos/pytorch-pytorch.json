@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 103609,
-  "forks": 31052,
-  "openIssues": 17626,
-  "pushedAt": "2026-10-02T08:25:45Z",
+  "stars": 103637,
+  "forks": 31176,
+  "openIssues": 17580,
+  "pushedAt": "2026-10-03T07:54:43Z",
   "topics": [
     "autograd",
     "deep-learning",
@@ -23,11 +23,11 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 328,
+  "starDelta7d": 299,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/21003710?v=4",
   "languages": {
     "Python": 0.66,
-    "C++": 0.27,
+    "C++": 0.26,
     "Cuda": 0.02,
     "C": 0.01,
     "Objective-C++": 0.01,
@@ -100,10 +100,6 @@
       "stars": 101093
     },
     {
-      "date": "2026-07-03",
-      "stars": 101283
-    },
-    {
       "date": "2026-07-04",
       "stars": 101463
     },
@@ -124,8 +120,8 @@
       "stars": 101579
     },
     {
-      "date": "2026-07-10",
-      "stars": 101647
+      "date": "2026-07-09",
+      "stars": 101608
     },
     {
       "date": "2026-07-11",
@@ -196,8 +192,8 @@
       "stars": 101995
     },
     {
-      "date": "2026-07-29",
-      "stars": 102049
+      "date": "2026-07-28",
+      "stars": 102027
     },
     {
       "date": "2026-07-30",
@@ -268,8 +264,8 @@
       "stars": 102379
     },
     {
-      "date": "2026-08-17",
-      "stars": 102429
+      "date": "2026-08-16",
+      "stars": 102394
     },
     {
       "date": "2026-08-18",
@@ -340,8 +336,8 @@
       "stars": 102729
     },
     {
-      "date": "2026-09-05",
-      "stars": 102765
+      "date": "2026-09-04",
+      "stars": 102748
     },
     {
       "date": "2026-09-06",
@@ -412,8 +408,8 @@
       "stars": 103162
     },
     {
-      "date": "2026-09-24",
-      "stars": 103230
+      "date": "2026-09-23",
+      "stars": 103184
     },
     {
       "date": "2026-09-25",
@@ -446,6 +442,10 @@
     {
       "date": "2026-10-02",
       "stars": 103609
+    },
+    {
+      "date": "2026-10-03",
+      "stars": 103637
     }
   ],
   "links": {

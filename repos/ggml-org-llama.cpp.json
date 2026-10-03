@@ -7,16 +7,16 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 130120,
-  "forks": 23985,
-  "openIssues": 2515,
-  "pushedAt": "2026-10-02T08:18:52Z",
+  "stars": 130187,
+  "forks": 24014,
+  "openIssues": 2526,
+  "pushedAt": "2026-10-03T06:44:45Z",
   "topics": [
     "ggml"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 657,
+  "starDelta7d": 644,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134263123?v=4",
   "languages": {
     "C++": 0.56,
@@ -53,29 +53,29 @@
   },
   "releases": [
     {
-      "tag": "b11342",
-      "name": "b11342",
-      "publishedAt": "2026-10-02T05:06:00Z"
+      "tag": "b11370",
+      "name": "b11370",
+      "publishedAt": "2026-10-03T06:24:16Z"
     },
     {
-      "tag": "b11339",
-      "name": "b11339",
-      "publishedAt": "2026-10-02T04:29:16Z"
+      "tag": "b11368",
+      "name": "b11368",
+      "publishedAt": "2026-10-03T02:35:41Z"
     },
     {
-      "tag": "b11338",
-      "name": "b11338",
-      "publishedAt": "2026-10-02T04:03:43Z"
+      "tag": "b11366",
+      "name": "b11366",
+      "publishedAt": "2026-10-03T01:55:51Z"
     },
     {
-      "tag": "b11337",
-      "name": "b11337",
-      "publishedAt": "2026-10-02T03:34:21Z"
+      "tag": "b11365",
+      "name": "b11365",
+      "publishedAt": "2026-10-03T01:29:15Z"
     },
     {
-      "tag": "b11335",
-      "name": "b11335",
-      "publishedAt": "2026-10-02T03:08:12Z"
+      "tag": "b11364",
+      "name": "b11364",
+      "publishedAt": "2026-10-03T01:03:47Z"
     }
   ],
   "starHistory": [
@@ -90,10 +90,6 @@
     {
       "date": "2026-06-28",
       "stars": 118410
-    },
-    {
-      "date": "2026-07-03",
-      "stars": 119076
     },
     {
       "date": "2026-07-04",
@@ -116,8 +112,8 @@
       "stars": 119624
     },
     {
-      "date": "2026-07-10",
-      "stars": 119839
+      "date": "2026-07-09",
+      "stars": 119745
     },
     {
       "date": "2026-07-11",
@@ -188,8 +184,8 @@
       "stars": 121707
     },
     {
-      "date": "2026-07-29",
-      "stars": 121926
+      "date": "2026-07-28",
+      "stars": 121826
     },
     {
       "date": "2026-07-30",
@@ -260,8 +256,8 @@
       "stars": 123913
     },
     {
-      "date": "2026-08-17",
-      "stars": 124231
+      "date": "2026-08-16",
+      "stars": 124047
     },
     {
       "date": "2026-08-18",
@@ -332,8 +328,8 @@
       "stars": 126845
     },
     {
-      "date": "2026-09-05",
-      "stars": 127096
+      "date": "2026-09-04",
+      "stars": 126991
     },
     {
       "date": "2026-09-06",
@@ -404,8 +400,8 @@
       "stars": 129143
     },
     {
-      "date": "2026-09-24",
-      "stars": 129375
+      "date": "2026-09-23",
+      "stars": 129271
     },
     {
       "date": "2026-09-25",
@@ -438,6 +434,10 @@
     {
       "date": "2026-10-02",
       "stars": 130120
+    },
+    {
+      "date": "2026-10-03",
+      "stars": 130187
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 115444,
+  "stars": 115497,
   "forks": 7117,
-  "openIssues": 682,
-  "pushedAt": "2026-10-02T08:28:57Z",
+  "openIssues": 674,
+  "pushedAt": "2026-10-03T07:51:33Z",
   "topics": [
     "backup-tool",
     "flutter",
@@ -31,7 +31,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 444,
+  "starDelta7d": 433,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/109746326?v=4",
   "languages": {
     "TypeScript": 0.54,
@@ -61,6 +61,11 @@
   },
   "releases": [
     {
+      "tag": "v3.3.0-rc.2",
+      "name": "v3.3.0-rc.2",
+      "publishedAt": "2026-10-02T17:29:41Z"
+    },
+    {
       "tag": "v3.3.0-rc.1",
       "name": "v3.3.0-rc.1",
       "publishedAt": "2026-09-30T22:05:07Z"
@@ -79,11 +84,6 @@
       "tag": "v3.2.2",
       "name": "v3.2.2",
       "publishedAt": "2026-09-15T20:14:33Z"
-    },
-    {
-      "tag": "v3.2.1",
-      "name": "v3.2.1",
-      "publishedAt": "2026-09-14T18:24:25Z"
     }
   ],
   "starHistory": [
@@ -98,10 +98,6 @@
     {
       "date": "2026-06-28",
       "stars": 104549
-    },
-    {
-      "date": "2026-07-03",
-      "stars": 105075
     },
     {
       "date": "2026-07-04",
@@ -124,8 +120,8 @@
       "stars": 106781
     },
     {
-      "date": "2026-07-10",
-      "stars": 107134
+      "date": "2026-07-09",
+      "stars": 106968
     },
     {
       "date": "2026-07-11",
@@ -196,8 +192,8 @@
       "stars": 108908
     },
     {
-      "date": "2026-07-29",
-      "stars": 109114
+      "date": "2026-07-28",
+      "stars": 109007
     },
     {
       "date": "2026-07-30",
@@ -268,8 +264,8 @@
       "stars": 110538
     },
     {
-      "date": "2026-08-17",
-      "stars": 110785
+      "date": "2026-08-16",
+      "stars": 110653
     },
     {
       "date": "2026-08-18",
@@ -340,8 +336,8 @@
       "stars": 113309
     },
     {
-      "date": "2026-09-05",
-      "stars": 113446
+      "date": "2026-09-04",
+      "stars": 113382
     },
     {
       "date": "2026-09-06",
@@ -412,8 +408,8 @@
       "stars": 114782
     },
     {
-      "date": "2026-09-24",
-      "stars": 114930
+      "date": "2026-09-23",
+      "stars": 114854
     },
     {
       "date": "2026-09-25",
@@ -446,6 +442,10 @@
     {
       "date": "2026-10-02",
       "stars": 115444
+    },
+    {
+      "date": "2026-10-03",
+      "stars": 115497
     }
   ],
   "links": {

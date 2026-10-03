@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 150964,
-  "forks": 8103,
-  "openIssues": 337,
-  "pushedAt": "2026-09-14T14:34:56Z",
+  "stars": 152137,
+  "forks": 8164,
+  "openIssues": 206,
+  "pushedAt": "2026-10-03T05:12:55Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -25,11 +25,11 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 5304,
+  "starDelta7d": 6012,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
   "languages": {
-    "JavaScript": 0.65,
-    "Python": 0.34,
+    "JavaScript": 0.69,
+    "Python": 0.3,
     "PowerShell": 0,
     "Shell": 0
   },
@@ -40,6 +40,21 @@
   },
   "releases": [
     {
+      "tag": "v4.10.3",
+      "name": "v4.10.3",
+      "publishedAt": "2026-10-03T02:36:24Z"
+    },
+    {
+      "tag": "v4.10.2",
+      "name": "v4.10.2",
+      "publishedAt": "2026-10-03T01:31:28Z"
+    },
+    {
+      "tag": "v4.10.1",
+      "name": "v4.10.1",
+      "publishedAt": "2026-10-02T15:11:38Z"
+    },
+    {
       "tag": "v4.10.0",
       "name": "v4.10.0",
       "publishedAt": "2026-09-14T14:38:56Z"
@@ -48,21 +63,6 @@
       "tag": "v4.9.0",
       "name": "v4.9.0: 53 commits of doing less",
       "publishedAt": "2026-08-07T21:15:11Z"
-    },
-    {
-      "tag": "v4.8.4",
-      "name": "v4.8.4: lazy in Hermes now",
-      "publishedAt": "2026-06-29T05:26:41Z"
-    },
-    {
-      "tag": "v4.8.3",
-      "name": "v4.8.3: lazy in subagents too",
-      "publishedAt": "2026-06-24T02:38:23Z"
-    },
-    {
-      "tag": "v4.8.2",
-      "name": "v4.8.2: now on npm",
-      "publishedAt": "2026-06-24T02:27:30Z"
     }
   ],
   "starHistory": [
@@ -273,6 +273,10 @@
     {
       "date": "2026-10-02",
       "stars": 150964
+    },
+    {
+      "date": "2026-10-03",
+      "stars": 152137
     }
   ],
   "links": {
