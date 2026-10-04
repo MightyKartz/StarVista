@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 128136,
-  "forks": 20044,
-  "openIssues": 52,
-  "pushedAt": "2026-10-03T03:31:16Z",
+  "stars": 128317,
+  "forks": 20077,
+  "openIssues": 46,
+  "pushedAt": "2026-10-04T06:48:17Z",
   "topics": [
     "ai-video-generator",
     "content-creation",
@@ -29,11 +29,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2182,
+  "starDelta7d": 2140,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4",
   "languages": {
     "Python": 0.99,
-    "CSS": 0.01,
+    "CSS": 0,
     "Dockerfile": 0,
     "Shell": 0,
     "Batchfile": 0,
@@ -72,10 +72,6 @@
     }
   ],
   "starHistory": [
-    {
-      "date": "2026-07-04",
-      "stars": 95546
-    },
     {
       "date": "2026-07-05",
       "stars": 95706
@@ -165,8 +161,8 @@
       "stars": 99311
     },
     {
-      "date": "2026-07-28",
-      "stars": 99593
+      "date": "2026-07-27",
+      "stars": 99452
     },
     {
       "date": "2026-07-29",
@@ -341,8 +337,8 @@
       "stars": 121698
     },
     {
-      "date": "2026-09-11",
-      "stars": 122340
+      "date": "2026-09-10",
+      "stars": 122066
     },
     {
       "date": "2026-09-12",
@@ -431,6 +427,10 @@
     {
       "date": "2026-10-03",
       "stars": 128136
+    },
+    {
+      "date": "2026-10-04",
+      "stars": 128317
     }
   ],
   "links": {

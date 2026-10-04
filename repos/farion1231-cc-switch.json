@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 139648,
-  "forks": 9402,
-  "openIssues": 2936,
-  "pushedAt": "2026-10-03T06:34:50Z",
+  "stars": 139860,
+  "forks": 9414,
+  "openIssues": 2945,
+  "pushedAt": "2026-10-04T08:26:00Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -35,14 +35,14 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2677,
+  "starDelta7d": 2532,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
-    "Rust": 0.65,
-    "TypeScript": 0.34,
+    "Rust": 0.63,
+    "TypeScript": 0.36,
     "HTML": 0.01,
-    "JavaScript": 0,
-    "CSS": 0
+    "CSS": 0,
+    "JavaScript": 0
   },
   "readmeExcerpt": "Switch API providers in one click and manage MCP, Skills, and Prompts in one place — no more hand-editing JSON / TOML / YAML config files.",
   "summary": {
@@ -90,10 +90,6 @@
       "stars": 109628
     },
     {
-      "date": "2026-07-04",
-      "stars": 112934
-    },
-    {
       "date": "2026-07-05",
       "stars": 113274
     },
@@ -114,8 +110,8 @@
       "stars": 114973
     },
     {
-      "date": "2026-07-11",
-      "stars": 115752
+      "date": "2026-07-10",
+      "stars": 115410
     },
     {
       "date": "2026-07-12",
@@ -186,8 +182,8 @@
       "stars": 121802
     },
     {
-      "date": "2026-07-30",
-      "stars": 122348
+      "date": "2026-07-29",
+      "stars": 122079
     },
     {
       "date": "2026-07-31",
@@ -258,8 +254,8 @@
       "stars": 127432
     },
     {
-      "date": "2026-08-18",
-      "stars": 127897
+      "date": "2026-08-17",
+      "stars": 127645
     },
     {
       "date": "2026-08-19",
@@ -330,8 +326,8 @@
       "stars": 130996
     },
     {
-      "date": "2026-09-06",
-      "stars": 131248
+      "date": "2026-09-05",
+      "stars": 131119
     },
     {
       "date": "2026-09-07",
@@ -402,8 +398,8 @@
       "stars": 135090
     },
     {
-      "date": "2026-09-25",
-      "stars": 136631
+      "date": "2026-09-24",
+      "stars": 136085
     },
     {
       "date": "2026-09-26",
@@ -436,6 +432,10 @@
     {
       "date": "2026-10-03",
       "stars": 139648
+    },
+    {
+      "date": "2026-10-04",
+      "stars": 139860
     }
   ],
   "links": {

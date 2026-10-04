@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 109229,
-  "forks": 6319,
-  "openIssues": 143,
-  "pushedAt": "2026-10-03T07:53:36Z",
+  "stars": 109649,
+  "forks": 6343,
+  "openIssues": 115,
+  "pushedAt": "2026-10-04T07:51:14Z",
   "topics": [
     "ai",
     "anthropic",
@@ -25,7 +25,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1346,
+  "starDelta7d": 1668,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
     "Go": 0.45,
@@ -39,7 +39,7 @@
     "CSS": 0,
     "Dockerfile": 0
   },
-  "readmeExcerpt": "Your AI coding agent bills by the word and writes like it knows that. Caveman make it stop.",
+  "readmeExcerpt": "Caveman make your AI agent say less and read less. Code stay exact. Brain still big.",
   "summary": {
     "mode": "template",
     "text": "caveman is a Go project focused on 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. It is tagged with ai, anthropic, and caveman."
@@ -48,7 +48,12 @@
     {
       "tag": "bin-v2.0.2",
       "name": "bin-v2.0.2",
-      "publishedAt": "2026-10-03T06:52:12Z"
+      "publishedAt": "2026-10-04T01:50:00Z"
+    },
+    {
+      "tag": "v3.1.0",
+      "name": "Caveman 3.1.0",
+      "publishedAt": "2026-10-04T04:30:46Z"
     },
     {
       "tag": "v3.0.0",
@@ -64,11 +69,6 @@
       "tag": "sdk-python-v1.2.0",
       "name": "caveman-sdk 1.2.0",
       "publishedAt": "2026-09-30T22:27:49Z"
-    },
-    {
-      "tag": "middleware-ts-v1.0.0",
-      "name": "@caveman-ai/middleware 1.0.0",
-      "publishedAt": "2026-09-30T22:30:31Z"
     }
   ],
   "starHistory": [
@@ -219,6 +219,10 @@
     {
       "date": "2026-10-03",
       "stars": 109229
+    },
+    {
+      "date": "2026-10-04",
+      "stars": 109649
     }
   ],
   "links": {
