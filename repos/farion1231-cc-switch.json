@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 139860,
-  "forks": 9414,
-  "openIssues": 2945,
-  "pushedAt": "2026-10-04T08:26:00Z",
+  "stars": 140137,
+  "forks": 9422,
+  "openIssues": 2957,
+  "pushedAt": "2026-10-05T08:41:03Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2532,
+  "starDelta7d": 2230,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.63,
@@ -51,6 +51,16 @@
   },
   "releases": [
     {
+      "tag": "v4.0.1",
+      "name": "CC Switch v4.0.1",
+      "publishedAt": "2026-10-05T05:09:53Z"
+    },
+    {
+      "tag": "v4.0.0",
+      "name": "CC Switch v4.0.0",
+      "publishedAt": "2026-10-04T11:01:01Z"
+    },
+    {
       "tag": "v3.20.4",
       "name": "CC Switch v3.20.4",
       "publishedAt": "2026-09-22T14:42:23Z"
@@ -64,16 +74,6 @@
       "tag": "v3.20.2",
       "name": "CC Switch v3.20.2",
       "publishedAt": "2026-09-07T14:25:28Z"
-    },
-    {
-      "tag": "v3.20.1",
-      "name": "CC Switch v3.20.1",
-      "publishedAt": "2026-08-28T00:43:03Z"
-    },
-    {
-      "tag": "v3.20.0",
-      "name": "CC Switch v3.20.0",
-      "publishedAt": "2026-08-18T09:11:14Z"
     }
   ],
   "starHistory": [
@@ -110,8 +110,8 @@
       "stars": 114973
     },
     {
-      "date": "2026-07-10",
-      "stars": 115410
+      "date": "2026-07-11",
+      "stars": 115752
     },
     {
       "date": "2026-07-12",
@@ -170,10 +170,6 @@
       "stars": 120976
     },
     {
-      "date": "2026-07-26",
-      "stars": 121203
-    },
-    {
       "date": "2026-07-27",
       "stars": 121480
     },
@@ -184,6 +180,10 @@
     {
       "date": "2026-07-29",
       "stars": 122079
+    },
+    {
+      "date": "2026-07-30",
+      "stars": 122348
     },
     {
       "date": "2026-07-31",
@@ -230,10 +230,6 @@
       "stars": 125997
     },
     {
-      "date": "2026-08-11",
-      "stars": 126254
-    },
-    {
       "date": "2026-08-12",
       "stars": 126524
     },
@@ -256,6 +252,10 @@
     {
       "date": "2026-08-17",
       "stars": 127645
+    },
+    {
+      "date": "2026-08-18",
+      "stars": 127897
     },
     {
       "date": "2026-08-19",
@@ -284,10 +284,6 @@
     {
       "date": "2026-08-25",
       "stars": 129208
-    },
-    {
-      "date": "2026-08-26",
-      "stars": 129403
     },
     {
       "date": "2026-08-27",
@@ -330,6 +326,10 @@
       "stars": 131119
     },
     {
+      "date": "2026-09-06",
+      "stars": 131248
+    },
+    {
       "date": "2026-09-07",
       "stars": 131435
     },
@@ -344,10 +344,6 @@
     {
       "date": "2026-09-10",
       "stars": 132050
-    },
-    {
-      "date": "2026-09-11",
-      "stars": 132259
     },
     {
       "date": "2026-09-12",
@@ -402,12 +398,12 @@
       "stars": 136085
     },
     {
-      "date": "2026-09-26",
-      "stars": 136971
+      "date": "2026-09-25",
+      "stars": 136631
     },
     {
-      "date": "2026-09-27",
-      "stars": 137328
+      "date": "2026-09-26",
+      "stars": 136971
     },
     {
       "date": "2026-09-28",
@@ -436,6 +432,10 @@
     {
       "date": "2026-10-04",
       "stars": 139860
+    },
+    {
+      "date": "2026-10-05",
+      "stars": 140137
     }
   ],
   "links": {

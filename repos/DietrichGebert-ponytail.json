@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 153907,
-  "forks": 8272,
-  "openIssues": 227,
-  "pushedAt": "2026-10-03T05:12:55Z",
+  "stars": 155360,
+  "forks": 8352,
+  "openIssues": 83,
+  "pushedAt": "2026-10-05T03:45:49Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -25,7 +25,7 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 7259,
+  "starDelta7d": 8247,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
   "languages": {
     "JavaScript": 0.69,
@@ -40,6 +40,16 @@
   },
   "releases": [
     {
+      "tag": "v4.12.0",
+      "name": "v4.12.0",
+      "publishedAt": "2026-10-05T03:44:34Z"
+    },
+    {
+      "tag": "v4.11.0",
+      "name": "v4.11.0",
+      "publishedAt": "2026-10-04T22:55:27Z"
+    },
+    {
       "tag": "v4.10.3",
       "name": "v4.10.3",
       "publishedAt": "2026-10-03T02:36:24Z"
@@ -53,16 +63,6 @@
       "tag": "v4.10.1",
       "name": "v4.10.1",
       "publishedAt": "2026-10-02T15:11:38Z"
-    },
-    {
-      "tag": "v4.10.0",
-      "name": "v4.10.0",
-      "publishedAt": "2026-09-14T14:38:56Z"
-    },
-    {
-      "tag": "v4.9.0",
-      "name": "v4.9.0: 53 commits of doing less",
-      "publishedAt": "2026-08-07T21:15:11Z"
     }
   ],
   "starHistory": [
@@ -281,6 +281,10 @@
     {
       "date": "2026-10-04",
       "stars": 153907
+    },
+    {
+      "date": "2026-10-05",
+      "stars": 155360
     }
   ],
   "links": {

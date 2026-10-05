@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 275580,
-  "forks": 23117,
-  "openIssues": 549,
-  "pushedAt": "2026-09-29T12:38:37Z",
+  "stars": 276478,
+  "forks": 23172,
+  "openIssues": 550,
+  "pushedAt": "2026-10-05T08:37:41Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 5188,
+  "starDelta7d": 5546,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4",
   "languages": {
     "Shell": 0.71,
@@ -26,6 +26,16 @@
     "text": "skills is a Shell project focused on Skills for Real Engineers. Straight from my .agents directory."
   },
   "releases": [
+    {
+      "tag": "v1.3.1",
+      "name": "v1.3.1",
+      "publishedAt": "2026-10-04T12:48:18Z"
+    },
+    {
+      "tag": "v1.3.0",
+      "name": "v1.3.0",
+      "publishedAt": "2026-10-04T12:47:22Z"
+    },
     {
       "tag": "v1.2.3",
       "name": "v1.2.3",
@@ -40,16 +50,6 @@
       "tag": "v1.2.0",
       "name": "v1.2.0",
       "publishedAt": "2026-08-05T12:37:40Z"
-    },
-    {
-      "tag": "v1.1.0",
-      "name": "v1.1.0",
-      "publishedAt": "2026-07-08T13:20:57Z"
-    },
-    {
-      "tag": "v1.0.1",
-      "name": "v1.0.1",
-      "publishedAt": "2026-06-17T22:07:52Z"
     }
   ],
   "starHistory": [
@@ -86,8 +86,8 @@
       "stars": 161711
     },
     {
-      "date": "2026-07-10",
-      "stars": 163432
+      "date": "2026-07-11",
+      "stars": 164868
     },
     {
       "date": "2026-07-12",
@@ -146,10 +146,6 @@
       "stars": 187084
     },
     {
-      "date": "2026-07-26",
-      "stars": 188541
-    },
-    {
       "date": "2026-07-27",
       "stars": 190058
     },
@@ -160,6 +156,10 @@
     {
       "date": "2026-07-29",
       "stars": 193351
+    },
+    {
+      "date": "2026-07-30",
+      "stars": 194925
     },
     {
       "date": "2026-07-31",
@@ -206,10 +206,6 @@
       "stars": 211435
     },
     {
-      "date": "2026-08-11",
-      "stars": 212781
-    },
-    {
       "date": "2026-08-12",
       "stars": 214041
     },
@@ -232,6 +228,10 @@
     {
       "date": "2026-08-17",
       "stars": 219412
+    },
+    {
+      "date": "2026-08-18",
+      "stars": 220480
     },
     {
       "date": "2026-08-19",
@@ -260,10 +260,6 @@
     {
       "date": "2026-08-25",
       "stars": 235558
-    },
-    {
-      "date": "2026-08-26",
-      "stars": 236867
     },
     {
       "date": "2026-08-27",
@@ -306,6 +302,10 @@
       "stars": 250870
     },
     {
+      "date": "2026-09-06",
+      "stars": 253121
+    },
+    {
       "date": "2026-09-07",
       "stars": 255226
     },
@@ -320,10 +320,6 @@
     {
       "date": "2026-09-10",
       "stars": 258138
-    },
-    {
-      "date": "2026-09-11",
-      "stars": 259116
     },
     {
       "date": "2026-09-12",
@@ -378,12 +374,12 @@
       "stars": 268665
     },
     {
-      "date": "2026-09-26",
-      "stars": 269876
+      "date": "2026-09-25",
+      "stars": 269267
     },
     {
-      "date": "2026-09-27",
-      "stars": 270392
+      "date": "2026-09-26",
+      "stars": 269876
     },
     {
       "date": "2026-09-28",
@@ -412,6 +408,10 @@
     {
       "date": "2026-10-04",
       "stars": 275580
+    },
+    {
+      "date": "2026-10-05",
+      "stars": 276478
     }
   ],
   "links": {
