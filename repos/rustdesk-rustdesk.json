@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 125224,
-  "forks": 19466,
-  "openIssues": 178,
-  "pushedAt": "2026-10-06T05:05:42Z",
+  "stars": 125309,
+  "forks": 19489,
+  "openIssues": 182,
+  "pushedAt": "2026-10-07T08:26:19Z",
   "topics": [
     "android",
     "anydesk",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 470,
+  "starDelta7d": 480,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
   "languages": {
     "Rust": 0.7,
@@ -104,10 +104,6 @@
       "stars": 117637
     },
     {
-      "date": "2026-07-07",
-      "stars": 117763
-    },
-    {
       "date": "2026-07-08",
       "stars": 117835
     },
@@ -120,8 +116,8 @@
       "stars": 117978
     },
     {
-      "date": "2026-07-12",
-      "stars": 118066
+      "date": "2026-07-11",
+      "stars": 118027
     },
     {
       "date": "2026-07-13",
@@ -180,8 +176,8 @@
       "stars": 118865
     },
     {
-      "date": "2026-07-28",
-      "stars": 119048
+      "date": "2026-07-27",
+      "stars": 118934
     },
     {
       "date": "2026-07-29",
@@ -240,8 +236,8 @@
       "stars": 120049
     },
     {
-      "date": "2026-08-13",
-      "stars": 120262
+      "date": "2026-08-12",
+      "stars": 120143
     },
     {
       "date": "2026-08-14",
@@ -296,8 +292,8 @@
       "stars": 121829
     },
     {
-      "date": "2026-08-28",
-      "stars": 122027
+      "date": "2026-08-27",
+      "stars": 121951
     },
     {
       "date": "2026-08-29",
@@ -356,8 +352,8 @@
       "stars": 123135
     },
     {
-      "date": "2026-09-13",
-      "stars": 123289
+      "date": "2026-09-12",
+      "stars": 123222
     },
     {
       "date": "2026-09-14",
@@ -416,8 +412,8 @@
       "stars": 124605
     },
     {
-      "date": "2026-09-29",
-      "stars": 124754
+      "date": "2026-09-28",
+      "stars": 124675
     },
     {
       "date": "2026-09-30",
@@ -446,6 +442,10 @@
     {
       "date": "2026-10-06",
       "stars": 125224
+    },
+    {
+      "date": "2026-10-07",
+      "stars": 125309
     }
   ],
   "links": {

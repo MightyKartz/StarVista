@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 123405,
-  "forks": 17575,
-  "openIssues": 717,
-  "pushedAt": "2026-10-05T23:21:36Z",
+  "stars": 123411,
+  "forks": 17577,
+  "openIssues": 726,
+  "pushedAt": "2026-10-07T08:03:31Z",
   "topics": [
     "c-plus-plus",
     "chrome",
@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 91,
+  "starDelta7d": 73,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13409222?v=4",
   "languages": {
     "C++": 0.54,
@@ -48,29 +48,29 @@
   },
   "releases": [
     {
+      "tag": "v43.7.9",
+      "name": "electron v43.7.9",
+      "publishedAt": "2026-10-07T03:14:06Z"
+    },
+    {
+      "tag": "v45.0.0-alpha.16",
+      "name": "electron v45.0.0-alpha.16",
+      "publishedAt": "2026-10-07T03:13:54Z"
+    },
+    {
+      "tag": "v43.7.8",
+      "name": "electron v43.7.8",
+      "publishedAt": "2026-10-06T18:05:48Z"
+    },
+    {
+      "tag": "v42.11.11",
+      "name": "electron v42.11.11",
+      "publishedAt": "2026-10-06T17:41:42Z"
+    },
+    {
       "tag": "v45.0.0-alpha.15",
       "name": "electron v45.0.0-alpha.15",
       "publishedAt": "2026-10-06T01:39:20Z"
-    },
-    {
-      "tag": "v45.0.0-alpha.14",
-      "name": "electron v45.0.0-alpha.14",
-      "publishedAt": "2026-10-01T22:06:03Z"
-    },
-    {
-      "tag": "v43.7.7",
-      "name": "electron v43.7.7",
-      "publishedAt": "2026-09-30T10:48:10Z"
-    },
-    {
-      "tag": "v42.11.10",
-      "name": "electron v42.11.10",
-      "publishedAt": "2026-09-30T11:00:51Z"
-    },
-    {
-      "tag": "v44.5.1",
-      "name": "electron v44.5.1",
-      "publishedAt": "2026-09-30T02:12:03Z"
     }
   ],
   "starHistory": [
@@ -91,10 +91,6 @@
       "stars": 121890
     },
     {
-      "date": "2026-07-07",
-      "stars": 121923
-    },
-    {
       "date": "2026-07-08",
       "stars": 121911
     },
@@ -107,8 +103,8 @@
       "stars": 121950
     },
     {
-      "date": "2026-07-12",
-      "stars": 121969
+      "date": "2026-07-11",
+      "stars": 121961
     },
     {
       "date": "2026-07-13",
@@ -167,8 +163,8 @@
       "stars": 122194
     },
     {
-      "date": "2026-07-28",
-      "stars": 122215
+      "date": "2026-07-27",
+      "stars": 122205
     },
     {
       "date": "2026-07-29",
@@ -227,8 +223,8 @@
       "stars": 122416
     },
     {
-      "date": "2026-08-13",
-      "stars": 122481
+      "date": "2026-08-12",
+      "stars": 122457
     },
     {
       "date": "2026-08-14",
@@ -283,8 +279,8 @@
       "stars": 122719
     },
     {
-      "date": "2026-08-28",
-      "stars": 122762
+      "date": "2026-08-27",
+      "stars": 122745
     },
     {
       "date": "2026-08-29",
@@ -343,8 +339,8 @@
       "stars": 122988
     },
     {
-      "date": "2026-09-13",
-      "stars": 123018
+      "date": "2026-09-12",
+      "stars": 123002
     },
     {
       "date": "2026-09-14",
@@ -403,8 +399,8 @@
       "stars": 123285
     },
     {
-      "date": "2026-09-29",
-      "stars": 123314
+      "date": "2026-09-28",
+      "stars": 123291
     },
     {
       "date": "2026-09-30",
@@ -433,6 +429,10 @@
     {
       "date": "2026-10-06",
       "stars": 123405
+    },
+    {
+      "date": "2026-10-07",
+      "stars": 123411
     }
   ],
   "links": {

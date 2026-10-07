@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 166989,
-  "forks": 34759,
-  "openIssues": 2359,
-  "pushedAt": "2026-10-06T08:52:42Z",
+  "stars": 167014,
+  "forks": 34763,
+  "openIssues": 2353,
+  "pushedAt": "2026-10-07T07:17:08Z",
   "topics": [
     "audio",
     "deep-learning",
@@ -34,13 +34,14 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 197,
+  "starDelta7d": 173,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
   "languages": {
     "Python": 1,
     "Dockerfile": 0,
     "Makefile": 0,
     "Shell": 0,
+    "HCL": 0,
     "Jsonnet": 0
   },
   "readmeExcerpt": "<!--- Copyright 2020 The HuggingFace Team. All rights reserved.",
@@ -49,6 +50,11 @@
     "text": "transformers is a Python project focused on 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. . It is tagged with audio, deep-learning, and deepseek."
   },
   "releases": [
+    {
+      "tag": "v5.19.0",
+      "name": "Release v5.19.0",
+      "publishedAt": "2026-10-06T16:39:23Z"
+    },
     {
       "tag": "v5.18.0",
       "name": "Release 5.18.0",
@@ -68,11 +74,6 @@
       "tag": "v5.16.0",
       "name": "Release: v5.16.0",
       "publishedAt": "2026-08-26T12:35:15Z"
-    },
-    {
-      "tag": "v5.15.1",
-      "name": "Patch release: v5.15.1",
-      "publishedAt": "2026-08-19T10:50:47Z"
     }
   ],
   "starHistory": [
@@ -93,10 +94,6 @@
       "stars": 162248
     },
     {
-      "date": "2026-07-07",
-      "stars": 162323
-    },
-    {
       "date": "2026-07-08",
       "stars": 162361
     },
@@ -109,8 +106,8 @@
       "stars": 162427
     },
     {
-      "date": "2026-07-12",
-      "stars": 162516
+      "date": "2026-07-11",
+      "stars": 162467
     },
     {
       "date": "2026-07-13",
@@ -169,8 +166,8 @@
       "stars": 162984
     },
     {
-      "date": "2026-07-28",
-      "stars": 163052
+      "date": "2026-07-27",
+      "stars": 163019
     },
     {
       "date": "2026-07-29",
@@ -229,8 +226,8 @@
       "stars": 163563
     },
     {
-      "date": "2026-08-13",
-      "stars": 164028
+      "date": "2026-08-12",
+      "stars": 163864
     },
     {
       "date": "2026-08-14",
@@ -285,8 +282,8 @@
       "stars": 164443
     },
     {
-      "date": "2026-08-28",
-      "stars": 164559
+      "date": "2026-08-27",
+      "stars": 164498
     },
     {
       "date": "2026-08-29",
@@ -345,8 +342,8 @@
       "stars": 165104
     },
     {
-      "date": "2026-09-13",
-      "stars": 165234
+      "date": "2026-09-12",
+      "stars": 165144
     },
     {
       "date": "2026-09-14",
@@ -405,8 +402,8 @@
       "stars": 166709
     },
     {
-      "date": "2026-09-29",
-      "stars": 166792
+      "date": "2026-09-28",
+      "stars": 166750
     },
     {
       "date": "2026-09-30",
@@ -435,6 +432,10 @@
     {
       "date": "2026-10-06",
       "stars": 166989
+    },
+    {
+      "date": "2026-10-07",
+      "stars": 167014
     }
   ],
   "links": {
