@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C",
   "languageColor": "#555555",
-  "stars": 151460,
-  "forks": 13886,
-  "openIssues": 2922,
-  "pushedAt": "2026-10-07T07:23:10Z",
+  "stars": 151658,
+  "forks": 13901,
+  "openIssues": 2920,
+  "pushedAt": "2026-10-08T06:44:51Z",
   "topics": [
     "android",
     "c",
@@ -24,7 +24,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 795,
+  "starDelta7d": 909,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/3427627?v=4",
   "languages": {
     "C": 0.65,
@@ -42,6 +42,11 @@
     "text": "scrcpy is a C project focused on Display and control your Android device. It is tagged with android, c, and ffmpeg."
   },
   "releases": [
+    {
+      "tag": "v5.0.1",
+      "name": "scrcpy 5.0.1",
+      "publishedAt": "2026-10-08T06:44:27Z"
+    },
     {
       "tag": "v5.0",
       "name": "scrcpy 5.0",
@@ -61,11 +66,6 @@
       "tag": "v3.3.4",
       "name": "scrcpy v3.3.4",
       "publishedAt": "2025-12-17T19:26:16Z"
-    },
-    {
-      "tag": "v3.3.3",
-      "name": "scrcpy v3.3.3",
-      "publishedAt": "2025-09-27T14:12:27Z"
     }
   ],
   "starHistory": [
@@ -86,10 +86,6 @@
       "stars": 145084
     },
     {
-      "date": "2026-07-08",
-      "stars": 145294
-    },
-    {
       "date": "2026-07-09",
       "stars": 145364
     },
@@ -102,8 +98,8 @@
       "stars": 145468
     },
     {
-      "date": "2026-07-13",
-      "stars": 145575
+      "date": "2026-07-12",
+      "stars": 145518
     },
     {
       "date": "2026-07-14",
@@ -162,8 +158,8 @@
       "stars": 146450
     },
     {
-      "date": "2026-07-29",
-      "stars": 146562
+      "date": "2026-07-28",
+      "stars": 146515
     },
     {
       "date": "2026-07-30",
@@ -222,7 +218,7 @@
       "stars": 147386
     },
     {
-      "date": "2026-08-14",
+      "date": "2026-08-13",
       "stars": 147386
     },
     {
@@ -278,8 +274,8 @@
       "stars": 148368
     },
     {
-      "date": "2026-08-29",
-      "stars": 148477
+      "date": "2026-08-28",
+      "stars": 148425
     },
     {
       "date": "2026-08-30",
@@ -338,8 +334,8 @@
       "stars": 149432
     },
     {
-      "date": "2026-09-14",
-      "stars": 149578
+      "date": "2026-09-13",
+      "stars": 149500
     },
     {
       "date": "2026-09-15",
@@ -398,8 +394,8 @@
       "stars": 150541
     },
     {
-      "date": "2026-09-30",
-      "stars": 150665
+      "date": "2026-09-29",
+      "stars": 150603
     },
     {
       "date": "2026-10-01",
@@ -428,6 +424,10 @@
     {
       "date": "2026-10-07",
       "stars": 151460
+    },
+    {
+      "date": "2026-10-08",
+      "stars": 151658
     }
   ],
   "links": {

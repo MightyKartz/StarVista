@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 125231,
-  "forks": 12372,
+  "stars": 125279,
+  "forks": 12393,
   "openIssues": 1759,
-  "pushedAt": "2026-10-07T08:35:10Z",
+  "pushedAt": "2026-10-08T08:56:50Z",
   "topics": [
     "ai",
     "base-ui",
@@ -32,7 +32,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 354,
+  "starDelta7d": 344,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
   "languages": {
     "TypeScript": 0.88,
@@ -51,6 +51,16 @@
   },
   "releases": [
     {
+      "tag": "shadcn@4.21.4",
+      "name": "shadcn@4.21.4",
+      "publishedAt": "2026-10-07T11:11:31Z"
+    },
+    {
+      "tag": "@shadcn/registry@0.1.3",
+      "name": "@shadcn/registry@0.1.3",
+      "publishedAt": "2026-10-07T11:11:28Z"
+    },
+    {
       "tag": "shadcn@4.21.3",
       "name": "shadcn@4.21.3",
       "publishedAt": "2026-10-06T06:17:47Z"
@@ -64,16 +74,6 @@
       "tag": "shadcn@4.21.2",
       "name": "shadcn@4.21.2",
       "publishedAt": "2026-10-05T14:38:22Z"
-    },
-    {
-      "tag": "@shadcn/registry@0.1.1",
-      "name": "@shadcn/registry@0.1.1",
-      "publishedAt": "2026-10-05T14:38:19Z"
-    },
-    {
-      "tag": "shadcn@4.21.1",
-      "name": "shadcn@4.21.1",
-      "publishedAt": "2026-10-01T10:30:53Z"
     }
   ],
   "starHistory": [
@@ -94,10 +94,6 @@
       "stars": 118092
     },
     {
-      "date": "2026-07-08",
-      "stars": 118400
-    },
-    {
       "date": "2026-07-09",
       "stars": 118499
     },
@@ -110,8 +106,8 @@
       "stars": 118762
     },
     {
-      "date": "2026-07-13",
-      "stars": 118950
+      "date": "2026-07-12",
+      "stars": 118865
     },
     {
       "date": "2026-07-14",
@@ -170,8 +166,8 @@
       "stars": 119893
     },
     {
-      "date": "2026-07-29",
-      "stars": 120036
+      "date": "2026-07-28",
+      "stars": 119971
     },
     {
       "date": "2026-07-30",
@@ -230,8 +226,8 @@
       "stars": 121110
     },
     {
-      "date": "2026-08-14",
-      "stars": 121291
+      "date": "2026-08-13",
+      "stars": 121208
     },
     {
       "date": "2026-08-15",
@@ -286,8 +282,8 @@
       "stars": 122257
     },
     {
-      "date": "2026-08-29",
-      "stars": 122462
+      "date": "2026-08-28",
+      "stars": 122382
     },
     {
       "date": "2026-08-30",
@@ -346,8 +342,8 @@
       "stars": 123605
     },
     {
-      "date": "2026-09-14",
-      "stars": 123709
+      "date": "2026-09-13",
+      "stars": 123664
     },
     {
       "date": "2026-09-15",
@@ -406,8 +402,8 @@
       "stars": 124738
     },
     {
-      "date": "2026-09-30",
-      "stars": 124877
+      "date": "2026-09-29",
+      "stars": 124811
     },
     {
       "date": "2026-10-01",
@@ -436,6 +432,10 @@
     {
       "date": "2026-10-07",
       "stars": 125231
+    },
+    {
+      "date": "2026-10-08",
+      "stars": 125279
     }
   ],
   "links": {

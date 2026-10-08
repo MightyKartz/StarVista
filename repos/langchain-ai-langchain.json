@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 147522,
-  "forks": 24720,
-  "openIssues": 626,
-  "pushedAt": "2026-10-07T08:19:03Z",
+  "stars": 147560,
+  "forks": 24731,
+  "openIssues": 630,
+  "pushedAt": "2026-10-08T08:39:14Z",
   "topics": [
     "agents",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 222,
+  "starDelta7d": 218,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
   "languages": {
     "Python": 0.99,
@@ -53,6 +53,16 @@
   },
   "releases": [
     {
+      "tag": "langchain-huggingface==1.2.3",
+      "name": "langchain-huggingface==1.2.3",
+      "publishedAt": "2026-10-07T20:10:07Z"
+    },
+    {
+      "tag": "langchain-fireworks==1.7.1",
+      "name": "langchain-fireworks==1.7.1",
+      "publishedAt": "2026-10-07T20:24:35Z"
+    },
+    {
       "tag": "langchain-core==1.6.7",
       "name": "langchain-core==1.6.7",
       "publishedAt": "2026-10-06T15:47:08Z"
@@ -66,16 +76,6 @@
       "tag": "langchain-openai==1.6.7",
       "name": "langchain-openai==1.6.7",
       "publishedAt": "2026-09-30T15:12:17Z"
-    },
-    {
-      "tag": "langchain-core==1.6.6",
-      "name": "langchain-core==1.6.6",
-      "publishedAt": "2026-09-29T14:53:11Z"
-    },
-    {
-      "tag": "langchain-anthropic==1.7.5",
-      "name": "langchain-anthropic==1.7.5",
-      "publishedAt": "2026-09-29T15:22:20Z"
     }
   ],
   "starHistory": [
@@ -96,10 +96,6 @@
       "stars": 140946
     },
     {
-      "date": "2026-07-08",
-      "stars": 141254
-    },
-    {
       "date": "2026-07-09",
       "stars": 141342
     },
@@ -112,8 +108,8 @@
       "stars": 141489
     },
     {
-      "date": "2026-07-13",
-      "stars": 141623
+      "date": "2026-07-12",
+      "stars": 141568
     },
     {
       "date": "2026-07-14",
@@ -172,8 +168,8 @@
       "stars": 142646
     },
     {
-      "date": "2026-07-29",
-      "stars": 142837
+      "date": "2026-07-28",
+      "stars": 142745
     },
     {
       "date": "2026-07-30",
@@ -232,8 +228,8 @@
       "stars": 144031
     },
     {
-      "date": "2026-08-14",
-      "stars": 144208
+      "date": "2026-08-13",
+      "stars": 144121
     },
     {
       "date": "2026-08-15",
@@ -288,8 +284,8 @@
       "stars": 145114
     },
     {
-      "date": "2026-08-29",
-      "stars": 145223
+      "date": "2026-08-28",
+      "stars": 145184
     },
     {
       "date": "2026-08-30",
@@ -348,8 +344,8 @@
       "stars": 146163
     },
     {
-      "date": "2026-09-14",
-      "stars": 146273
+      "date": "2026-09-13",
+      "stars": 146204
     },
     {
       "date": "2026-09-15",
@@ -408,8 +404,8 @@
       "stars": 147187
     },
     {
-      "date": "2026-09-30",
-      "stars": 147300
+      "date": "2026-09-29",
+      "stars": 147235
     },
     {
       "date": "2026-10-01",
@@ -438,6 +434,10 @@
     {
       "date": "2026-10-07",
       "stars": 147522
+    },
+    {
+      "date": "2026-10-08",
+      "stars": 147560
     }
   ],
   "links": {

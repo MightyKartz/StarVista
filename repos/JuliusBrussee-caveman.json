@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 110285,
-  "forks": 6385,
-  "openIssues": 77,
-  "pushedAt": "2026-10-07T07:58:48Z",
+  "stars": 110473,
+  "forks": 6394,
+  "openIssues": 43,
+  "pushedAt": "2026-10-08T08:36:01Z",
   "topics": [
     "ai",
     "anthropic",
@@ -25,13 +25,13 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1820,
+  "starDelta7d": 1831,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
-    "Go": 0.45,
+    "Go": 0.46,
     "JavaScript": 0.27,
     "TypeScript": 0.15,
-    "Python": 0.11,
+    "Python": 0.12,
     "Shell": 0,
     "PowerShell": 0,
     "HTML": 0,
@@ -46,6 +46,21 @@
   },
   "releases": [
     {
+      "tag": "v3.2.0",
+      "name": "Caveman 3.2.0",
+      "publishedAt": "2026-10-08T05:42:14Z"
+    },
+    {
+      "tag": "middleware-ts-v1.0.1",
+      "name": "@caveman-ai/middleware 1.0.1",
+      "publishedAt": "2026-10-08T05:16:11Z"
+    },
+    {
+      "tag": "bin-v2.1.0",
+      "name": "bin-v2.1.0",
+      "publishedAt": "2026-10-08T05:26:41Z"
+    },
+    {
       "tag": "bin-v2.0.2",
       "name": "bin-v2.0.2",
       "publishedAt": "2026-10-04T01:50:00Z"
@@ -54,21 +69,6 @@
       "tag": "v3.1.0",
       "name": "Caveman 3.1.0",
       "publishedAt": "2026-10-04T04:30:46Z"
-    },
-    {
-      "tag": "v3.0.0",
-      "name": "Caveman 3.0.0",
-      "publishedAt": "2026-09-30T19:25:17Z"
-    },
-    {
-      "tag": "sdk-ts-v1.2.0",
-      "name": "@caveman-ai/sdk 1.2.0",
-      "publishedAt": "2026-09-30T22:22:05Z"
-    },
-    {
-      "tag": "sdk-python-v1.2.0",
-      "name": "caveman-sdk 1.2.0",
-      "publishedAt": "2026-09-30T22:27:49Z"
     }
   ],
   "starHistory": [
@@ -235,6 +235,10 @@
     {
       "date": "2026-10-07",
       "stars": 110285
+    },
+    {
+      "date": "2026-10-08",
+      "stars": 110473
     }
   ],
   "links": {
