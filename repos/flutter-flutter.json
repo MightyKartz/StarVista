@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Dart",
   "languageColor": null,
-  "stars": 179372,
-  "forks": 33245,
-  "openIssues": 13298,
-  "pushedAt": "2026-10-08T07:04:50Z",
+  "stars": 179187,
+  "forks": 33344,
+  "openIssues": 13303,
+  "pushedAt": "2026-10-09T08:37:00Z",
   "topics": [
     "android",
     "app-framework",
@@ -34,7 +34,7 @@
   ],
   "license": "BSD-3-Clause",
   "activity": "active",
-  "starDelta7d": 209,
+  "starDelta7d": -52,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/14101776?v=4",
   "languages": {
     "Dart": 0.75,
@@ -43,8 +43,8 @@
     "Objective-C++": 0.03,
     "Objective-C": 0.01,
     "C": 0.01,
-    "Go Template": 0.01,
     "Kotlin": 0.01,
+    "Go Template": 0.01,
     "Python": 0,
     "GLSL": 0,
     "Swift": 0,
@@ -109,10 +109,6 @@
       "stars": 177623
     },
     {
-      "date": "2026-07-09",
-      "stars": 177676
-    },
-    {
       "date": "2026-07-10",
       "stars": 177754
     },
@@ -125,8 +121,8 @@
       "stars": 177846
     },
     {
-      "date": "2026-07-14",
-      "stars": 177882
+      "date": "2026-07-13",
+      "stars": 177851
     },
     {
       "date": "2026-07-15",
@@ -185,8 +181,8 @@
       "stars": 177962
     },
     {
-      "date": "2026-07-30",
-      "stars": 177975
+      "date": "2026-07-29",
+      "stars": 177957
     },
     {
       "date": "2026-07-31",
@@ -245,8 +241,8 @@
       "stars": 178374
     },
     {
-      "date": "2026-08-15",
-      "stars": 178381
+      "date": "2026-08-14",
+      "stars": 178392
     },
     {
       "date": "2026-08-16",
@@ -301,8 +297,8 @@
       "stars": 178690
     },
     {
-      "date": "2026-08-30",
-      "stars": 178714
+      "date": "2026-08-29",
+      "stars": 178702
     },
     {
       "date": "2026-08-31",
@@ -361,8 +357,8 @@
       "stars": 178921
     },
     {
-      "date": "2026-09-15",
-      "stars": 178946
+      "date": "2026-09-14",
+      "stars": 178937
     },
     {
       "date": "2026-09-16",
@@ -421,8 +417,8 @@
       "stars": 179141
     },
     {
-      "date": "2026-10-01",
-      "stars": 179163
+      "date": "2026-09-30",
+      "stars": 179152
     },
     {
       "date": "2026-10-02",
@@ -451,6 +447,10 @@
     {
       "date": "2026-10-08",
       "stars": 179372
+    },
+    {
+      "date": "2026-10-09",
+      "stars": 179187
     }
   ],
   "links": {

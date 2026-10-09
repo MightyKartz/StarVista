@@ -8,9 +8,9 @@
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
   "stars": 101021,
-  "forks": 29588,
-  "openIssues": 1165,
-  "pushedAt": "2026-10-08T00:36:20Z",
+  "forks": 29694,
+  "openIssues": 1169,
+  "pushedAt": "2026-10-08T21:23:49Z",
   "topics": [
     "angular",
     "javascript",
@@ -22,11 +22,12 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": -7,
+  "starDelta7d": -5,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139426?v=4",
   "languages": {
-    "TypeScript": 0.87,
-    "JavaScript": 0.07,
+    "TypeScript": 0.83,
+    "JavaScript": 0.06,
+    "Rust": 0.05,
     "HTML": 0.02,
     "Starlark": 0.02,
     "CSS": 0.01,
@@ -39,6 +40,16 @@
     "text": "angular is a TypeScript project focused on Deliver web apps with confidence 🚀. It is tagged with angular, javascript, and pwa."
   },
   "releases": [
+    {
+      "tag": "v22.3.0-next.1",
+      "name": "22.3.0-next.1",
+      "publishedAt": "2026-10-08T18:07:15Z"
+    },
+    {
+      "tag": "v22.2.2",
+      "name": "22.2.2",
+      "publishedAt": "2026-10-08T17:50:06Z"
+    },
     {
       "tag": "v22.3.0-next.0",
       "name": "22.3.0-next.0",
@@ -53,16 +64,6 @@
       "tag": "v21.2.25",
       "name": "21.2.25",
       "publishedAt": "2026-09-30T18:17:46Z"
-    },
-    {
-      "tag": "v20.3.33",
-      "name": "20.3.33",
-      "publishedAt": "2026-09-30T17:52:48Z"
-    },
-    {
-      "tag": "vsix-22.2.0",
-      "name": "VSCode Extension: 22.2.0",
-      "publishedAt": "2026-09-25T17:46:04Z"
     }
   ],
   "starHistory": [
@@ -83,10 +84,6 @@
       "stars": 100479
     },
     {
-      "date": "2026-07-09",
-      "stars": 100496
-    },
-    {
       "date": "2026-07-10",
       "stars": 100567
     },
@@ -99,8 +96,8 @@
       "stars": 100622
     },
     {
-      "date": "2026-07-14",
-      "stars": 100643
+      "date": "2026-07-13",
+      "stars": 100623
     },
     {
       "date": "2026-07-15",
@@ -159,8 +156,8 @@
       "stars": 100620
     },
     {
-      "date": "2026-07-30",
-      "stars": 100608
+      "date": "2026-07-29",
+      "stars": 100599
     },
     {
       "date": "2026-07-31",
@@ -219,8 +216,8 @@
       "stars": 100990
     },
     {
-      "date": "2026-08-15",
-      "stars": 101006
+      "date": "2026-08-14",
+      "stars": 100988
     },
     {
       "date": "2026-08-16",
@@ -275,8 +272,8 @@
       "stars": 100998
     },
     {
-      "date": "2026-08-30",
-      "stars": 101011
+      "date": "2026-08-29",
+      "stars": 101006
     },
     {
       "date": "2026-08-31",
@@ -335,8 +332,8 @@
       "stars": 100997
     },
     {
-      "date": "2026-09-15",
-      "stars": 101003
+      "date": "2026-09-14",
+      "stars": 101002
     },
     {
       "date": "2026-09-16",
@@ -395,8 +392,8 @@
       "stars": 101027
     },
     {
-      "date": "2026-10-01",
-      "stars": 101028
+      "date": "2026-09-30",
+      "stars": 101027
     },
     {
       "date": "2026-10-02",
@@ -424,6 +421,10 @@
     },
     {
       "date": "2026-10-08",
+      "stars": 101021
+    },
+    {
+      "date": "2026-10-09",
       "stars": 101021
     }
   ],

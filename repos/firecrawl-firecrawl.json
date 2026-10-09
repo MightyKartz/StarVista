@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 189629,
-  "forks": 10047,
-  "openIssues": 531,
-  "pushedAt": "2026-10-08T07:15:58Z",
+  "stars": 189731,
+  "forks": 10066,
+  "openIssues": 543,
+  "pushedAt": "2026-10-09T06:48:18Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -34,10 +34,10 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 2317,
+  "starDelta7d": 2034,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4",
   "languages": {
-    "TypeScript": 0.73,
+    "TypeScript": 0.72,
     "Python": 0.12,
     "Rust": 0.03,
     "Java": 0.03,
@@ -48,9 +48,9 @@
     "Ruby": 0.01,
     "Astro": 0,
     "PLpgSQL": 0,
-    "JavaScript": 0,
     "Jupyter Notebook": 0,
     "Shell": 0,
+    "JavaScript": 0,
     "Dockerfile": 0,
     "Rich Text Format": 0,
     "CSS": 0,
@@ -108,10 +108,6 @@
       "stars": 144546
     },
     {
-      "date": "2026-07-09",
-      "stars": 147966
-    },
-    {
       "date": "2026-07-10",
       "stars": 148539
     },
@@ -124,8 +120,8 @@
       "stars": 149482
     },
     {
-      "date": "2026-07-14",
-      "stars": 150524
+      "date": "2026-07-13",
+      "stars": 150007
     },
     {
       "date": "2026-07-15",
@@ -184,8 +180,8 @@
       "stars": 157153
     },
     {
-      "date": "2026-07-30",
-      "stars": 157985
+      "date": "2026-07-29",
+      "stars": 157625
     },
     {
       "date": "2026-07-31",
@@ -244,8 +240,8 @@
       "stars": 166525
     },
     {
-      "date": "2026-08-15",
-      "stars": 167465
+      "date": "2026-08-14",
+      "stars": 167054
     },
     {
       "date": "2026-08-16",
@@ -300,8 +296,8 @@
       "stars": 173476
     },
     {
-      "date": "2026-08-30",
-      "stars": 174186
+      "date": "2026-08-29",
+      "stars": 173777
     },
     {
       "date": "2026-08-31",
@@ -360,8 +356,8 @@
       "stars": 179653
     },
     {
-      "date": "2026-09-15",
-      "stars": 180555
+      "date": "2026-09-14",
+      "stars": 180133
     },
     {
       "date": "2026-09-16",
@@ -420,8 +416,8 @@
       "stars": 186250
     },
     {
-      "date": "2026-10-01",
-      "stars": 187312
+      "date": "2026-09-30",
+      "stars": 186822
     },
     {
       "date": "2026-10-02",
@@ -450,6 +446,10 @@
     {
       "date": "2026-10-08",
       "stars": 189629
+    },
+    {
+      "date": "2026-10-09",
+      "stars": 189731
     }
   ],
   "links": {
