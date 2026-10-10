@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Java",
   "languageColor": "#b07219",
-  "stars": 130143,
-  "forks": 15514,
-  "openIssues": 40,
-  "pushedAt": "2026-08-17T20:58:58Z",
+  "stars": 130498,
+  "forks": 15499,
+  "openIssues": 41,
+  "pushedAt": "2026-10-10T07:14:25Z",
   "topics": [
     "algo",
     "algorithm",
@@ -25,8 +25,8 @@
     "programming"
   ],
   "license": null,
-  "activity": "stable",
-  "starDelta7d": 0,
+  "activity": "active",
+  "starDelta7d": 355,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26993056?v=4",
   "languages": {
     "Java": 0.16,
@@ -403,6 +403,10 @@
     {
       "date": "2026-10-09",
       "stars": 130143
+    },
+    {
+      "date": "2026-10-10",
+      "stars": 130498
     }
   ],
   "links": {

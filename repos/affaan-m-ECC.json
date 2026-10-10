@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 275588,
-  "forks": 41136,
-  "openIssues": 272,
-  "pushedAt": "2026-10-05T04:55:16Z",
+  "stars": 276143,
+  "forks": 41203,
+  "openIssues": 227,
+  "pushedAt": "2026-10-10T01:41:12Z",
   "topics": [
     "ai-agents",
     "anthropic",
@@ -23,21 +23,21 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 4725,
+  "starDelta7d": 4544,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
   "languages": {
     "JavaScript": 0.71,
     "Rust": 0.15,
-    "Python": 0.11,
+    "Python": 0.12,
     "Shell": 0.02,
     "TypeScript": 0.01,
     "Swift": 0,
     "Lua": 0,
     "CSS": 0,
-    "Dockerfile": 0,
-    "PowerShell": 0
+    "PowerShell": 0,
+    "Dockerfile": 0
   },
-  "readmeExcerpt": "Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español | Українська | Polski",
+  "readmeExcerpt": "Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español | Українська | Polski | বাংলা",
   "summary": {
     "mode": "template",
     "text": "ECC is a JavaScript project focused on The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. It is tagged with ai-agents, anthropic, and claude."
@@ -87,10 +87,6 @@
       "stars": 226111
     },
     {
-      "date": "2026-07-10",
-      "stars": 227964
-    },
-    {
       "date": "2026-07-11",
       "stars": 228315
     },
@@ -103,8 +99,8 @@
       "stars": 229010
     },
     {
-      "date": "2026-07-15",
-      "stars": 229808
+      "date": "2026-07-14",
+      "stars": 229339
     },
     {
       "date": "2026-07-16",
@@ -163,8 +159,8 @@
       "stars": 234998
     },
     {
-      "date": "2026-07-31",
-      "stars": 236348
+      "date": "2026-07-30",
+      "stars": 235735
     },
     {
       "date": "2026-08-01",
@@ -223,8 +219,8 @@
       "stars": 240015
     },
     {
-      "date": "2026-08-16",
-      "stars": 240316
+      "date": "2026-08-15",
+      "stars": 240162
     },
     {
       "date": "2026-08-17",
@@ -279,8 +275,8 @@
       "stars": 244037
     },
     {
-      "date": "2026-08-31",
-      "stars": 244879
+      "date": "2026-08-30",
+      "stars": 244399
     },
     {
       "date": "2026-09-01",
@@ -339,8 +335,8 @@
       "stars": 257942
     },
     {
-      "date": "2026-09-16",
-      "stars": 259553
+      "date": "2026-09-15",
+      "stars": 258570
     },
     {
       "date": "2026-09-17",
@@ -399,8 +395,8 @@
       "stars": 269809
     },
     {
-      "date": "2026-10-02",
-      "stars": 270863
+      "date": "2026-10-01",
+      "stars": 270358
     },
     {
       "date": "2026-10-03",
@@ -429,6 +425,10 @@
     {
       "date": "2026-10-09",
       "stars": 275588
+    },
+    {
+      "date": "2026-10-10",
+      "stars": 276143
     }
   ],
   "links": {
