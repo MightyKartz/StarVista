@@ -7,26 +7,27 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 212454,
-  "forks": 28388,
-  "openIssues": 6133,
-  "pushedAt": "2026-10-10T08:09:39Z",
+  "stars": 212615,
+  "forks": 28415,
+  "openIssues": 5207,
+  "pushedAt": "2026-10-11T07:57:30Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 910,
+  "starDelta7d": 947,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/66570915?v=4",
   "languages": {
-    "TypeScript": 0.74,
-    "MDX": 0.22,
-    "CSS": 0.03,
-    "HTML": 0,
+    "TypeScript": 0.79,
+    "MDX": 0.19,
+    "CSS": 0.02,
     "Astro": 0,
     "JavaScript": 0,
     "Shell": 0,
     "Nix": 0,
+    "HTML": 0,
+    "PowerShell": 0,
     "Dockerfile": 0,
-    "PowerShell": 0
+    "NSIS": 0
   },
   "readmeExcerpt": "The open source AI coding agent.",
   "summary": {
@@ -34,6 +35,11 @@
     "text": "opencode is a TypeScript project focused on The open source coding agent."
   },
   "releases": [
+    {
+      "tag": "v1.19.0",
+      "name": "v1.19.0",
+      "publishedAt": "2026-10-11T01:39:22Z"
+    },
     {
       "tag": "v1.18.35",
       "name": "v1.18.35",
@@ -53,11 +59,6 @@
       "tag": "v1.18.32",
       "name": "v1.18.32",
       "publishedAt": "2026-09-21T22:51:20Z"
-    },
-    {
-      "tag": "v1.18.31",
-      "name": "v1.18.31",
-      "publishedAt": "2026-09-14T17:47:30Z"
     }
   ],
   "starHistory": [
@@ -78,10 +79,6 @@
       "stars": 182421
     },
     {
-      "date": "2026-07-11",
-      "stars": 184606
-    },
-    {
       "date": "2026-07-12",
       "stars": 184878
     },
@@ -94,8 +91,8 @@
       "stars": 185535
     },
     {
-      "date": "2026-07-16",
-      "stars": 186273
+      "date": "2026-07-15",
+      "stars": 185911
     },
     {
       "date": "2026-07-17",
@@ -154,8 +151,8 @@
       "stars": 190972
     },
     {
-      "date": "2026-08-01",
-      "stars": 191749
+      "date": "2026-07-31",
+      "stars": 191311
     },
     {
       "date": "2026-08-02",
@@ -214,8 +211,8 @@
       "stars": 197538
     },
     {
-      "date": "2026-08-17",
-      "stars": 198177
+      "date": "2026-08-16",
+      "stars": 197829
     },
     {
       "date": "2026-08-18",
@@ -270,8 +267,8 @@
       "stars": 202456
     },
     {
-      "date": "2026-09-01",
-      "stars": 202926
+      "date": "2026-08-31",
+      "stars": 202690
     },
     {
       "date": "2026-09-02",
@@ -330,8 +327,8 @@
       "stars": 207488
     },
     {
-      "date": "2026-09-17",
-      "stars": 207996
+      "date": "2026-09-16",
+      "stars": 207751
     },
     {
       "date": "2026-09-18",
@@ -390,8 +387,8 @@
       "stars": 211227
     },
     {
-      "date": "2026-10-03",
-      "stars": 211544
+      "date": "2026-10-02",
+      "stars": 211387
     },
     {
       "date": "2026-10-04",
@@ -420,6 +417,10 @@
     {
       "date": "2026-10-10",
       "stars": 212454
+    },
+    {
+      "date": "2026-10-11",
+      "stars": 212615
     }
   ],
   "links": {

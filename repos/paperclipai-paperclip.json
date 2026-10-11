@@ -1,0 +1,75 @@
+{
+  "id": "paperclipai/paperclip",
+  "slug": "paperclipai-paperclip",
+  "owner": "paperclipai",
+  "name": "paperclip",
+  "description": "The open-source app everyone uses to manage agents at work",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 99941,
+  "forks": 16856,
+  "openIssues": 5886,
+  "pushedAt": "2026-10-11T08:43:09Z",
+  "topics": [],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/264498616?v=4",
+  "languages": {
+    "TypeScript": 0.93,
+    "Rust": 0.03,
+    "JavaScript": 0.03,
+    "PLpgSQL": 0.01,
+    "Shell": 0,
+    "CSS": 0,
+    "HTML": 0,
+    "Python": 0,
+    "Dockerfile": 0,
+    "Go": 0,
+    "C": 0,
+    "HCL": 0
+  },
+  "readmeExcerpt": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website",
+  "summary": {
+    "mode": "template",
+    "text": "paperclip is a TypeScript project focused on The open-source app everyone uses to manage agents at work."
+  },
+  "releases": [
+    {
+      "tag": "v2026.1005.0",
+      "name": "v2026.1005.0",
+      "publishedAt": "2026-10-06T16:40:49Z"
+    },
+    {
+      "tag": "v2026.1001.0",
+      "name": "v2026.1001.0",
+      "publishedAt": "2026-10-02T01:54:00Z"
+    },
+    {
+      "tag": "v2026.916.1",
+      "name": "v2026.916.1",
+      "publishedAt": "2026-09-21T21:22:44Z"
+    },
+    {
+      "tag": "v2026.916.0",
+      "name": "v2026.916.0",
+      "publishedAt": "2026-09-16T18:15:11Z"
+    },
+    {
+      "tag": "v2026.831.1",
+      "name": "v2026.831.1",
+      "publishedAt": "2026-09-02T04:56:26Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-10-11",
+      "stars": 99941
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/paperclipai/paperclip",
+    "homepage": "https://paperclip.ing"
+  }
+}

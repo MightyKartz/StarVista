@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 154175,
-  "forks": 22556,
-  "openIssues": 255,
-  "pushedAt": "2026-10-10T06:29:03Z",
+  "stars": 154257,
+  "forks": 22565,
+  "openIssues": 165,
+  "pushedAt": "2026-10-10T21:10:07Z",
   "topics": [
     "ai",
     "llm",
@@ -30,13 +30,13 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 329,
+  "starDelta7d": 349,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/158137808?v=4",
   "languages": {
-    "Python": 0.37,
-    "Svelte": 0.34,
-    "JavaScript": 0.21,
-    "TypeScript": 0.05,
+    "Python": 0.38,
+    "Svelte": 0.35,
+    "JavaScript": 0.19,
+    "TypeScript": 0.06,
     "CSS": 0.02,
     "Shell": 0,
     "Dockerfile": 0,
@@ -51,6 +51,11 @@
     "text": "open-webui is a Python project focused on User-friendly AI Interface (Supports Ollama, OpenAI API, ...). It is tagged with ai, llm, and llm-ui."
   },
   "releases": [
+    {
+      "tag": "v0.12.0",
+      "name": "v0.12.0",
+      "publishedAt": "2026-10-10T21:13:24Z"
+    },
     {
       "tag": "v0.11.4",
       "name": "v0.11.4",
@@ -70,11 +75,6 @@
       "tag": "v0.11.1",
       "name": "v0.11.1",
       "publishedAt": "2026-08-25T21:17:57Z"
-    },
-    {
-      "tag": "v0.11.0",
-      "name": "v0.11.0",
-      "publishedAt": "2026-07-27T09:30:15Z"
     }
   ],
   "starHistory": [
@@ -95,10 +95,6 @@
       "stars": 144229
     },
     {
-      "date": "2026-07-11",
-      "stars": 145015
-    },
-    {
       "date": "2026-07-12",
       "stars": 145105
     },
@@ -111,8 +107,8 @@
       "stars": 145340
     },
     {
-      "date": "2026-07-16",
-      "stars": 145577
+      "date": "2026-07-15",
+      "stars": 145461
     },
     {
       "date": "2026-07-17",
@@ -171,8 +167,8 @@
       "stars": 147286
     },
     {
-      "date": "2026-08-01",
-      "stars": 147489
+      "date": "2026-07-31",
+      "stars": 147404
     },
     {
       "date": "2026-08-02",
@@ -231,8 +227,8 @@
       "stars": 148811
     },
     {
-      "date": "2026-08-17",
-      "stars": 148969
+      "date": "2026-08-16",
+      "stars": 148884
     },
     {
       "date": "2026-08-18",
@@ -287,8 +283,8 @@
       "stars": 150383
     },
     {
-      "date": "2026-09-01",
-      "stars": 150547
+      "date": "2026-08-31",
+      "stars": 150468
     },
     {
       "date": "2026-09-02",
@@ -347,8 +343,8 @@
       "stars": 152098
     },
     {
-      "date": "2026-09-17",
-      "stars": 152329
+      "date": "2026-09-16",
+      "stars": 152248
     },
     {
       "date": "2026-09-18",
@@ -407,8 +403,8 @@
       "stars": 153693
     },
     {
-      "date": "2026-10-03",
-      "stars": 153846
+      "date": "2026-10-02",
+      "stars": 153777
     },
     {
       "date": "2026-10-04",
@@ -437,6 +433,10 @@
     {
       "date": "2026-10-10",
       "stars": 154175
+    },
+    {
+      "date": "2026-10-11",
+      "stars": 154257
     }
   ],
   "links": {
