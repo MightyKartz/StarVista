@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 180558,
-  "forks": 43565,
-  "openIssues": 577,
-  "pushedAt": "2026-10-13T09:24:33Z",
+  "stars": 219560,
+  "forks": 54331,
+  "openIssues": 541,
+  "pushedAt": "2026-10-14T07:38:00Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -22,7 +22,6 @@
     "ctf",
     "decompiler",
     "developer-tools",
-    "disassembler",
     "dsh",
     "dsh-plugin",
     "ghidra",
@@ -30,6 +29,7 @@
     "llm",
     "mcp",
     "model-context-protocol",
+    "rea",
     "reverse-engineering",
     "static-analysis"
   ],
@@ -39,8 +39,8 @@
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76467478?v=4",
   "languages": {
     "TypeScript": 0.84,
-    "JavaScript": 0.1,
-    "HTML": 0.03,
+    "JavaScript": 0.09,
+    "HTML": 0.02,
     "Python": 0.02,
     "Java": 0.01,
     "C++": 0,
@@ -48,14 +48,14 @@
     "Swift": 0,
     "C": 0,
     "Shell": 0,
-    "Go Template": 0,
     "Assembly": 0,
+    "Go Template": 0,
     "Objective-C": 0,
     "Linker Script": 0,
     "Solidity": 0,
     "Makefile": 0
   },
-  "readmeExcerpt": "English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano",
+  "readmeExcerpt": "English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano · Ελληνικά",
   "summary": {
     "mode": "template",
     "text": "rea is a TypeScript project focused on Reverse engineer anything with agents, from app behavior down to native binaries. It is tagged with agent-skills, ai-agents, and binary-analysis."
@@ -95,6 +95,10 @@
     {
       "date": "2026-10-13",
       "stars": 180558
+    },
+    {
+      "date": "2026-10-14",
+      "stars": 219560
     }
   ],
   "links": {

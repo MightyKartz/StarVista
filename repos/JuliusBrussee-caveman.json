@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 111318,
-  "forks": 6453,
-  "openIssues": 63,
-  "pushedAt": "2026-10-13T07:58:08Z",
+  "stars": 111583,
+  "forks": 6475,
+  "openIssues": 38,
+  "pushedAt": "2026-10-13T18:34:03Z",
   "topics": [
     "ai",
     "anthropic",
@@ -25,17 +25,17 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1249,
+  "starDelta7d": 1298,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
-    "Go": 0.46,
-    "JavaScript": 0.27,
-    "TypeScript": 0.15,
-    "Python": 0.12,
+    "Go": 0.48,
+    "JavaScript": 0.26,
+    "TypeScript": 0.14,
+    "Python": 0.1,
     "Shell": 0,
+    "PLpgSQL": 0,
     "PowerShell": 0,
     "HTML": 0,
-    "PLpgSQL": 0,
     "CSS": 0,
     "Dockerfile": 0
   },
@@ -46,29 +46,29 @@
   },
   "releases": [
     {
+      "tag": "v4.0.1",
+      "name": "Caveman 4.0.1",
+      "publishedAt": "2026-10-13T18:34:04Z"
+    },
+    {
+      "tag": "v4.0.0",
+      "name": "Caveman 4.0.0",
+      "publishedAt": "2026-10-13T16:32:02Z"
+    },
+    {
+      "tag": "bin-v4.0.1",
+      "name": "bin-v4.0.1",
+      "publishedAt": "2026-10-13T18:21:34Z"
+    },
+    {
+      "tag": "bin-v4.0.0",
+      "name": "bin-v4.0.0",
+      "publishedAt": "2026-10-13T16:21:19Z"
+    },
+    {
       "tag": "v3.2.0",
       "name": "Caveman 3.2.0",
       "publishedAt": "2026-10-08T05:42:14Z"
-    },
-    {
-      "tag": "middleware-ts-v1.0.1",
-      "name": "@caveman-ai/middleware 1.0.1",
-      "publishedAt": "2026-10-08T05:16:11Z"
-    },
-    {
-      "tag": "bin-v2.1.0",
-      "name": "bin-v2.1.0",
-      "publishedAt": "2026-10-08T05:26:41Z"
-    },
-    {
-      "tag": "bin-v2.0.2",
-      "name": "bin-v2.0.2",
-      "publishedAt": "2026-10-04T01:50:00Z"
-    },
-    {
-      "tag": "v3.1.0",
-      "name": "Caveman 3.1.0",
-      "publishedAt": "2026-10-04T04:30:46Z"
     }
   ],
   "starHistory": [
@@ -259,6 +259,10 @@
     {
       "date": "2026-10-13",
       "stars": 111318
+    },
+    {
+      "date": "2026-10-14",
+      "stars": 111583
     }
   ],
   "links": {

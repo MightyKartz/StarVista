@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 155586,
-  "forks": 10244,
-  "openIssues": 1155,
-  "pushedAt": "2026-10-13T02:43:44Z",
+  "stars": 155643,
+  "forks": 10249,
+  "openIssues": 1141,
+  "pushedAt": "2026-10-14T02:12:41Z",
   "topics": [
     "agents",
     "chatgpt",
@@ -21,12 +21,12 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 51,
+  "starDelta7d": 89,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/85702467?v=4",
   "languages": {
-    "Python": 0.69,
-    "TypeScript": 0.22,
-    "JavaScript": 0.08,
+    "Python": 0.71,
+    "TypeScript": 0.21,
+    "JavaScript": 0.07,
     "CSS": 0,
     "Makefile": 0,
     "Shell": 0,
@@ -42,6 +42,11 @@
     "text": "langflow is a Python project focused on Langflow is a powerful tool for building and deploying AI-powered agents and workflows. It is tagged with agents, chatgpt, and generative-ai."
   },
   "releases": [
+    {
+      "tag": "v1.12.6",
+      "name": "1.12.6",
+      "publishedAt": "2026-10-13T16:29:12Z"
+    },
     {
       "tag": "v1.12.5",
       "name": "1.12.5",
@@ -61,11 +66,6 @@
       "tag": "v1.12.2",
       "name": "1.12.2",
       "publishedAt": "2026-09-16T00:53:27Z"
-    },
-    {
-      "tag": "v1.12.1",
-      "name": "1.12.1",
-      "publishedAt": "2026-09-08T23:25:58Z"
     }
   ],
   "starHistory": [
@@ -90,16 +90,12 @@
       "stars": 151718
     },
     {
-      "date": "2026-07-14",
-      "stars": 151846
-    },
-    {
       "date": "2026-07-15",
       "stars": 151887
     },
     {
-      "date": "2026-07-17",
-      "stars": 151929
+      "date": "2026-07-16",
+      "stars": 151927
     },
     {
       "date": "2026-07-18",
@@ -150,8 +146,8 @@
       "stars": 152552
     },
     {
-      "date": "2026-07-31",
-      "stars": 152651
+      "date": "2026-07-30",
+      "stars": 152587
     },
     {
       "date": "2026-08-01",
@@ -198,8 +194,8 @@
       "stars": 153039
     },
     {
-      "date": "2026-08-13",
-      "stars": 153138
+      "date": "2026-08-12",
+      "stars": 153074
     },
     {
       "date": "2026-08-14",
@@ -250,8 +246,8 @@
       "stars": 153633
     },
     {
-      "date": "2026-08-27",
-      "stars": 153726
+      "date": "2026-08-26",
+      "stars": 153683
     },
     {
       "date": "2026-08-28",
@@ -302,8 +298,8 @@
       "stars": 154432
     },
     {
-      "date": "2026-09-10",
-      "stars": 154529
+      "date": "2026-09-09",
+      "stars": 154482
     },
     {
       "date": "2026-09-11",
@@ -350,8 +346,8 @@
       "stars": 155076
     },
     {
-      "date": "2026-09-23",
-      "stars": 155160
+      "date": "2026-09-22",
+      "stars": 155120
     },
     {
       "date": "2026-09-24",
@@ -402,8 +398,8 @@
       "stars": 155500
     },
     {
-      "date": "2026-10-07",
-      "stars": 155554
+      "date": "2026-10-06",
+      "stars": 155535
     },
     {
       "date": "2026-10-08",
@@ -428,6 +424,10 @@
     {
       "date": "2026-10-13",
       "stars": 155586
+    },
+    {
+      "date": "2026-10-14",
+      "stars": 155643
     }
   ],
   "links": {
