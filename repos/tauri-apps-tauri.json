@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 111887,
-  "forks": 4079,
-  "openIssues": 1491,
-  "pushedAt": "2026-10-14T06:46:19Z",
+  "stars": 111909,
+  "forks": 4084,
+  "openIssues": 1483,
+  "pushedAt": "2026-10-14T21:21:11Z",
   "topics": [
     "desktop-app",
     "high-performance",
@@ -22,14 +22,14 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 256,
+  "starDelta7d": 242,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4",
   "languages": {
-    "Rust": 0.82,
+    "Rust": 0.81,
     "TypeScript": 0.09,
     "NSIS": 0.03,
-    "Kotlin": 0.02,
     "JavaScript": 0.02,
+    "Kotlin": 0.02,
     "Shell": 0.02,
     "Swift": 0.01,
     "Dockerfile": 0,
@@ -51,29 +51,29 @@
   },
   "releases": [
     {
-      "tag": "tauri-v2.12.3",
-      "name": "tauri v2.12.3",
-      "publishedAt": "2026-10-10T17:47:59Z"
+      "tag": "tauri-v3.0.0-alpha.5",
+      "name": "tauri v3.0.0-alpha.5",
+      "publishedAt": "2026-10-14T21:14:12Z"
     },
     {
-      "tag": "tauri-macros-v2.7.2",
-      "name": "tauri-macros v2.7.2",
-      "publishedAt": "2026-10-10T17:46:40Z"
+      "tag": "tauri-v2.12.4",
+      "name": "tauri v2.12.4",
+      "publishedAt": "2026-10-14T18:52:14Z"
     },
     {
-      "tag": "tauri-macos-sign-v2.4.1",
-      "name": "tauri-macos-sign v2.4.1",
-      "publishedAt": "2026-10-10T17:44:38Z"
+      "tag": "tauri-utils-v3.0.0-alpha.4",
+      "name": "tauri-utils v3.0.0-alpha.4",
+      "publishedAt": "2026-10-14T21:10:20Z"
     },
     {
-      "tag": "tauri-codegen-v2.7.2",
-      "name": "tauri-codegen v2.7.2",
-      "publishedAt": "2026-10-10T17:46:09Z"
+      "tag": "tauri-utils-v2.10.2",
+      "name": "tauri-utils v2.10.2",
+      "publishedAt": "2026-10-14T18:47:18Z"
     },
     {
-      "tag": "tauri-cli-v2.12.2",
-      "name": "tauri-cli v2.12.2",
-      "publishedAt": "2026-10-10T17:49:46Z"
+      "tag": "tauri-runtime-wry-v3.0.0-alpha.5",
+      "name": "tauri-runtime-wry v3.0.0-alpha.5",
+      "publishedAt": "2026-10-14T21:16:05Z"
     }
   ],
   "starHistory": [
@@ -98,16 +98,12 @@
       "stars": 108945
     },
     {
-      "date": "2026-07-15",
-      "stars": 109064
-    },
-    {
       "date": "2026-07-16",
       "stars": 109092
     },
     {
-      "date": "2026-07-18",
-      "stars": 109179
+      "date": "2026-07-17",
+      "stars": 109147
     },
     {
       "date": "2026-07-19",
@@ -158,8 +154,8 @@
       "stars": 109683
     },
     {
-      "date": "2026-08-01",
-      "stars": 109757
+      "date": "2026-07-31",
+      "stars": 109727
     },
     {
       "date": "2026-08-02",
@@ -206,8 +202,8 @@
       "stars": 110131
     },
     {
-      "date": "2026-08-14",
-      "stars": 110207
+      "date": "2026-08-13",
+      "stars": 110164
     },
     {
       "date": "2026-08-15",
@@ -258,8 +254,8 @@
       "stars": 110565
     },
     {
-      "date": "2026-08-28",
-      "stars": 110621
+      "date": "2026-08-27",
+      "stars": 110595
     },
     {
       "date": "2026-08-29",
@@ -310,8 +306,8 @@
       "stars": 110926
     },
     {
-      "date": "2026-09-11",
-      "stars": 110985
+      "date": "2026-09-10",
+      "stars": 110956
     },
     {
       "date": "2026-09-12",
@@ -358,8 +354,8 @@
       "stars": 111248
     },
     {
-      "date": "2026-09-24",
-      "stars": 111338
+      "date": "2026-09-23",
+      "stars": 111280
     },
     {
       "date": "2026-09-25",
@@ -410,8 +406,8 @@
       "stars": 111613
     },
     {
-      "date": "2026-10-08",
-      "stars": 111667
+      "date": "2026-10-07",
+      "stars": 111631
     },
     {
       "date": "2026-10-09",
@@ -436,6 +432,10 @@
     {
       "date": "2026-10-14",
       "stars": 111887
+    },
+    {
+      "date": "2026-10-15",
+      "stars": 111909
     }
   ],
   "links": {

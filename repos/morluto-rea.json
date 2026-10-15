@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 219560,
-  "forks": 54331,
-  "openIssues": 541,
-  "pushedAt": "2026-10-14T07:38:00Z",
+  "stars": 252080,
+  "forks": 63316,
+  "openIssues": 897,
+  "pushedAt": "2026-10-15T07:21:18Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -19,7 +19,6 @@
     "cli",
     "codex",
     "cordis",
-    "ctf",
     "decompiler",
     "developer-tools",
     "dsh",
@@ -31,7 +30,8 @@
     "model-context-protocol",
     "rea",
     "reverse-engineering",
-    "static-analysis"
+    "static-analysis",
+    "touhou"
   ],
   "license": "MIT",
   "activity": "active",
@@ -40,7 +40,7 @@
   "languages": {
     "TypeScript": 0.84,
     "JavaScript": 0.09,
-    "HTML": 0.02,
+    "HTML": 0.03,
     "Python": 0.02,
     "Java": 0.01,
     "C++": 0,
@@ -62,6 +62,11 @@
   },
   "releases": [
     {
+      "tag": "rea-agents-6.5.0",
+      "name": "rea-agents: v6.5.0",
+      "publishedAt": "2026-10-14T12:32:45Z"
+    },
+    {
       "tag": "rea-agents-6.4.0",
       "name": "rea-agents: v6.4.0",
       "publishedAt": "2026-10-11T03:58:03Z"
@@ -80,11 +85,6 @@
       "tag": "rea-agents-6.1.0",
       "name": "rea-agents: v6.1.0",
       "publishedAt": "2026-10-09T01:08:45Z"
-    },
-    {
-      "tag": "rea-agents-6.0.0",
-      "name": "rea-agents: v6.0.0",
-      "publishedAt": "2026-10-08T09:40:39Z"
     }
   ],
   "starHistory": [
@@ -99,6 +99,10 @@
     {
       "date": "2026-10-14",
       "stars": 219560
+    },
+    {
+      "date": "2026-10-15",
+      "stars": 252080
     }
   ],
   "links": {

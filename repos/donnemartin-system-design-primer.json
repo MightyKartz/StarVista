@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 374160,
-  "forks": 58864,
-  "openIssues": 624,
+  "stars": 374260,
+  "forks": 58863,
+  "openIssues": 627,
   "pushedAt": "2026-09-15T01:10:09Z",
   "topics": [
     "design",
@@ -28,7 +28,7 @@
   ],
   "license": null,
   "activity": "stable",
-  "starDelta7d": 706,
+  "starDelta7d": 680,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/5458997?v=4",
   "languages": {
     "Python": 0.98,
@@ -160,6 +160,10 @@
     {
       "date": "2026-10-14",
       "stars": 374160
+    },
+    {
+      "date": "2026-10-15",
+      "stars": 374260
     }
   ],
   "links": {

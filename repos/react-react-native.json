@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 126668,
-  "forks": 25316,
-  "openIssues": 1159,
-  "pushedAt": "2026-10-13T22:23:29Z",
+  "stars": 126677,
+  "forks": 25318,
+  "openIssues": 1166,
+  "pushedAt": "2026-10-15T01:43:13Z",
   "topics": [
     "android",
     "app-framework",
@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": -142,
+  "starDelta7d": -139,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/102812?v=4",
   "languages": {
     "C++": 0.35,
@@ -35,7 +35,7 @@
     "Java": 0.02,
     "Python": 0.01,
     "CMake": 0.01,
-    "C": 0.01,
+    "C": 0,
     "TypeScript": 0,
     "Shell": 0,
     "Swift": 0,
@@ -97,16 +97,12 @@
       "stars": 126181
     },
     {
-      "date": "2026-07-15",
-      "stars": 126199
-    },
-    {
       "date": "2026-07-16",
       "stars": 126203
     },
     {
-      "date": "2026-07-18",
-      "stars": 126220
+      "date": "2026-07-17",
+      "stars": 126211
     },
     {
       "date": "2026-07-19",
@@ -157,8 +153,8 @@
       "stars": 126270
     },
     {
-      "date": "2026-08-01",
-      "stars": 126270
+      "date": "2026-07-31",
+      "stars": 126266
     },
     {
       "date": "2026-08-02",
@@ -205,8 +201,8 @@
       "stars": 126328
     },
     {
-      "date": "2026-08-14",
-      "stars": 126342
+      "date": "2026-08-13",
+      "stars": 126339
     },
     {
       "date": "2026-08-15",
@@ -257,8 +253,8 @@
       "stars": 126412
     },
     {
-      "date": "2026-08-28",
-      "stars": 126437
+      "date": "2026-08-27",
+      "stars": 126427
     },
     {
       "date": "2026-08-29",
@@ -309,8 +305,8 @@
       "stars": 126537
     },
     {
-      "date": "2026-09-11",
-      "stars": 126551
+      "date": "2026-09-10",
+      "stars": 126542
     },
     {
       "date": "2026-09-12",
@@ -357,8 +353,8 @@
       "stars": 126689
     },
     {
-      "date": "2026-09-24",
-      "stars": 126704
+      "date": "2026-09-23",
+      "stars": 126702
     },
     {
       "date": "2026-09-25",
@@ -409,8 +405,8 @@
       "stars": 126802
     },
     {
-      "date": "2026-10-08",
-      "stars": 126816
+      "date": "2026-10-07",
+      "stars": 126810
     },
     {
       "date": "2026-10-09",
@@ -435,6 +431,10 @@
     {
       "date": "2026-10-14",
       "stars": 126668
+    },
+    {
+      "date": "2026-10-15",
+      "stars": 126677
     }
   ],
   "links": {
