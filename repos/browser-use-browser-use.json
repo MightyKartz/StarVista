@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 118021,
-  "forks": 13081,
-  "openIssues": 548,
-  "pushedAt": "2026-10-15T01:38:16Z",
+  "stars": 118140,
+  "forks": 13103,
+  "openIssues": 558,
+  "pushedAt": "2026-10-16T06:10:05Z",
   "topics": [
     "ai-agents",
     "ai-tools",
@@ -32,7 +32,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 576,
+  "starDelta7d": 783,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192012301?v=4",
   "languages": {
     "Python": 0.99,
@@ -47,6 +47,16 @@
   },
   "releases": [
     {
+      "tag": "0.13.13",
+      "name": "0.13.13: OpenAI browser tools and Cloud fixes",
+      "publishedAt": "2026-10-15T23:50:45Z"
+    },
+    {
+      "tag": "0.13.12",
+      "name": "0.13.12: OpenAI browser tools",
+      "publishedAt": "2026-10-15T23:37:58Z"
+    },
+    {
       "tag": "0.13.11",
       "name": "0.13.11",
       "publishedAt": "2026-10-07T04:23:18Z"
@@ -60,16 +70,6 @@
       "tag": "0.13.9",
       "name": "0.13.9",
       "publishedAt": "2026-09-04T01:29:32Z"
-    },
-    {
-      "tag": "0.13.8",
-      "name": "0.13.8",
-      "publishedAt": "2026-08-16T18:48:54Z"
-    },
-    {
-      "tag": "0.13.7",
-      "name": "0.13.7",
-      "publishedAt": "2026-07-27T17:10:13Z"
     }
   ],
   "starHistory": [
@@ -94,16 +94,12 @@
       "stars": 104292
     },
     {
-      "date": "2026-07-16",
-      "stars": 104960
-    },
-    {
       "date": "2026-07-17",
       "stars": 105130
     },
     {
-      "date": "2026-07-19",
-      "stars": 105466
+      "date": "2026-07-18",
+      "stars": 105301
     },
     {
       "date": "2026-07-20",
@@ -154,8 +150,8 @@
       "stars": 107357
     },
     {
-      "date": "2026-08-02",
-      "stars": 107537
+      "date": "2026-08-01",
+      "stars": 107440
     },
     {
       "date": "2026-08-03",
@@ -202,8 +198,8 @@
       "stars": 108991
     },
     {
-      "date": "2026-08-15",
-      "stars": 109260
+      "date": "2026-08-14",
+      "stars": 109141
     },
     {
       "date": "2026-08-16",
@@ -254,8 +250,8 @@
       "stars": 111377
     },
     {
-      "date": "2026-08-29",
-      "stars": 111607
+      "date": "2026-08-28",
+      "stars": 111545
     },
     {
       "date": "2026-08-30",
@@ -306,8 +302,8 @@
       "stars": 113996
     },
     {
-      "date": "2026-09-12",
-      "stars": 114282
+      "date": "2026-09-11",
+      "stars": 114135
     },
     {
       "date": "2026-09-13",
@@ -354,8 +350,8 @@
       "stars": 116006
     },
     {
-      "date": "2026-09-25",
-      "stars": 116228
+      "date": "2026-09-24",
+      "stars": 116128
     },
     {
       "date": "2026-09-26",
@@ -406,8 +402,8 @@
       "stars": 117328
     },
     {
-      "date": "2026-10-09",
-      "stars": 117357
+      "date": "2026-10-08",
+      "stars": 117445
     },
     {
       "date": "2026-10-10",
@@ -432,6 +428,10 @@
     {
       "date": "2026-10-15",
       "stars": 118021
+    },
+    {
+      "date": "2026-10-16",
+      "stars": 118140
     }
   ],
   "links": {

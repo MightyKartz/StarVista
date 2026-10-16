@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 252080,
-  "forks": 63316,
-  "openIssues": 897,
-  "pushedAt": "2026-10-15T07:21:18Z",
+  "stars": 277730,
+  "forks": 69990,
+  "openIssues": 1046,
+  "pushedAt": "2026-10-16T06:58:48Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -40,7 +40,7 @@
   "languages": {
     "TypeScript": 0.84,
     "JavaScript": 0.09,
-    "HTML": 0.03,
+    "HTML": 0.02,
     "Python": 0.02,
     "Java": 0.01,
     "C++": 0,
@@ -103,6 +103,10 @@
     {
       "date": "2026-10-15",
       "stars": 252080
+    },
+    {
+      "date": "2026-10-16",
+      "stars": 277730
     }
   ],
   "links": {

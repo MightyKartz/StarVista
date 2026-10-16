@@ -5,12 +5,12 @@
   "name": "dify",
   "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
   "archived": false,
-  "primaryLanguage": "TypeScript",
-  "languageColor": "#3178c6",
-  "stars": 158515,
-  "forks": 25044,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 158615,
+  "forks": 25063,
   "openIssues": 1123,
-  "pushedAt": "2026-10-15T07:23:52Z",
+  "pushedAt": "2026-10-16T07:01:06Z",
   "topics": [
     "agent",
     "agentic-ai",
@@ -34,11 +34,11 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 431,
+  "starDelta7d": 636,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127165244?v=4",
   "languages": {
-    "TypeScript": 0.5,
-    "Python": 0.47,
+    "Python": 0.5,
+    "TypeScript": 0.47,
     "JavaScript": 0.02,
     "Go": 0,
     "CSS": 0,
@@ -54,7 +54,7 @@
   "readmeExcerpt": "Dify Cloud · Self-hosting · Documentation · Dify edition overview",
   "summary": {
     "mode": "template",
-    "text": "dify is a TypeScript project focused on Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. It is tagged with agent, agentic-ai, and agentic-framework."
+    "text": "dify is a Python project focused on Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack. It is tagged with agent, agentic-ai, and agentic-framework."
   },
   "releases": [
     {
@@ -105,16 +105,12 @@
       "stars": 148537
     },
     {
-      "date": "2026-07-16",
-      "stars": 148993
-    },
-    {
       "date": "2026-07-17",
       "stars": 149105
     },
     {
-      "date": "2026-07-19",
-      "stars": 149283
+      "date": "2026-07-18",
+      "stars": 149186
     },
     {
       "date": "2026-07-20",
@@ -165,8 +161,8 @@
       "stars": 150856
     },
     {
-      "date": "2026-08-02",
-      "stars": 151029
+      "date": "2026-08-01",
+      "stars": 150947
     },
     {
       "date": "2026-08-03",
@@ -213,8 +209,8 @@
       "stars": 152277
     },
     {
-      "date": "2026-08-15",
-      "stars": 152448
+      "date": "2026-08-14",
+      "stars": 152401
     },
     {
       "date": "2026-08-16",
@@ -265,8 +261,8 @@
       "stars": 153657
     },
     {
-      "date": "2026-08-29",
-      "stars": 153800
+      "date": "2026-08-28",
+      "stars": 153753
     },
     {
       "date": "2026-08-30",
@@ -317,8 +313,8 @@
       "stars": 155293
     },
     {
-      "date": "2026-09-12",
-      "stars": 155480
+      "date": "2026-09-11",
+      "stars": 155389
     },
     {
       "date": "2026-09-13",
@@ -365,8 +361,8 @@
       "stars": 156928
     },
     {
-      "date": "2026-09-25",
-      "stars": 157155
+      "date": "2026-09-24",
+      "stars": 157037
     },
     {
       "date": "2026-09-26",
@@ -417,8 +413,8 @@
       "stars": 157990
     },
     {
-      "date": "2026-10-09",
-      "stars": 157979
+      "date": "2026-10-08",
+      "stars": 158084
     },
     {
       "date": "2026-10-10",
@@ -443,6 +439,10 @@
     {
       "date": "2026-10-15",
       "stars": 158515
+    },
+    {
+      "date": "2026-10-16",
+      "stars": 158615
     }
   ],
   "links": {

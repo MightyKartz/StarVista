@@ -7,24 +7,45 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 99941,
-  "forks": 16856,
-  "openIssues": 5886,
-  "pushedAt": "2026-10-11T08:43:09Z",
-  "topics": [],
+  "stars": 102876,
+  "forks": 17221,
+  "openIssues": 6022,
+  "pushedAt": "2026-10-16T07:08:53Z",
+  "topics": [
+    "acpx",
+    "agent-orchestration",
+    "agent-skills",
+    "agentic-ai",
+    "ai-agents",
+    "ai-engineering",
+    "ai-governance",
+    "ai-tools",
+    "autonomous-agents",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "hermes",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "openclaw",
+    "project-management",
+    "workflow-automation"
+  ],
   "license": "MIT",
   "activity": "active",
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/264498616?v=4",
   "languages": {
     "TypeScript": 0.93,
-    "Rust": 0.03,
     "JavaScript": 0.03,
+    "Rust": 0.03,
     "PLpgSQL": 0.01,
     "Shell": 0,
     "CSS": 0,
-    "HTML": 0,
     "Python": 0,
+    "HTML": 0,
     "Dockerfile": 0,
     "Go": 0,
     "C": 0,
@@ -33,9 +54,14 @@
   "readmeExcerpt": "Quickstart &middot; Docs &middot; GitHub &middot; Discord &middot; Twitter &middot; Website",
   "summary": {
     "mode": "template",
-    "text": "paperclip is a TypeScript project focused on The open-source app everyone uses to manage agents at work."
+    "text": "paperclip is a TypeScript project focused on The open-source app everyone uses to manage agents at work. It is tagged with acpx, agent-orchestration, and agent-skills."
   },
   "releases": [
+    {
+      "tag": "v2026.1012.0",
+      "name": "v2026.1012.0",
+      "publishedAt": "2026-10-12T21:06:53Z"
+    },
     {
       "tag": "v2026.1005.0",
       "name": "v2026.1005.0",
@@ -55,11 +81,6 @@
       "tag": "v2026.916.0",
       "name": "v2026.916.0",
       "publishedAt": "2026-09-16T18:15:11Z"
-    },
-    {
-      "tag": "v2026.831.1",
-      "name": "v2026.831.1",
-      "publishedAt": "2026-09-02T04:56:26Z"
     }
   ],
   "starHistory": [
@@ -82,6 +103,10 @@
     {
       "date": "2026-10-15",
       "stars": 99941
+    },
+    {
+      "date": "2026-10-16",
+      "stars": 102876
     }
   ],
   "links": {
