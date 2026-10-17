@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 164649,
-  "forks": 8883,
-  "openIssues": 17,
-  "pushedAt": "2026-10-15T01:02:15Z",
+  "stars": 165356,
+  "forks": 8931,
+  "openIssues": 23,
+  "pushedAt": "2026-10-16T23:04:42Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -25,11 +25,12 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 5667,
+  "starDelta7d": 5414,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
   "languages": {
-    "JavaScript": 0.64,
-    "Python": 0.36,
+    "JavaScript": 0.5,
+    "Python": 0.26,
+    "TypeScript": 0.24,
     "PowerShell": 0,
     "Shell": 0
   },
@@ -40,6 +41,21 @@
   },
   "releases": [
     {
+      "tag": "v5.3.2",
+      "name": "v5.3.2",
+      "publishedAt": "2026-10-16T23:15:15Z"
+    },
+    {
+      "tag": "v5.3.1",
+      "name": "v5.3.1",
+      "publishedAt": "2026-10-16T13:40:26Z"
+    },
+    {
+      "tag": "v5.3.0",
+      "name": "v5.3.0",
+      "publishedAt": "2026-10-16T07:52:12Z"
+    },
+    {
       "tag": "v5.2.0",
       "name": "v5.2.0",
       "publishedAt": "2026-10-13T01:48:47Z"
@@ -48,21 +64,6 @@
       "tag": "v5.1.1",
       "name": "v5.1.1",
       "publishedAt": "2026-10-12T23:18:11Z"
-    },
-    {
-      "tag": "v5.1.0",
-      "name": "v5.1.0",
-      "publishedAt": "2026-10-08T16:20:18Z"
-    },
-    {
-      "tag": "v5.0.0",
-      "name": "v5.0.0: Ponytail 5",
-      "publishedAt": "2026-10-08T03:51:52Z"
-    },
-    {
-      "tag": "v4.13.0",
-      "name": "v4.13.0",
-      "publishedAt": "2026-10-05T18:54:43Z"
     }
   ],
   "starHistory": [
@@ -329,6 +330,10 @@
     {
       "date": "2026-10-16",
       "stars": 164649
+    },
+    {
+      "date": "2026-10-17",
+      "stars": 165356
     }
   ],
   "links": {

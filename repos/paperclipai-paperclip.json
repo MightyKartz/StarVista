@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 102876,
-  "forks": 17221,
-  "openIssues": 6022,
-  "pushedAt": "2026-10-16T07:08:53Z",
+  "stars": 103276,
+  "forks": 17273,
+  "openIssues": 6070,
+  "pushedAt": "2026-10-17T06:55:52Z",
   "topics": [
     "acpx",
     "agent-orchestration",
@@ -43,8 +43,8 @@
     "Rust": 0.03,
     "PLpgSQL": 0.01,
     "Shell": 0,
-    "CSS": 0,
     "Python": 0,
+    "CSS": 0,
     "HTML": 0,
     "Dockerfile": 0,
     "Go": 0,
@@ -107,6 +107,10 @@
     {
       "date": "2026-10-16",
       "stars": 102876
+    },
+    {
+      "date": "2026-10-17",
+      "stars": 103276
     }
   ],
   "links": {
