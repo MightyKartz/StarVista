@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 251335,
-  "forks": 30229,
+  "stars": 252464,
+  "forks": 30366,
   "openIssues": 0,
-  "pushedAt": "2026-10-17T05:21:09Z",
+  "pushedAt": "2026-10-17T08:16:09Z",
   "topics": [
     "ai-agents",
     "cordis",
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 4690,
+  "starDelta7d": 5238,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4",
   "languages": {
     "TypeScript": 0.96,
@@ -43,6 +43,11 @@
   },
   "releases": [
     {
+      "tag": "dsh-v0.2.1-rc.2",
+      "name": "v0.2.1-rc.2",
+      "publishedAt": "2026-10-17T08:16:33Z"
+    },
+    {
       "tag": "dsh-v0.2.1-rc.1",
       "name": "v0.2.1-rc.1",
       "publishedAt": "2026-10-17T05:22:10Z"
@@ -61,11 +66,6 @@
       "tag": "dsh-v0.2.1-alpha.3",
       "name": "v0.2.1-alpha.3",
       "publishedAt": "2026-10-14T13:32:15Z"
-    },
-    {
-      "tag": "dsh-v0.2.1-alpha.2",
-      "name": "v0.2.1-alpha.2",
-      "publishedAt": "2026-10-09T11:09:26Z"
     }
   ],
   "starHistory": [
@@ -320,6 +320,10 @@
     {
       "date": "2026-10-17",
       "stars": 251335
+    },
+    {
+      "date": "2026-10-18",
+      "stars": 252464
     }
   ],
   "links": {

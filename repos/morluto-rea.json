@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 294984,
-  "forks": 74429,
-  "openIssues": 1203,
-  "pushedAt": "2026-10-17T06:56:26Z",
+  "stars": 311778,
+  "forks": 79005,
+  "openIssues": 1199,
+  "pushedAt": "2026-10-18T06:55:04Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -38,7 +38,7 @@
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76467478?v=4",
   "languages": {
-    "TypeScript": 0.84,
+    "TypeScript": 0.85,
     "JavaScript": 0.09,
     "HTML": 0.02,
     "Python": 0.02,
@@ -55,12 +55,17 @@
     "Solidity": 0,
     "Makefile": 0
   },
-  "readmeExcerpt": "English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano · Ελληνικά",
+  "readmeExcerpt": "English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano · Ελληνικά · മലയാളം",
   "summary": {
     "mode": "template",
     "text": "rea is a TypeScript project focused on Reverse engineer anything with agents, from app behavior down to native binaries. It is tagged with agent-skills, ai-agents, and binary-analysis."
   },
   "releases": [
+    {
+      "tag": "rea-agents-6.6.0",
+      "name": "rea-agents: v6.6.0",
+      "publishedAt": "2026-10-18T03:40:29Z"
+    },
     {
       "tag": "rea-agents-6.5.0",
       "name": "rea-agents: v6.5.0",
@@ -80,11 +85,6 @@
       "tag": "rea-agents-6.2.0",
       "name": "rea-agents: v6.2.0",
       "publishedAt": "2026-10-09T16:51:14Z"
-    },
-    {
-      "tag": "rea-agents-6.1.0",
-      "name": "rea-agents: v6.1.0",
-      "publishedAt": "2026-10-09T01:08:45Z"
     }
   ],
   "starHistory": [
@@ -111,6 +111,10 @@
     {
       "date": "2026-10-17",
       "stars": 294984
+    },
+    {
+      "date": "2026-10-18",
+      "stars": 311778
     }
   ],
   "links": {

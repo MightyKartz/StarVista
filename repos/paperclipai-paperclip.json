@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 103276,
-  "forks": 17273,
-  "openIssues": 6070,
-  "pushedAt": "2026-10-17T06:55:52Z",
+  "stars": 103772,
+  "forks": 17359,
+  "openIssues": 6101,
+  "pushedAt": "2026-10-18T06:33:14Z",
   "topics": [
     "acpx",
     "agent-orchestration",
@@ -34,8 +34,8 @@
     "workflow-automation"
   ],
   "license": "MIT",
-  "activity": "active",
-  "starDelta7d": null,
+  "activity": "fast-rising",
+  "starDelta7d": 3831,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/264498616?v=4",
   "languages": {
     "TypeScript": 0.93,
@@ -111,6 +111,10 @@
     {
       "date": "2026-10-17",
       "stars": 103276
+    },
+    {
+      "date": "2026-10-18",
+      "stars": 103772
     }
   ],
   "links": {
