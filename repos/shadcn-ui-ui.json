@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 125837,
-  "forks": 13467,
-  "openIssues": 1786,
-  "pushedAt": "2026-10-18T06:26:57Z",
+  "stars": 125921,
+  "forks": 13578,
+  "openIssues": 1771,
+  "pushedAt": "2026-10-19T06:44:56Z",
   "topics": [
     "ai",
     "base-ui",
@@ -32,7 +32,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 529,
+  "starDelta7d": 530,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
   "languages": {
     "TypeScript": 0.86,
@@ -50,6 +50,11 @@
     "text": "ui is a TypeScript project focused on Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. It is tagged with ai, base-ui, and components."
   },
   "releases": [
+    {
+      "tag": "shadcn@4.22.1",
+      "name": "shadcn@4.22.1",
+      "publishedAt": "2026-10-18T18:11:04Z"
+    },
     {
       "tag": "shadcn@4.22.0",
       "name": "shadcn@4.22.0",
@@ -69,11 +74,6 @@
       "tag": "shadcn@4.21.5",
       "name": "shadcn@4.21.5",
       "publishedAt": "2026-10-14T13:05:47Z"
-    },
-    {
-      "tag": "@shadcn/registry@0.1.4",
-      "name": "@shadcn/registry@0.1.4",
-      "publishedAt": "2026-10-14T13:05:44Z"
     }
   ],
   "starHistory": [
@@ -102,8 +102,8 @@
       "stars": 119284
     },
     {
-      "date": "2026-07-20",
-      "stars": 119343
+      "date": "2026-07-21",
+      "stars": 119423
     },
     {
       "date": "2026-07-22",
@@ -146,16 +146,16 @@
       "stars": 120180
     },
     {
-      "date": "2026-08-01",
-      "stars": 120242
-    },
-    {
       "date": "2026-08-02",
       "stars": 120301
     },
     {
       "date": "2026-08-03",
       "stars": 120371
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 120437
     },
     {
       "date": "2026-08-05",
@@ -190,10 +190,6 @@
       "stars": 121110
     },
     {
-      "date": "2026-08-13",
-      "stars": 121208
-    },
-    {
       "date": "2026-08-14",
       "stars": 121291
     },
@@ -204,6 +200,10 @@
     {
       "date": "2026-08-16",
       "stars": 121394
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 121451
     },
     {
       "date": "2026-08-18",
@@ -234,10 +234,6 @@
       "stars": 121948
     },
     {
-      "date": "2026-08-25",
-      "stars": 122025
-    },
-    {
       "date": "2026-08-26",
       "stars": 122130
     },
@@ -256,6 +252,10 @@
     {
       "date": "2026-08-30",
       "stars": 122539
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 122619
     },
     {
       "date": "2026-09-01",
@@ -282,10 +282,6 @@
       "stars": 123137
     },
     {
-      "date": "2026-09-07",
-      "stars": 123251
-    },
-    {
       "date": "2026-09-08",
       "stars": 123341
     },
@@ -310,6 +306,10 @@
       "stars": 123664
     },
     {
+      "date": "2026-09-14",
+      "stars": 123709
+    },
+    {
       "date": "2026-09-15",
       "stars": 123805
     },
@@ -324,10 +324,6 @@
     {
       "date": "2026-09-18",
       "stars": 124094
-    },
-    {
-      "date": "2026-09-19",
-      "stars": 124161
     },
     {
       "date": "2026-09-20",
@@ -358,6 +354,10 @@
       "stars": 124609
     },
     {
+      "date": "2026-09-27",
+      "stars": 124663
+    },
+    {
       "date": "2026-09-28",
       "stars": 124738
     },
@@ -368,10 +368,6 @@
     {
       "date": "2026-09-30",
       "stars": 124877
-    },
-    {
-      "date": "2026-10-01",
-      "stars": 124935
     },
     {
       "date": "2026-10-02",
@@ -410,12 +406,12 @@
       "stars": 125245
     },
     {
-      "date": "2026-10-12",
-      "stars": 125391
+      "date": "2026-10-11",
+      "stars": 125308
     },
     {
-      "date": "2026-10-13",
-      "stars": 125479
+      "date": "2026-10-12",
+      "stars": 125391
     },
     {
       "date": "2026-10-14",
@@ -436,6 +432,10 @@
     {
       "date": "2026-10-18",
       "stars": 125837
+    },
+    {
+      "date": "2026-10-19",
+      "stars": 125921
     }
   ],
   "links": {

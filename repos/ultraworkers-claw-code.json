@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 194917,
-  "forks": 107921,
-  "openIssues": 9,
-  "pushedAt": "2026-10-13T08:57:11Z",
+  "stars": 194915,
+  "forks": 107907,
+  "openIssues": 1,
+  "pushedAt": "2026-10-19T04:07:34Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": -326,
+  "starDelta7d": -49,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/272961631?v=4",
   "languages": {
     "Rust": 0.96,
@@ -30,6 +30,11 @@
     "text": "claw-code is a Rust project focused on An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention."
   },
   "releases": [
+    {
+      "tag": "v0.1.7",
+      "name": "v0.1.7",
+      "publishedAt": "2026-10-19T04:09:50Z"
+    },
     {
       "tag": "v0.1.6",
       "name": "v0.1.6",
@@ -77,8 +82,8 @@
       "stars": 194813
     },
     {
-      "date": "2026-07-20",
-      "stars": 194828
+      "date": "2026-07-21",
+      "stars": 194842
     },
     {
       "date": "2026-07-22",
@@ -121,15 +126,15 @@
       "stars": 194913
     },
     {
-      "date": "2026-08-01",
-      "stars": 194913
-    },
-    {
       "date": "2026-08-02",
       "stars": 194913
     },
     {
       "date": "2026-08-03",
+      "stars": 194913
+    },
+    {
+      "date": "2026-08-04",
       "stars": 194913
     },
     {
@@ -165,10 +170,6 @@
       "stars": 195051
     },
     {
-      "date": "2026-08-13",
-      "stars": 195072
-    },
-    {
       "date": "2026-08-14",
       "stars": 195076
     },
@@ -179,6 +180,10 @@
     {
       "date": "2026-08-16",
       "stars": 195053
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 195068
     },
     {
       "date": "2026-08-18",
@@ -209,10 +214,6 @@
       "stars": 195112
     },
     {
-      "date": "2026-08-25",
-      "stars": 195107
-    },
-    {
       "date": "2026-08-26",
       "stars": 195113
     },
@@ -231,6 +232,10 @@
     {
       "date": "2026-08-30",
       "stars": 195153
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 195165
     },
     {
       "date": "2026-09-01",
@@ -257,10 +262,6 @@
       "stars": 195176
     },
     {
-      "date": "2026-09-07",
-      "stars": 195185
-    },
-    {
       "date": "2026-09-08",
       "stars": 195198
     },
@@ -285,6 +286,10 @@
       "stars": 195215
     },
     {
+      "date": "2026-09-14",
+      "stars": 195219
+    },
+    {
       "date": "2026-09-15",
       "stars": 195243
     },
@@ -298,10 +303,6 @@
     },
     {
       "date": "2026-09-18",
-      "stars": 195243
-    },
-    {
-      "date": "2026-09-19",
       "stars": 195243
     },
     {
@@ -333,6 +334,10 @@
       "stars": 195243
     },
     {
+      "date": "2026-09-27",
+      "stars": 195243
+    },
+    {
       "date": "2026-09-28",
       "stars": 195243
     },
@@ -342,10 +347,6 @@
     },
     {
       "date": "2026-09-30",
-      "stars": 195243
-    },
-    {
-      "date": "2026-10-01",
       "stars": 195243
     },
     {
@@ -385,12 +386,12 @@
       "stars": 195243
     },
     {
-      "date": "2026-10-12",
-      "stars": 194964
+      "date": "2026-10-11",
+      "stars": 195243
     },
     {
-      "date": "2026-10-13",
-      "stars": 194923
+      "date": "2026-10-12",
+      "stars": 194964
     },
     {
       "date": "2026-10-14",
@@ -411,6 +412,10 @@
     {
       "date": "2026-10-18",
       "stars": 194917
+    },
+    {
+      "date": "2026-10-19",
+      "stars": 194915
     }
   ],
   "links": {

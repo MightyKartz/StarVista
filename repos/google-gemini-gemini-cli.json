@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 107433,
-  "forks": 14732,
-  "openIssues": 741,
-  "pushedAt": "2026-10-18T01:34:41Z",
+  "stars": 107445,
+  "forks": 14737,
+  "openIssues": 744,
+  "pushedAt": "2026-10-19T01:34:29Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 152,
+  "starDelta7d": 153,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
     "TypeScript": 0.97,
@@ -40,6 +40,11 @@
     "text": "gemini-cli is a TypeScript project focused on An open-source AI agent that brings the power of Gemini directly into your terminal. It is tagged with ai, ai-agents, and cli."
   },
   "releases": [
+    {
+      "tag": "v0.66.0-nightly.20261019.ged96faedf",
+      "name": "Release v0.66.0-nightly.20261019.ged96faedf",
+      "publishedAt": "2026-10-19T01:34:29Z"
+    },
     {
       "tag": "v0.66.0-nightly.20261018.ged96faedf",
       "name": "Release v0.66.0-nightly.20261018.ged96faedf",
@@ -59,11 +64,6 @@
       "tag": "v0.65.0-nightly.20261014.g42c518220",
       "name": "Release v0.65.0-nightly.20261014.g42c518220",
       "publishedAt": "2026-10-14T01:29:12Z"
-    },
-    {
-      "tag": "v0.65.0-preview.0",
-      "name": "Release v0.65.0-preview.0",
-      "publishedAt": "2026-10-13T20:27:55Z"
     }
   ],
   "starHistory": [
@@ -92,8 +92,8 @@
       "stars": 106066
     },
     {
-      "date": "2026-07-20",
-      "stars": 106076
+      "date": "2026-07-21",
+      "stars": 106090
     },
     {
       "date": "2026-07-22",
@@ -136,16 +136,16 @@
       "stars": 106272
     },
     {
-      "date": "2026-08-01",
-      "stars": 106289
-    },
-    {
       "date": "2026-08-02",
       "stars": 106301
     },
     {
       "date": "2026-08-03",
       "stars": 106317
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 106345
     },
     {
       "date": "2026-08-05",
@@ -180,10 +180,6 @@
       "stars": 106477
     },
     {
-      "date": "2026-08-13",
-      "stars": 106496
-    },
-    {
       "date": "2026-08-14",
       "stars": 106511
     },
@@ -194,6 +190,10 @@
     {
       "date": "2026-08-16",
       "stars": 106531
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 106536
     },
     {
       "date": "2026-08-18",
@@ -224,10 +224,6 @@
       "stars": 106638
     },
     {
-      "date": "2026-08-25",
-      "stars": 106667
-    },
-    {
       "date": "2026-08-26",
       "stars": 106686
     },
@@ -246,6 +242,10 @@
     {
       "date": "2026-08-30",
       "stars": 106746
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 106753
     },
     {
       "date": "2026-09-01",
@@ -272,10 +272,6 @@
       "stars": 106825
     },
     {
-      "date": "2026-09-07",
-      "stars": 106844
-    },
-    {
       "date": "2026-09-08",
       "stars": 106860
     },
@@ -300,6 +296,10 @@
       "stars": 106947
     },
     {
+      "date": "2026-09-14",
+      "stars": 106970
+    },
+    {
       "date": "2026-09-15",
       "stars": 106986
     },
@@ -314,10 +314,6 @@
     {
       "date": "2026-09-18",
       "stars": 107054
-    },
-    {
-      "date": "2026-09-19",
-      "stars": 107074
     },
     {
       "date": "2026-09-20",
@@ -348,6 +344,10 @@
       "stars": 107165
     },
     {
+      "date": "2026-09-27",
+      "stars": 107165
+    },
+    {
       "date": "2026-09-28",
       "stars": 107164
     },
@@ -358,10 +358,6 @@
     {
       "date": "2026-09-30",
       "stars": 107191
-    },
-    {
-      "date": "2026-10-01",
-      "stars": 107212
     },
     {
       "date": "2026-10-02",
@@ -400,12 +396,12 @@
       "stars": 107268
     },
     {
-      "date": "2026-10-12",
-      "stars": 107292
+      "date": "2026-10-11",
+      "stars": 107281
     },
     {
-      "date": "2026-10-13",
-      "stars": 107308
+      "date": "2026-10-12",
+      "stars": 107292
     },
     {
       "date": "2026-10-14",
@@ -426,6 +422,10 @@
     {
       "date": "2026-10-18",
       "stars": 107433
+    },
+    {
+      "date": "2026-10-19",
+      "stars": 107445
     }
   ],
   "links": {
