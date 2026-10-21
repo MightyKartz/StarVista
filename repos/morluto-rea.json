@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 340426,
-  "forks": 85903,
-  "openIssues": 1293,
-  "pushedAt": "2026-10-20T07:32:27Z",
+  "stars": 351305,
+  "forks": 88282,
+  "openIssues": 1503,
+  "pushedAt": "2026-10-21T07:29:10Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -35,13 +35,13 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 159868,
+  "starDelta7d": 131745,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76467478?v=4",
   "languages": {
     "TypeScript": 0.86,
     "JavaScript": 0.08,
-    "HTML": 0.02,
     "Python": 0.02,
+    "HTML": 0.02,
     "Java": 0.01,
     "C++": 0,
     "CSS": 0,
@@ -123,6 +123,10 @@
     {
       "date": "2026-10-20",
       "stars": 340426
+    },
+    {
+      "date": "2026-10-21",
+      "stars": 351305
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 126387,
-  "forks": 19847,
-  "openIssues": 203,
-  "pushedAt": "2026-10-16T03:18:22Z",
+  "stars": 126488,
+  "forks": 19884,
+  "openIssues": 199,
+  "pushedAt": "2026-10-21T07:10:58Z",
   "topics": [
     "android",
     "anydesk",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 711,
+  "starDelta7d": 727,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
   "languages": {
     "Rust": 0.69,
@@ -54,7 +54,7 @@
     "Dockerfile": 0,
     "Objective-C": 0
   },
-  "readmeExcerpt": "Build • Docker • Structure • Screenshots [ Українська ] | [ česky ] | [ 中文 ] | [ Magyar ] | [ Español ] | [ فارسی ] | [ Français ] | [ Deutsch ] | [ Polski ] | [ Indonesian ] | [ Suomi ] | [ മലയാളം ] | [ 日本語 ] | [ Nederlands ] | [ Italiano ] | [ Русский ] | [ Português (Brasil) ] | [ Esperanto ] | [ 한국어 ] | [ العربي ] | [ Tiếng Việt ] | [ Dansk ] | [ Ελληνικά ] | [ Türkçe ] | [ Norsk ] | [ Română ] We need your help to translate this README, RustDesk UI and RustDesk Doc to your native language",
+  "readmeExcerpt": "Build • Docker • Structure • Screenshots [ Українська ] | [ česky ] | [ 中文 ] | [ Magyar ] | [ Español ] | [ فارسی ] | [ Français ] | [ Deutsch ] | [ Polski ] | [ Indonesian ] | [ Suomi ] | [ മലയാളം ] | [ 日本語 ] | [ Nederlands ] | [ Italiano ] | [ Русский ] | [ Português (Portugal) ] | [ Português (Brasil) ] | [ Esperanto ] | [ 한국어 ] | [ العربي ] | [ Tiếng Việt ] | [ Dansk ] | [ Ελληνικά ] | [ Türkçe ] | [ Norsk ] | [ Română ] We need your help to translate this README, RustDesk UI and RustDesk...",
   "summary": {
     "mode": "template",
     "text": "rustdesk is a Rust project focused on An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. It is tagged with android, anydesk, and dart."
@@ -112,10 +112,6 @@
       "stars": 118468
     },
     {
-      "date": "2026-07-22",
-      "stars": 118643
-    },
-    {
       "date": "2026-07-23",
       "stars": 118697
     },
@@ -156,8 +152,8 @@
       "stars": 119343
     },
     {
-      "date": "2026-08-03",
-      "stars": 119469
+      "date": "2026-08-02",
+      "stars": 119402
     },
     {
       "date": "2026-08-04",
@@ -200,8 +196,8 @@
       "stars": 120262
     },
     {
-      "date": "2026-08-15",
-      "stars": 120665
+      "date": "2026-08-14",
+      "stars": 120384
     },
     {
       "date": "2026-08-16",
@@ -244,8 +240,8 @@
       "stars": 121729
     },
     {
-      "date": "2026-08-27",
-      "stars": 121951
+      "date": "2026-08-26",
+      "stars": 121829
     },
     {
       "date": "2026-08-28",
@@ -292,8 +288,8 @@
       "stars": 122808
     },
     {
-      "date": "2026-09-09",
-      "stars": 122975
+      "date": "2026-09-08",
+      "stars": 122890
     },
     {
       "date": "2026-09-10",
@@ -336,8 +332,8 @@
       "stars": 123964
     },
     {
-      "date": "2026-09-21",
-      "stars": 124120
+      "date": "2026-09-20",
+      "stars": 124038
     },
     {
       "date": "2026-09-22",
@@ -380,8 +376,8 @@
       "stars": 124911
     },
     {
-      "date": "2026-10-03",
-      "stars": 125037
+      "date": "2026-10-02",
+      "stars": 124978
     },
     {
       "date": "2026-10-04",
@@ -424,8 +420,8 @@
       "stars": 125676
     },
     {
-      "date": "2026-10-15",
-      "stars": 125850
+      "date": "2026-10-14",
+      "stars": 125761
     },
     {
       "date": "2026-10-16",
@@ -446,6 +442,10 @@
     {
       "date": "2026-10-20",
       "stars": 126387
+    },
+    {
+      "date": "2026-10-21",
+      "stars": 126488
     }
   ],
   "links": {

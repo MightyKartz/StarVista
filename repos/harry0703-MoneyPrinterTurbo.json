@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 133242,
-  "forks": 21053,
-  "openIssues": 90,
-  "pushedAt": "2026-10-20T03:58:54Z",
+  "stars": 133548,
+  "forks": 21084,
+  "openIssues": 74,
+  "pushedAt": "2026-10-21T06:54:32Z",
   "topics": [
     "ai-video-generator",
     "content-creation",
@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2832,
+  "starDelta7d": 2919,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4",
   "languages": {
     "Python": 0.99,
@@ -45,6 +45,11 @@
     "text": "MoneyPrinterTurbo is a Python project focused on 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. It is tagged with ai-video-generator, content-creation, and ffmpeg."
   },
   "releases": [
+    {
+      "tag": "v1.3.9",
+      "name": "v1.3.9",
+      "publishedAt": "2026-10-21T06:54:32Z"
+    },
     {
       "tag": "v1.3.8",
       "name": "v1.3.8",
@@ -64,11 +69,6 @@
       "tag": "v1.3.5",
       "name": "v1.3.5",
       "publishedAt": "2026-08-22T14:29:06Z"
-    },
-    {
-      "tag": "v1.3.4",
-      "name": "v1.3.4",
-      "publishedAt": "2026-08-12T02:51:41Z"
     }
   ],
   "starHistory": [
@@ -83,10 +83,6 @@
     {
       "date": "2026-07-19",
       "stars": 98047
-    },
-    {
-      "date": "2026-07-21",
-      "stars": 98382
     },
     {
       "date": "2026-07-22",
@@ -109,8 +105,8 @@
       "stars": 99311
     },
     {
-      "date": "2026-07-28",
-      "stars": 99593
+      "date": "2026-07-27",
+      "stars": 99452
     },
     {
       "date": "2026-07-29",
@@ -181,8 +177,8 @@
       "stars": 103196
     },
     {
-      "date": "2026-08-16",
-      "stars": 103973
+      "date": "2026-08-15",
+      "stars": 103625
     },
     {
       "date": "2026-08-17",
@@ -253,8 +249,8 @@
       "stars": 119603
     },
     {
-      "date": "2026-09-04",
-      "stars": 120343
+      "date": "2026-09-03",
+      "stars": 120029
     },
     {
       "date": "2026-09-05",
@@ -325,8 +321,8 @@
       "stars": 124898
     },
     {
-      "date": "2026-09-23",
-      "stars": 125251
+      "date": "2026-09-22",
+      "stars": 125025
     },
     {
       "date": "2026-09-24",
@@ -397,8 +393,8 @@
       "stars": 129387
     },
     {
-      "date": "2026-10-12",
-      "stars": 130027
+      "date": "2026-10-11",
+      "stars": 129551
     },
     {
       "date": "2026-10-13",
@@ -431,6 +427,10 @@
     {
       "date": "2026-10-20",
       "stars": 133242
+    },
+    {
+      "date": "2026-10-21",
+      "stars": 133548
     }
   ],
   "links": {
