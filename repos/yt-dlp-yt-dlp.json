@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 199812,
-  "forks": 17415,
-  "openIssues": 2730,
-  "pushedAt": "2026-10-10T21:15:52Z",
+  "stars": 200223,
+  "forks": 17460,
+  "openIssues": 2722,
+  "pushedAt": "2026-10-21T22:17:42Z",
   "topics": [
     "cli",
     "downloader",
@@ -22,7 +22,7 @@
   ],
   "license": "Unlicense",
   "activity": "active",
-  "starDelta7d": 2206,
+  "starDelta7d": 2346,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/79589310?v=4",
   "languages": {
     "Python": 1,
@@ -37,6 +37,11 @@
     "text": "yt-dlp is a Python project focused on A feature-rich command-line audio/video downloader. It is tagged with cli, downloader, and python."
   },
   "releases": [
+    {
+      "tag": "2026.10.21",
+      "name": "yt-dlp 2026.10.21",
+      "publishedAt": "2026-10-21T21:54:37Z"
+    },
     {
       "tag": "2026.08.19",
       "name": "yt-dlp 2026.08.19",
@@ -56,11 +61,6 @@
       "tag": "2026.03.17",
       "name": "yt-dlp 2026.03.17",
       "publishedAt": "2026-03-17T23:42:33Z"
-    },
-    {
-      "tag": "2026.03.13",
-      "name": "yt-dlp 2026.03.13",
-      "publishedAt": "2026-03-13T09:02:00Z"
     }
   ],
   "starHistory": [
@@ -87,10 +87,6 @@
     {
       "date": "2026-07-19",
       "stars": 178795
-    },
-    {
-      "date": "2026-07-23",
-      "stars": 179589
     },
     {
       "date": "2026-07-24",
@@ -133,8 +129,8 @@
       "stars": 181843
     },
     {
-      "date": "2026-08-04",
-      "stars": 182291
+      "date": "2026-08-03",
+      "stars": 182074
     },
     {
       "date": "2026-08-05",
@@ -177,8 +173,8 @@
       "stars": 184349
     },
     {
-      "date": "2026-08-16",
-      "stars": 184672
+      "date": "2026-08-15",
+      "stars": 184491
     },
     {
       "date": "2026-08-17",
@@ -221,8 +217,8 @@
       "stars": 186945
     },
     {
-      "date": "2026-08-28",
-      "stars": 187507
+      "date": "2026-08-27",
+      "stars": 187281
     },
     {
       "date": "2026-08-29",
@@ -269,8 +265,8 @@
       "stars": 189740
     },
     {
-      "date": "2026-09-10",
-      "stars": 190058
+      "date": "2026-09-09",
+      "stars": 189912
     },
     {
       "date": "2026-09-11",
@@ -313,8 +309,8 @@
       "stars": 192213
     },
     {
-      "date": "2026-09-22",
-      "stars": 192768
+      "date": "2026-09-21",
+      "stars": 192430
     },
     {
       "date": "2026-09-23",
@@ -357,8 +353,8 @@
       "stars": 194860
     },
     {
-      "date": "2026-10-04",
-      "stars": 195364
+      "date": "2026-10-03",
+      "stars": 195113
     },
     {
       "date": "2026-10-05",
@@ -401,8 +397,8 @@
       "stars": 197606
     },
     {
-      "date": "2026-10-16",
-      "stars": 198257
+      "date": "2026-10-15",
+      "stars": 197877
     },
     {
       "date": "2026-10-17",
@@ -423,6 +419,10 @@
     {
       "date": "2026-10-21",
       "stars": 199812
+    },
+    {
+      "date": "2026-10-22",
+      "stars": 200223
     }
   ],
   "links": {

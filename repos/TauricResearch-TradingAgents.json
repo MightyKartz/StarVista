@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 112420,
-  "forks": 21721,
-  "openIssues": 106,
+  "stars": 112662,
+  "forks": 21792,
+  "openIssues": 111,
   "pushedAt": "2026-10-16T21:38:46Z",
   "topics": [
     "agent",
@@ -20,7 +20,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1330,
+  "starDelta7d": 1410,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192884433?v=4",
   "languages": {
     "Python": 1,
@@ -270,6 +270,10 @@
     {
       "date": "2026-10-21",
       "stars": 112420
+    },
+    {
+      "date": "2026-10-22",
+      "stars": 112662
     }
   ],
   "links": {
