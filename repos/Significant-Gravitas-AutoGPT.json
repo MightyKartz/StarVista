@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 187700,
+  "stars": 187712,
   "forks": 45906,
-  "openIssues": 721,
-  "pushedAt": "2026-10-22T07:34:19Z",
+  "openIssues": 708,
+  "pushedAt": "2026-10-23T07:04:49Z",
   "topics": [
     "agentic-ai",
     "agents",
@@ -26,28 +26,35 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 122,
+  "starDelta7d": 107,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130738209?v=4",
   "languages": {
-    "Python": 0.66,
-    "TypeScript": 0.32,
-    "Shell": 0,
+    "Python": 0.68,
+    "TypeScript": 0.3,
     "JavaScript": 0,
+    "Shell": 0,
     "PLpgSQL": 0,
     "Jinja": 0,
+    "PowerShell": 0,
     "Dockerfile": 0,
     "CSS": 0,
     "Batchfile": 0,
     "C": 0,
     "Makefile": 0,
-    "HCL": 0
+    "HCL": 0,
+    "HTML": 0
   },
-  "readmeExcerpt": "AutoGPT — AI agents that finish the work",
+  "readmeExcerpt": "AutoGPT — Your team of AI Experts",
   "summary": {
     "mode": "template",
     "text": "AutoGPT is a Python project focused on AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. It is tagged with agentic-ai, agents, and ai."
   },
   "releases": [
+    {
+      "tag": "autogpt-platform-beta-v0.9.0",
+      "name": "🚀 Release `autogpt-platform-beta-v0.9.0`",
+      "publishedAt": "2026-10-23T01:28:07Z"
+    },
     {
       "tag": "preview-seed-fixture",
       "name": "Preview seed fixture (rolling)",
@@ -67,11 +74,6 @@
       "tag": "autogpt-platform-beta-v0.8.2",
       "name": "🚀 Release `autogpt-platform-beta-v0.8.2`",
       "publishedAt": "2026-09-30T05:25:31Z"
-    },
-    {
-      "tag": "autogpt-platform-beta-v0.8.1",
-      "name": "AutoGPT Platform v0.8.1",
-      "publishedAt": "2026-09-24T09:35:53Z"
     }
   ],
   "starHistory": [
@@ -98,10 +100,6 @@
     {
       "date": "2026-07-19",
       "stars": 185599
-    },
-    {
-      "date": "2026-07-24",
-      "stars": 185662
     },
     {
       "date": "2026-07-25",
@@ -144,8 +142,8 @@
       "stars": 185777
     },
     {
-      "date": "2026-08-05",
-      "stars": 185822
+      "date": "2026-08-04",
+      "stars": 185796
     },
     {
       "date": "2026-08-06",
@@ -188,8 +186,8 @@
       "stars": 186605
     },
     {
-      "date": "2026-08-17",
-      "stars": 186647
+      "date": "2026-08-16",
+      "stars": 186625
     },
     {
       "date": "2026-08-18",
@@ -232,8 +230,8 @@
       "stars": 186922
     },
     {
-      "date": "2026-08-29",
-      "stars": 186969
+      "date": "2026-08-28",
+      "stars": 186964
     },
     {
       "date": "2026-08-30",
@@ -280,8 +278,8 @@
       "stars": 187217
     },
     {
-      "date": "2026-09-11",
-      "stars": 187251
+      "date": "2026-09-10",
+      "stars": 187239
     },
     {
       "date": "2026-09-12",
@@ -324,8 +322,8 @@
       "stars": 187469
     },
     {
-      "date": "2026-09-23",
-      "stars": 187503
+      "date": "2026-09-22",
+      "stars": 187483
     },
     {
       "date": "2026-09-24",
@@ -368,8 +366,8 @@
       "stars": 187646
     },
     {
-      "date": "2026-10-05",
-      "stars": 187655
+      "date": "2026-10-04",
+      "stars": 187646
     },
     {
       "date": "2026-10-06",
@@ -412,8 +410,8 @@
       "stars": 187578
     },
     {
-      "date": "2026-10-17",
-      "stars": 187619
+      "date": "2026-10-16",
+      "stars": 187605
     },
     {
       "date": "2026-10-18",
@@ -434,6 +432,10 @@
     {
       "date": "2026-10-22",
       "stars": 187700
+    },
+    {
+      "date": "2026-10-23",
+      "stars": 187712
     }
   ],
   "links": {
