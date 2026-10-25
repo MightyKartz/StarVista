@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 107575,
-  "forks": 14774,
-  "openIssues": 752,
-  "pushedAt": "2026-10-24T01:15:52Z",
+  "stars": 108249,
+  "forks": 14822,
+  "openIssues": 763,
+  "pushedAt": "2026-10-25T01:31:54Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 162,
+  "starDelta7d": 816,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
     "TypeScript": 0.97,
@@ -40,6 +40,11 @@
     "text": "gemini-cli is a TypeScript project focused on An open-source AI agent that brings the power of Gemini directly into your terminal. It is tagged with ai, ai-agents, and cli."
   },
   "releases": [
+    {
+      "tag": "v0.67.0-nightly.20261025.gcd1b45c2d",
+      "name": "Release v0.67.0-nightly.20261025.gcd1b45c2d",
+      "publishedAt": "2026-10-25T01:31:55Z"
+    },
     {
       "tag": "v0.67.0-nightly.20261024.gcd1b45c2d",
       "name": "Release v0.67.0-nightly.20261024.gcd1b45c2d",
@@ -59,11 +64,6 @@
       "tag": "v0.67.0-nightly.20261021.gd00859d6b",
       "name": "Release v0.67.0-nightly.20261021.gd00859d6b",
       "publishedAt": "2026-10-21T01:33:29Z"
-    },
-    {
-      "tag": "v0.66.0-preview.0",
-      "name": "Release v0.66.0-preview.0",
-      "publishedAt": "2026-10-20T21:04:34Z"
     }
   ],
   "starHistory": [
@@ -90,10 +90,6 @@
     {
       "date": "2026-07-19",
       "stars": 106066
-    },
-    {
-      "date": "2026-07-26",
-      "stars": 106181
     },
     {
       "date": "2026-07-27",
@@ -136,8 +132,8 @@
       "stars": 106368
     },
     {
-      "date": "2026-08-07",
-      "stars": 106400
+      "date": "2026-08-06",
+      "stars": 106384
     },
     {
       "date": "2026-08-08",
@@ -180,8 +176,8 @@
       "stars": 106536
     },
     {
-      "date": "2026-08-19",
-      "stars": 106565
+      "date": "2026-08-18",
+      "stars": 106544
     },
     {
       "date": "2026-08-20",
@@ -224,8 +220,8 @@
       "stars": 106738
     },
     {
-      "date": "2026-08-31",
-      "stars": 106753
+      "date": "2026-08-30",
+      "stars": 106746
     },
     {
       "date": "2026-09-01",
@@ -272,8 +268,8 @@
       "stars": 106909
     },
     {
-      "date": "2026-09-13",
-      "stars": 106947
+      "date": "2026-09-12",
+      "stars": 106932
     },
     {
       "date": "2026-09-14",
@@ -316,8 +312,8 @@
       "stars": 107133
     },
     {
-      "date": "2026-09-25",
-      "stars": 107159
+      "date": "2026-09-24",
+      "stars": 107139
     },
     {
       "date": "2026-09-26",
@@ -360,8 +356,8 @@
       "stars": 107234
     },
     {
-      "date": "2026-10-07",
-      "stars": 107241
+      "date": "2026-10-06",
+      "stars": 107246
     },
     {
       "date": "2026-10-08",
@@ -404,8 +400,8 @@
       "stars": 107413
     },
     {
-      "date": "2026-10-19",
-      "stars": 107445
+      "date": "2026-10-18",
+      "stars": 107433
     },
     {
       "date": "2026-10-20",
@@ -426,6 +422,10 @@
     {
       "date": "2026-10-24",
       "stars": 107575
+    },
+    {
+      "date": "2026-10-25",
+      "stars": 108249
     }
   ],
   "links": {

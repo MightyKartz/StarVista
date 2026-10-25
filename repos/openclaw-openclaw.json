@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 392901,
-  "forks": 82577,
-  "openIssues": 7792,
-  "pushedAt": "2026-10-24T07:17:05Z",
+  "stars": 392979,
+  "forks": 82607,
+  "openIssues": 7808,
+  "pushedAt": "2026-10-25T07:34:54Z",
   "topics": [
     "ai",
     "assistant",
@@ -22,13 +22,13 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 675,
+  "starDelta7d": 665,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/252820863?v=4",
   "languages": {
     "TypeScript": 0.9,
     "Swift": 0.04,
-    "Kotlin": 0.02,
     "JavaScript": 0.02,
+    "Kotlin": 0.02,
     "Shell": 0.01,
     "CSS": 0.01,
     "Rust": 0,
@@ -37,8 +37,8 @@
     "Ruby": 0,
     "PowerShell": 0,
     "HTML": 0,
-    "PLpgSQL": 0,
     "Dockerfile": 0,
+    "PLpgSQL": 0,
     "QML": 0,
     "Objective-C": 0,
     "C": 0,
@@ -50,6 +50,16 @@
     "text": "openclaw is a TypeScript project focused on The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 . It is tagged with ai, assistant, and crustacean."
   },
   "releases": [
+    {
+      "tag": "v2026.10.7",
+      "name": "openclaw 2026.10.7",
+      "publishedAt": "2026-10-24T09:53:46Z"
+    },
+    {
+      "tag": "v2026.9.34",
+      "name": "openclaw 2026.9.34",
+      "publishedAt": "2026-10-24T11:38:56Z"
+    },
     {
       "tag": "v2026.10.6",
       "name": "openclaw 2026.10.6",
@@ -64,16 +74,6 @@
       "tag": "v2026.10.5",
       "name": "openclaw 2026.10.5",
       "publishedAt": "2026-10-18T21:47:25Z"
-    },
-    {
-      "tag": "v2026.10.10-beta.2",
-      "name": "openclaw 2026.10.10-beta.2",
-      "publishedAt": "2026-10-19T12:23:09Z"
-    },
-    {
-      "tag": "v2026.10.10-beta.1",
-      "name": "openclaw 2026.10.10-beta.1",
-      "publishedAt": "2026-10-15T18:03:07Z"
     }
   ],
   "starHistory": [
@@ -100,10 +100,6 @@
     {
       "date": "2026-07-19",
       "stars": 383418
-    },
-    {
-      "date": "2026-07-26",
-      "stars": 384140
     },
     {
       "date": "2026-07-27",
@@ -146,8 +142,8 @@
       "stars": 385167
     },
     {
-      "date": "2026-08-07",
-      "stars": 385400
+      "date": "2026-08-06",
+      "stars": 385293
     },
     {
       "date": "2026-08-08",
@@ -190,8 +186,8 @@
       "stars": 386476
     },
     {
-      "date": "2026-08-19",
-      "stars": 386690
+      "date": "2026-08-18",
+      "stars": 386572
     },
     {
       "date": "2026-08-20",
@@ -234,8 +230,8 @@
       "stars": 387955
     },
     {
-      "date": "2026-08-31",
-      "stars": 388151
+      "date": "2026-08-30",
+      "stars": 388043
     },
     {
       "date": "2026-09-01",
@@ -282,8 +278,8 @@
       "stars": 389417
     },
     {
-      "date": "2026-09-13",
-      "stars": 389551
+      "date": "2026-09-12",
+      "stars": 389479
     },
     {
       "date": "2026-09-14",
@@ -326,8 +322,8 @@
       "stars": 390295
     },
     {
-      "date": "2026-09-25",
-      "stars": 390453
+      "date": "2026-09-24",
+      "stars": 390363
     },
     {
       "date": "2026-09-26",
@@ -370,8 +366,8 @@
       "stars": 391405
     },
     {
-      "date": "2026-10-07",
-      "stars": 391543
+      "date": "2026-10-06",
+      "stars": 391479
     },
     {
       "date": "2026-10-08",
@@ -414,8 +410,8 @@
       "stars": 392226
     },
     {
-      "date": "2026-10-19",
-      "stars": 392426
+      "date": "2026-10-18",
+      "stars": 392314
     },
     {
       "date": "2026-10-20",
@@ -436,6 +432,10 @@
     {
       "date": "2026-10-24",
       "stars": 392901
+    },
+    {
+      "date": "2026-10-25",
+      "stars": 392979
     }
   ],
   "links": {
