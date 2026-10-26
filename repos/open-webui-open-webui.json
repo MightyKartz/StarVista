@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 156675,
-  "forks": 22808,
-  "openIssues": 166,
-  "pushedAt": "2026-10-25T07:33:28Z",
+  "stars": 156775,
+  "forks": 22828,
+  "openIssues": 196,
+  "pushedAt": "2026-10-26T07:09:27Z",
   "topics": [
     "ai",
     "llm",
@@ -30,12 +30,12 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 657,
+  "starDelta7d": 645,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/158137808?v=4",
   "languages": {
-    "Python": 0.38,
-    "Svelte": 0.35,
-    "JavaScript": 0.19,
+    "Python": 0.37,
+    "Svelte": 0.36,
+    "JavaScript": 0.18,
     "TypeScript": 0.06,
     "CSS": 0.02,
     "Shell": 0,
@@ -52,6 +52,11 @@
     "text": "open-webui is a Python project focused on User-friendly AI Interface (Supports Ollama, OpenAI API, ...). It is tagged with ai, llm, and llm-ui."
   },
   "releases": [
+    {
+      "tag": "v0.12.4",
+      "name": "v0.12.4",
+      "publishedAt": "2026-10-25T08:07:13Z"
+    },
     {
       "tag": "v0.12.3",
       "name": "v0.12.3",
@@ -71,11 +76,6 @@
       "tag": "v0.12.0",
       "name": "v0.12.0",
       "publishedAt": "2026-10-10T21:13:24Z"
-    },
-    {
-      "tag": "v0.11.4",
-      "name": "v0.11.4",
-      "publishedAt": "2026-09-21T19:25:21Z"
     }
   ],
   "starHistory": [
@@ -100,8 +100,8 @@
       "stars": 145105
     },
     {
-      "date": "2026-07-19",
-      "stars": 145903
+      "date": "2026-07-26",
+      "stars": 146743
     },
     {
       "date": "2026-07-27",
@@ -140,12 +140,12 @@
       "stars": 147768
     },
     {
-      "date": "2026-08-05",
-      "stars": 147883
-    },
-    {
       "date": "2026-08-06",
       "stars": 147989
+    },
+    {
+      "date": "2026-08-07",
+      "stars": 148089
     },
     {
       "date": "2026-08-08",
@@ -180,16 +180,16 @@
       "stars": 148811
     },
     {
-      "date": "2026-08-16",
-      "stars": 148884
-    },
-    {
       "date": "2026-08-17",
       "stars": 148969
     },
     {
       "date": "2026-08-18",
       "stars": 149066
+    },
+    {
+      "date": "2026-08-19",
+      "stars": 149178
     },
     {
       "date": "2026-08-20",
@@ -220,10 +220,6 @@
       "stars": 149924
     },
     {
-      "date": "2026-08-27",
-      "stars": 150091
-    },
-    {
       "date": "2026-08-28",
       "stars": 150210
     },
@@ -234,6 +230,10 @@
     {
       "date": "2026-08-30",
       "stars": 150383
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 150468
     },
     {
       "date": "2026-09-01",
@@ -260,10 +260,6 @@
       "stars": 151082
     },
     {
-      "date": "2026-09-07",
-      "stars": 151172
-    },
-    {
       "date": "2026-09-08",
       "stars": 151284
     },
@@ -284,6 +280,10 @@
       "stars": 151702
     },
     {
+      "date": "2026-09-13",
+      "stars": 151817
+    },
+    {
       "date": "2026-09-14",
       "stars": 151932
     },
@@ -298,10 +298,6 @@
     {
       "date": "2026-09-17",
       "stars": 152329
-    },
-    {
-      "date": "2026-09-18",
-      "stars": 152441
     },
     {
       "date": "2026-09-19",
@@ -328,6 +324,10 @@
       "stars": 152967
     },
     {
+      "date": "2026-09-25",
+      "stars": 153107
+    },
+    {
       "date": "2026-09-26",
       "stars": 153208
     },
@@ -338,10 +338,6 @@
     {
       "date": "2026-09-28",
       "stars": 153413
-    },
-    {
-      "date": "2026-09-29",
-      "stars": 153492
     },
     {
       "date": "2026-09-30",
@@ -372,16 +368,16 @@
       "stars": 154054
     },
     {
+      "date": "2026-10-07",
+      "stars": 154122
+    },
+    {
       "date": "2026-10-08",
       "stars": 154202
     },
     {
       "date": "2026-10-09",
       "stars": 154091
-    },
-    {
-      "date": "2026-10-10",
-      "stars": 154175
     },
     {
       "date": "2026-10-11",
@@ -416,12 +412,12 @@
       "stars": 156018
     },
     {
-      "date": "2026-10-20",
-      "stars": 156230
+      "date": "2026-10-19",
+      "stars": 156130
     },
     {
-      "date": "2026-10-21",
-      "stars": 156326
+      "date": "2026-10-20",
+      "stars": 156230
     },
     {
       "date": "2026-10-22",
@@ -438,6 +434,10 @@
     {
       "date": "2026-10-25",
       "stars": 156675
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 156775
     }
   ],
   "links": {

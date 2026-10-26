@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 109314,
-  "forks": 11944,
-  "openIssues": 125,
-  "pushedAt": "2026-10-23T22:11:48Z",
+  "stars": 109311,
+  "forks": 11951,
+  "openIssues": 128,
+  "pushedAt": "2026-10-26T07:10:44Z",
   "topics": [
     "hacktoberfest",
     "http-client",
@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 15,
+  "starDelta7d": 12,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32372333?v=4",
   "languages": {
     "JavaScript": 0.91,
@@ -33,6 +33,11 @@
     "text": "axios is a JavaScript project focused on Promise based HTTP client for the browser and node.js. It is tagged with hacktoberfest, http-client, and javascript."
   },
   "releases": [
+    {
+      "tag": "v1.21.0",
+      "name": "v1.21.0",
+      "publishedAt": "2026-10-26T07:10:45Z"
+    },
     {
       "tag": "v0.34.0",
       "name": "v0.34.0",
@@ -52,11 +57,6 @@
       "tag": "v1.18.1",
       "name": "v1.18.1",
       "publishedAt": "2026-06-21T17:25:10Z"
-    },
-    {
-      "tag": "v1.18.0",
-      "name": "v1.18.0",
-      "publishedAt": "2026-06-13T12:00:31Z"
     }
   ],
   "starHistory": [
@@ -81,8 +81,8 @@
       "stars": 109106
     },
     {
-      "date": "2026-07-19",
-      "stars": 109124
+      "date": "2026-07-26",
+      "stars": 109164
     },
     {
       "date": "2026-07-27",
@@ -121,12 +121,12 @@
       "stars": 109170
     },
     {
-      "date": "2026-08-05",
-      "stars": 109177
-    },
-    {
       "date": "2026-08-06",
       "stars": 109213
+    },
+    {
+      "date": "2026-08-07",
+      "stars": 109223
     },
     {
       "date": "2026-08-08",
@@ -161,16 +161,16 @@
       "stars": 109215
     },
     {
-      "date": "2026-08-16",
-      "stars": 109216
-    },
-    {
       "date": "2026-08-17",
       "stars": 109205
     },
     {
       "date": "2026-08-18",
       "stars": 109202
+    },
+    {
+      "date": "2026-08-19",
+      "stars": 109196
     },
     {
       "date": "2026-08-20",
@@ -201,10 +201,6 @@
       "stars": 109198
     },
     {
-      "date": "2026-08-27",
-      "stars": 109193
-    },
-    {
       "date": "2026-08-28",
       "stars": 109192
     },
@@ -215,6 +211,10 @@
     {
       "date": "2026-08-30",
       "stars": 109194
+    },
+    {
+      "date": "2026-08-31",
+      "stars": 109192
     },
     {
       "date": "2026-09-01",
@@ -241,10 +241,6 @@
       "stars": 109201
     },
     {
-      "date": "2026-09-07",
-      "stars": 109230
-    },
-    {
       "date": "2026-09-08",
       "stars": 109233
     },
@@ -265,6 +261,10 @@
       "stars": 109219
     },
     {
+      "date": "2026-09-13",
+      "stars": 109215
+    },
+    {
       "date": "2026-09-14",
       "stars": 109214
     },
@@ -279,10 +279,6 @@
     {
       "date": "2026-09-17",
       "stars": 109201
-    },
-    {
-      "date": "2026-09-18",
-      "stars": 109206
     },
     {
       "date": "2026-09-19",
@@ -309,6 +305,10 @@
       "stars": 109209
     },
     {
+      "date": "2026-09-25",
+      "stars": 109216
+    },
+    {
       "date": "2026-09-26",
       "stars": 109218
     },
@@ -319,10 +319,6 @@
     {
       "date": "2026-09-28",
       "stars": 109239
-    },
-    {
-      "date": "2026-09-29",
-      "stars": 109244
     },
     {
       "date": "2026-09-30",
@@ -353,16 +349,16 @@
       "stars": 109319
     },
     {
+      "date": "2026-10-07",
+      "stars": 109347
+    },
+    {
       "date": "2026-10-08",
       "stars": 109350
     },
     {
       "date": "2026-10-09",
       "stars": 109342
-    },
-    {
-      "date": "2026-10-10",
-      "stars": 109346
     },
     {
       "date": "2026-10-11",
@@ -397,11 +393,11 @@
       "stars": 109299
     },
     {
-      "date": "2026-10-20",
-      "stars": 109304
+      "date": "2026-10-19",
+      "stars": 109299
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-20",
       "stars": 109304
     },
     {
@@ -419,6 +415,10 @@
     {
       "date": "2026-10-25",
       "stars": 109314
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 109311
     }
   ],
   "links": {

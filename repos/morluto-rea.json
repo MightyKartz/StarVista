@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 380214,
-  "forks": 95048,
-  "openIssues": 1040,
-  "pushedAt": "2026-10-25T07:13:11Z",
+  "stars": 386690,
+  "forks": 96866,
+  "openIssues": 1106,
+  "pushedAt": "2026-10-26T07:42:49Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -35,17 +35,17 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 68436,
+  "starDelta7d": 59245,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76467478?v=4",
   "languages": {
     "TypeScript": 0.88,
     "JavaScript": 0.07,
     "Python": 0.02,
-    "HTML": 0.01,
+    "HTML": 0.02,
     "Java": 0.01,
     "C++": 0,
-    "Swift": 0,
     "CSS": 0,
+    "Swift": 0,
     "C": 0,
     "Shell": 0,
     "Assembly": 0,
@@ -61,6 +61,11 @@
     "text": "rea is a TypeScript project focused on Reverse engineer anything with agents, from app behavior down to native binaries. It is tagged with agent-skills, ai-agents, and binary-analysis."
   },
   "releases": [
+    {
+      "tag": "rea-agents-6.8.0",
+      "name": "rea-agents: v6.8.0",
+      "publishedAt": "2026-10-25T08:36:02Z"
+    },
     {
       "tag": "rea-agents-6.7.0",
       "name": "rea-agents: v6.7.0",
@@ -80,11 +85,6 @@
       "tag": "rea-agents-6.4.0",
       "name": "rea-agents: v6.4.0",
       "publishedAt": "2026-10-11T03:58:03Z"
-    },
-    {
-      "tag": "rea-agents-6.3.0",
-      "name": "rea-agents: v6.3.0",
-      "publishedAt": "2026-10-09T23:56:42Z"
     }
   ],
   "starHistory": [
@@ -143,6 +143,10 @@
     {
       "date": "2026-10-25",
       "stars": 380214
+    },
+    {
+      "date": "2026-10-26",
+      "stars": 386690
     }
   ],
   "links": {

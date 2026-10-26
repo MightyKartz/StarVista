@@ -1,0 +1,103 @@
+{
+  "id": "stablyai/orca",
+  "slug": "stablyai-orca",
+  "owner": "stablyai",
+  "name": "orca",
+  "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 106231,
+  "forks": 6711,
+  "openIssues": 8389,
+  "pushedAt": "2026-10-26T07:46:27Z",
+  "topics": [
+    "ade",
+    "agent-ide",
+    "ai-agents",
+    "automation",
+    "bot",
+    "claude-code",
+    "codex",
+    "ghostty",
+    "grok-bot",
+    "hermes-agent",
+    "mobile-app",
+    "muse",
+    "openclaw",
+    "opencode",
+    "orchestration",
+    "pi",
+    "runtime",
+    "terminal",
+    "worktrees",
+    "yc-backed"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
+  "languages": {
+    "TypeScript": 0.96,
+    "JavaScript": 0.03,
+    "Swift": 0,
+    "CSS": 0,
+    "PowerShell": 0,
+    "HTML": 0,
+    "Kotlin": 0,
+    "Python": 0,
+    "Shell": 0,
+    "C++": 0,
+    "Ruby": 0,
+    "Rust": 0,
+    "C": 0,
+    "Dockerfile": 0,
+    "Objective-C": 0,
+    "NSIS": 0,
+    "C#": 0,
+    "Batchfile": 0,
+    "VBScript": 0
+  },
+  "readmeExcerpt": "Orca",
+  "summary": {
+    "mode": "template",
+    "text": "orca is a TypeScript project focused on Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. It is tagged with ade, agent-ide, and ai-agents."
+  },
+  "releases": [
+    {
+      "tag": "v1.4.241",
+      "name": "v1.4.241",
+      "publishedAt": "2026-10-26T03:48:28Z"
+    },
+    {
+      "tag": "mobile-android-v0.0.59",
+      "name": "Orca Mobile Android mobile-android-v0.0.59",
+      "publishedAt": "2026-10-26T04:21:00Z"
+    },
+    {
+      "tag": "v1.4.240",
+      "name": "v1.4.240",
+      "publishedAt": "2026-10-25T04:02:08Z"
+    },
+    {
+      "tag": "v1.4.239",
+      "name": "v1.4.239",
+      "publishedAt": "2026-10-24T07:10:02Z"
+    },
+    {
+      "tag": "v1.4.238",
+      "name": "v1.4.238",
+      "publishedAt": "2026-10-23T21:47:22Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-10-26",
+      "stars": 106231
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/stablyai/orca",
+    "homepage": "https://orca.dev"
+  }
+}
