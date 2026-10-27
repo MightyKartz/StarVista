@@ -7,20 +7,20 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 153398,
-  "forks": 26040,
-  "openIssues": 15695,
-  "pushedAt": "2026-10-25T20:11:26Z",
+  "stars": 153504,
+  "forks": 26053,
+  "openIssues": 15741,
+  "pushedAt": "2026-10-26T23:13:01Z",
   "topics": [],
   "license": null,
   "activity": "active",
-  "starDelta7d": 1096,
+  "starDelta7d": 700,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
   "languages": {
-    "TypeScript": 0.63,
-    "Python": 0.31,
-    "Shell": 0.05,
-    "PowerShell": 0,
+    "TypeScript": 0.89,
+    "Shell": 0.07,
+    "Python": 0.03,
+    "PowerShell": 0.01,
     "Dockerfile": 0
   },
   "readmeExcerpt": "[npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square",
@@ -29,6 +29,11 @@
     "text": "claude-code is a TypeScript project focused on Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   "releases": [
+    {
+      "tag": "v2.1.311",
+      "name": "v2.1.311",
+      "publishedAt": "2026-10-26T21:51:23Z"
+    },
     {
       "tag": "v2.1.310",
       "name": "v2.1.310",
@@ -48,11 +53,6 @@
       "tag": "v2.1.307",
       "name": "v2.1.307",
       "publishedAt": "2026-10-21T22:17:02Z"
-    },
-    {
-      "tag": "v2.1.306",
-      "name": "v2.1.306",
-      "publishedAt": "2026-10-21T03:16:31Z"
     }
   ],
   "starHistory": [
@@ -79,10 +79,6 @@
     {
       "date": "2026-07-26",
       "stars": 139100
-    },
-    {
-      "date": "2026-07-27",
-      "stars": 139228
     },
     {
       "date": "2026-07-28",
@@ -117,8 +113,8 @@
       "stars": 140152
     },
     {
-      "date": "2026-08-06",
-      "stars": 140411
+      "date": "2026-08-05",
+      "stars": 140277
     },
     {
       "date": "2026-08-07",
@@ -157,8 +153,8 @@
       "stars": 141486
     },
     {
-      "date": "2026-08-17",
-      "stars": 141679
+      "date": "2026-08-16",
+      "stars": 141579
     },
     {
       "date": "2026-08-18",
@@ -197,8 +193,8 @@
       "stars": 143018
     },
     {
-      "date": "2026-08-28",
-      "stars": 143270
+      "date": "2026-08-27",
+      "stars": 143156
     },
     {
       "date": "2026-08-29",
@@ -237,8 +233,8 @@
       "stars": 144202
     },
     {
-      "date": "2026-09-08",
-      "stars": 144406
+      "date": "2026-09-07",
+      "stars": 144309
     },
     {
       "date": "2026-09-09",
@@ -277,8 +273,8 @@
       "stars": 145685
     },
     {
-      "date": "2026-09-19",
-      "stars": 146426
+      "date": "2026-09-18",
+      "stars": 145977
     },
     {
       "date": "2026-09-20",
@@ -317,8 +313,8 @@
       "stars": 148399
     },
     {
-      "date": "2026-09-30",
-      "stars": 148630
+      "date": "2026-09-29",
+      "stars": 148522
     },
     {
       "date": "2026-10-01",
@@ -357,8 +353,8 @@
       "stars": 149786
     },
     {
-      "date": "2026-10-11",
-      "stars": 150111
+      "date": "2026-10-10",
+      "stars": 149951
     },
     {
       "date": "2026-10-12",
@@ -397,8 +393,8 @@
       "stars": 152804
     },
     {
-      "date": "2026-10-22",
-      "stars": 152799
+      "date": "2026-10-21",
+      "stars": 152701
     },
     {
       "date": "2026-10-23",
@@ -415,6 +411,10 @@
     {
       "date": "2026-10-26",
       "stars": 153398
+    },
+    {
+      "date": "2026-10-27",
+      "stars": 153504
     }
   ],
   "links": {

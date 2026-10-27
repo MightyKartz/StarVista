@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 106231,
-  "forks": 6711,
-  "openIssues": 8389,
-  "pushedAt": "2026-10-26T07:46:27Z",
+  "stars": 107386,
+  "forks": 6775,
+  "openIssues": 8010,
+  "pushedAt": "2026-10-27T07:50:55Z",
   "topics": [
     "ade",
     "agent-ide",
@@ -52,8 +52,8 @@
     "Rust": 0,
     "C": 0,
     "Dockerfile": 0,
-    "Objective-C": 0,
     "NSIS": 0,
+    "Objective-C": 0,
     "C#": 0,
     "Batchfile": 0,
     "VBScript": 0
@@ -64,6 +64,11 @@
     "text": "orca is a TypeScript project focused on Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. It is tagged with ade, agent-ide, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "v1.4.242",
+      "name": "v1.4.242",
+      "publishedAt": "2026-10-27T00:09:03Z"
+    },
     {
       "tag": "v1.4.241",
       "name": "v1.4.241",
@@ -83,17 +88,16 @@
       "tag": "v1.4.239",
       "name": "v1.4.239",
       "publishedAt": "2026-10-24T07:10:02Z"
-    },
-    {
-      "tag": "v1.4.238",
-      "name": "v1.4.238",
-      "publishedAt": "2026-10-23T21:47:22Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-10-26",
       "stars": 106231
+    },
+    {
+      "date": "2026-10-27",
+      "stars": 107386
     }
   ],
   "links": {

@@ -7,30 +7,29 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 184802,
-  "forks": 18587,
-  "openIssues": 4432,
-  "pushedAt": "2026-10-26T04:25:58Z",
+  "stars": 184940,
+  "forks": 18630,
+  "openIssues": 4460,
+  "pushedAt": "2026-10-27T02:18:32Z",
   "topics": [
     "deepseek",
     "gemma",
-    "gemma3",
     "glm",
     "go",
     "golang",
     "gpt-oss",
     "llama",
-    "llama3",
     "llm",
     "llms",
     "minimax",
     "mistral",
+    "muse",
     "ollama",
     "qwen"
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1015,
+  "starDelta7d": 1033,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/151674099?v=4",
   "languages": {
     "Go": 0.72,
@@ -52,9 +51,14 @@
   "readmeExcerpt": "Start building with open models. Access the latest releases locally or in the cloud with complete privacy.",
   "summary": {
     "mode": "template",
-    "text": "ollama is a Go project focused on Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. It is tagged with deepseek, gemma, and gemma3."
+    "text": "ollama is a Go project focused on Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. It is tagged with deepseek, gemma, and glm."
   },
   "releases": [
+    {
+      "tag": "v0.40.12-rc0",
+      "name": "v0.40.12",
+      "publishedAt": "2026-10-27T00:07:12Z"
+    },
     {
       "tag": "v0.40.11",
       "name": "v0.40.11",
@@ -74,11 +78,6 @@
       "tag": "v0.40.8",
       "name": "v0.40.8",
       "publishedAt": "2026-10-21T16:20:30Z"
-    },
-    {
-      "tag": "v0.40.7",
-      "name": "v0.40.7",
-      "publishedAt": "2026-10-18T00:28:57Z"
     }
   ],
   "starHistory": [
@@ -105,10 +104,6 @@
     {
       "date": "2026-07-26",
       "stars": 176896
-    },
-    {
-      "date": "2026-07-27",
-      "stars": 176962
     },
     {
       "date": "2026-07-28",
@@ -143,8 +138,8 @@
       "stars": 177726
     },
     {
-      "date": "2026-08-06",
-      "stars": 177882
+      "date": "2026-08-05",
+      "stars": 177810
     },
     {
       "date": "2026-08-07",
@@ -183,8 +178,8 @@
       "stars": 178511
     },
     {
-      "date": "2026-08-17",
-      "stars": 178726
+      "date": "2026-08-16",
+      "stars": 178621
     },
     {
       "date": "2026-08-18",
@@ -223,8 +218,8 @@
       "stars": 179435
     },
     {
-      "date": "2026-08-28",
-      "stars": 179632
+      "date": "2026-08-27",
+      "stars": 179550
     },
     {
       "date": "2026-08-29",
@@ -263,8 +258,8 @@
       "stars": 180265
     },
     {
-      "date": "2026-09-08",
-      "stars": 180445
+      "date": "2026-09-07",
+      "stars": 180352
     },
     {
       "date": "2026-09-09",
@@ -303,8 +298,8 @@
       "stars": 181221
     },
     {
-      "date": "2026-09-19",
-      "stars": 181243
+      "date": "2026-09-18",
+      "stars": 181191
     },
     {
       "date": "2026-09-20",
@@ -343,8 +338,8 @@
       "stars": 181839
     },
     {
-      "date": "2026-09-30",
-      "stars": 181941
+      "date": "2026-09-29",
+      "stars": 181897
     },
     {
       "date": "2026-10-01",
@@ -383,8 +378,8 @@
       "stars": 182457
     },
     {
-      "date": "2026-10-11",
-      "stars": 182696
+      "date": "2026-10-10",
+      "stars": 182582
     },
     {
       "date": "2026-10-12",
@@ -423,8 +418,8 @@
       "stars": 183907
     },
     {
-      "date": "2026-10-22",
-      "stars": 184242
+      "date": "2026-10-21",
+      "stars": 184122
     },
     {
       "date": "2026-10-23",
@@ -441,6 +436,10 @@
     {
       "date": "2026-10-26",
       "stars": 184802
+    },
+    {
+      "date": "2026-10-27",
+      "stars": 184940
     }
   ],
   "links": {

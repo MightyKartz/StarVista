@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 143056,
-  "forks": 16883,
-  "openIssues": 5350,
-  "pushedAt": "2026-10-26T06:46:31Z",
+  "stars": 143394,
+  "forks": 16939,
+  "openIssues": 5361,
+  "pushedAt": "2026-10-27T07:41:24Z",
   "topics": [
     "ai",
     "comfy",
@@ -21,7 +21,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 4102,
+  "starDelta7d": 3299,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/166579949?v=4",
   "languages": {
     "Python": 1,
@@ -35,6 +35,11 @@
     "text": "ComfyUI is a Python project focused on The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. It is tagged with ai, comfy, and comfyui."
   },
   "releases": [
+    {
+      "tag": "v0.43.0",
+      "name": "v0.43.0",
+      "publishedAt": "2026-10-27T02:40:46Z"
+    },
     {
       "tag": "v0.42.1",
       "name": "v0.42.1",
@@ -54,11 +59,6 @@
       "tag": "v0.40.0",
       "name": "v0.40.0",
       "publishedAt": "2026-10-13T21:29:16Z"
-    },
-    {
-      "tag": "v0.39.0",
-      "name": "v0.39.0",
-      "publishedAt": "2026-10-05T22:49:43Z"
     }
   ],
   "starHistory": [
@@ -85,10 +85,6 @@
     {
       "date": "2026-07-26",
       "stars": 122256
-    },
-    {
-      "date": "2026-07-27",
-      "stars": 122413
     },
     {
       "date": "2026-07-28",
@@ -123,8 +119,8 @@
       "stars": 123482
     },
     {
-      "date": "2026-08-06",
-      "stars": 124071
+      "date": "2026-08-05",
+      "stars": 123682
     },
     {
       "date": "2026-08-07",
@@ -163,8 +159,8 @@
       "stars": 127620
     },
     {
-      "date": "2026-08-17",
-      "stars": 127972
+      "date": "2026-08-16",
+      "stars": 127793
     },
     {
       "date": "2026-08-18",
@@ -203,8 +199,8 @@
       "stars": 129986
     },
     {
-      "date": "2026-08-28",
-      "stars": 130420
+      "date": "2026-08-27",
+      "stars": 130250
     },
     {
       "date": "2026-08-29",
@@ -243,8 +239,8 @@
       "stars": 131679
     },
     {
-      "date": "2026-09-08",
-      "stars": 132011
+      "date": "2026-09-07",
+      "stars": 131836
     },
     {
       "date": "2026-09-09",
@@ -283,8 +279,8 @@
       "stars": 133585
     },
     {
-      "date": "2026-09-19",
-      "stars": 133841
+      "date": "2026-09-18",
+      "stars": 133718
     },
     {
       "date": "2026-09-20",
@@ -323,8 +319,8 @@
       "stars": 135280
     },
     {
-      "date": "2026-09-30",
-      "stars": 135560
+      "date": "2026-09-29",
+      "stars": 135436
     },
     {
       "date": "2026-10-01",
@@ -363,8 +359,8 @@
       "stars": 136540
     },
     {
-      "date": "2026-10-11",
-      "stars": 136847
+      "date": "2026-10-10",
+      "stars": 136699
     },
     {
       "date": "2026-10-12",
@@ -403,8 +399,8 @@
       "stars": 140095
     },
     {
-      "date": "2026-10-22",
-      "stars": 141748
+      "date": "2026-10-21",
+      "stars": 141048
     },
     {
       "date": "2026-10-23",
@@ -421,6 +417,10 @@
     {
       "date": "2026-10-26",
       "stars": 143056
+    },
+    {
+      "date": "2026-10-27",
+      "stars": 143394
     }
   ],
   "links": {
