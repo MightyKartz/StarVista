@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 108563,
-  "forks": 14850,
-  "openIssues": 779,
-  "pushedAt": "2026-10-27T01:15:46Z",
+  "stars": 108592,
+  "forks": 14857,
+  "openIssues": 786,
+  "pushedAt": "2026-10-28T02:26:41Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1106,
+  "starDelta7d": 1113,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
   "languages": {
     "TypeScript": 0.97,
@@ -34,36 +34,36 @@
     "HTML": 0,
     "Makefile": 0
   },
-  "readmeExcerpt": "> [!NOTE] > > Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity > CLI on June 18th, 2026. To learn more, see our > blog post. > > Gemini CLI has not been optimized for Gemini 4 Argon. To use Gemini 4 > Argon, please use Antigravity.",
+  "readmeExcerpt": "> [!IMPORTANT] > Read before installing — Gemini CLI status & tool guide > > - Enterprise Code Assist only: Designed for Gemini Code Assist Standard / Enterprise licenses and Code Assist for GitHub on Google Cloud (your access remains unchanged). > - No free tier or Google AI plans: Free individual access and Google AI Pro / Ultra (Google One) moved to Antigravity CLI on June 18, 2026 (transition post). > - Not optimized for Gemini 4+: Not tuned for the Gemini 4 series (for example, Gemini 4...",
   "summary": {
     "mode": "template",
     "text": "gemini-cli is a TypeScript project focused on An open-source AI agent that brings the power of Gemini directly into your terminal. It is tagged with ai, ai-agents, and cli."
   },
   "releases": [
     {
+      "tag": "v0.67.0-nightly.20261028.gfa5c17365",
+      "name": "Release v0.67.0-nightly.20261028.gfa5c17365",
+      "publishedAt": "2026-10-28T01:22:20Z"
+    },
+    {
+      "tag": "v0.67.0-preview.0",
+      "name": "Release v0.67.0-preview.0",
+      "publishedAt": "2026-10-27T20:07:49Z"
+    },
+    {
       "tag": "v0.67.0-nightly.20261027.g363a13119",
       "name": "Release v0.67.0-nightly.20261027.g363a13119",
       "publishedAt": "2026-10-27T01:15:46Z"
     },
     {
+      "tag": "v0.66.0",
+      "name": "Release v0.66.0",
+      "publishedAt": "2026-10-27T20:26:28Z"
+    },
+    {
       "tag": "v0.67.0-nightly.20261025.gcd1b45c2d",
       "name": "Release v0.67.0-nightly.20261025.gcd1b45c2d",
       "publishedAt": "2026-10-25T01:31:55Z"
-    },
-    {
-      "tag": "v0.67.0-nightly.20261024.gcd1b45c2d",
-      "name": "Release v0.67.0-nightly.20261024.gcd1b45c2d",
-      "publishedAt": "2026-10-24T01:15:53Z"
-    },
-    {
-      "tag": "v0.67.0-nightly.20261023.ga713410ab",
-      "name": "Release v0.67.0-nightly.20261023.ga713410ab",
-      "publishedAt": "2026-10-23T01:35:10Z"
-    },
-    {
-      "tag": "v0.67.0-nightly.20261022.g09d81bf11",
-      "name": "Release v0.67.0-nightly.20261022.g09d81bf11",
-      "publishedAt": "2026-10-22T01:23:52Z"
     }
   ],
   "starHistory": [
@@ -90,10 +90,6 @@
     {
       "date": "2026-07-26",
       "stars": 106181
-    },
-    {
-      "date": "2026-07-28",
-      "stars": 106213
     },
     {
       "date": "2026-07-29",
@@ -128,8 +124,8 @@
       "stars": 106368
     },
     {
-      "date": "2026-08-07",
-      "stars": 106400
+      "date": "2026-08-06",
+      "stars": 106384
     },
     {
       "date": "2026-08-08",
@@ -168,8 +164,8 @@
       "stars": 106531
     },
     {
-      "date": "2026-08-18",
-      "stars": 106544
+      "date": "2026-08-17",
+      "stars": 106536
     },
     {
       "date": "2026-08-19",
@@ -208,8 +204,8 @@
       "stars": 106708
     },
     {
-      "date": "2026-08-29",
-      "stars": 106738
+      "date": "2026-08-28",
+      "stars": 106720
     },
     {
       "date": "2026-08-30",
@@ -248,8 +244,8 @@
       "stars": 106844
     },
     {
-      "date": "2026-09-09",
-      "stars": 106875
+      "date": "2026-09-08",
+      "stars": 106860
     },
     {
       "date": "2026-09-10",
@@ -288,8 +284,8 @@
       "stars": 107054
     },
     {
-      "date": "2026-09-20",
-      "stars": 107090
+      "date": "2026-09-19",
+      "stars": 107074
     },
     {
       "date": "2026-09-21",
@@ -328,8 +324,8 @@
       "stars": 107182
     },
     {
-      "date": "2026-10-01",
-      "stars": 107212
+      "date": "2026-09-30",
+      "stars": 107191
     },
     {
       "date": "2026-10-02",
@@ -368,8 +364,8 @@
       "stars": 107268
     },
     {
-      "date": "2026-10-12",
-      "stars": 107292
+      "date": "2026-10-11",
+      "stars": 107281
     },
     {
       "date": "2026-10-13",
@@ -408,8 +404,8 @@
       "stars": 107479
     },
     {
-      "date": "2026-10-23",
-      "stars": 107534
+      "date": "2026-10-22",
+      "stars": 107496
     },
     {
       "date": "2026-10-24",
@@ -426,6 +422,10 @@
     {
       "date": "2026-10-27",
       "stars": 108563
+    },
+    {
+      "date": "2026-10-28",
+      "stars": 108592
     }
   ],
   "links": {

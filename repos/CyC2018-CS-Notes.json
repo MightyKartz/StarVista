@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 186353,
+  "stars": 186360,
   "forks": 50662,
-  "openIssues": 198,
-  "pushedAt": "2026-10-26T21:10:02Z",
+  "openIssues": 185,
+  "pushedAt": "2026-10-28T05:46:55Z",
   "topics": [
     "algorithm",
     "computer-science",
@@ -26,10 +26,12 @@
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36260787?v=4",
   "languages": {
-    "Python": 0.93,
-    "Shell": 0.07
+    "Python": 0.54,
+    "JavaScript": 0.39,
+    "CSS": 0.05,
+    "HTML": 0.02
   },
-  "readmeExcerpt": "--> -->",
+  "readmeExcerpt": "个人网站在线阅读 · 飞书知识库在线阅读 --> -->",
   "summary": {
     "mode": "template",
     "text": "CS-Notes is a Python project focused on :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计. It is tagged with algorithm, computer-science, and cpp."
@@ -55,6 +57,10 @@
     {
       "date": "2026-10-27",
       "stars": 186353
+    },
+    {
+      "date": "2026-10-28",
+      "stars": 186360
     }
   ],
   "links": {

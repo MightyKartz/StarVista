@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 148540,
-  "forks": 24936,
-  "openIssues": 679,
-  "pushedAt": "2026-10-27T02:53:04Z",
+  "stars": 148601,
+  "forks": 24952,
+  "openIssues": 690,
+  "pushedAt": "2026-10-28T08:13:03Z",
   "topics": [
     "agents",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 429,
+  "starDelta7d": 420,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
   "languages": {
     "Python": 0.99,
@@ -52,6 +52,11 @@
     "text": "langchain is a Python project focused on The agent engineering platform. It is tagged with agents, ai, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "langchain-anthropic==1.7.7",
+      "name": "langchain-anthropic==1.7.7",
+      "publishedAt": "2026-10-27T23:48:24Z"
+    },
     {
       "tag": "langchain-openai==1.7.3",
       "name": "langchain-openai==1.7.3",
@@ -71,11 +76,6 @@
       "tag": "langchain-perplexity==1.4.2",
       "name": "langchain-perplexity==1.4.2",
       "publishedAt": "2026-10-21T17:31:04Z"
-    },
-    {
-      "tag": "langchain-core==1.6.13",
-      "name": "langchain-core==1.6.13",
-      "publishedAt": "2026-10-21T20:43:48Z"
     }
   ],
   "starHistory": [
@@ -102,10 +102,6 @@
     {
       "date": "2026-07-26",
       "stars": 142598
-    },
-    {
-      "date": "2026-07-28",
-      "stars": 142745
     },
     {
       "date": "2026-07-29",
@@ -140,8 +136,8 @@
       "stars": 143443
     },
     {
-      "date": "2026-08-07",
-      "stars": 143581
+      "date": "2026-08-06",
+      "stars": 143517
     },
     {
       "date": "2026-08-08",
@@ -180,8 +176,8 @@
       "stars": 144296
     },
     {
-      "date": "2026-08-18",
-      "stars": 144426
+      "date": "2026-08-17",
+      "stars": 144358
     },
     {
       "date": "2026-08-19",
@@ -220,8 +216,8 @@
       "stars": 145114
     },
     {
-      "date": "2026-08-29",
-      "stars": 145223
+      "date": "2026-08-28",
+      "stars": 145184
     },
     {
       "date": "2026-08-30",
@@ -260,8 +256,8 @@
       "stars": 145836
     },
     {
-      "date": "2026-09-09",
-      "stars": 145985
+      "date": "2026-09-08",
+      "stars": 145914
     },
     {
       "date": "2026-09-10",
@@ -300,8 +296,8 @@
       "stars": 146574
     },
     {
-      "date": "2026-09-20",
-      "stars": 146705
+      "date": "2026-09-19",
+      "stars": 146638
     },
     {
       "date": "2026-09-21",
@@ -340,8 +336,8 @@
       "stars": 147235
     },
     {
-      "date": "2026-10-01",
-      "stars": 147342
+      "date": "2026-09-30",
+      "stars": 147300
     },
     {
       "date": "2026-10-02",
@@ -380,8 +376,8 @@
       "stars": 147539
     },
     {
-      "date": "2026-10-12",
-      "stars": 147665
+      "date": "2026-10-11",
+      "stars": 147593
     },
     {
       "date": "2026-10-13",
@@ -420,8 +416,8 @@
       "stars": 148181
     },
     {
-      "date": "2026-10-23",
-      "stars": 148309
+      "date": "2026-10-22",
+      "stars": 148241
     },
     {
       "date": "2026-10-24",
@@ -438,6 +434,10 @@
     {
       "date": "2026-10-27",
       "stars": 148540
+    },
+    {
+      "date": "2026-10-28",
+      "stars": 148601
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 107386,
-  "forks": 6775,
-  "openIssues": 8010,
-  "pushedAt": "2026-10-27T07:50:55Z",
+  "stars": 108419,
+  "forks": 6849,
+  "openIssues": 7949,
+  "pushedAt": "2026-10-28T08:30:46Z",
   "topics": [
     "ade",
     "agent-ide",
@@ -65,6 +65,11 @@
   },
   "releases": [
     {
+      "tag": "v1.4.243",
+      "name": "v1.4.243",
+      "publishedAt": "2026-10-28T04:08:34Z"
+    },
+    {
       "tag": "v1.4.242",
       "name": "v1.4.242",
       "publishedAt": "2026-10-27T00:09:03Z"
@@ -83,11 +88,6 @@
       "tag": "v1.4.240",
       "name": "v1.4.240",
       "publishedAt": "2026-10-25T04:02:08Z"
-    },
-    {
-      "tag": "v1.4.239",
-      "name": "v1.4.239",
-      "publishedAt": "2026-10-24T07:10:02Z"
     }
   ],
   "starHistory": [
@@ -98,6 +98,10 @@
     {
       "date": "2026-10-27",
       "stars": 107386
+    },
+    {
+      "date": "2026-10-28",
+      "stars": 108419
     }
   ],
   "links": {

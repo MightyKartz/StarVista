@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 208714,
-  "forks": 61263,
-  "openIssues": 1229,
-  "pushedAt": "2026-10-27T07:50:22Z",
+  "stars": 208840,
+  "forks": 61277,
+  "openIssues": 1217,
+  "pushedAt": "2026-10-28T08:29:13Z",
   "topics": [
     "ai",
     "apis",
@@ -35,7 +35,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 622,
+  "starDelta7d": 656,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/45487711?v=4",
   "languages": {
     "TypeScript": 0.92,
@@ -65,27 +65,27 @@
     {
       "tag": "stable",
       "name": "stable",
-      "publishedAt": "2026-10-26T06:22:02Z"
+      "publishedAt": "2026-10-28T07:16:08Z"
     },
     {
-      "tag": "n8n@2.44.7",
-      "name": "n8n@2.44.7",
-      "publishedAt": "2026-10-26T06:22:00Z"
+      "tag": "n8n@2.45.5",
+      "name": "n8n@2.45.5",
+      "publishedAt": "2026-10-28T07:16:05Z"
     },
     {
-      "tag": "n8n@1.123.88",
-      "name": "n8n@1.123.88",
-      "publishedAt": "2026-10-26T06:49:08Z"
+      "tag": "n8n@1.123.89",
+      "name": "n8n@1.123.89",
+      "publishedAt": "2026-10-28T07:28:11Z"
     },
     {
-      "tag": "n8n@2.45.4",
-      "name": "n8n@2.45.4",
-      "publishedAt": "2026-10-26T06:24:42Z"
+      "tag": "n8n@3.0.1",
+      "name": "n8n@3.0.1",
+      "publishedAt": "2026-10-28T08:06:42Z"
     },
     {
-      "tag": "beta",
-      "name": "beta",
-      "publishedAt": "2026-10-26T06:24:44Z"
+      "tag": "n8n@2.46.1",
+      "name": "n8n@2.46.1",
+      "publishedAt": "2026-10-28T07:18:30Z"
     }
   ],
   "starHistory": [
@@ -112,10 +112,6 @@
     {
       "date": "2026-07-26",
       "stars": 198023
-    },
-    {
-      "date": "2026-07-28",
-      "stars": 198296
     },
     {
       "date": "2026-07-29",
@@ -150,8 +146,8 @@
       "stars": 199380
     },
     {
-      "date": "2026-08-07",
-      "stars": 199638
+      "date": "2026-08-06",
+      "stars": 199502
     },
     {
       "date": "2026-08-08",
@@ -190,8 +186,8 @@
       "stars": 200793
     },
     {
-      "date": "2026-08-18",
-      "stars": 201009
+      "date": "2026-08-17",
+      "stars": 200915
     },
     {
       "date": "2026-08-19",
@@ -230,8 +226,8 @@
       "stars": 202586
     },
     {
-      "date": "2026-08-29",
-      "stars": 202753
+      "date": "2026-08-28",
+      "stars": 202679
     },
     {
       "date": "2026-08-30",
@@ -270,8 +266,8 @@
       "stars": 203599
     },
     {
-      "date": "2026-09-09",
-      "stars": 203801
+      "date": "2026-09-08",
+      "stars": 203695
     },
     {
       "date": "2026-09-10",
@@ -310,8 +306,8 @@
       "stars": 205147
     },
     {
-      "date": "2026-09-20",
-      "stars": 205416
+      "date": "2026-09-19",
+      "stars": 205320
     },
     {
       "date": "2026-09-21",
@@ -350,8 +346,8 @@
       "stars": 206242
     },
     {
-      "date": "2026-10-01",
-      "stars": 206411
+      "date": "2026-09-30",
+      "stars": 206325
     },
     {
       "date": "2026-10-02",
@@ -390,8 +386,8 @@
       "stars": 206867
     },
     {
-      "date": "2026-10-12",
-      "stars": 207055
+      "date": "2026-10-11",
+      "stars": 206956
     },
     {
       "date": "2026-10-13",
@@ -430,8 +426,8 @@
       "stars": 208184
     },
     {
-      "date": "2026-10-23",
-      "stars": 208360
+      "date": "2026-10-22",
+      "stars": 208280
     },
     {
       "date": "2026-10-24",
@@ -448,6 +444,10 @@
     {
       "date": "2026-10-27",
       "stars": 208714
+    },
+    {
+      "date": "2026-10-28",
+      "stars": 208840
     }
   ],
   "links": {
