@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 123116,
-  "forks": 39270,
-  "openIssues": 1304,
-  "pushedAt": "2026-10-28T01:46:45Z",
+  "stars": 123162,
+  "forks": 39294,
+  "openIssues": 1290,
+  "pushedAt": "2026-10-29T01:21:55Z",
   "topics": [
     "javascript",
     "js",
@@ -24,7 +24,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 638,
+  "starDelta7d": 633,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9950313?v=4",
   "languages": {
     "JavaScript": 0.66,
@@ -49,6 +49,16 @@
   },
   "releases": [
     {
+      "tag": "v26.13.0",
+      "name": "2026-10-28, Version 26.13.0 'Lithium' (LTS), @richardlau",
+      "publishedAt": "2026-10-28T16:57:41Z"
+    },
+    {
+      "tag": "v24.22.2",
+      "name": "2026-10-28, Version 24.22.2 'Krypton' (LTS), @aduh95",
+      "publishedAt": "2026-10-28T18:39:09Z"
+    },
+    {
       "tag": "v26.12.1",
       "name": "2026-10-21, Version 26.12.1 (Current), @aduh95 prepared by @RafaelGSS",
       "publishedAt": "2026-10-21T10:38:29Z"
@@ -62,16 +72,6 @@
       "tag": "v22.23.4",
       "name": "2026-10-21, Version 22.23.4 'Jod' (LTS), @aduh95",
       "publishedAt": "2026-10-21T10:38:20Z"
-    },
-    {
-      "tag": "v26.12.0",
-      "name": "2026-10-14, Version 26.12.0 (Current), @richardlau",
-      "publishedAt": "2026-10-14T15:22:04Z"
-    },
-    {
-      "tag": "v24.22.0",
-      "name": "2026-10-14, Version 24.22.0 'Krypton' (LTS), @richardlau prepared by @aduh95",
-      "publishedAt": "2026-10-14T15:12:46Z"
     }
   ],
   "starHistory": [
@@ -98,10 +98,6 @@
     {
       "date": "2026-07-26",
       "stars": 118388
-    },
-    {
-      "date": "2026-07-29",
-      "stars": 118547
     },
     {
       "date": "2026-07-30",
@@ -136,8 +132,8 @@
       "stars": 118796
     },
     {
-      "date": "2026-08-08",
-      "stars": 118827
+      "date": "2026-08-07",
+      "stars": 118815
     },
     {
       "date": "2026-08-09",
@@ -176,8 +172,8 @@
       "stars": 118964
     },
     {
-      "date": "2026-08-19",
-      "stars": 119012
+      "date": "2026-08-18",
+      "stars": 118934
     },
     {
       "date": "2026-08-20",
@@ -216,8 +212,8 @@
       "stars": 119652
     },
     {
-      "date": "2026-08-30",
-      "stars": 119952
+      "date": "2026-08-29",
+      "stars": 119662
     },
     {
       "date": "2026-08-31",
@@ -256,8 +252,8 @@
       "stars": 121184
     },
     {
-      "date": "2026-09-10",
-      "stars": 121155
+      "date": "2026-09-09",
+      "stars": 121189
     },
     {
       "date": "2026-09-11",
@@ -296,8 +292,8 @@
       "stars": 122004
     },
     {
-      "date": "2026-09-21",
-      "stars": 122023
+      "date": "2026-09-20",
+      "stars": 122015
     },
     {
       "date": "2026-09-22",
@@ -336,8 +332,8 @@
       "stars": 122198
     },
     {
-      "date": "2026-10-02",
-      "stars": 122233
+      "date": "2026-10-01",
+      "stars": 122213
     },
     {
       "date": "2026-10-03",
@@ -376,8 +372,8 @@
       "stars": 122289
     },
     {
-      "date": "2026-10-13",
-      "stars": 122358
+      "date": "2026-10-12",
+      "stars": 122319
     },
     {
       "date": "2026-10-14",
@@ -416,8 +412,8 @@
       "stars": 122529
     },
     {
-      "date": "2026-10-24",
-      "stars": 122977
+      "date": "2026-10-23",
+      "stars": 122576
     },
     {
       "date": "2026-10-25",
@@ -434,6 +430,10 @@
     {
       "date": "2026-10-28",
       "stars": 123116
+    },
+    {
+      "date": "2026-10-29",
+      "stars": 123162
     }
   ],
   "links": {
