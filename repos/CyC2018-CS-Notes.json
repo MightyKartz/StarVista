@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 186370,
-  "forks": 50661,
+  "stars": 186383,
+  "forks": 50658,
   "openIssues": 174,
-  "pushedAt": "2026-10-28T20:59:00Z",
+  "pushedAt": "2026-10-29T18:58:30Z",
   "topics": [
     "algorithm",
     "computer-science",
@@ -23,12 +23,12 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": null,
+  "starDelta7d": 69,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36260787?v=4",
   "languages": {
-    "Python": 0.56,
-    "JavaScript": 0.37,
-    "CSS": 0.05,
+    "Python": 0.52,
+    "JavaScript": 0.4,
+    "CSS": 0.06,
     "HTML": 0.02
   },
   "readmeExcerpt": "个人网站在线阅读 · 飞书知识库在线阅读 --> -->",
@@ -65,6 +65,10 @@
     {
       "date": "2026-10-29",
       "stars": 186370
+    },
+    {
+      "date": "2026-10-30",
+      "stars": 186383
     }
   ],
   "links": {
