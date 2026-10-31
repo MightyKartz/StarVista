@@ -5,12 +5,12 @@
   "name": "hello-algo",
   "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
   "archived": false,
-  "primaryLanguage": "Java",
-  "languageColor": "#b07219",
-  "stars": 131719,
-  "forks": 15571,
+  "primaryLanguage": "Swift",
+  "languageColor": "#f05138",
+  "stars": 131802,
+  "forks": 15585,
   "openIssues": 26,
-  "pushedAt": "2026-10-30T06:58:41Z",
+  "pushedAt": "2026-10-30T20:04:16Z",
   "topics": [
     "algo",
     "algorithm",
@@ -26,11 +26,11 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 796,
+  "starDelta7d": 861,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26993056?v=4",
   "languages": {
-    "Java": 0.16,
     "Swift": 0.16,
+    "Java": 0.16,
     "C++": 0.15,
     "JavaScript": 0.14,
     "Go": 0.14,
@@ -42,7 +42,7 @@
   "readmeExcerpt": "动画图解、一键运行的数据结构与算法教程",
   "summary": {
     "mode": "template",
-    "text": "hello-algo is a Java project focused on 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现. It is tagged with algo, algorithm, and algorithms."
+    "text": "hello-algo is a Swift project focused on 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现. It is tagged with algo, algorithm, and algorithms."
   },
   "releases": [
     {
@@ -81,10 +81,6 @@
       "stars": 128798
     },
     {
-      "date": "2026-07-31",
-      "stars": 128999
-    },
-    {
       "date": "2026-08-01",
       "stars": 129032
     },
@@ -121,8 +117,8 @@
       "stars": 129295
     },
     {
-      "date": "2026-08-11",
-      "stars": 129343
+      "date": "2026-08-10",
+      "stars": 129321
     },
     {
       "date": "2026-08-12",
@@ -209,8 +205,8 @@
       "stars": 129706
     },
     {
-      "date": "2026-09-03",
-      "stars": 129790
+      "date": "2026-09-02",
+      "stars": 129754
     },
     {
       "date": "2026-09-04",
@@ -297,7 +293,7 @@
       "stars": 130143
     },
     {
-      "date": "2026-09-26",
+      "date": "2026-09-25",
       "stars": 130143
     },
     {
@@ -385,8 +381,8 @@
       "stars": 130801
     },
     {
-      "date": "2026-10-19",
-      "stars": 130844
+      "date": "2026-10-18",
+      "stars": 130829
     },
     {
       "date": "2026-10-20",
@@ -431,6 +427,10 @@
     {
       "date": "2026-10-30",
       "stars": 131719
+    },
+    {
+      "date": "2026-10-31",
+      "stars": 131802
     }
   ],
   "links": {

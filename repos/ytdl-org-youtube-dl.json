@@ -1,0 +1,68 @@
+{
+  "id": "ytdl-org/youtube-dl",
+  "slug": "ytdl-org-youtube-dl",
+  "owner": "ytdl-org",
+  "name": "youtube-dl",
+  "description": "Command-line program to download videos from YouTube.com and other video sites",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 141433,
+  "forks": 10675,
+  "openIssues": 4123,
+  "pushedAt": "2026-10-30T13:24:03Z",
+  "topics": [],
+  "license": "Unlicense",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/48381040?v=4",
+  "languages": {
+    "Python": 1,
+    "Shell": 0,
+    "Makefile": 0,
+    "ActionScript": 0,
+    "Batchfile": 0
+  },
+  "readmeExcerpt": "youtube-dl - download videos from youtube.com or other video platforms",
+  "summary": {
+    "mode": "template",
+    "text": "youtube-dl is a Python project focused on Command-line program to download videos from YouTube.com and other video sites."
+  },
+  "releases": [
+    {
+      "tag": "2021.12.17",
+      "name": "youtube-dl 2021.12.17",
+      "publishedAt": "2021-12-16T19:01:08Z"
+    },
+    {
+      "tag": "2021.06.06",
+      "name": "youtube-dl 2021.06.06",
+      "publishedAt": "2021-06-05T19:01:28Z"
+    },
+    {
+      "tag": "2021.05.16",
+      "name": "youtube-dl 2021.05.16",
+      "publishedAt": "2021-05-16T15:56:29Z"
+    },
+    {
+      "tag": "2021.04.26",
+      "name": "youtube-dl 2021.04.26",
+      "publishedAt": "2021-04-25T18:34:45Z"
+    },
+    {
+      "tag": "2021.04.17",
+      "name": "youtube-dl 2021.04.17",
+      "publishedAt": "2021-04-16T20:51:26Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-10-31",
+      "stars": 141433
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/ytdl-org/youtube-dl",
+    "homepage": "http://ytdl-org.github.io/youtube-dl/"
+  }
+}
