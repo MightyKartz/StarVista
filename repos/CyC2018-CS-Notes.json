@@ -5,12 +5,12 @@
   "name": "CS-Notes",
   "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
   "archived": false,
-  "primaryLanguage": "Python",
-  "languageColor": "#3572a5",
-  "stars": 186399,
-  "forks": 50664,
+  "primaryLanguage": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 186410,
+  "forks": 50665,
   "openIssues": 174,
-  "pushedAt": "2026-10-31T08:19:47Z",
+  "pushedAt": "2026-11-01T09:05:22Z",
   "topics": [
     "algorithm",
     "computer-science",
@@ -23,18 +23,18 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 83,
+  "starDelta7d": 80,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36260787?v=4",
   "languages": {
-    "Python": 0.52,
-    "JavaScript": 0.4,
-    "CSS": 0.06,
+    "JavaScript": 0.45,
+    "Python": 0.44,
+    "CSS": 0.09,
     "HTML": 0.02
   },
   "readmeExcerpt": "个人网站在线阅读 · 飞书知识库在线阅读 --> -->",
   "summary": {
     "mode": "template",
-    "text": "CS-Notes is a Python project focused on :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计. It is tagged with algorithm, computer-science, and cpp."
+    "text": "CS-Notes is a JavaScript project focused on :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计. It is tagged with algorithm, computer-science, and cpp."
   },
   "releases": [],
   "starHistory": [
@@ -73,6 +73,10 @@
     {
       "date": "2026-10-31",
       "stars": 186399
+    },
+    {
+      "date": "2026-11-01",
+      "stars": 186410
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 136696,
-  "forks": 21775,
-  "openIssues": 78,
-  "pushedAt": "2026-10-31T03:16:18Z",
+  "stars": 137022,
+  "forks": 21848,
+  "openIssues": 75,
+  "pushedAt": "2026-10-31T23:56:16Z",
   "topics": [
     "ai-video-generator",
     "content-creation",
@@ -29,14 +29,14 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2043,
+  "starDelta7d": 2084,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4",
   "languages": {
     "Python": 0.99,
     "CSS": 0,
     "Dockerfile": 0,
-    "Shell": 0,
     "Batchfile": 0,
+    "Shell": 0,
     "HTML": 0
   },
   "readmeExcerpt": "只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。",
@@ -89,10 +89,6 @@
       "stars": 99311
     },
     {
-      "date": "2026-08-01",
-      "stars": 100837
-    },
-    {
       "date": "2026-08-02",
       "stars": 101057
     },
@@ -105,8 +101,8 @@
       "stars": 101456
     },
     {
-      "date": "2026-08-06",
-      "stars": 101800
+      "date": "2026-08-05",
+      "stars": 101648
     },
     {
       "date": "2026-08-07",
@@ -165,8 +161,8 @@
       "stars": 111079
     },
     {
-      "date": "2026-08-22",
-      "stars": 114012
+      "date": "2026-08-21",
+      "stars": 113076
     },
     {
       "date": "2026-08-23",
@@ -225,8 +221,8 @@
       "stars": 120698
     },
     {
-      "date": "2026-09-07",
-      "stars": 121235
+      "date": "2026-09-06",
+      "stars": 120903
     },
     {
       "date": "2026-09-08",
@@ -281,8 +277,8 @@
       "stars": 124768
     },
     {
-      "date": "2026-09-22",
-      "stars": 125025
+      "date": "2026-09-21",
+      "stars": 124898
     },
     {
       "date": "2026-09-23",
@@ -341,8 +337,8 @@
       "stars": 128717
     },
     {
-      "date": "2026-10-08",
-      "stars": 129276
+      "date": "2026-10-07",
+      "stars": 128963
     },
     {
       "date": "2026-10-09",
@@ -401,8 +397,8 @@
       "stars": 133884
     },
     {
-      "date": "2026-10-24",
-      "stars": 134653
+      "date": "2026-10-23",
+      "stars": 134363
     },
     {
       "date": "2026-10-25",
@@ -431,6 +427,10 @@
     {
       "date": "2026-10-31",
       "stars": 136696
+    },
+    {
+      "date": "2026-11-01",
+      "stars": 137022
     }
   ],
   "links": {

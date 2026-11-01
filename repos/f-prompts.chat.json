@@ -5,12 +5,12 @@
   "name": "prompts.chat",
   "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
   "archived": false,
-  "primaryLanguage": "HTML",
+  "primaryLanguage": "MDX",
   "languageColor": null,
-  "stars": 175347,
-  "forks": 22380,
+  "stars": 175464,
+  "forks": 22398,
   "openIssues": 81,
-  "pushedAt": "2026-10-31T07:30:56Z",
+  "pushedAt": "2026-11-01T09:16:36Z",
   "topics": [
     "ai",
     "artificial-intelligence",
@@ -33,12 +33,12 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 1048,
+  "starDelta7d": 1021,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/196477?v=4",
   "languages": {
-    "HTML": 0.43,
-    "MDX": 0.41,
-    "TypeScript": 0.16,
+    "MDX": 0.43,
+    "HTML": 0.41,
+    "TypeScript": 0.15,
     "JavaScript": 0,
     "Shell": 0,
     "CSS": 0,
@@ -48,7 +48,7 @@
   "readmeExcerpt": "prompts.chat",
   "summary": {
     "mode": "template",
-    "text": "prompts.chat is a HTML project focused on f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. It is tagged with ai, artificial-intelligence, and awesome-list."
+    "text": "prompts.chat is a MDX project focused on f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. It is tagged with ai, artificial-intelligence, and awesome-list."
   },
   "releases": [],
   "starHistory": [
@@ -75,10 +75,6 @@
     {
       "date": "2026-07-26",
       "stars": 166364
-    },
-    {
-      "date": "2026-08-01",
-      "stars": 166583
     },
     {
       "date": "2026-08-02",
@@ -113,8 +109,8 @@
       "stars": 166902
     },
     {
-      "date": "2026-08-11",
-      "stars": 166976
+      "date": "2026-08-10",
+      "stars": 166934
     },
     {
       "date": "2026-08-12",
@@ -153,8 +149,8 @@
       "stars": 167595
     },
     {
-      "date": "2026-08-22",
-      "stars": 167715
+      "date": "2026-08-21",
+      "stars": 167661
     },
     {
       "date": "2026-08-23",
@@ -193,8 +189,8 @@
       "stars": 168278
     },
     {
-      "date": "2026-09-02",
-      "stars": 168496
+      "date": "2026-09-01",
+      "stars": 168372
     },
     {
       "date": "2026-09-03",
@@ -233,8 +229,8 @@
       "stars": 169926
     },
     {
-      "date": "2026-09-13",
-      "stars": 170179
+      "date": "2026-09-12",
+      "stars": 170030
     },
     {
       "date": "2026-09-14",
@@ -273,8 +269,8 @@
       "stars": 170940
     },
     {
-      "date": "2026-09-24",
-      "stars": 171136
+      "date": "2026-09-23",
+      "stars": 171063
     },
     {
       "date": "2026-09-25",
@@ -313,8 +309,8 @@
       "stars": 171889
     },
     {
-      "date": "2026-10-05",
-      "stars": 172050
+      "date": "2026-10-04",
+      "stars": 171978
     },
     {
       "date": "2026-10-06",
@@ -353,8 +349,8 @@
       "stars": 172902
     },
     {
-      "date": "2026-10-16",
-      "stars": 173116
+      "date": "2026-10-15",
+      "stars": 173035
     },
     {
       "date": "2026-10-17",
@@ -393,8 +389,8 @@
       "stars": 174443
     },
     {
-      "date": "2026-10-27",
-      "stars": 174694
+      "date": "2026-10-26",
+      "stars": 174593
     },
     {
       "date": "2026-10-28",
@@ -411,6 +407,10 @@
     {
       "date": "2026-10-31",
       "stars": 175347
+    },
+    {
+      "date": "2026-11-01",
+      "stars": 175464
     }
   ],
   "links": {
