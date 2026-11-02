@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 150739,
-  "forks": 9908,
-  "openIssues": 1107,
-  "pushedAt": "2026-10-31T16:11:48Z",
+  "stars": 151096,
+  "forks": 9931,
+  "openIssues": 1093,
+  "pushedAt": "2026-11-02T09:19:57Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2306,
+  "starDelta7d": 2330,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.62,
@@ -50,6 +50,11 @@
     "text": "cc-switch is a Rust project focused on A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io. It is tagged with ai-tools, claude-code, and codex."
   },
   "releases": [
+    {
+      "tag": "v4.0.24",
+      "name": "CC Switch v4.0.24",
+      "publishedAt": "2026-11-01T15:05:37Z"
+    },
     {
       "tag": "v4.0.23",
       "name": "CC Switch v4.0.23",
@@ -69,11 +74,6 @@
       "tag": "v4.0.20",
       "name": "CC Switch v4.0.20",
       "publishedAt": "2026-10-24T15:32:07Z"
-    },
-    {
-      "tag": "v4.0.19",
-      "name": "CC Switch v4.0.19",
-      "publishedAt": "2026-10-23T12:49:37Z"
     }
   ],
   "starHistory": [
@@ -134,8 +134,8 @@
       "stars": 125755
     },
     {
-      "date": "2026-08-10",
-      "stars": 125997
+      "date": "2026-08-11",
+      "stars": 126254
     },
     {
       "date": "2026-08-12",
@@ -170,12 +170,12 @@
       "stars": 128121
     },
     {
-      "date": "2026-08-20",
-      "stars": 128332
-    },
-    {
       "date": "2026-08-21",
       "stars": 128545
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 128736
     },
     {
       "date": "2026-08-23",
@@ -206,16 +206,16 @@
       "stars": 130002
     },
     {
-      "date": "2026-08-30",
-      "stars": 130133
-    },
-    {
       "date": "2026-08-31",
       "stars": 130311
     },
     {
       "date": "2026-09-01",
       "stars": 130462
+    },
+    {
+      "date": "2026-09-02",
+      "stars": 130630
     },
     {
       "date": "2026-09-03",
@@ -242,10 +242,6 @@
       "stars": 131628
     },
     {
-      "date": "2026-09-09",
-      "stars": 131845
-    },
-    {
       "date": "2026-09-10",
       "stars": 132050
     },
@@ -256,6 +252,10 @@
     {
       "date": "2026-09-12",
       "stars": 132419
+    },
+    {
+      "date": "2026-09-13",
+      "stars": 132575
     },
     {
       "date": "2026-09-14",
@@ -272,10 +272,6 @@
     {
       "date": "2026-09-17",
       "stars": 133278
-    },
-    {
-      "date": "2026-09-18",
-      "stars": 133477
     },
     {
       "date": "2026-09-19",
@@ -298,6 +294,10 @@
       "stars": 135090
     },
     {
+      "date": "2026-09-24",
+      "stars": 136085
+    },
+    {
       "date": "2026-09-25",
       "stars": 136631
     },
@@ -308,10 +308,6 @@
     {
       "date": "2026-09-27",
       "stars": 137328
-    },
-    {
-      "date": "2026-09-28",
-      "stars": 137907
     },
     {
       "date": "2026-09-29",
@@ -338,16 +334,16 @@
       "stars": 139860
     },
     {
+      "date": "2026-10-05",
+      "stars": 140137
+    },
+    {
       "date": "2026-10-06",
       "stars": 140373
     },
     {
       "date": "2026-10-07",
       "stars": 140605
-    },
-    {
-      "date": "2026-10-08",
-      "stars": 141285
     },
     {
       "date": "2026-10-09",
@@ -378,12 +374,12 @@
       "stars": 144498
     },
     {
-      "date": "2026-10-17",
-      "stars": 145312
+      "date": "2026-10-16",
+      "stars": 144948
     },
     {
-      "date": "2026-10-18",
-      "stars": 145647
+      "date": "2026-10-17",
+      "stars": 145312
     },
     {
       "date": "2026-10-19",
@@ -418,8 +414,8 @@
       "stars": 148766
     },
     {
-      "date": "2026-10-28",
-      "stars": 149574
+      "date": "2026-10-27",
+      "stars": 149153
     },
     {
       "date": "2026-10-29",
@@ -436,6 +432,10 @@
     {
       "date": "2026-11-01",
       "stars": 150739
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 151096
     }
   ],
   "links": {

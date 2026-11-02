@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 111977,
-  "forks": 7082,
-  "openIssues": 7854,
-  "pushedAt": "2026-11-01T09:09:54Z",
+  "stars": 113023,
+  "forks": 7149,
+  "openIssues": 7887,
+  "pushedAt": "2026-11-02T09:29:57Z",
   "topics": [
     "ade",
     "agent-ide",
@@ -34,8 +34,8 @@
     "yc-backed"
   ],
   "license": "MIT",
-  "activity": "active",
-  "starDelta7d": null,
+  "activity": "fast-rising",
+  "starDelta7d": 6792,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
     "TypeScript": 0.96,
@@ -65,6 +65,16 @@
   },
   "releases": [
     {
+      "tag": "v1.4.246",
+      "name": "v1.4.246",
+      "publishedAt": "2026-11-02T03:19:48Z"
+    },
+    {
+      "tag": "mobile-android-v0.0.62",
+      "name": "Orca Mobile Android mobile-android-v0.0.62",
+      "publishedAt": "2026-11-02T01:21:23Z"
+    },
+    {
       "tag": "v1.4.245",
       "name": "v1.4.245",
       "publishedAt": "2026-10-30T05:34:13Z"
@@ -78,16 +88,6 @@
       "tag": "v1.4.244",
       "name": "v1.4.244",
       "publishedAt": "2026-10-29T03:55:29Z"
-    },
-    {
-      "tag": "mobile-android-v0.0.60",
-      "name": "Orca Mobile Android mobile-android-v0.0.60",
-      "publishedAt": "2026-10-29T06:10:09Z"
-    },
-    {
-      "tag": "v1.4.243",
-      "name": "v1.4.243",
-      "publishedAt": "2026-10-28T04:08:34Z"
     }
   ],
   "starHistory": [
@@ -118,6 +118,10 @@
     {
       "date": "2026-11-01",
       "stars": 111977
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 113023
     }
   ],
   "links": {

@@ -1,0 +1,91 @@
+{
+  "id": "thedotmack/claude-mem",
+  "slug": "thedotmack-claude-mem",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "archived": false,
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 110037,
+  "forks": 9604,
+  "openIssues": 135,
+  "pushedAt": "2026-11-02T09:28:54Z",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-memory",
+    "anthropic",
+    "artificial-intelligence",
+    "chromadb",
+    "claude",
+    "claude-agent-sdk",
+    "claude-agents",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills",
+    "embeddings",
+    "long-term-memory",
+    "mem0",
+    "memory-engine",
+    "openmemory",
+    "rag",
+    "sqlite",
+    "supermemory"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/683968?v=4",
+  "languages": {
+    "TypeScript": 0.61,
+    "JavaScript": 0.31,
+    "Python": 0.07,
+    "HTML": 0.01,
+    "Shell": 0,
+    "CSS": 0,
+    "Dockerfile": 0
+  },
+  "readmeExcerpt": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;",
+  "summary": {
+    "mode": "template",
+    "text": "claude-mem is a TypeScript project focused on Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More. It is tagged with ai, ai-agents, and ai-memory."
+  },
+  "releases": [
+    {
+      "tag": "v15.8.3",
+      "name": "v15.8.3",
+      "publishedAt": "2026-11-02T06:26:25Z"
+    },
+    {
+      "tag": "v15.8.2",
+      "name": "v15.8.2",
+      "publishedAt": "2026-11-02T06:00:18Z"
+    },
+    {
+      "tag": "v15.8.1",
+      "name": "v15.8.1",
+      "publishedAt": "2026-11-01T20:04:20Z"
+    },
+    {
+      "tag": "v15.8.0",
+      "name": "v15.8.0",
+      "publishedAt": "2026-11-01T04:02:00Z"
+    },
+    {
+      "tag": "v15.7.0",
+      "name": "v15.7.0",
+      "publishedAt": "2026-10-30T18:18:54Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-11-02",
+      "stars": 110037
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/thedotmack/claude-mem",
+    "homepage": "https://claude-mem.ai"
+  }
+}

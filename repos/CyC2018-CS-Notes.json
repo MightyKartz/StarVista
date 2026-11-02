@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 186410,
-  "forks": 50665,
+  "stars": 186418,
+  "forks": 50663,
   "openIssues": 174,
-  "pushedAt": "2026-11-01T09:05:22Z",
+  "pushedAt": "2026-11-01T17:43:48Z",
   "topics": [
     "algorithm",
     "computer-science",
@@ -23,15 +23,15 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 80,
+  "starDelta7d": 73,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/36260787?v=4",
   "languages": {
-    "JavaScript": 0.45,
-    "Python": 0.44,
-    "CSS": 0.09,
+    "JavaScript": 0.54,
+    "Python": 0.29,
+    "CSS": 0.15,
     "HTML": 0.02
   },
-  "readmeExcerpt": "个人网站在线阅读 · 飞书知识库在线阅读 --> -->",
+  "readmeExcerpt": "网站在线阅读 · 飞书知识库在线阅读 --> -->",
   "summary": {
     "mode": "template",
     "text": "CS-Notes is a JavaScript project focused on :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计. It is tagged with algorithm, computer-science, and cpp."
@@ -77,6 +77,10 @@
     {
       "date": "2026-11-01",
       "stars": 186410
+    },
+    {
+      "date": "2026-11-02",
+      "stars": 186418
     }
   ],
   "links": {
