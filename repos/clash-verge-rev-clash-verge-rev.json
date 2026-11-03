@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 155667,
-  "forks": 11191,
-  "openIssues": 556,
-  "pushedAt": "2026-11-02T09:28:19Z",
+  "stars": 155925,
+  "forks": 11206,
+  "openIssues": 560,
+  "pushedAt": "2026-11-03T09:29:46Z",
   "topics": [
     "clash",
     "clash-meta",
@@ -23,7 +23,7 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 1734,
+  "starDelta7d": 1730,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
   "languages": {
     "Rust": 0.46,
@@ -41,6 +41,11 @@
     "text": "clash-verge-rev is a Rust project focused on A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience. It is tagged with clash, clash-meta, and clash-verge."
   },
   "releases": [
+    {
+      "tag": "v2.5.9",
+      "name": "Clash Verge Rev v2.5.9",
+      "publishedAt": "2026-11-02T10:09:17Z"
+    },
     {
       "tag": "v2.5.8",
       "name": "Clash Verge Rev v2.5.8",
@@ -60,11 +65,6 @@
       "tag": "v2.5.5",
       "name": "Clash Verge Rev v2.5.5",
       "publishedAt": "2026-09-22T13:38:49Z"
-    },
-    {
-      "tag": "v2.5.4-rc.2",
-      "name": "Clash Verge Rev v2.5.4-rc.2",
-      "publishedAt": "2026-09-20T12:28:55Z"
     }
   ],
   "starHistory": [
@@ -97,10 +97,6 @@
       "stars": 134970
     },
     {
-      "date": "2026-08-03",
-      "stars": 135163
-    },
-    {
       "date": "2026-08-04",
       "stars": 135344
     },
@@ -125,8 +121,8 @@
       "stars": 136510
     },
     {
-      "date": "2026-08-11",
-      "stars": 137006
+      "date": "2026-08-10",
+      "stars": 136746
     },
     {
       "date": "2026-08-12",
@@ -161,8 +157,8 @@
       "stars": 138679
     },
     {
-      "date": "2026-08-21",
-      "stars": 139125
+      "date": "2026-08-20",
+      "stars": 138916
     },
     {
       "date": "2026-08-22",
@@ -197,8 +193,8 @@
       "stars": 140870
     },
     {
-      "date": "2026-08-31",
-      "stars": 141252
+      "date": "2026-08-30",
+      "stars": 141054
     },
     {
       "date": "2026-09-01",
@@ -233,8 +229,8 @@
       "stars": 143007
     },
     {
-      "date": "2026-09-10",
-      "stars": 143490
+      "date": "2026-09-09",
+      "stars": 143256
     },
     {
       "date": "2026-09-11",
@@ -265,8 +261,8 @@
       "stars": 145004
     },
     {
-      "date": "2026-09-19",
-      "stars": 145382
+      "date": "2026-09-18",
+      "stars": 145198
     },
     {
       "date": "2026-09-20",
@@ -301,8 +297,8 @@
       "stars": 147658
     },
     {
-      "date": "2026-09-29",
-      "stars": 148167
+      "date": "2026-09-28",
+      "stars": 147919
     },
     {
       "date": "2026-09-30",
@@ -337,8 +333,8 @@
       "stars": 149631
     },
     {
-      "date": "2026-10-09",
-      "stars": 149965
+      "date": "2026-10-08",
+      "stars": 149889
     },
     {
       "date": "2026-10-10",
@@ -373,8 +369,8 @@
       "stars": 151945
     },
     {
-      "date": "2026-10-19",
-      "stars": 152383
+      "date": "2026-10-18",
+      "stars": 152124
     },
     {
       "date": "2026-10-20",
@@ -409,8 +405,8 @@
       "stars": 154195
     },
     {
-      "date": "2026-10-29",
-      "stars": 154777
+      "date": "2026-10-28",
+      "stars": 154495
     },
     {
       "date": "2026-10-30",
@@ -427,6 +423,10 @@
     {
       "date": "2026-11-02",
       "stars": 155667
+    },
+    {
+      "date": "2026-11-03",
+      "stars": 155925
     }
   ],
   "links": {

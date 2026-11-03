@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 113854,
+  "stars": 113859,
   "forks": 22758,
-  "openIssues": 22,
-  "pushedAt": "2026-10-21T22:24:11Z",
+  "openIssues": 21,
+  "pushedAt": "2026-11-03T08:55:19Z",
   "topics": [
     "chart",
     "charts",
@@ -21,11 +21,11 @@
   ],
   "license": "ISC",
   "activity": "active",
-  "starDelta7d": 57,
+  "starDelta7d": 55,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1562726?v=4",
   "languages": {
-    "Shell": 0.92,
-    "JavaScript": 0.08
+    "Shell": 0.9,
+    "JavaScript": 0.1
   },
   "readmeExcerpt": "D3 (or D3.js) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics. For more than a decade D3 has powered groundbreaking and award-winning visualizations, become a foundational building block of higher-level chart libraries, and fostered a vibrant community of data practitioners around the world.",
   "summary": {
@@ -33,6 +33,11 @@
     "text": "d3 is a Shell project focused on Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:. It is tagged with chart, charts, and d3."
   },
   "releases": [
+    {
+      "tag": "v7.9.1",
+      "name": "v7.9.1",
+      "publishedAt": "2026-11-03T08:36:55Z"
+    },
     {
       "tag": "v7.9.0",
       "name": "",
@@ -52,11 +57,6 @@
       "tag": "v7.8.3",
       "name": "",
       "publishedAt": "2023-03-25T01:25:43Z"
-    },
-    {
-      "tag": "v7.8.2",
-      "name": "",
-      "publishedAt": "2023-01-18T18:34:33Z"
     }
   ],
   "starHistory": [
@@ -89,10 +89,6 @@
       "stars": 113137
     },
     {
-      "date": "2026-08-03",
-      "stars": 113137
-    },
-    {
       "date": "2026-08-04",
       "stars": 113137
     },
@@ -117,7 +113,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-08-10",
       "stars": 113137
     },
     {
@@ -153,7 +149,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-08-21",
+      "date": "2026-08-20",
       "stars": 113137
     },
     {
@@ -189,7 +185,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-08-31",
+      "date": "2026-08-30",
       "stars": 113137
     },
     {
@@ -225,7 +221,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-09-09",
       "stars": 113137
     },
     {
@@ -257,7 +253,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-09-19",
+      "date": "2026-09-18",
       "stars": 113137
     },
     {
@@ -293,7 +289,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-28",
       "stars": 113137
     },
     {
@@ -329,7 +325,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-10-09",
+      "date": "2026-10-08",
       "stars": 113137
     },
     {
@@ -365,7 +361,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-18",
       "stars": 113137
     },
     {
@@ -401,8 +397,8 @@
       "stars": 113804
     },
     {
-      "date": "2026-10-29",
-      "stars": 113815
+      "date": "2026-10-28",
+      "stars": 113813
     },
     {
       "date": "2026-10-30",
@@ -419,6 +415,10 @@
     {
       "date": "2026-11-02",
       "stars": 113854
+    },
+    {
+      "date": "2026-11-03",
+      "stars": 113859
     }
   ],
   "links": {

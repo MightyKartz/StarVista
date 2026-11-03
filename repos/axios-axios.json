@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 109311,
-  "forks": 11980,
+  "stars": 109318,
+  "forks": 11988,
   "openIssues": 119,
-  "pushedAt": "2026-10-28T11:43:41Z",
+  "pushedAt": "2026-11-03T07:29:11Z",
   "topics": [
     "hacktoberfest",
     "http-client",
@@ -20,19 +20,24 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 0,
+  "starDelta7d": 10,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/32372333?v=4",
   "languages": {
     "JavaScript": 0.91,
     "TypeScript": 0.08,
     "HTML": 0.01
   },
-  "readmeExcerpt": "> [!IMPORTANT] > Get Security Updates for Axios v0 →",
+  "readmeExcerpt": "> [!IMPORTANT] > Get Security Updates for Axios v0 & Early Access Provider →",
   "summary": {
     "mode": "template",
     "text": "axios is a JavaScript project focused on Promise based HTTP client for the browser and node.js. It is tagged with hacktoberfest, http-client, and javascript."
   },
   "releases": [
+    {
+      "tag": "v0.35.0",
+      "name": "v0.35.0",
+      "publishedAt": "2026-11-02T18:24:19Z"
+    },
     {
       "tag": "v1.21.0",
       "name": "v1.21.0",
@@ -52,11 +57,6 @@
       "tag": "v1.19.0",
       "name": "v1.19.0",
       "publishedAt": "2026-07-26T14:13:32Z"
-    },
-    {
-      "tag": "v1.18.1",
-      "name": "v1.18.1",
-      "publishedAt": "2026-06-21T17:25:10Z"
     }
   ],
   "starHistory": [
@@ -89,10 +89,6 @@
       "stars": 109165
     },
     {
-      "date": "2026-08-03",
-      "stars": 109167
-    },
-    {
       "date": "2026-08-04",
       "stars": 109170
     },
@@ -117,8 +113,8 @@
       "stars": 109239
     },
     {
-      "date": "2026-08-11",
-      "stars": 109214
+      "date": "2026-08-10",
+      "stars": 109241
     },
     {
       "date": "2026-08-12",
@@ -153,8 +149,8 @@
       "stars": 109196
     },
     {
-      "date": "2026-08-21",
-      "stars": 109190
+      "date": "2026-08-20",
+      "stars": 109198
     },
     {
       "date": "2026-08-22",
@@ -189,8 +185,8 @@
       "stars": 109192
     },
     {
-      "date": "2026-08-31",
-      "stars": 109192
+      "date": "2026-08-30",
+      "stars": 109194
     },
     {
       "date": "2026-09-01",
@@ -225,8 +221,8 @@
       "stars": 109233
     },
     {
-      "date": "2026-09-10",
-      "stars": 109227
+      "date": "2026-09-09",
+      "stars": 109233
     },
     {
       "date": "2026-09-11",
@@ -257,8 +253,8 @@
       "stars": 109201
     },
     {
-      "date": "2026-09-19",
-      "stars": 109209
+      "date": "2026-09-18",
+      "stars": 109206
     },
     {
       "date": "2026-09-20",
@@ -293,8 +289,8 @@
       "stars": 109228
     },
     {
-      "date": "2026-09-29",
-      "stars": 109244
+      "date": "2026-09-28",
+      "stars": 109239
     },
     {
       "date": "2026-09-30",
@@ -329,8 +325,8 @@
       "stars": 109347
     },
     {
-      "date": "2026-10-09",
-      "stars": 109342
+      "date": "2026-10-08",
+      "stars": 109350
     },
     {
       "date": "2026-10-10",
@@ -365,7 +361,7 @@
       "stars": 109301
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-18",
       "stars": 109299
     },
     {
@@ -401,8 +397,8 @@
       "stars": 109308
     },
     {
-      "date": "2026-10-29",
-      "stars": 109309
+      "date": "2026-10-28",
+      "stars": 109308
     },
     {
       "date": "2026-10-30",
@@ -419,6 +415,10 @@
     {
       "date": "2026-11-02",
       "stars": 109311
+    },
+    {
+      "date": "2026-11-03",
+      "stars": 109318
     }
   ],
   "links": {

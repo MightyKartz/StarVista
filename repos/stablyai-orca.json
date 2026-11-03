@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 113023,
-  "forks": 7149,
-  "openIssues": 7887,
-  "pushedAt": "2026-11-02T09:29:57Z",
+  "stars": 113973,
+  "forks": 7202,
+  "openIssues": 7973,
+  "pushedAt": "2026-11-03T09:32:35Z",
   "topics": [
     "ade",
     "agent-ide",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 6792,
+  "starDelta7d": 6587,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
     "TypeScript": 0.96,
@@ -65,6 +65,11 @@
   },
   "releases": [
     {
+      "tag": "v1.4.247",
+      "name": "v1.4.247",
+      "publishedAt": "2026-11-03T03:36:43Z"
+    },
+    {
       "tag": "v1.4.246",
       "name": "v1.4.246",
       "publishedAt": "2026-11-02T03:19:48Z"
@@ -83,11 +88,6 @@
       "tag": "mobile-android-v0.0.61",
       "name": "Orca Mobile Android mobile-android-v0.0.61",
       "publishedAt": "2026-10-30T17:05:33Z"
-    },
-    {
-      "tag": "v1.4.244",
-      "name": "v1.4.244",
-      "publishedAt": "2026-10-29T03:55:29Z"
     }
   ],
   "starHistory": [
@@ -122,6 +122,10 @@
     {
       "date": "2026-11-02",
       "stars": 113023
+    },
+    {
+      "date": "2026-11-03",
+      "stars": 113973
     }
   ],
   "links": {
