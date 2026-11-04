@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 113859,
-  "forks": 22758,
+  "stars": 113865,
+  "forks": 22726,
   "openIssues": 21,
-  "pushedAt": "2026-11-03T08:55:19Z",
+  "pushedAt": "2026-11-03T19:44:29Z",
   "topics": [
     "chart",
     "charts",
@@ -21,7 +21,7 @@
   ],
   "license": "ISC",
   "activity": "active",
-  "starDelta7d": 55,
+  "starDelta7d": 52,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/1562726?v=4",
   "languages": {
     "Shell": 0.9,
@@ -33,6 +33,11 @@
     "text": "d3 is a Shell project focused on Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:. It is tagged with chart, charts, and d3."
   },
   "releases": [
+    {
+      "tag": "v7.9.2",
+      "name": "v7.9.2",
+      "publishedAt": "2026-11-03T19:44:29Z"
+    },
     {
       "tag": "v7.9.1",
       "name": "v7.9.1",
@@ -52,11 +57,6 @@
       "tag": "v7.8.4",
       "name": "v7.8.4",
       "publishedAt": "2023-04-01T02:43:36Z"
-    },
-    {
-      "tag": "v7.8.3",
-      "name": "",
-      "publishedAt": "2023-03-25T01:25:43Z"
     }
   ],
   "starHistory": [
@@ -89,10 +89,6 @@
       "stars": 113137
     },
     {
-      "date": "2026-08-04",
-      "stars": 113137
-    },
-    {
       "date": "2026-08-05",
       "stars": 113137
     },
@@ -117,7 +113,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-08-12",
+      "date": "2026-08-11",
       "stars": 113137
     },
     {
@@ -153,7 +149,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-08-22",
+      "date": "2026-08-21",
       "stars": 113137
     },
     {
@@ -189,7 +185,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-08-31",
       "stars": 113137
     },
     {
@@ -225,7 +221,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-09-10",
       "stars": 113137
     },
     {
@@ -257,7 +253,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-09-20",
+      "date": "2026-09-19",
       "stars": 113137
     },
     {
@@ -293,7 +289,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-09-30",
+      "date": "2026-09-29",
       "stars": 113137
     },
     {
@@ -329,7 +325,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-10-10",
+      "date": "2026-10-09",
       "stars": 113137
     },
     {
@@ -365,7 +361,7 @@
       "stars": 113137
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "stars": 113137
     },
     {
@@ -401,8 +397,8 @@
       "stars": 113813
     },
     {
-      "date": "2026-10-30",
-      "stars": 113825
+      "date": "2026-10-29",
+      "stars": 113815
     },
     {
       "date": "2026-10-31",
@@ -419,6 +415,10 @@
     {
       "date": "2026-11-03",
       "stars": 113859
+    },
+    {
+      "date": "2026-11-04",
+      "stars": 113865
     }
   ],
   "links": {

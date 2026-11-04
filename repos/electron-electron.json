@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "C++",
   "languageColor": "#f34b7d",
-  "stars": 123739,
-  "forks": 17916,
-  "openIssues": 778,
-  "pushedAt": "2026-11-03T01:10:22Z",
+  "stars": 123767,
+  "forks": 17885,
+  "openIssues": 780,
+  "pushedAt": "2026-11-04T08:33:24Z",
   "topics": [
     "c-plus-plus",
     "chrome",
@@ -24,11 +24,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 170,
+  "starDelta7d": 178,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/13409222?v=4",
   "languages": {
-    "C++": 0.53,
-    "TypeScript": 0.36,
+    "C++": 0.52,
+    "TypeScript": 0.37,
     "Objective-C++": 0.06,
     "JavaScript": 0.03,
     "Python": 0.02,
@@ -48,29 +48,29 @@
   },
   "releases": [
     {
+      "tag": "v46.0.0-alpha.6",
+      "name": "electron v46.0.0-alpha.6",
+      "publishedAt": "2026-11-04T08:46:41Z"
+    },
+    {
+      "tag": "v45.2.2",
+      "name": "electron v45.2.2",
+      "publishedAt": "2026-11-03T19:31:31Z"
+    },
+    {
+      "tag": "v44.10.2",
+      "name": "electron v44.10.2",
+      "publishedAt": "2026-11-03T18:56:47Z"
+    },
+    {
+      "tag": "v43.8.7",
+      "name": "electron v43.8.7",
+      "publishedAt": "2026-11-03T18:56:48Z"
+    },
+    {
       "tag": "v46.0.0-alpha.5",
       "name": "electron v46.0.0-alpha.5",
       "publishedAt": "2026-11-02T22:50:03Z"
-    },
-    {
-      "tag": "v46.0.0-alpha.4",
-      "name": "electron v46.0.0-alpha.4",
-      "publishedAt": "2026-10-30T23:12:38Z"
-    },
-    {
-      "tag": "v45.2.1",
-      "name": "electron v45.2.1",
-      "publishedAt": "2026-10-31T00:44:03Z"
-    },
-    {
-      "tag": "v45.2.0",
-      "name": "electron v45.2.0",
-      "publishedAt": "2026-10-30T17:34:55Z"
-    },
-    {
-      "tag": "v44.10.1",
-      "name": "electron v44.10.1",
-      "publishedAt": "2026-10-31T07:32:09Z"
     }
   ],
   "starHistory": [
@@ -103,10 +103,6 @@
       "stars": 122285
     },
     {
-      "date": "2026-08-04",
-      "stars": 122309
-    },
-    {
       "date": "2026-08-05",
       "stars": 122337
     },
@@ -131,8 +127,8 @@
       "stars": 122404
     },
     {
-      "date": "2026-08-12",
-      "stars": 122457
+      "date": "2026-08-11",
+      "stars": 122416
     },
     {
       "date": "2026-08-13",
@@ -167,8 +163,8 @@
       "stars": 122585
     },
     {
-      "date": "2026-08-22",
-      "stars": 122637
+      "date": "2026-08-21",
+      "stars": 122606
     },
     {
       "date": "2026-08-23",
@@ -203,8 +199,8 @@
       "stars": 122797
     },
     {
-      "date": "2026-09-01",
-      "stars": 122832
+      "date": "2026-08-31",
+      "stars": 122814
     },
     {
       "date": "2026-09-02",
@@ -239,8 +235,8 @@
       "stars": 122954
     },
     {
-      "date": "2026-09-11",
-      "stars": 122988
+      "date": "2026-09-10",
+      "stars": 122968
     },
     {
       "date": "2026-09-12",
@@ -271,8 +267,8 @@
       "stars": 123128
     },
     {
-      "date": "2026-09-20",
-      "stars": 123168
+      "date": "2026-09-19",
+      "stars": 123148
     },
     {
       "date": "2026-09-21",
@@ -307,8 +303,8 @@
       "stars": 123291
     },
     {
-      "date": "2026-09-30",
-      "stars": 123338
+      "date": "2026-09-29",
+      "stars": 123314
     },
     {
       "date": "2026-10-01",
@@ -343,8 +339,8 @@
       "stars": 123434
     },
     {
-      "date": "2026-10-10",
-      "stars": 123258
+      "date": "2026-10-09",
+      "stars": 123241
     },
     {
       "date": "2026-10-11",
@@ -379,8 +375,8 @@
       "stars": 123377
     },
     {
-      "date": "2026-10-20",
-      "stars": 123419
+      "date": "2026-10-19",
+      "stars": 123401
     },
     {
       "date": "2026-10-21",
@@ -415,8 +411,8 @@
       "stars": 123589
     },
     {
-      "date": "2026-10-30",
-      "stars": 123641
+      "date": "2026-10-29",
+      "stars": 123613
     },
     {
       "date": "2026-10-31",
@@ -433,6 +429,10 @@
     {
       "date": "2026-11-03",
       "stars": 123739
+    },
+    {
+      "date": "2026-11-04",
+      "stars": 123767
     }
   ],
   "links": {
