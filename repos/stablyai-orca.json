@@ -3,14 +3,14 @@
   "slug": "stablyai-orca",
   "owner": "stablyai",
   "name": "orca",
-  "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "description": "Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.",
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 114882,
-  "forks": 7253,
-  "openIssues": 8102,
-  "pushedAt": "2026-11-04T09:11:40Z",
+  "stars": 115967,
+  "forks": 7324,
+  "openIssues": 8255,
+  "pushedAt": "2026-11-05T09:29:07Z",
   "topics": [
     "ade",
     "agent-ide",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 6463,
+  "starDelta7d": 6503,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
     "TypeScript": 0.96,
@@ -61,13 +61,23 @@
   "readmeExcerpt": "Orca",
   "summary": {
     "mode": "template",
-    "text": "orca is a TypeScript project focused on Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. It is tagged with ade, agent-ide, and ai-agents."
+    "text": "orca is a TypeScript project focused on Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime. It is tagged with ade, agent-ide, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "v1.4.249",
+      "name": "v1.4.249",
+      "publishedAt": "2026-11-04T23:53:56Z"
+    },
     {
       "tag": "v1.4.248",
       "name": "v1.4.248",
       "publishedAt": "2026-11-04T02:36:20Z"
+    },
+    {
+      "tag": "mobile-android-v0.0.64",
+      "name": "Orca Mobile Android mobile-android-v0.0.64",
+      "publishedAt": "2026-11-04T21:41:42Z"
     },
     {
       "tag": "v1.4.247",
@@ -78,16 +88,6 @@
       "tag": "v1.4.246",
       "name": "v1.4.246",
       "publishedAt": "2026-11-02T03:19:48Z"
-    },
-    {
-      "tag": "mobile-android-v0.0.62",
-      "name": "Orca Mobile Android mobile-android-v0.0.62",
-      "publishedAt": "2026-11-02T01:21:23Z"
-    },
-    {
-      "tag": "v1.4.245",
-      "name": "v1.4.245",
-      "publishedAt": "2026-10-30T05:34:13Z"
     }
   ],
   "starHistory": [
@@ -130,6 +130,10 @@
     {
       "date": "2026-11-04",
       "stars": 114882
+    },
+    {
+      "date": "2026-11-05",
+      "stars": 115967
     }
   ],
   "links": {

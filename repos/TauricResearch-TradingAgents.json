@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 120484,
-  "forks": 23030,
-  "openIssues": 118,
-  "pushedAt": "2026-10-27T08:43:04Z",
+  "stars": 120717,
+  "forks": 23072,
+  "openIssues": 123,
+  "pushedAt": "2026-11-04T10:13:58Z",
   "topics": [
     "agent",
     "finance",
@@ -20,13 +20,13 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 2941,
+  "starDelta7d": 2666,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192884433?v=4",
   "languages": {
     "Python": 1,
     "Dockerfile": 0
   },
-  "readmeExcerpt": "Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文",
+  "readmeExcerpt": "After so many requests from the community, Trading-R1 has officially launched!",
   "summary": {
     "mode": "template",
     "text": "TradingAgents is a Python project focused on TradingAgents: Multi-Agents LLM Financial Trading Framework. It is tagged with agent, finance, and llm."
@@ -326,10 +326,14 @@
     {
       "date": "2026-11-04",
       "stars": 120484
+    },
+    {
+      "date": "2026-11-05",
+      "stars": 120717
     }
   ],
   "links": {
     "repo": "https://github.com/TauricResearch/TradingAgents",
-    "homepage": "https://arxiv.org/pdf/2412.20138"
+    "homepage": "https://tauric.ai"
   }
 }

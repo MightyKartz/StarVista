@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 148992,
-  "forks": 25048,
-  "openIssues": 711,
-  "pushedAt": "2026-11-04T08:36:24Z",
+  "stars": 149063,
+  "forks": 25072,
+  "openIssues": 715,
+  "pushedAt": "2026-11-05T08:59:11Z",
   "topics": [
     "agents",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 391,
+  "starDelta7d": 398,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
   "languages": {
     "Python": 0.99,
@@ -53,29 +53,29 @@
   },
   "releases": [
     {
+      "tag": "langchain-core==1.7.6",
+      "name": "langchain-core==1.7.6",
+      "publishedAt": "2026-11-05T00:22:12Z"
+    },
+    {
+      "tag": "langchain==1.4.9",
+      "name": "langchain==1.4.9",
+      "publishedAt": "2026-11-04T17:07:37Z"
+    },
+    {
       "tag": "langchain-typesafe==0.0.1",
       "name": "langchain-typesafe==0.0.1",
       "publishedAt": "2026-11-04T00:11:25Z"
     },
     {
-      "tag": "langchain==1.4.8",
-      "name": "langchain==1.4.8",
-      "publishedAt": "2026-11-02T15:45:02Z"
+      "tag": "langchain-openai==1.7.4",
+      "name": "langchain-openai==1.7.4",
+      "publishedAt": "2026-11-04T16:55:54Z"
     },
     {
-      "tag": "langchain-core==1.7.4",
-      "name": "langchain-core==1.7.4",
-      "publishedAt": "2026-11-02T15:31:47Z"
-    },
-    {
-      "tag": "langchain-anthropic==1.7.9",
-      "name": "langchain-anthropic==1.7.9",
-      "publishedAt": "2026-11-02T20:14:18Z"
-    },
-    {
-      "tag": "langchain-anthropic==1.7.8",
-      "name": "langchain-anthropic==1.7.8",
-      "publishedAt": "2026-11-02T15:23:31Z"
+      "tag": "langchain-fireworks==1.7.2",
+      "name": "langchain-fireworks==1.7.2",
+      "publishedAt": "2026-11-04T20:47:50Z"
     }
   ],
   "starHistory": [
@@ -108,10 +108,6 @@
       "stars": 143196
     },
     {
-      "date": "2026-08-05",
-      "stars": 143443
-    },
-    {
       "date": "2026-08-06",
       "stars": 143517
     },
@@ -136,8 +132,8 @@
       "stars": 143930
     },
     {
-      "date": "2026-08-13",
-      "stars": 144121
+      "date": "2026-08-12",
+      "stars": 144031
     },
     {
       "date": "2026-08-14",
@@ -172,8 +168,8 @@
       "stars": 144670
     },
     {
-      "date": "2026-08-23",
-      "stars": 144797
+      "date": "2026-08-22",
+      "stars": 144741
     },
     {
       "date": "2026-08-24",
@@ -208,8 +204,8 @@
       "stars": 145321
     },
     {
-      "date": "2026-09-02",
-      "stars": 145475
+      "date": "2026-09-01",
+      "stars": 145406
     },
     {
       "date": "2026-09-03",
@@ -244,8 +240,8 @@
       "stars": 146042
     },
     {
-      "date": "2026-09-12",
-      "stars": 146163
+      "date": "2026-09-11",
+      "stars": 146109
     },
     {
       "date": "2026-09-13",
@@ -276,8 +272,8 @@
       "stars": 146638
     },
     {
-      "date": "2026-09-21",
-      "stars": 146774
+      "date": "2026-09-20",
+      "stars": 146705
     },
     {
       "date": "2026-09-22",
@@ -312,8 +308,8 @@
       "stars": 147235
     },
     {
-      "date": "2026-10-01",
-      "stars": 147342
+      "date": "2026-09-30",
+      "stars": 147300
     },
     {
       "date": "2026-10-02",
@@ -348,8 +344,8 @@
       "stars": 147428
     },
     {
-      "date": "2026-10-11",
-      "stars": 147593
+      "date": "2026-10-10",
+      "stars": 147539
     },
     {
       "date": "2026-10-12",
@@ -384,8 +380,8 @@
       "stars": 148060
     },
     {
-      "date": "2026-10-21",
-      "stars": 148181
+      "date": "2026-10-20",
+      "stars": 148111
     },
     {
       "date": "2026-10-22",
@@ -420,8 +416,8 @@
       "stars": 148665
     },
     {
-      "date": "2026-10-31",
-      "stars": 148756
+      "date": "2026-10-30",
+      "stars": 148703
     },
     {
       "date": "2026-11-01",
@@ -438,6 +434,10 @@
     {
       "date": "2026-11-04",
       "stars": 148992
+    },
+    {
+      "date": "2026-11-05",
+      "stars": 149063
     }
   ],
   "links": {

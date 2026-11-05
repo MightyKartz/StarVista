@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 109713,
-  "forks": 7376,
-  "openIssues": 11,
-  "pushedAt": "2026-11-04T03:50:09Z",
+  "stars": 110268,
+  "forks": 7413,
+  "openIssues": 2,
+  "pushedAt": "2026-11-05T01:12:12Z",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -29,9 +29,10 @@
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/219127460?v=4",
   "languages": {
-    "JavaScript": 0.93,
-    "CSS": 0.06,
-    "Shell": 0.01
+    "JavaScript": 0.59,
+    "HTML": 0.3,
+    "CSS": 0.11,
+    "Shell": 0
   },
   "readmeExcerpt": "&nbsp; &nbsp; &nbsp;",
   "summary": {
@@ -39,6 +40,11 @@
     "text": "taste-skill is a JavaScript project focused on Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages. It is tagged with agent-skills, ai-agents, and anti-slop."
   },
   "releases": [
+    {
+      "tag": "v2.5.0",
+      "name": "tasteskill v2.5",
+      "publishedAt": "2026-11-04T23:41:47Z"
+    },
     {
       "tag": "v2.1.5",
       "name": "tasteskill v2.1.5",
@@ -58,17 +64,16 @@
       "tag": "v2.1.2",
       "name": "tasteskill v2.1.2",
       "publishedAt": "2026-10-19T05:47:12Z"
-    },
-    {
-      "tag": "v2.1.1",
-      "name": "tasteskill v2.1.1",
-      "publishedAt": "2026-10-18T23:13:35Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-11-04",
       "stars": 109713
+    },
+    {
+      "date": "2026-11-05",
+      "stars": 110268
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 118190,
-  "forks": 7478,
-  "openIssues": 721,
-  "pushedAt": "2026-11-04T09:01:13Z",
+  "stars": 118283,
+  "forks": 7484,
+  "openIssues": 715,
+  "pushedAt": "2026-11-05T09:00:56Z",
   "topics": [
     "backup-tool",
     "flutter",
@@ -31,7 +31,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 736,
+  "starDelta7d": 732,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/109746326?v=4",
   "languages": {
     "TypeScript": 0.54,
@@ -47,8 +47,8 @@
     "Dockerfile": 0,
     "C++": 0,
     "HCL": 0,
-    "HTML": 0,
     "CSS": 0,
+    "HTML": 0,
     "Objective-C": 0,
     "Go Template": 0
   },
@@ -58,6 +58,16 @@
     "text": "immich is a TypeScript project focused on High performance self-hosted photo and video management solution. It is tagged with backup-tool, flutter, and google-photos."
   },
   "releases": [
+    {
+      "tag": "v3.4.0-rc.2",
+      "name": "v3.4.0-rc.2",
+      "publishedAt": "2026-11-04T21:47:40Z"
+    },
+    {
+      "tag": "v3.3.6",
+      "name": "v3.3.6",
+      "publishedAt": "2026-11-04T17:24:55Z"
+    },
     {
       "tag": "v3.4.0-rc.1",
       "name": "v3.4.0-rc.1",
@@ -72,16 +82,6 @@
       "tag": "v3.3.4",
       "name": "v3.3.4",
       "publishedAt": "2026-10-20T10:18:17Z"
-    },
-    {
-      "tag": "v3.3.3",
-      "name": "v3.3.3",
-      "publishedAt": "2026-10-14T16:56:21Z"
-    },
-    {
-      "tag": "v3.3.1",
-      "name": "v3.3.1",
-      "publishedAt": "2026-10-08T21:52:06Z"
     }
   ],
   "starHistory": [
@@ -114,10 +114,6 @@
       "stars": 109489
     },
     {
-      "date": "2026-08-05",
-      "stars": 109734
-    },
-    {
       "date": "2026-08-06",
       "stars": 109807
     },
@@ -142,8 +138,8 @@
       "stars": 110159
     },
     {
-      "date": "2026-08-13",
-      "stars": 110329
+      "date": "2026-08-12",
+      "stars": 110245
     },
     {
       "date": "2026-08-14",
@@ -178,8 +174,8 @@
       "stars": 112181
     },
     {
-      "date": "2026-08-23",
-      "stars": 112378
+      "date": "2026-08-22",
+      "stars": 112286
     },
     {
       "date": "2026-08-24",
@@ -214,8 +210,8 @@
       "stars": 113049
     },
     {
-      "date": "2026-09-02",
-      "stars": 113220
+      "date": "2026-09-01",
+      "stars": 113125
     },
     {
       "date": "2026-09-03",
@@ -250,8 +246,8 @@
       "stars": 113724
     },
     {
-      "date": "2026-09-12",
-      "stars": 113874
+      "date": "2026-09-11",
+      "stars": 113801
     },
     {
       "date": "2026-09-13",
@@ -282,8 +278,8 @@
       "stars": 114576
     },
     {
-      "date": "2026-09-21",
-      "stars": 114701
+      "date": "2026-09-20",
+      "stars": 114634
     },
     {
       "date": "2026-09-22",
@@ -318,8 +314,8 @@
       "stars": 115257
     },
     {
-      "date": "2026-10-01",
-      "stars": 115390
+      "date": "2026-09-30",
+      "stars": 115329
     },
     {
       "date": "2026-10-02",
@@ -354,8 +350,8 @@
       "stars": 115813
     },
     {
-      "date": "2026-10-11",
-      "stars": 115995
+      "date": "2026-10-10",
+      "stars": 115898
     },
     {
       "date": "2026-10-12",
@@ -390,8 +386,8 @@
       "stars": 116616
     },
     {
-      "date": "2026-10-21",
-      "stars": 116806
+      "date": "2026-10-20",
+      "stars": 116703
     },
     {
       "date": "2026-10-22",
@@ -426,8 +422,8 @@
       "stars": 117551
     },
     {
-      "date": "2026-10-31",
-      "stars": 117769
+      "date": "2026-10-30",
+      "stars": 117664
     },
     {
       "date": "2026-11-01",
@@ -444,6 +440,10 @@
     {
       "date": "2026-11-04",
       "stars": 118190
+    },
+    {
+      "date": "2026-11-05",
+      "stars": 118283
     }
   ],
   "links": {
