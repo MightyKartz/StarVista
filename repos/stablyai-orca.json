@@ -3,16 +3,15 @@
   "slug": "stablyai-orca",
   "owner": "stablyai",
   "name": "orca",
-  "description": "Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 115967,
-  "forks": 7324,
-  "openIssues": 8255,
-  "pushedAt": "2026-11-05T09:29:07Z",
+  "stars": 117136,
+  "forks": 7421,
+  "openIssues": 8055,
+  "pushedAt": "2026-11-06T09:23:20Z",
   "topics": [
-    "ade",
     "agent-ide",
     "ai-agents",
     "automation",
@@ -29,13 +28,14 @@
     "orchestration",
     "pi",
     "runtime",
+    "swarm",
     "terminal",
     "worktrees",
     "yc-backed"
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 6503,
+  "starDelta7d": 6621,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
     "TypeScript": 0.96,
@@ -48,9 +48,9 @@
     "Kotlin": 0,
     "Shell": 0,
     "C++": 0,
-    "Ruby": 0,
     "Rust": 0,
     "C": 0,
+    "Ruby": 0,
     "Dockerfile": 0,
     "NSIS": 0,
     "Objective-C": 0,
@@ -61,9 +61,19 @@
   "readmeExcerpt": "Orca",
   "summary": {
     "mode": "template",
-    "text": "orca is a TypeScript project focused on Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime. It is tagged with ade, agent-ide, and ai-agents."
+    "text": "orca is a TypeScript project focused on Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. It is tagged with agent-ide, ai-agents, and automation."
   },
   "releases": [
+    {
+      "tag": "v1.4.251",
+      "name": "v1.4.251",
+      "publishedAt": "2026-11-06T06:31:44Z"
+    },
+    {
+      "tag": "v1.4.250",
+      "name": "v1.4.250",
+      "publishedAt": "2026-11-05T10:40:31Z"
+    },
     {
       "tag": "v1.4.249",
       "name": "v1.4.249",
@@ -78,16 +88,6 @@
       "tag": "mobile-android-v0.0.64",
       "name": "Orca Mobile Android mobile-android-v0.0.64",
       "publishedAt": "2026-11-04T21:41:42Z"
-    },
-    {
-      "tag": "v1.4.247",
-      "name": "v1.4.247",
-      "publishedAt": "2026-11-03T03:36:43Z"
-    },
-    {
-      "tag": "v1.4.246",
-      "name": "v1.4.246",
-      "publishedAt": "2026-11-02T03:19:48Z"
     }
   ],
   "starHistory": [
@@ -134,6 +134,10 @@
     {
       "date": "2026-11-05",
       "stars": 115967
+    },
+    {
+      "date": "2026-11-06",
+      "stars": 117136
     }
   ],
   "links": {
