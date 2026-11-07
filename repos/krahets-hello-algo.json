@@ -5,12 +5,12 @@
   "name": "hello-algo",
   "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
   "archived": false,
-  "primaryLanguage": "Swift",
-  "languageColor": "#f05138",
-  "stars": 131975,
-  "forks": 15599,
-  "openIssues": 27,
-  "pushedAt": "2026-11-05T08:40:42Z",
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 131993,
+  "forks": 15602,
+  "openIssues": 29,
+  "pushedAt": "2026-11-07T07:43:37Z",
   "topics": [
     "algo",
     "algorithm",
@@ -26,24 +26,30 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 256,
+  "starDelta7d": 191,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/26993056?v=4",
   "languages": {
-    "Swift": 0.16,
-    "Java": 0.16,
-    "C++": 0.15,
-    "JavaScript": 0.14,
-    "Go": 0.14,
-    "Python": 0.13,
-    "Ruby": 0.11,
-    "CMake": 0.01,
-    "Jinja": 0,
+    "Python": 0.32,
+    "C": 0.08,
+    "Java": 0.06,
+    "Rust": 0.06,
+    "C#": 0.06,
+    "Swift": 0.06,
+    "C++": 0.05,
+    "TypeScript": 0.05,
+    "Kotlin": 0.05,
+    "Go": 0.05,
+    "JavaScript": 0.05,
+    "Dart": 0.05,
+    "Zig": 0.04,
+    "Ruby": 0.04,
+    "CMake": 0,
     "Dockerfile": 0
   },
   "readmeExcerpt": "动画图解、一键运行的数据结构与算法教程",
   "summary": {
     "mode": "template",
-    "text": "hello-algo is a Swift project focused on 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现. It is tagged with algo, algorithm, and algorithms."
+    "text": "hello-algo is a Python project focused on 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现. It is tagged with algo, algorithm, and algorithms."
   },
   "releases": [
     {
@@ -86,10 +92,6 @@
       "stars": 129055
     },
     {
-      "date": "2026-08-07",
-      "stars": 129241
-    },
-    {
       "date": "2026-08-08",
       "stars": 129262
     },
@@ -110,8 +112,8 @@
       "stars": 129366
     },
     {
-      "date": "2026-08-14",
-      "stars": 129411
+      "date": "2026-08-13",
+      "stars": 129389
     },
     {
       "date": "2026-08-15",
@@ -182,8 +184,8 @@
       "stars": 129691
     },
     {
-      "date": "2026-09-02",
-      "stars": 129754
+      "date": "2026-09-01",
+      "stars": 129706
     },
     {
       "date": "2026-09-03",
@@ -254,7 +256,7 @@
       "stars": 130143
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-09-20",
       "stars": 130143
     },
     {
@@ -326,8 +328,8 @@
       "stars": 130143
     },
     {
-      "date": "2026-10-10",
-      "stars": 130498
+      "date": "2026-10-09",
+      "stars": 130143
     },
     {
       "date": "2026-10-11",
@@ -398,8 +400,8 @@
       "stars": 131460
     },
     {
-      "date": "2026-10-29",
-      "stars": 131653
+      "date": "2026-10-28",
+      "stars": 131575
     },
     {
       "date": "2026-10-30",
@@ -432,6 +434,10 @@
     {
       "date": "2026-11-06",
       "stars": 131975
+    },
+    {
+      "date": "2026-11-07",
+      "stars": 131993
     }
   ],
   "links": {

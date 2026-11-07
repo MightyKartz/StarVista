@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 112556,
-  "forks": 4162,
-  "openIssues": 1500,
-  "pushedAt": "2026-11-06T05:39:22Z",
+  "stars": 112575,
+  "forks": 4164,
+  "openIssues": 1502,
+  "pushedAt": "2026-11-06T18:26:25Z",
   "topics": [
     "desktop-app",
     "high-performance",
@@ -22,7 +22,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 227,
+  "starDelta7d": 220,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4",
   "languages": {
     "Rust": 0.81,
@@ -51,29 +51,29 @@
   },
   "releases": [
     {
-      "tag": "tauri-v2.12.5",
-      "name": "tauri v2.12.5",
-      "publishedAt": "2026-10-21T11:54:49Z"
+      "tag": "tauri-v3.0.0-alpha.6",
+      "name": "tauri v3.0.0-alpha.6",
+      "publishedAt": "2026-11-06T11:54:54Z"
     },
     {
-      "tag": "tauri-runtime-wry-v2.12.3",
-      "name": "tauri-runtime-wry v2.12.3",
-      "publishedAt": "2026-10-21T11:52:25Z"
+      "tag": "tauri-runtime-wry-v3.0.0-alpha.6",
+      "name": "tauri-runtime-wry v3.0.0-alpha.6",
+      "publishedAt": "2026-11-06T11:55:54Z"
     },
     {
-      "tag": "tauri-macros-v2.7.4",
-      "name": "tauri-macros v2.7.4",
-      "publishedAt": "2026-10-21T11:53:26Z"
+      "tag": "tauri-runtime-v3.0.0-alpha.5",
+      "name": "tauri-runtime v3.0.0-alpha.5",
+      "publishedAt": "2026-11-06T11:54:02Z"
     },
     {
-      "tag": "tauri-macos-sign-v2.4.3",
-      "name": "tauri-macos-sign v2.4.3",
-      "publishedAt": "2026-10-21T11:50:13Z"
+      "tag": "tauri-runtime-cef-v3.0.0-alpha.7",
+      "name": "tauri-runtime-cef v3.0.0-alpha.7",
+      "publishedAt": "2026-11-06T11:59:10Z"
     },
     {
-      "tag": "tauri-codegen-v2.7.4",
-      "name": "tauri-codegen v2.7.4",
-      "publishedAt": "2026-10-21T11:52:53Z"
+      "tag": "tauri-bundler-v3.0.0-alpha.5",
+      "name": "tauri-bundler v3.0.0-alpha.5",
+      "publishedAt": "2026-11-06T11:53:45Z"
     }
   ],
   "starHistory": [
@@ -106,10 +106,6 @@
       "stars": 109783
     },
     {
-      "date": "2026-08-07",
-      "stars": 109982
-    },
-    {
       "date": "2026-08-08",
       "stars": 110003
     },
@@ -134,8 +130,8 @@
       "stars": 110164
     },
     {
-      "date": "2026-08-15",
-      "stars": 110212
+      "date": "2026-08-14",
+      "stars": 110207
     },
     {
       "date": "2026-08-16",
@@ -170,8 +166,8 @@
       "stars": 110469
     },
     {
-      "date": "2026-08-25",
-      "stars": 110529
+      "date": "2026-08-24",
+      "stars": 110502
     },
     {
       "date": "2026-08-26",
@@ -206,8 +202,8 @@
       "stars": 110739
     },
     {
-      "date": "2026-09-04",
-      "stars": 110795
+      "date": "2026-09-03",
+      "stars": 110761
     },
     {
       "date": "2026-09-05",
@@ -242,8 +238,8 @@
       "stars": 111009
     },
     {
-      "date": "2026-09-14",
-      "stars": 111050
+      "date": "2026-09-13",
+      "stars": 111034
     },
     {
       "date": "2026-09-15",
@@ -274,8 +270,8 @@
       "stars": 111225
     },
     {
-      "date": "2026-09-23",
-      "stars": 111280
+      "date": "2026-09-22",
+      "stars": 111248
     },
     {
       "date": "2026-09-24",
@@ -310,8 +306,8 @@
       "stars": 111515
     },
     {
-      "date": "2026-10-03",
-      "stars": 111564
+      "date": "2026-10-02",
+      "stars": 111539
     },
     {
       "date": "2026-10-04",
@@ -346,8 +342,8 @@
       "stars": 111746
     },
     {
-      "date": "2026-10-13",
-      "stars": 111832
+      "date": "2026-10-12",
+      "stars": 111792
     },
     {
       "date": "2026-10-14",
@@ -382,8 +378,8 @@
       "stars": 112076
     },
     {
-      "date": "2026-10-23",
-      "stars": 112129
+      "date": "2026-10-22",
+      "stars": 112104
     },
     {
       "date": "2026-10-24",
@@ -418,8 +414,8 @@
       "stars": 112355
     },
     {
-      "date": "2026-11-02",
-      "stars": 112429
+      "date": "2026-11-01",
+      "stars": 112391
     },
     {
       "date": "2026-11-03",
@@ -436,6 +432,10 @@
     {
       "date": "2026-11-06",
       "stars": 112556
+    },
+    {
+      "date": "2026-11-07",
+      "stars": 112575
     }
   ],
   "links": {

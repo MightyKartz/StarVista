@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 113729,
-  "forks": 9865,
-  "openIssues": 127,
-  "pushedAt": "2026-11-06T05:43:41Z",
+  "stars": 114163,
+  "forks": 9906,
+  "openIssues": 115,
+  "pushedAt": "2026-11-07T05:36:39Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -53,6 +53,16 @@
   },
   "releases": [
     {
+      "tag": "v15.11.0",
+      "name": "v15.11.0",
+      "publishedAt": "2026-11-06T22:17:48Z"
+    },
+    {
+      "tag": "v15.10.1",
+      "name": "v15.10.1",
+      "publishedAt": "2026-11-06T11:52:02Z"
+    },
+    {
       "tag": "v15.10.0",
       "name": "v15.10.0",
       "publishedAt": "2026-11-05T19:57:39Z"
@@ -66,16 +76,6 @@
       "tag": "v15.8.3",
       "name": "v15.8.3",
       "publishedAt": "2026-11-02T06:26:25Z"
-    },
-    {
-      "tag": "v15.8.2",
-      "name": "v15.8.2",
-      "publishedAt": "2026-11-02T06:00:18Z"
-    },
-    {
-      "tag": "v15.8.1",
-      "name": "v15.8.1",
-      "publishedAt": "2026-11-01T20:04:20Z"
     }
   ],
   "starHistory": [
@@ -98,6 +98,10 @@
     {
       "date": "2026-11-06",
       "stars": 113729
+    },
+    {
+      "date": "2026-11-07",
+      "stars": 114163
     }
   ],
   "links": {

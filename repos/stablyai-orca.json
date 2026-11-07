@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 117136,
-  "forks": 7421,
-  "openIssues": 8055,
-  "pushedAt": "2026-11-06T09:23:20Z",
+  "stars": 118052,
+  "forks": 7490,
+  "openIssues": 8119,
+  "pushedAt": "2026-11-07T08:47:30Z",
   "topics": [
     "agent-ide",
     "ai-agents",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 6621,
+  "starDelta7d": 6727,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
     "TypeScript": 0.96,
@@ -55,6 +55,7 @@
     "NSIS": 0,
     "Objective-C": 0,
     "C#": 0,
+    "Java": 0,
     "Batchfile": 0,
     "VBScript": 0
   },
@@ -64,6 +65,11 @@
     "text": "orca is a TypeScript project focused on Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. It is tagged with agent-ide, ai-agents, and automation."
   },
   "releases": [
+    {
+      "tag": "v1.4.252",
+      "name": "v1.4.252",
+      "publishedAt": "2026-11-07T04:03:24Z"
+    },
     {
       "tag": "v1.4.251",
       "name": "v1.4.251",
@@ -83,11 +89,6 @@
       "tag": "v1.4.248",
       "name": "v1.4.248",
       "publishedAt": "2026-11-04T02:36:20Z"
-    },
-    {
-      "tag": "mobile-android-v0.0.64",
-      "name": "Orca Mobile Android mobile-android-v0.0.64",
-      "publishedAt": "2026-11-04T21:41:42Z"
     }
   ],
   "starHistory": [
@@ -138,6 +139,10 @@
     {
       "date": "2026-11-06",
       "stars": 117136
+    },
+    {
+      "date": "2026-11-07",
+      "stars": 118052
     }
   ],
   "links": {

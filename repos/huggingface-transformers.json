@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 168583,
-  "forks": 35124,
-  "openIssues": 1052,
-  "pushedAt": "2026-11-06T06:29:53Z",
+  "stars": 168615,
+  "forks": 35126,
+  "openIssues": 1053,
+  "pushedAt": "2026-11-07T00:48:00Z",
   "topics": [
     "audio",
     "deep-learning",
@@ -34,7 +34,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 241,
+  "starDelta7d": 233,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
   "languages": {
     "Python": 1,
@@ -49,6 +49,11 @@
     "text": "transformers is a Python project focused on 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. . It is tagged with audio, deep-learning, and deepseek."
   },
   "releases": [
+    {
+      "tag": "v5.22.2",
+      "name": "Patch release v5.22.2",
+      "publishedAt": "2026-11-06T15:43:27Z"
+    },
     {
       "tag": "v5.22.1",
       "name": "Patch release v5.22.1",
@@ -68,11 +73,6 @@
       "tag": "v5.21",
       "name": "Release: v5.21.0",
       "publishedAt": "2026-10-26T18:17:42Z"
-    },
-    {
-      "tag": "v5.20.2",
-      "name": "Patch release v5.20.2",
-      "publishedAt": "2026-10-19T17:45:37Z"
     }
   ],
   "starHistory": [
@@ -105,10 +105,6 @@
       "stars": 163233
     },
     {
-      "date": "2026-08-07",
-      "stars": 163423
-    },
-    {
       "date": "2026-08-08",
       "stars": 163454
     },
@@ -133,8 +129,8 @@
       "stars": 164028
     },
     {
-      "date": "2026-08-15",
-      "stars": 164085
+      "date": "2026-08-14",
+      "stars": 164087
     },
     {
       "date": "2026-08-16",
@@ -169,8 +165,8 @@
       "stars": 164348
     },
     {
-      "date": "2026-08-25",
-      "stars": 164409
+      "date": "2026-08-24",
+      "stars": 164378
     },
     {
       "date": "2026-08-26",
@@ -205,8 +201,8 @@
       "stars": 164707
     },
     {
-      "date": "2026-09-04",
-      "stars": 164770
+      "date": "2026-09-03",
+      "stars": 164734
     },
     {
       "date": "2026-09-05",
@@ -241,8 +237,8 @@
       "stars": 165144
     },
     {
-      "date": "2026-09-14",
-      "stars": 165719
+      "date": "2026-09-13",
+      "stars": 165234
     },
     {
       "date": "2026-09-15",
@@ -273,8 +269,8 @@
       "stars": 166447
     },
     {
-      "date": "2026-09-23",
-      "stars": 166553
+      "date": "2026-09-22",
+      "stars": 166507
     },
     {
       "date": "2026-09-24",
@@ -309,8 +305,8 @@
       "stars": 166879
     },
     {
-      "date": "2026-10-03",
-      "stars": 166912
+      "date": "2026-10-02",
+      "stars": 166902
     },
     {
       "date": "2026-10-04",
@@ -345,8 +341,8 @@
       "stars": 167434
     },
     {
-      "date": "2026-10-13",
-      "stars": 167627
+      "date": "2026-10-12",
+      "stars": 167549
     },
     {
       "date": "2026-10-14",
@@ -381,8 +377,8 @@
       "stars": 167931
     },
     {
-      "date": "2026-10-23",
-      "stars": 168013
+      "date": "2026-10-22",
+      "stars": 167966
     },
     {
       "date": "2026-10-24",
@@ -417,8 +413,8 @@
       "stars": 168382
     },
     {
-      "date": "2026-11-02",
-      "stars": 168437
+      "date": "2026-11-01",
+      "stars": 168401
     },
     {
       "date": "2026-11-03",
@@ -435,6 +431,10 @@
     {
       "date": "2026-11-06",
       "stars": 168583
+    },
+    {
+      "date": "2026-11-07",
+      "stars": 168615
     }
   ],
   "links": {
