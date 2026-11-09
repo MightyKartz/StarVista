@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 118827,
-  "forks": 7543,
-  "openIssues": 8160,
-  "pushedAt": "2026-11-08T08:59:48Z",
+  "stars": 119762,
+  "forks": 7596,
+  "openIssues": 8237,
+  "pushedAt": "2026-11-09T09:47:50Z",
   "topics": [
     "agent-ide",
     "ai-agents",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 6850,
+  "starDelta7d": 6739,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
     "TypeScript": 0.96,
@@ -66,6 +66,11 @@
   },
   "releases": [
     {
+      "tag": "v1.4.254",
+      "name": "1.4.254",
+      "publishedAt": "2026-11-08T23:25:31Z"
+    },
+    {
       "tag": "v1.4.253",
       "name": "v1.4.253",
       "publishedAt": "2026-11-07T10:47:35Z"
@@ -84,11 +89,6 @@
       "tag": "v1.4.250",
       "name": "v1.4.250",
       "publishedAt": "2026-11-05T10:40:31Z"
-    },
-    {
-      "tag": "v1.4.249",
-      "name": "v1.4.249",
-      "publishedAt": "2026-11-04T23:53:56Z"
     }
   ],
   "starHistory": [
@@ -147,6 +147,10 @@
     {
       "date": "2026-11-08",
       "stars": 118827
+    },
+    {
+      "date": "2026-11-09",
+      "stars": 119762
     }
   ],
   "links": {

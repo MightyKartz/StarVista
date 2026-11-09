@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 118218,
-  "forks": 6876,
-  "openIssues": 69,
-  "pushedAt": "2026-11-08T07:43:36Z",
+  "stars": 118480,
+  "forks": 6896,
+  "openIssues": 72,
+  "pushedAt": "2026-11-09T01:48:59Z",
   "topics": [
     "ai",
     "anthropic",
@@ -25,7 +25,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1626,
+  "starDelta7d": 1677,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
     "Go": 0.48,
@@ -363,6 +363,10 @@
     {
       "date": "2026-11-08",
       "stars": 118218
+    },
+    {
+      "date": "2026-11-09",
+      "stars": 118480
     }
   ],
   "links": {

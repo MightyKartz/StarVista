@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 114633,
-  "forks": 9944,
-  "openIssues": 88,
-  "pushedAt": "2026-11-08T03:51:42Z",
+  "stars": 115120,
+  "forks": 10001,
+  "openIssues": 102,
+  "pushedAt": "2026-11-09T09:45:23Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -34,8 +34,8 @@
     "supermemory"
   ],
   "license": "Apache-2.0",
-  "activity": "active",
-  "starDelta7d": null,
+  "activity": "fast-rising",
+  "starDelta7d": 5083,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/683968?v=4",
   "languages": {
     "TypeScript": 0.62,
@@ -52,6 +52,11 @@
     "text": "claude-mem is a TypeScript project focused on Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More. It is tagged with ai, ai-agents, and ai-memory."
   },
   "releases": [
+    {
+      "tag": "v15.12.1",
+      "name": "v15.12.1",
+      "publishedAt": "2026-11-08T22:09:47Z"
+    },
     {
       "tag": "v15.12.0",
       "name": "v15.12.0",
@@ -71,11 +76,6 @@
       "tag": "v15.10.1",
       "name": "v15.10.1",
       "publishedAt": "2026-11-06T11:52:02Z"
-    },
-    {
-      "tag": "v15.10.0",
-      "name": "v15.10.0",
-      "publishedAt": "2026-11-05T19:57:39Z"
     }
   ],
   "starHistory": [
@@ -106,6 +106,10 @@
     {
       "date": "2026-11-08",
       "stars": 114633
+    },
+    {
+      "date": "2026-11-09",
+      "stars": 115120
     }
   ],
   "links": {
