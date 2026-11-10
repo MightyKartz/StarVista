@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 115120,
-  "forks": 10001,
-  "openIssues": 102,
-  "pushedAt": "2026-11-09T09:45:23Z",
+  "stars": 115565,
+  "forks": 10032,
+  "openIssues": 83,
+  "pushedAt": "2026-11-10T07:59:48Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -35,12 +35,12 @@
   ],
   "license": "Apache-2.0",
   "activity": "fast-rising",
-  "starDelta7d": 5083,
+  "starDelta7d": 4380,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/683968?v=4",
   "languages": {
-    "TypeScript": 0.62,
-    "JavaScript": 0.31,
-    "Python": 0.06,
+    "TypeScript": 0.61,
+    "JavaScript": 0.33,
+    "Python": 0.04,
     "HTML": 0.01,
     "Shell": 0,
     "CSS": 0,
@@ -53,29 +53,29 @@
   },
   "releases": [
     {
+      "tag": "v15.15.1",
+      "name": "v15.15.1",
+      "publishedAt": "2026-11-10T07:06:39Z"
+    },
+    {
+      "tag": "v15.15.0",
+      "name": "v15.15.0",
+      "publishedAt": "2026-11-10T02:20:40Z"
+    },
+    {
+      "tag": "v15.14.0",
+      "name": "v15.14.0",
+      "publishedAt": "2026-11-09T22:27:23Z"
+    },
+    {
+      "tag": "v15.13.0",
+      "name": "v15.13.0",
+      "publishedAt": "2026-11-09T10:06:27Z"
+    },
+    {
       "tag": "v15.12.1",
       "name": "v15.12.1",
       "publishedAt": "2026-11-08T22:09:47Z"
-    },
-    {
-      "tag": "v15.12.0",
-      "name": "v15.12.0",
-      "publishedAt": "2026-11-07T19:51:33Z"
-    },
-    {
-      "tag": "v15.11.1",
-      "name": "v15.11.1",
-      "publishedAt": "2026-11-07T09:51:54Z"
-    },
-    {
-      "tag": "v15.11.0",
-      "name": "v15.11.0",
-      "publishedAt": "2026-11-06T22:17:48Z"
-    },
-    {
-      "tag": "v15.10.1",
-      "name": "v15.10.1",
-      "publishedAt": "2026-11-06T11:52:02Z"
     }
   ],
   "starHistory": [
@@ -110,6 +110,10 @@
     {
       "date": "2026-11-09",
       "stars": 115120
+    },
+    {
+      "date": "2026-11-10",
+      "stars": 115565
     }
   ],
   "links": {

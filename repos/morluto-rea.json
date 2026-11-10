@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 445130,
-  "forks": 109902,
-  "openIssues": 1697,
-  "pushedAt": "2026-11-09T09:47:24Z",
+  "stars": 448281,
+  "forks": 110494,
+  "openIssues": 1732,
+  "pushedAt": "2026-11-10T09:35:06Z",
   "topics": [
     "agent-skills",
     "ai",
@@ -35,13 +35,13 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 24704,
+  "starDelta7d": 23674,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76467478?v=4",
   "languages": {
     "TypeScript": 0.91,
     "JavaScript": 0.05,
-    "HTML": 0.01,
     "Python": 0.01,
+    "HTML": 0.01,
     "Java": 0.01,
     "C++": 0,
     "Swift": 0,
@@ -57,7 +57,7 @@
     "Pascal": 0,
     "Makefile": 0
   },
-  "readmeExcerpt": "English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano · Ελληνικά · മലയാളം · Roman Urdu · Română",
+  "readmeExcerpt": "English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano · Ελληνικά · മലയാളം · Roman Urdu · Română · Български",
   "summary": {
     "mode": "template",
     "text": "rea is a TypeScript project focused on Reverse engineer anything with agents, from app behavior down to native binaries. It is tagged with agent-skills, ai, and android."
@@ -205,6 +205,10 @@
     {
       "date": "2026-11-09",
       "stars": 445130
+    },
+    {
+      "date": "2026-11-10",
+      "stars": 448281
     }
   ],
   "links": {

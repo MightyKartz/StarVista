@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 261896,
-  "forks": 58288,
-  "openIssues": 53856,
-  "pushedAt": "2026-11-09T09:48:13Z",
+  "stars": 262208,
+  "forks": 58470,
+  "openIssues": 53989,
+  "pushedAt": "2026-11-10T09:50:01Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2259,
+  "starDelta7d": 2180,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.71,
@@ -49,10 +49,10 @@
     "C": 0,
     "C#": 0,
     "AutoHotkey": 0,
+    "Just": 0,
     "Go Template": 0,
     "Batchfile": 0,
     "Makefile": 0,
-    "Just": 0,
     "Roff": 0,
     "Io": 0,
     "Ruby": 0,
@@ -60,16 +60,16 @@
     "BitBake": 0,
     "Berry": 0,
     "Charity": 0,
+    "C++": 0,
     "Erlang": 0,
     "xBase": 0,
     "NewLisp": 0,
-    "C++": 0,
     "QMake": 0,
+    "LOLCODE": 0,
     "Common Lisp": 0,
     "RenderScript": 0,
     "Nu": 0,
-    "IL Assembly": 0,
-    "LOLCODE": 0
+    "IL Assembly": 0
   },
   "readmeExcerpt": "Hermes Agent | Hermes Desktop",
   "summary": {
@@ -77,6 +77,11 @@
     "text": "hermes-agent is a Python project focused on The agent that grows with you. It is tagged with ai, ai-agent, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "v0.23.1",
+      "name": "Hermes Agent v0.23.1",
+      "publishedAt": "2026-11-10T01:42:15Z"
+    },
     {
       "tag": "v0.23.0",
       "name": "Hermes Agent v0.23.0 — The Hearth Release",
@@ -96,11 +101,6 @@
       "tag": "v0.22.5",
       "name": "Hermes Agent v0.22.5",
       "publishedAt": "2026-10-23T05:28:45Z"
-    },
-    {
-      "tag": "v0.22.4",
-      "name": "Hermes Agent v0.22.4",
-      "publishedAt": "2026-10-21T18:49:24Z"
     }
   ],
   "starHistory": [
@@ -137,10 +137,6 @@
       "stars": 227579
     },
     {
-      "date": "2026-08-10",
-      "stars": 228012
-    },
-    {
       "date": "2026-08-11",
       "stars": 228553
     },
@@ -157,8 +153,8 @@
       "stars": 230239
     },
     {
-      "date": "2026-08-16",
-      "stars": 231121
+      "date": "2026-08-15",
+      "stars": 230690
     },
     {
       "date": "2026-08-17",
@@ -189,8 +185,8 @@
       "stars": 234432
     },
     {
-      "date": "2026-08-25",
-      "stars": 235897
+      "date": "2026-08-24",
+      "stars": 235091
     },
     {
       "date": "2026-08-26",
@@ -221,8 +217,8 @@
       "stars": 239177
     },
     {
-      "date": "2026-09-03",
-      "stars": 240327
+      "date": "2026-09-02",
+      "stars": 239639
     },
     {
       "date": "2026-09-04",
@@ -253,8 +249,8 @@
       "stars": 243966
     },
     {
-      "date": "2026-09-12",
-      "stars": 244691
+      "date": "2026-09-11",
+      "stars": 244332
     },
     {
       "date": "2026-09-13",
@@ -285,8 +281,8 @@
       "stars": 246981
     },
     {
-      "date": "2026-09-21",
-      "stars": 247573
+      "date": "2026-09-20",
+      "stars": 247258
     },
     {
       "date": "2026-09-22",
@@ -317,8 +313,8 @@
       "stars": 249612
     },
     {
-      "date": "2026-09-30",
-      "stars": 250171
+      "date": "2026-09-29",
+      "stars": 249906
     },
     {
       "date": "2026-10-01",
@@ -349,8 +345,8 @@
       "stars": 251777
     },
     {
-      "date": "2026-10-09",
-      "stars": 252139
+      "date": "2026-10-08",
+      "stars": 252063
     },
     {
       "date": "2026-10-10",
@@ -381,8 +377,8 @@
       "stars": 254223
     },
     {
-      "date": "2026-10-18",
-      "stars": 254760
+      "date": "2026-10-17",
+      "stars": 254491
     },
     {
       "date": "2026-10-19",
@@ -413,8 +409,8 @@
       "stars": 256880
     },
     {
-      "date": "2026-10-27",
-      "stars": 257517
+      "date": "2026-10-26",
+      "stars": 257157
     },
     {
       "date": "2026-10-28",
@@ -445,8 +441,8 @@
       "stars": 260028
     },
     {
-      "date": "2026-11-05",
-      "stars": 260703
+      "date": "2026-11-04",
+      "stars": 260358
     },
     {
       "date": "2026-11-06",
@@ -463,6 +459,10 @@
     {
       "date": "2026-11-09",
       "stars": 261896
+    },
+    {
+      "date": "2026-11-10",
+      "stars": 262208
     }
   ],
   "links": {
