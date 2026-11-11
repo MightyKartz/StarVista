@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Batchfile",
   "languageColor": null,
-  "stars": 198351,
-  "forks": 18781,
-  "openIssues": 2,
-  "pushedAt": "2026-10-17T01:33:16Z",
+  "stars": 198500,
+  "forks": 18787,
+  "openIssues": 0,
+  "pushedAt": "2026-11-11T09:23:38Z",
   "topics": [
     "activator",
     "hwid",
@@ -30,8 +30,8 @@
     "windows-11"
   ],
   "license": "GPL-3.0",
-  "activity": "stable",
-  "starDelta7d": 877,
+  "activity": "active",
+  "starDelta7d": 896,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/59795046?v=4",
   "languages": {
     "Batchfile": 1,
@@ -43,6 +43,11 @@
     "text": "Microsoft-Activation-Scripts is a Batchfile project focused on Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. It is tagged with activator, hwid, and kms."
   },
   "releases": [
+    {
+      "tag": "3.13",
+      "name": "v3.13 Vote for Queen!",
+      "publishedAt": "2026-11-11T06:51:43Z"
+    },
     {
       "tag": "3.12",
       "name": "v3.12 8 Years of MAS",
@@ -62,11 +67,6 @@
       "tag": "3.9",
       "name": "v3.9 Minor Update",
       "publishedAt": "2025-11-18T22:28:32Z"
-    },
-    {
-      "tag": "3.8",
-      "name": "v3.8 R.I.P. KMS38",
-      "publishedAt": "2025-11-11T23:30:10Z"
     }
   ],
   "starHistory": [
@@ -103,10 +103,6 @@
       "stars": 185747
     },
     {
-      "date": "2026-08-11",
-      "stars": 185747
-    },
-    {
       "date": "2026-08-12",
       "stars": 185747
     },
@@ -123,7 +119,7 @@
       "stars": 185747
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-16",
       "stars": 185747
     },
     {
@@ -155,7 +151,7 @@
       "stars": 185747
     },
     {
-      "date": "2026-08-26",
+      "date": "2026-08-25",
       "stars": 185747
     },
     {
@@ -187,7 +183,7 @@
       "stars": 185747
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-03",
       "stars": 185747
     },
     {
@@ -219,8 +215,8 @@
       "stars": 190117
     },
     {
-      "date": "2026-09-13",
-      "stars": 190383
+      "date": "2026-09-12",
+      "stars": 190258
     },
     {
       "date": "2026-09-14",
@@ -251,8 +247,8 @@
       "stars": 191308
     },
     {
-      "date": "2026-09-22",
-      "stars": 191528
+      "date": "2026-09-21",
+      "stars": 191414
     },
     {
       "date": "2026-09-23",
@@ -283,8 +279,8 @@
       "stars": 192321
     },
     {
-      "date": "2026-10-01",
-      "stars": 192552
+      "date": "2026-09-30",
+      "stars": 192433
     },
     {
       "date": "2026-10-02",
@@ -315,8 +311,8 @@
       "stars": 193740
     },
     {
-      "date": "2026-10-10",
-      "stars": 193768
+      "date": "2026-10-09",
+      "stars": 193662
     },
     {
       "date": "2026-10-11",
@@ -347,8 +343,8 @@
       "stars": 194771
     },
     {
-      "date": "2026-10-19",
-      "stars": 195007
+      "date": "2026-10-18",
+      "stars": 194879
     },
     {
       "date": "2026-10-20",
@@ -379,8 +375,8 @@
       "stars": 196169
     },
     {
-      "date": "2026-10-28",
-      "stars": 196567
+      "date": "2026-10-27",
+      "stars": 196334
     },
     {
       "date": "2026-10-29",
@@ -411,8 +407,8 @@
       "stars": 197604
     },
     {
-      "date": "2026-11-06",
-      "stars": 197835
+      "date": "2026-11-05",
+      "stars": 197742
     },
     {
       "date": "2026-11-07",
@@ -429,6 +425,10 @@
     {
       "date": "2026-11-10",
       "stars": 198351
+    },
+    {
+      "date": "2026-11-11",
+      "stars": 198500
     }
   ],
   "links": {
