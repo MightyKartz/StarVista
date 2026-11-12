@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 113036,
-  "forks": 18755,
-  "openIssues": 6718,
-  "pushedAt": "2026-11-11T09:24:56Z",
+  "stars": 113265,
+  "forks": 18799,
+  "openIssues": 6802,
+  "pushedAt": "2026-11-12T09:41:34Z",
   "topics": [
     "acpx",
     "agent-orchestration",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2109,
+  "starDelta7d": 2029,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/264498616?v=4",
   "languages": {
     "TypeScript": 0.93,
@@ -211,6 +211,10 @@
     {
       "date": "2026-11-11",
       "stars": 113036
+    },
+    {
+      "date": "2026-11-12",
+      "stars": 113265
     }
   ],
   "links": {

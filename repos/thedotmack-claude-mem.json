@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 115991,
-  "forks": 10058,
-  "openIssues": 170,
-  "pushedAt": "2026-11-11T07:15:32Z",
+  "stars": 116362,
+  "forks": 10096,
+  "openIssues": 94,
+  "pushedAt": "2026-11-12T08:04:02Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -34,8 +34,8 @@
     "supermemory"
   ],
   "license": "Apache-2.0",
-  "activity": "fast-rising",
-  "starDelta7d": 3675,
+  "activity": "active",
+  "starDelta7d": 3167,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/683968?v=4",
   "languages": {
     "TypeScript": 0.63,
@@ -44,7 +44,17 @@
     "HTML": 0.01,
     "Shell": 0,
     "CSS": 0,
-    "Dockerfile": 0
+    "Dockerfile": 0,
+    "Java": 0,
+    "C++": 0,
+    "C": 0,
+    "Kotlin": 0,
+    "PHP": 0,
+    "Swift": 0,
+    "Rust": 0,
+    "Zig": 0,
+    "Go": 0,
+    "Scala": 0
   },
   "readmeExcerpt": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;",
   "summary": {
@@ -52,6 +62,21 @@
     "text": "claude-mem is a TypeScript project focused on Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More. It is tagged with ai, ai-agents, and ai-memory."
   },
   "releases": [
+    {
+      "tag": "v15.18.1",
+      "name": "v15.18.1",
+      "publishedAt": "2026-11-12T07:52:21Z"
+    },
+    {
+      "tag": "v15.18.0",
+      "name": "v15.18.0",
+      "publishedAt": "2026-11-12T03:36:31Z"
+    },
+    {
+      "tag": "v15.17.1",
+      "name": "v15.17.1",
+      "publishedAt": "2026-11-11T18:22:35Z"
+    },
     {
       "tag": "v15.17.0",
       "name": "v15.17.0",
@@ -61,21 +86,6 @@
       "tag": "v15.16.1",
       "name": "v15.16.1",
       "publishedAt": "2026-11-11T04:58:34Z"
-    },
-    {
-      "tag": "v15.16.0",
-      "name": "v15.16.0",
-      "publishedAt": "2026-11-11T00:34:23Z"
-    },
-    {
-      "tag": "v15.15.2",
-      "name": "v15.15.2",
-      "publishedAt": "2026-11-10T19:30:00Z"
-    },
-    {
-      "tag": "v15.15.1",
-      "name": "v15.15.1",
-      "publishedAt": "2026-11-10T07:06:39Z"
     }
   ],
   "starHistory": [
@@ -118,6 +128,10 @@
     {
       "date": "2026-11-11",
       "stars": 115991
+    },
+    {
+      "date": "2026-11-12",
+      "stars": 116362
     }
   ],
   "links": {

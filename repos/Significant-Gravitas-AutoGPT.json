@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 187989,
-  "forks": 45876,
-  "openIssues": 723,
-  "pushedAt": "2026-11-11T09:11:01Z",
+  "stars": 187997,
+  "forks": 45870,
+  "openIssues": 710,
+  "pushedAt": "2026-11-12T09:50:14Z",
   "topics": [
     "agentic-ai",
     "agents",
@@ -26,12 +26,12 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 98,
+  "starDelta7d": 91,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/130738209?v=4",
   "languages": {
     "Python": 0.68,
     "TypeScript": 0.31,
-    "JavaScript": 0.01,
+    "JavaScript": 0,
     "Shell": 0,
     "PLpgSQL": 0,
     "Jinja": 0,
@@ -51,6 +51,11 @@
   },
   "releases": [
     {
+      "tag": "autogpt-platform-beta-v0.11.2",
+      "name": "autogpt-platform-beta-v0.11.2",
+      "publishedAt": "2026-11-11T16:51:27Z"
+    },
+    {
       "tag": "preview-seed-fixture",
       "name": "Preview seed fixture (rolling)",
       "publishedAt": "2026-08-06T04:50:42Z"
@@ -69,11 +74,6 @@
       "tag": "autogpt-platform-beta-v0.10.0",
       "name": "🚀 AutoGPT Platform v0.10.0",
       "publishedAt": "2026-10-27T16:25:28Z"
-    },
-    {
-      "tag": "autogpt-platform-beta-v0.9.0",
-      "name": "🚀 Release `autogpt-platform-beta-v0.9.0`",
-      "publishedAt": "2026-10-23T01:28:07Z"
     }
   ],
   "starHistory": [
@@ -110,10 +110,6 @@
       "stars": 186442
     },
     {
-      "date": "2026-08-12",
-      "stars": 186537
-    },
-    {
       "date": "2026-08-13",
       "stars": 186572
     },
@@ -130,8 +126,8 @@
       "stars": 186625
     },
     {
-      "date": "2026-08-18",
-      "stars": 186661
+      "date": "2026-08-17",
+      "stars": 186647
     },
     {
       "date": "2026-08-19",
@@ -162,8 +158,8 @@
       "stars": 186854
     },
     {
-      "date": "2026-08-27",
-      "stars": 186922
+      "date": "2026-08-26",
+      "stars": 186868
     },
     {
       "date": "2026-08-28",
@@ -194,8 +190,8 @@
       "stars": 187091
     },
     {
-      "date": "2026-09-05",
-      "stars": 187139
+      "date": "2026-09-04",
+      "stars": 187109
     },
     {
       "date": "2026-09-06",
@@ -226,8 +222,8 @@
       "stars": 187276
     },
     {
-      "date": "2026-09-14",
-      "stars": 187316
+      "date": "2026-09-13",
+      "stars": 187292
     },
     {
       "date": "2026-09-15",
@@ -258,8 +254,8 @@
       "stars": 187469
     },
     {
-      "date": "2026-09-23",
-      "stars": 187503
+      "date": "2026-09-22",
+      "stars": 187483
     },
     {
       "date": "2026-09-24",
@@ -290,8 +286,8 @@
       "stars": 187620
     },
     {
-      "date": "2026-10-02",
-      "stars": 187652
+      "date": "2026-10-01",
+      "stars": 187630
     },
     {
       "date": "2026-10-03",
@@ -322,8 +318,8 @@
       "stars": 187491
     },
     {
-      "date": "2026-10-11",
-      "stars": 187513
+      "date": "2026-10-10",
+      "stars": 187500
     },
     {
       "date": "2026-10-12",
@@ -354,8 +350,8 @@
       "stars": 187632
     },
     {
-      "date": "2026-10-20",
-      "stars": 187667
+      "date": "2026-10-19",
+      "stars": 187648
     },
     {
       "date": "2026-10-21",
@@ -386,8 +382,8 @@
       "stars": 187786
     },
     {
-      "date": "2026-10-29",
-      "stars": 187809
+      "date": "2026-10-28",
+      "stars": 187798
     },
     {
       "date": "2026-10-30",
@@ -418,8 +414,8 @@
       "stars": 187906
     },
     {
-      "date": "2026-11-07",
-      "stars": 187933
+      "date": "2026-11-06",
+      "stars": 187918
     },
     {
       "date": "2026-11-08",
@@ -436,6 +432,10 @@
     {
       "date": "2026-11-11",
       "stars": 187989
+    },
+    {
+      "date": "2026-11-12",
+      "stars": 187997
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 451140,
-  "forks": 111014,
-  "openIssues": 1754,
-  "pushedAt": "2026-11-11T09:25:31Z",
+  "stars": 453822,
+  "forks": 111534,
+  "openIssues": 1723,
+  "pushedAt": "2026-11-12T09:07:36Z",
   "topics": [
     "agent-skills",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 22507,
+  "starDelta7d": 21432,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76467478?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -64,6 +64,11 @@
   },
   "releases": [
     {
+      "tag": "rea-agents-6.9.0",
+      "name": "rea-agents: v6.9.0",
+      "publishedAt": "2026-11-12T08:59:13Z"
+    },
+    {
       "tag": "rea-agents-6.8.0",
       "name": "rea-agents: v6.8.0",
       "publishedAt": "2026-10-25T08:36:02Z"
@@ -82,11 +87,6 @@
       "tag": "rea-agents-6.5.0",
       "name": "rea-agents: v6.5.0",
       "publishedAt": "2026-10-14T12:32:45Z"
-    },
-    {
-      "tag": "rea-agents-6.4.0",
-      "name": "rea-agents: v6.4.0",
-      "publishedAt": "2026-10-11T03:58:03Z"
     }
   ],
   "starHistory": [
@@ -213,6 +213,10 @@
     {
       "date": "2026-11-11",
       "stars": 451140
+    },
+    {
+      "date": "2026-11-12",
+      "stars": 453822
     }
   ],
   "links": {
