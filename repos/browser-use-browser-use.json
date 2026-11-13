@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 120796,
-  "forks": 13497,
-  "openIssues": 610,
-  "pushedAt": "2026-11-12T02:11:28Z",
+  "stars": 120888,
+  "forks": 13517,
+  "openIssues": 579,
+  "pushedAt": "2026-11-13T06:37:35Z",
   "topics": [
     "ai-agents",
     "ai-tools",
@@ -32,7 +32,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 713,
+  "starDelta7d": 711,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192012301?v=4",
   "languages": {
     "Python": 0.99,
@@ -45,6 +45,11 @@
     "text": "browser-use is a Python project focused on Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. It is tagged with ai-agents, ai-tools, and browser-agent."
   },
   "releases": [
+    {
+      "tag": "1.0.3",
+      "name": "browser-use 1.0.3",
+      "publishedAt": "2026-11-12T16:52:54Z"
+    },
     {
       "tag": "1.0.3rc1",
       "name": "1.0.3rc1: release candidate for 1.0.3",
@@ -64,11 +69,6 @@
       "tag": "1.0.1",
       "name": "browser-use 1.0.1",
       "publishedAt": "2026-11-10T09:27:28Z"
-    },
-    {
-      "tag": "1.0.0",
-      "name": "browser-use 1.0: CDP is all you need",
-      "publishedAt": "2026-11-10T02:04:48Z"
     }
   ],
   "starHistory": [
@@ -105,10 +105,6 @@
       "stars": 108385
     },
     {
-      "date": "2026-08-13",
-      "stars": 108991
-    },
-    {
       "date": "2026-08-14",
       "stars": 109141
     },
@@ -125,8 +121,8 @@
       "stars": 109452
     },
     {
-      "date": "2026-08-19",
-      "stars": 109665
+      "date": "2026-08-18",
+      "stars": 109545
     },
     {
       "date": "2026-08-20",
@@ -157,8 +153,8 @@
       "stars": 110528
     },
     {
-      "date": "2026-08-28",
-      "stars": 111545
+      "date": "2026-08-27",
+      "stars": 111377
     },
     {
       "date": "2026-08-29",
@@ -189,8 +185,8 @@
       "stars": 112217
     },
     {
-      "date": "2026-09-06",
-      "stars": 112437
+      "date": "2026-09-05",
+      "stars": 112319
     },
     {
       "date": "2026-09-07",
@@ -221,8 +217,8 @@
       "stars": 114413
     },
     {
-      "date": "2026-09-15",
-      "stars": 114673
+      "date": "2026-09-14",
+      "stars": 114557
     },
     {
       "date": "2026-09-16",
@@ -253,8 +249,8 @@
       "stars": 115839
     },
     {
-      "date": "2026-09-24",
-      "stars": 116128
+      "date": "2026-09-23",
+      "stars": 116006
     },
     {
       "date": "2026-09-25",
@@ -285,8 +281,8 @@
       "stars": 116876
     },
     {
-      "date": "2026-10-03",
-      "stars": 117028
+      "date": "2026-10-02",
+      "stars": 116984
     },
     {
       "date": "2026-10-04",
@@ -317,8 +313,8 @@
       "stars": 117470
     },
     {
-      "date": "2026-10-12",
-      "stars": 117695
+      "date": "2026-10-11",
+      "stars": 117599
     },
     {
       "date": "2026-10-13",
@@ -349,8 +345,8 @@
       "stars": 118462
     },
     {
-      "date": "2026-10-21",
-      "stars": 118707
+      "date": "2026-10-20",
+      "stars": 118589
     },
     {
       "date": "2026-10-22",
@@ -381,8 +377,8 @@
       "stars": 119344
     },
     {
-      "date": "2026-10-30",
-      "stars": 119539
+      "date": "2026-10-29",
+      "stars": 119444
     },
     {
       "date": "2026-10-31",
@@ -413,8 +409,8 @@
       "stars": 120177
     },
     {
-      "date": "2026-11-08",
-      "stars": 120288
+      "date": "2026-11-07",
+      "stars": 120232
     },
     {
       "date": "2026-11-09",
@@ -431,6 +427,10 @@
     {
       "date": "2026-11-12",
       "stars": 120796
+    },
+    {
+      "date": "2026-11-13",
+      "stars": 120888
     }
   ],
   "links": {

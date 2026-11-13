@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 129139,
-  "forks": 20592,
-  "openIssues": 213,
-  "pushedAt": "2026-11-12T09:18:49Z",
+  "stars": 129283,
+  "forks": 20632,
+  "openIssues": 216,
+  "pushedAt": "2026-11-13T09:10:25Z",
   "topics": [
     "android",
     "anydesk",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 883,
+  "starDelta7d": 893,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/71636191?v=4",
   "languages": {
     "Rust": 0.7,
@@ -54,7 +54,7 @@
     "Dockerfile": 0,
     "Objective-C": 0
   },
-  "readmeExcerpt": "Build • Docker • Structure • Screenshots [ Українська ] | [ česky ] | [ 中文 ] | [ Magyar ] | [ Español ] | [ فارسی ] | [ Français ] | [ Deutsch ] | [ Polski ] | [ Indonesian ] | [ Suomi ] | [ മലയാളം ] | [ 日本語 ] | [ Nederlands ] | [ Italiano ] | [ Русский ] | [ Português (Portugal) ] | [ Português (Brasil) ] | [ Esperanto ] | [ 한국어 ] | [ العربي ] | [ Tiếng Việt ] | [ Dansk ] | [ Ελληνικά ] | [ Türkçe ] | [ Norsk ] | [ Română ] We need your help to translate this README, RustDesk UI and RustDesk...",
+  "readmeExcerpt": "Build • Docker • Structure • Screenshots [ Українська ] | [ česky ] | [ 中文 ] | [ Magyar ] | [ Español ] | [ فارسی ] | [ Français ] | [ Deutsch ] | [ Polski ] | [ Indonesian ] | [ Suomi ] | [ മലയാളം ] | [ 日本語 ] | [ Nederlands ] | [ Italiano ] | [ Русский ] | [ Português (Portugal) ] | [ Português (Brasil) ] | [ Esperanto ] | [ 한국어 ] | [ العربي ] | [ Tiếng Việt ] | [ Dansk ] | [ Ελληνικά ] | [ Türkçe ] | [ Norsk ] | [ Română ] | [ ქართული ] We need your help to translate this README, RustDesk U...",
   "summary": {
     "mode": "template",
     "text": "rustdesk is a Rust project focused on An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. It is tagged with android, anydesk, and dart."
@@ -120,10 +120,6 @@
       "stars": 119922
     },
     {
-      "date": "2026-08-13",
-      "stars": 120262
-    },
-    {
       "date": "2026-08-14",
       "stars": 120384
     },
@@ -140,8 +136,8 @@
       "stars": 121016
     },
     {
-      "date": "2026-08-19",
-      "stars": 121211
+      "date": "2026-08-18",
+      "stars": 121110
     },
     {
       "date": "2026-08-20",
@@ -172,8 +168,8 @@
       "stars": 121829
     },
     {
-      "date": "2026-08-28",
-      "stars": 122027
+      "date": "2026-08-27",
+      "stars": 121951
     },
     {
       "date": "2026-08-29",
@@ -204,8 +200,8 @@
       "stars": 122555
     },
     {
-      "date": "2026-09-06",
-      "stars": 122713
+      "date": "2026-09-05",
+      "stars": 122636
     },
     {
       "date": "2026-09-07",
@@ -236,8 +232,8 @@
       "stars": 123289
     },
     {
-      "date": "2026-09-15",
-      "stars": 123569
+      "date": "2026-09-14",
+      "stars": 123393
     },
     {
       "date": "2026-09-16",
@@ -268,8 +264,8 @@
       "stars": 124229
     },
     {
-      "date": "2026-09-24",
-      "stars": 124403
+      "date": "2026-09-23",
+      "stars": 124314
     },
     {
       "date": "2026-09-25",
@@ -300,8 +296,8 @@
       "stars": 124911
     },
     {
-      "date": "2026-10-03",
-      "stars": 125037
+      "date": "2026-10-02",
+      "stars": 124978
     },
     {
       "date": "2026-10-04",
@@ -332,8 +328,8 @@
       "stars": 125361
     },
     {
-      "date": "2026-10-12",
-      "stars": 125572
+      "date": "2026-10-11",
+      "stars": 125465
     },
     {
       "date": "2026-10-13",
@@ -364,8 +360,8 @@
       "stars": 126275
     },
     {
-      "date": "2026-10-21",
-      "stars": 126488
+      "date": "2026-10-20",
+      "stars": 126387
     },
     {
       "date": "2026-10-22",
@@ -396,8 +392,8 @@
       "stars": 127352
     },
     {
-      "date": "2026-10-30",
-      "stars": 127558
+      "date": "2026-10-29",
+      "stars": 127419
     },
     {
       "date": "2026-10-31",
@@ -428,8 +424,8 @@
       "stars": 128390
     },
     {
-      "date": "2026-11-08",
-      "stars": 128603
+      "date": "2026-11-07",
+      "stars": 128499
     },
     {
       "date": "2026-11-09",
@@ -446,6 +442,10 @@
     {
       "date": "2026-11-12",
       "stars": 129139
+    },
+    {
+      "date": "2026-11-13",
+      "stars": 129283
     }
   ],
   "links": {
