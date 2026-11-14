@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 120888,
-  "forks": 13517,
-  "openIssues": 579,
-  "pushedAt": "2026-11-13T06:37:35Z",
+  "stars": 120974,
+  "forks": 13530,
+  "openIssues": 577,
+  "pushedAt": "2026-11-14T08:26:36Z",
   "topics": [
     "ai-agents",
     "ai-tools",
@@ -32,7 +32,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 711,
+  "starDelta7d": 742,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/192012301?v=4",
   "languages": {
     "Python": 0.99,
@@ -46,6 +46,21 @@
   },
   "releases": [
     {
+      "tag": "1.0.5",
+      "name": "browser-use 1.0.5",
+      "publishedAt": "2026-11-14T08:24:22Z"
+    },
+    {
+      "tag": "1.0.4",
+      "name": "browser-use 1.0.4",
+      "publishedAt": "2026-11-13T20:50:13Z"
+    },
+    {
+      "tag": "1.0.4rc1",
+      "name": "1.0.4rc1: release candidate for 1.0.4",
+      "publishedAt": "2026-11-13T20:03:00Z"
+    },
+    {
       "tag": "1.0.3",
       "name": "browser-use 1.0.3",
       "publishedAt": "2026-11-12T16:52:54Z"
@@ -54,21 +69,6 @@
       "tag": "1.0.3rc1",
       "name": "1.0.3rc1: release candidate for 1.0.3",
       "publishedAt": "2026-11-12T02:11:28Z"
-    },
-    {
-      "tag": "1.0.2",
-      "name": "browser-use 1.0.2",
-      "publishedAt": "2026-11-11T04:00:00Z"
-    },
-    {
-      "tag": "1.0.2rc1",
-      "name": "1.0.2rc1: release candidate for 1.0.2",
-      "publishedAt": "2026-11-10T22:56:31Z"
-    },
-    {
-      "tag": "1.0.1",
-      "name": "browser-use 1.0.1",
-      "publishedAt": "2026-11-10T09:27:28Z"
     }
   ],
   "starHistory": [
@@ -105,10 +105,6 @@
       "stars": 108385
     },
     {
-      "date": "2026-08-14",
-      "stars": 109141
-    },
-    {
       "date": "2026-08-15",
       "stars": 109260
     },
@@ -125,8 +121,8 @@
       "stars": 109545
     },
     {
-      "date": "2026-08-20",
-      "stars": 109787
+      "date": "2026-08-19",
+      "stars": 109665
     },
     {
       "date": "2026-08-21",
@@ -157,8 +153,8 @@
       "stars": 111377
     },
     {
-      "date": "2026-08-29",
-      "stars": 111607
+      "date": "2026-08-28",
+      "stars": 111545
     },
     {
       "date": "2026-08-30",
@@ -189,8 +185,8 @@
       "stars": 112319
     },
     {
-      "date": "2026-09-07",
-      "stars": 112816
+      "date": "2026-09-06",
+      "stars": 112437
     },
     {
       "date": "2026-09-08",
@@ -221,8 +217,8 @@
       "stars": 114557
     },
     {
-      "date": "2026-09-16",
-      "stars": 114763
+      "date": "2026-09-15",
+      "stars": 114673
     },
     {
       "date": "2026-09-17",
@@ -253,8 +249,8 @@
       "stars": 116006
     },
     {
-      "date": "2026-09-25",
-      "stars": 116228
+      "date": "2026-09-24",
+      "stars": 116128
     },
     {
       "date": "2026-09-26",
@@ -285,8 +281,8 @@
       "stars": 116984
     },
     {
-      "date": "2026-10-04",
-      "stars": 117094
+      "date": "2026-10-03",
+      "stars": 117028
     },
     {
       "date": "2026-10-05",
@@ -317,8 +313,8 @@
       "stars": 117599
     },
     {
-      "date": "2026-10-13",
-      "stars": 117808
+      "date": "2026-10-12",
+      "stars": 117695
     },
     {
       "date": "2026-10-14",
@@ -349,8 +345,8 @@
       "stars": 118589
     },
     {
-      "date": "2026-10-22",
-      "stars": 118818
+      "date": "2026-10-21",
+      "stars": 118707
     },
     {
       "date": "2026-10-23",
@@ -381,8 +377,8 @@
       "stars": 119444
     },
     {
-      "date": "2026-10-31",
-      "stars": 119617
+      "date": "2026-10-30",
+      "stars": 119539
     },
     {
       "date": "2026-11-01",
@@ -413,8 +409,8 @@
       "stars": 120232
     },
     {
-      "date": "2026-11-09",
-      "stars": 120391
+      "date": "2026-11-08",
+      "stars": 120288
     },
     {
       "date": "2026-11-10",
@@ -431,6 +427,10 @@
     {
       "date": "2026-11-13",
       "stars": 120888
+    },
+    {
+      "date": "2026-11-14",
+      "stars": 120974
     }
   ],
   "links": {

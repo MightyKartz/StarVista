@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 116932,
-  "forks": 12221,
-  "openIssues": 139,
-  "pushedAt": "2026-11-01T19:24:49Z",
+  "stars": 117275,
+  "forks": 12269,
+  "openIssues": 120,
+  "pushedAt": "2026-11-14T04:33:56Z",
   "topics": [
     "agent-skills",
     "antigravity",
@@ -21,11 +21,11 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3331,
+  "starDelta7d": 3485,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/110953?v=4",
   "languages": {
-    "JavaScript": 0.75,
-    "Shell": 0.23,
+    "JavaScript": 0.76,
+    "Shell": 0.22,
     "Python": 0.01,
     "HTML": 0,
     "TypeScript": 0
@@ -36,6 +36,11 @@
     "text": "agent-skills is a JavaScript project focused on Production-grade engineering skills for AI coding agents. It is tagged with agent-skills, antigravity, and claude-code."
   },
   "releases": [
+    {
+      "tag": "0.6.16",
+      "name": "Agent Skills 0.6.16",
+      "publishedAt": "2026-11-14T04:33:58Z"
+    },
     {
       "tag": "0.6.15",
       "name": "Agent Skills 0.6.15",
@@ -55,11 +60,6 @@
       "tag": "0.6.12",
       "name": "Agent Skills 0.6.12",
       "publishedAt": "2026-10-03T06:42:02Z"
-    },
-    {
-      "tag": "0.6.11",
-      "name": "Agent Skills 0.6.11",
-      "publishedAt": "2026-09-26T04:19:39Z"
     }
   ],
   "starHistory": [
@@ -246,6 +246,10 @@
     {
       "date": "2026-11-13",
       "stars": 116932
+    },
+    {
+      "date": "2026-11-14",
+      "stars": 117275
     }
   ],
   "links": {

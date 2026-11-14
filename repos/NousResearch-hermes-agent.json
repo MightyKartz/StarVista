@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 263072,
-  "forks": 59228,
-  "openIssues": 53543,
-  "pushedAt": "2026-11-13T09:31:34Z",
+  "stars": 263272,
+  "forks": 59316,
+  "openIssues": 53400,
+  "pushedAt": "2026-11-14T08:58:48Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2074,
+  "starDelta7d": 1969,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
     "Python": 0.71,
@@ -48,8 +48,8 @@
     "Objective-C": 0,
     "C": 0,
     "C#": 0,
-    "AutoHotkey": 0,
     "Just": 0,
+    "AutoHotkey": 0,
     "Go Template": 0,
     "Batchfile": 0,
     "Makefile": 0,
@@ -60,8 +60,8 @@
     "BitBake": 0,
     "Berry": 0,
     "Charity": 0,
-    "C++": 0,
     "Erlang": 0,
+    "C++": 0,
     "xBase": 0,
     "NewLisp": 0,
     "QMake": 0,
@@ -77,6 +77,11 @@
     "text": "hermes-agent is a Python project focused on The agent that grows with you. It is tagged with ai, ai-agent, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "v0.23.1+canary.20261114T064334Z",
+      "name": "Hermes Agent canary v0.23.1+canary.20261114T064334Z",
+      "publishedAt": "2026-11-14T07:46:34Z"
+    },
     {
       "tag": "v0.23.1+canary.20261113T064447Z",
       "name": "Hermes Agent canary v0.23.1+canary.20261113T064447Z",
@@ -96,11 +101,6 @@
       "tag": "v0.22.7",
       "name": "Hermes Agent v0.22.7",
       "publishedAt": "2026-11-03T21:53:16Z"
-    },
-    {
-      "tag": "v0.22.6",
-      "name": "Hermes Agent v0.22.6",
-      "publishedAt": "2026-11-02T17:18:36Z"
     }
   ],
   "starHistory": [
@@ -137,10 +137,6 @@
       "stars": 227579
     },
     {
-      "date": "2026-08-14",
-      "stars": 230239
-    },
-    {
       "date": "2026-08-15",
       "stars": 230690
     },
@@ -157,8 +153,8 @@
       "stars": 232090
     },
     {
-      "date": "2026-08-20",
-      "stars": 233101
+      "date": "2026-08-19",
+      "stars": 232613
     },
     {
       "date": "2026-08-21",
@@ -189,8 +185,8 @@
       "stars": 237168
     },
     {
-      "date": "2026-08-29",
-      "stars": 237876
+      "date": "2026-08-28",
+      "stars": 237607
     },
     {
       "date": "2026-08-30",
@@ -221,8 +217,8 @@
       "stars": 241633
     },
     {
-      "date": "2026-09-07",
-      "stars": 242717
+      "date": "2026-09-06",
+      "stars": 242126
     },
     {
       "date": "2026-09-08",
@@ -253,8 +249,8 @@
       "stars": 245263
     },
     {
-      "date": "2026-09-16",
-      "stars": 245975
+      "date": "2026-09-15",
+      "stars": 245615
     },
     {
       "date": "2026-09-17",
@@ -285,8 +281,8 @@
       "stars": 248197
     },
     {
-      "date": "2026-09-25",
-      "stars": 248790
+      "date": "2026-09-24",
+      "stars": 248514
     },
     {
       "date": "2026-09-26",
@@ -317,8 +313,8 @@
       "stars": 250673
     },
     {
-      "date": "2026-10-04",
-      "stars": 251043
+      "date": "2026-10-03",
+      "stars": 250833
     },
     {
       "date": "2026-10-05",
@@ -349,8 +345,8 @@
       "stars": 252641
     },
     {
-      "date": "2026-10-13",
-      "stars": 253288
+      "date": "2026-10-12",
+      "stars": 252938
     },
     {
       "date": "2026-10-14",
@@ -381,8 +377,8 @@
       "stars": 255361
     },
     {
-      "date": "2026-10-22",
-      "stars": 256049
+      "date": "2026-10-21",
+      "stars": 255681
     },
     {
       "date": "2026-10-23",
@@ -413,8 +409,8 @@
       "stars": 258299
     },
     {
-      "date": "2026-10-31",
-      "stars": 258967
+      "date": "2026-10-30",
+      "stars": 258636
     },
     {
       "date": "2026-11-01",
@@ -445,8 +441,8 @@
       "stars": 261303
     },
     {
-      "date": "2026-11-09",
-      "stars": 261896
+      "date": "2026-11-08",
+      "stars": 261585
     },
     {
       "date": "2026-11-10",
@@ -463,6 +459,10 @@
     {
       "date": "2026-11-13",
       "stars": 263072
+    },
+    {
+      "date": "2026-11-14",
+      "stars": 263272
     }
   ],
   "links": {

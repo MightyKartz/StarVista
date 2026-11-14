@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 123900,
-  "forks": 7837,
-  "openIssues": 8315,
-  "pushedAt": "2026-11-13T09:31:42Z",
+  "stars": 124571,
+  "forks": 7896,
+  "openIssues": 8416,
+  "pushedAt": "2026-11-14T08:51:56Z",
   "topics": [
     "agent-ide",
     "ai-agents",
@@ -35,15 +35,15 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 6764,
+  "starDelta7d": 6519,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
     "TypeScript": 0.96,
     "JavaScript": 0.03,
     "Swift": 0,
-    "CSS": 0,
     "Python": 0,
     "PowerShell": 0,
+    "CSS": 0,
     "Kotlin": 0,
     "HTML": 0,
     "Shell": 0,
@@ -167,6 +167,10 @@
     {
       "date": "2026-11-13",
       "stars": 123900
+    },
+    {
+      "date": "2026-11-14",
+      "stars": 124571
     }
   ],
   "links": {
