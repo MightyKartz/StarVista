@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 124571,
-  "forks": 7896,
-  "openIssues": 8416,
-  "pushedAt": "2026-11-14T08:51:56Z",
+  "stars": 125293,
+  "forks": 7947,
+  "openIssues": 8497,
+  "pushedAt": "2026-11-15T09:25:48Z",
   "topics": [
     "agent-ide",
     "ai-agents",
@@ -35,22 +35,22 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 6519,
+  "starDelta7d": 6466,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
     "TypeScript": 0.96,
     "JavaScript": 0.03,
     "Swift": 0,
+    "CSS": 0,
     "Python": 0,
     "PowerShell": 0,
-    "CSS": 0,
     "Kotlin": 0,
     "HTML": 0,
     "Shell": 0,
     "C++": 0,
     "Rust": 0,
-    "C": 0,
     "Ruby": 0,
+    "C": 0,
     "Dockerfile": 0,
     "NSIS": 0,
     "Objective-C": 0,
@@ -66,6 +66,21 @@
   },
   "releases": [
     {
+      "tag": "mobile-android-v0.0.65",
+      "name": "Orca Mobile Android mobile-android-v0.0.65",
+      "publishedAt": "2026-11-15T02:45:36Z"
+    },
+    {
+      "tag": "android-v0.0.65",
+      "name": "Orca Mobile Android android-v0.0.65",
+      "publishedAt": "2026-11-15T01:09:25Z"
+    },
+    {
+      "tag": "v1.4.259",
+      "name": "1.4.259",
+      "publishedAt": "2026-11-14T21:20:31Z"
+    },
+    {
       "tag": "v1.4.258",
       "name": "1.4.258",
       "publishedAt": "2026-11-13T01:35:38Z"
@@ -74,21 +89,6 @@
       "tag": "v1.4.257",
       "name": "1.4.257",
       "publishedAt": "2026-11-12T01:20:37Z"
-    },
-    {
-      "tag": "v1.4.256",
-      "name": "1.4.256",
-      "publishedAt": "2026-11-10T21:31:53Z"
-    },
-    {
-      "tag": "v1.4.255",
-      "name": "1.4.255",
-      "publishedAt": "2026-11-09T12:24:14Z"
-    },
-    {
-      "tag": "v1.4.254",
-      "name": "1.4.254",
-      "publishedAt": "2026-11-08T23:25:31Z"
     }
   ],
   "starHistory": [
@@ -171,6 +171,10 @@
     {
       "date": "2026-11-14",
       "stars": 124571
+    },
+    {
+      "date": "2026-11-15",
+      "stars": 125293
     }
   ],
   "links": {

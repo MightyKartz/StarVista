@@ -7,21 +7,21 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 194292,
-  "forks": 22862,
-  "openIssues": 1540,
-  "pushedAt": "2026-11-14T07:04:17Z",
+  "stars": 194853,
+  "forks": 22920,
+  "openIssues": 1543,
+  "pushedAt": "2026-11-14T21:52:49Z",
   "topics": [
     "agent-skills"
   ],
   "license": null,
-  "activity": "fast-rising",
-  "starDelta7d": 6003,
+  "activity": "active",
+  "starDelta7d": 5836,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
   "languages": {
-    "Python": 0.82,
-    "HTML": 0.08,
+    "Python": 0.84,
     "JavaScript": 0.08,
+    "HTML": 0.07,
     "Shell": 0.01
   },
   "readmeExcerpt": "> Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io.",
@@ -64,10 +64,6 @@
       "stars": 167080
     },
     {
-      "date": "2026-08-15",
-      "stars": 169413
-    },
-    {
       "date": "2026-08-16",
       "stars": 169577
     },
@@ -84,8 +80,8 @@
       "stars": 170312
     },
     {
-      "date": "2026-08-21",
-      "stars": 170711
+      "date": "2026-08-20",
+      "stars": 170509
     },
     {
       "date": "2026-08-22",
@@ -116,8 +112,8 @@
       "stars": 172205
     },
     {
-      "date": "2026-08-30",
-      "stars": 172520
+      "date": "2026-08-29",
+      "stars": 172357
     },
     {
       "date": "2026-08-31",
@@ -148,8 +144,8 @@
       "stars": 174658
     },
     {
-      "date": "2026-09-08",
-      "stars": 175100
+      "date": "2026-09-07",
+      "stars": 174929
     },
     {
       "date": "2026-09-09",
@@ -180,8 +176,8 @@
       "stars": 176369
     },
     {
-      "date": "2026-09-17",
-      "stars": 176772
+      "date": "2026-09-16",
+      "stars": 176593
     },
     {
       "date": "2026-09-18",
@@ -212,8 +208,8 @@
       "stars": 177863
     },
     {
-      "date": "2026-09-26",
-      "stars": 178435
+      "date": "2026-09-25",
+      "stars": 178033
     },
     {
       "date": "2026-09-27",
@@ -244,8 +240,8 @@
       "stars": 179449
     },
     {
-      "date": "2026-10-05",
-      "stars": 179701
+      "date": "2026-10-04",
+      "stars": 179565
     },
     {
       "date": "2026-10-06",
@@ -276,8 +272,8 @@
       "stars": 180613
     },
     {
-      "date": "2026-10-14",
-      "stars": 180994
+      "date": "2026-10-13",
+      "stars": 180815
     },
     {
       "date": "2026-10-15",
@@ -308,8 +304,8 @@
       "stars": 182581
     },
     {
-      "date": "2026-10-23",
-      "stars": 183120
+      "date": "2026-10-22",
+      "stars": 182842
     },
     {
       "date": "2026-10-24",
@@ -340,8 +336,8 @@
       "stars": 184884
     },
     {
-      "date": "2026-11-01",
-      "stars": 186053
+      "date": "2026-10-31",
+      "stars": 185557
     },
     {
       "date": "2026-11-02",
@@ -372,8 +368,8 @@
       "stars": 189017
     },
     {
-      "date": "2026-11-10",
-      "stars": 191605
+      "date": "2026-11-09",
+      "stars": 190032
     },
     {
       "date": "2026-11-11",
@@ -390,6 +386,10 @@
     {
       "date": "2026-11-14",
       "stars": 194292
+    },
+    {
+      "date": "2026-11-15",
+      "stars": 194853
     }
   ],
   "links": {

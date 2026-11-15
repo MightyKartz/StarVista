@@ -7,22 +7,24 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 112898,
-  "forks": 4218,
-  "openIssues": 1515,
+  "stars": 112934,
+  "forks": 4222,
+  "openIssues": 1521,
   "pushedAt": "2026-11-13T15:27:23Z",
   "topics": [
-    "desktop-app",
+    "app-framework",
+    "cross-platform",
+    "desktop",
+    "gui",
     "high-performance",
-    "mobile-app",
-    "native-app",
+    "mobile",
     "rust",
     "web-frontend",
     "webview"
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 323,
+  "starDelta7d": 327,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/54536011?v=4",
   "languages": {
     "Rust": 0.81,
@@ -47,7 +49,7 @@
   "readmeExcerpt": "Tauri is a framework for building tiny, blazingly fast binaries for all major operating systems. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.",
   "summary": {
     "mode": "template",
-    "text": "tauri is a Rust project focused on Build smaller, faster, and more secure desktop and mobile applications with a web frontend. It is tagged with desktop-app, high-performance, and mobile-app."
+    "text": "tauri is a Rust project focused on Build smaller, faster, and more secure desktop and mobile applications with a web frontend. It is tagged with app-framework, cross-platform, and desktop."
   },
   "releases": [
     {
@@ -110,10 +112,6 @@
       "stars": 110029
     },
     {
-      "date": "2026-08-15",
-      "stars": 110212
-    },
-    {
       "date": "2026-08-16",
       "stars": 110240
     },
@@ -130,8 +128,8 @@
       "stars": 110342
     },
     {
-      "date": "2026-08-21",
-      "stars": 110411
+      "date": "2026-08-20",
+      "stars": 110382
     },
     {
       "date": "2026-08-22",
@@ -162,8 +160,8 @@
       "stars": 110621
     },
     {
-      "date": "2026-08-30",
-      "stars": 110664
+      "date": "2026-08-29",
+      "stars": 110633
     },
     {
       "date": "2026-08-31",
@@ -194,8 +192,8 @@
       "stars": 110836
     },
     {
-      "date": "2026-09-08",
-      "stars": 110904
+      "date": "2026-09-07",
+      "stars": 110870
     },
     {
       "date": "2026-09-09",
@@ -226,8 +224,8 @@
       "stars": 111076
     },
     {
-      "date": "2026-09-17",
-      "stars": 111123
+      "date": "2026-09-16",
+      "stars": 111100
     },
     {
       "date": "2026-09-18",
@@ -258,8 +256,8 @@
       "stars": 111338
     },
     {
-      "date": "2026-09-26",
-      "stars": 111399
+      "date": "2026-09-25",
+      "stars": 111382
     },
     {
       "date": "2026-09-27",
@@ -290,8 +288,8 @@
       "stars": 111564
     },
     {
-      "date": "2026-10-05",
-      "stars": 111591
+      "date": "2026-10-04",
+      "stars": 111576
     },
     {
       "date": "2026-10-06",
@@ -322,8 +320,8 @@
       "stars": 111792
     },
     {
-      "date": "2026-10-14",
-      "stars": 111887
+      "date": "2026-10-13",
+      "stars": 111832
     },
     {
       "date": "2026-10-15",
@@ -354,8 +352,8 @@
       "stars": 112076
     },
     {
-      "date": "2026-10-23",
-      "stars": 112129
+      "date": "2026-10-22",
+      "stars": 112104
     },
     {
       "date": "2026-10-24",
@@ -386,8 +384,8 @@
       "stars": 112329
     },
     {
-      "date": "2026-11-01",
-      "stars": 112391
+      "date": "2026-10-31",
+      "stars": 112355
     },
     {
       "date": "2026-11-02",
@@ -418,8 +416,8 @@
       "stars": 112607
     },
     {
-      "date": "2026-11-10",
-      "stars": 112658
+      "date": "2026-11-09",
+      "stars": 112628
     },
     {
       "date": "2026-11-11",
@@ -436,6 +434,10 @@
     {
       "date": "2026-11-14",
       "stars": 112898
+    },
+    {
+      "date": "2026-11-15",
+      "stars": 112934
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 263272,
-  "forks": 59316,
-  "openIssues": 53400,
-  "pushedAt": "2026-11-14T08:58:48Z",
+  "stars": 263493,
+  "forks": 59391,
+  "openIssues": 53175,
+  "pushedAt": "2026-11-15T09:15:34Z",
   "topics": [
     "ai",
     "ai-agent",
@@ -28,10 +28,10 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1969,
+  "starDelta7d": 1908,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
   "languages": {
-    "Python": 0.71,
+    "Python": 0.72,
     "TypeScript": 0.25,
     "JavaScript": 0.02,
     "Shell": 0,
@@ -68,6 +68,7 @@
     "LOLCODE": 0,
     "Common Lisp": 0,
     "RenderScript": 0,
+    "Standard ML": 0,
     "Nu": 0,
     "IL Assembly": 0
   },
@@ -77,6 +78,11 @@
     "text": "hermes-agent is a Python project focused on The agent that grows with you. It is tagged with ai, ai-agent, and ai-agents."
   },
   "releases": [
+    {
+      "tag": "v0.23.1+canary.20261115T064406Z",
+      "name": "Hermes Agent canary v0.23.1+canary.20261115T064406Z",
+      "publishedAt": "2026-11-15T07:52:37Z"
+    },
     {
       "tag": "v0.23.1+canary.20261114T064334Z",
       "name": "Hermes Agent canary v0.23.1+canary.20261114T064334Z",
@@ -96,11 +102,6 @@
       "tag": "v0.23.0",
       "name": "Hermes Agent v0.23.0 — The Hearth Release",
       "publishedAt": "2026-11-05T21:32:33Z"
-    },
-    {
-      "tag": "v0.22.7",
-      "name": "Hermes Agent v0.22.7",
-      "publishedAt": "2026-11-03T21:53:16Z"
     }
   ],
   "starHistory": [
@@ -137,10 +138,6 @@
       "stars": 227579
     },
     {
-      "date": "2026-08-15",
-      "stars": 230690
-    },
-    {
       "date": "2026-08-16",
       "stars": 231121
     },
@@ -157,8 +154,8 @@
       "stars": 232613
     },
     {
-      "date": "2026-08-21",
-      "stars": 233599
+      "date": "2026-08-20",
+      "stars": 233101
     },
     {
       "date": "2026-08-22",
@@ -189,8 +186,8 @@
       "stars": 237607
     },
     {
-      "date": "2026-08-30",
-      "stars": 238250
+      "date": "2026-08-29",
+      "stars": 237876
     },
     {
       "date": "2026-08-31",
@@ -221,8 +218,8 @@
       "stars": 242126
     },
     {
-      "date": "2026-09-08",
-      "stars": 243169
+      "date": "2026-09-07",
+      "stars": 242717
     },
     {
       "date": "2026-09-09",
@@ -253,8 +250,8 @@
       "stars": 245615
     },
     {
-      "date": "2026-09-17",
-      "stars": 246305
+      "date": "2026-09-16",
+      "stars": 245975
     },
     {
       "date": "2026-09-18",
@@ -285,8 +282,8 @@
       "stars": 248514
     },
     {
-      "date": "2026-09-26",
-      "stars": 249041
+      "date": "2026-09-25",
+      "stars": 248790
     },
     {
       "date": "2026-09-27",
@@ -317,8 +314,8 @@
       "stars": 250833
     },
     {
-      "date": "2026-10-05",
-      "stars": 251284
+      "date": "2026-10-04",
+      "stars": 251043
     },
     {
       "date": "2026-10-06",
@@ -349,8 +346,8 @@
       "stars": 252938
     },
     {
-      "date": "2026-10-14",
-      "stars": 253590
+      "date": "2026-10-13",
+      "stars": 253288
     },
     {
       "date": "2026-10-15",
@@ -381,8 +378,8 @@
       "stars": 255681
     },
     {
-      "date": "2026-10-23",
-      "stars": 256327
+      "date": "2026-10-22",
+      "stars": 256049
     },
     {
       "date": "2026-10-24",
@@ -413,8 +410,8 @@
       "stars": 258636
     },
     {
-      "date": "2026-11-01",
-      "stars": 259301
+      "date": "2026-10-31",
+      "stars": 258967
     },
     {
       "date": "2026-11-02",
@@ -445,8 +442,8 @@
       "stars": 261585
     },
     {
-      "date": "2026-11-10",
-      "stars": 262208
+      "date": "2026-11-09",
+      "stars": 261896
     },
     {
       "date": "2026-11-11",
@@ -463,6 +460,10 @@
     {
       "date": "2026-11-14",
       "stars": 263272
+    },
+    {
+      "date": "2026-11-15",
+      "stars": 263493
     }
   ],
   "links": {
