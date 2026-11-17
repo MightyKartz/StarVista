@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 304066,
-  "forks": 44807,
-  "openIssues": 274,
-  "pushedAt": "2026-11-16T04:55:46Z",
+  "stars": 304922,
+  "forks": 44901,
+  "openIssues": 146,
+  "pushedAt": "2026-11-17T06:41:46Z",
   "topics": [
     "ai-agents",
     "anthropic",
@@ -23,21 +23,22 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 4195,
+  "starDelta7d": 4493,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
   "languages": {
-    "JavaScript": 0.74,
+    "JavaScript": 0.75,
     "Rust": 0.12,
     "Python": 0.11,
-    "Shell": 0.02,
+    "Shell": 0.01,
     "TypeScript": 0.01,
+    "PLpgSQL": 0,
     "Swift": 0,
     "Lua": 0,
     "CSS": 0,
     "PowerShell": 0,
     "Dockerfile": 0
   },
-  "readmeExcerpt": "Language: English | العربية | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español | Українська | Polski | বাংলা",
+  "readmeExcerpt": "Language: English | العربية | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español | Українська | Polski | বাংলা | Italiano",
   "summary": {
     "mode": "template",
     "text": "ECC is a JavaScript project focused on The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. It is tagged with ai-agents, anthropic, and claude."
@@ -107,10 +108,6 @@
       "stars": 240316
     },
     {
-      "date": "2026-08-17",
-      "stars": 240525
-    },
-    {
       "date": "2026-08-18",
       "stars": 240735
     },
@@ -119,8 +116,8 @@
       "stars": 240999
     },
     {
-      "date": "2026-08-21",
-      "stars": 241488
+      "date": "2026-08-20",
+      "stars": 241209
     },
     {
       "date": "2026-08-22",
@@ -147,8 +144,8 @@
       "stars": 243633
     },
     {
-      "date": "2026-08-29",
-      "stars": 244037
+      "date": "2026-08-28",
+      "stars": 243881
     },
     {
       "date": "2026-08-30",
@@ -175,8 +172,8 @@
       "stars": 247502
     },
     {
-      "date": "2026-09-06",
-      "stars": 250229
+      "date": "2026-09-05",
+      "stars": 248768
     },
     {
       "date": "2026-09-07",
@@ -207,8 +204,8 @@
       "stars": 257272
     },
     {
-      "date": "2026-09-15",
-      "stars": 258570
+      "date": "2026-09-14",
+      "stars": 257942
     },
     {
       "date": "2026-09-16",
@@ -235,8 +232,8 @@
       "stars": 264111
     },
     {
-      "date": "2026-09-23",
-      "stars": 265662
+      "date": "2026-09-22",
+      "stars": 264913
     },
     {
       "date": "2026-09-24",
@@ -267,8 +264,8 @@
       "stars": 269809
     },
     {
-      "date": "2026-10-02",
-      "stars": 270863
+      "date": "2026-10-01",
+      "stars": 270358
     },
     {
       "date": "2026-10-03",
@@ -295,8 +292,8 @@
       "stars": 275143
     },
     {
-      "date": "2026-10-10",
-      "stars": 276143
+      "date": "2026-10-09",
+      "stars": 275588
     },
     {
       "date": "2026-10-11",
@@ -327,8 +324,8 @@
       "stars": 281723
     },
     {
-      "date": "2026-10-19",
-      "stars": 283506
+      "date": "2026-10-18",
+      "stars": 282748
     },
     {
       "date": "2026-10-20",
@@ -355,8 +352,8 @@
       "stars": 288282
     },
     {
-      "date": "2026-10-27",
-      "stars": 290137
+      "date": "2026-10-26",
+      "stars": 289082
     },
     {
       "date": "2026-10-28",
@@ -383,8 +380,8 @@
       "stars": 295058
     },
     {
-      "date": "2026-11-04",
-      "stars": 296770
+      "date": "2026-11-03",
+      "stars": 295997
     },
     {
       "date": "2026-11-05",
@@ -415,8 +412,8 @@
       "stars": 300981
     },
     {
-      "date": "2026-11-13",
-      "stars": 302171
+      "date": "2026-11-12",
+      "stars": 301610
     },
     {
       "date": "2026-11-14",
@@ -429,6 +426,10 @@
     {
       "date": "2026-11-16",
       "stars": 304066
+    },
+    {
+      "date": "2026-11-17",
+      "stars": 304922
     }
   ],
   "links": {

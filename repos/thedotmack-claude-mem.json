@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 117503,
-  "forks": 10209,
-  "openIssues": 87,
-  "pushedAt": "2026-11-16T08:47:55Z",
+  "stars": 117824,
+  "forks": 10238,
+  "openIssues": 155,
+  "pushedAt": "2026-11-17T10:34:45Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -35,7 +35,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 2383,
+  "starDelta7d": 2259,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/683968?v=4",
   "languages": {
     "TypeScript": 0.64,
@@ -148,6 +148,10 @@
     {
       "date": "2026-11-16",
       "stars": 117503
+    },
+    {
+      "date": "2026-11-17",
+      "stars": 117824
     }
   ],
   "links": {

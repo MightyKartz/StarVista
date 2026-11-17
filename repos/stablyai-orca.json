@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 126176,
-  "forks": 7998,
-  "openIssues": 8440,
-  "pushedAt": "2026-11-16T09:43:36Z",
+  "stars": 127245,
+  "forks": 8074,
+  "openIssues": 8538,
+  "pushedAt": "2026-11-17T10:43:40Z",
   "topics": [
     "agent-ide",
     "ai-agents",
@@ -35,10 +35,10 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 6414,
+  "starDelta7d": 6377,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
-    "TypeScript": 0.96,
+    "TypeScript": 0.95,
     "JavaScript": 0.03,
     "Swift": 0,
     "CSS": 0,
@@ -47,14 +47,14 @@
     "Kotlin": 0,
     "HTML": 0,
     "Shell": 0,
+    "C": 0,
     "C++": 0,
     "Rust": 0,
     "Ruby": 0,
-    "C": 0,
     "Dockerfile": 0,
     "NSIS": 0,
-    "C#": 0,
     "Objective-C": 0,
+    "C#": 0,
     "Java": 0,
     "Batchfile": 0,
     "VBScript": 0
@@ -66,6 +66,21 @@
   },
   "releases": [
     {
+      "tag": "v1.4.261",
+      "name": "v1.4.261",
+      "publishedAt": "2026-11-16T10:30:50Z"
+    },
+    {
+      "tag": "android-v0.0.67",
+      "name": "Orca Mobile Android android-v0.0.67",
+      "publishedAt": "2026-11-16T11:05:52Z"
+    },
+    {
+      "tag": "android-v0.0.66",
+      "name": "Orca Mobile Android android-v0.0.66",
+      "publishedAt": "2026-11-16T10:21:55Z"
+    },
+    {
       "tag": "mobile-android-v0.0.65",
       "name": "Orca Mobile Android mobile-android-v0.0.65",
       "publishedAt": "2026-11-15T02:45:36Z"
@@ -74,21 +89,6 @@
       "tag": "android-v0.0.65",
       "name": "Orca Mobile Android android-v0.0.65",
       "publishedAt": "2026-11-15T01:09:25Z"
-    },
-    {
-      "tag": "v1.4.259",
-      "name": "1.4.259",
-      "publishedAt": "2026-11-14T21:20:31Z"
-    },
-    {
-      "tag": "v1.4.258",
-      "name": "1.4.258",
-      "publishedAt": "2026-11-13T01:35:38Z"
-    },
-    {
-      "tag": "v1.4.257",
-      "name": "1.4.257",
-      "publishedAt": "2026-11-12T01:20:37Z"
     }
   ],
   "starHistory": [
@@ -179,6 +179,10 @@
     {
       "date": "2026-11-16",
       "stars": 126176
+    },
+    {
+      "date": "2026-11-17",
+      "stars": 127245
     }
   ],
   "links": {
