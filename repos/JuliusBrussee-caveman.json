@@ -3,14 +3,14 @@
   "slug": "JuliusBrussee-caveman",
   "owner": "JuliusBrussee",
   "name": "caveman",
-  "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+  "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 120889,
-  "forks": 7062,
-  "openIssues": 95,
-  "pushedAt": "2026-11-17T07:41:34Z",
+  "stars": 121172,
+  "forks": 7080,
+  "openIssues": 99,
+  "pushedAt": "2026-11-18T07:28:33Z",
   "topics": [
     "ai",
     "anthropic",
@@ -25,7 +25,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 2134,
+  "starDelta7d": 2183,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
     "Go": 0.48,
@@ -39,10 +39,10 @@
     "CSS": 0,
     "Dockerfile": 0
   },
-  "readmeExcerpt": "The most efficient coding agent. Same model, same work, smaller bill.",
+  "readmeExcerpt": "21% less than Codex per solved task on Terminal-Bench 4. Same model on both sides.",
   "summary": {
     "mode": "template",
-    "text": "caveman is a Go project focused on 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. It is tagged with ai, anthropic, and caveman."
+    "text": "caveman is a Go project focused on why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable. It is tagged with ai, anthropic, and caveman."
   },
   "releases": [
     {
@@ -399,6 +399,10 @@
     {
       "date": "2026-11-17",
       "stars": 120889
+    },
+    {
+      "date": "2026-11-18",
+      "stars": 121172
     }
   ],
   "links": {

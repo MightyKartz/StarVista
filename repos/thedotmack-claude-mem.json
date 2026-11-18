@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 117824,
-  "forks": 10238,
-  "openIssues": 155,
-  "pushedAt": "2026-11-17T10:34:45Z",
+  "stars": 118102,
+  "forks": 10261,
+  "openIssues": 84,
+  "pushedAt": "2026-11-18T05:00:37Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -35,15 +35,15 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 2259,
+  "starDelta7d": 2111,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/683968?v=4",
   "languages": {
-    "TypeScript": 0.64,
-    "JavaScript": 0.31,
+    "TypeScript": 0.66,
+    "JavaScript": 0.29,
     "Python": 0.04,
     "HTML": 0.01,
-    "Shell": 0,
     "CSS": 0,
+    "Shell": 0,
     "Dockerfile": 0,
     "Java": 0,
     "C++": 0,
@@ -63,6 +63,21 @@
   },
   "releases": [
     {
+      "tag": "v16.0.0",
+      "name": "v16.0.0",
+      "publishedAt": "2026-11-18T03:11:11Z"
+    },
+    {
+      "tag": "v15.21.0",
+      "name": "v15.21.0",
+      "publishedAt": "2026-11-17T20:54:27Z"
+    },
+    {
+      "tag": "v15.20.0",
+      "name": "v15.20.0",
+      "publishedAt": "2026-11-17T18:46:24Z"
+    },
+    {
       "tag": "v15.19.0",
       "name": "v15.19.0",
       "publishedAt": "2026-11-16T02:04:44Z"
@@ -71,21 +86,6 @@
       "tag": "v15.18.5",
       "name": "v15.18.5",
       "publishedAt": "2026-11-15T18:10:20Z"
-    },
-    {
-      "tag": "v15.18.4",
-      "name": "v15.18.4",
-      "publishedAt": "2026-11-15T05:54:37Z"
-    },
-    {
-      "tag": "v15.18.3",
-      "name": "v15.18.3",
-      "publishedAt": "2026-11-12T18:53:05Z"
-    },
-    {
-      "tag": "v15.18.2",
-      "name": "v15.18.2",
-      "publishedAt": "2026-11-12T17:40:57Z"
     }
   ],
   "starHistory": [
@@ -152,6 +152,10 @@
     {
       "date": "2026-11-17",
       "stars": 117824
+    },
+    {
+      "date": "2026-11-18",
+      "stars": 118102
     }
   ],
   "links": {

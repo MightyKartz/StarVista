@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 149759,
-  "forks": 25149,
-  "openIssues": 757,
-  "pushedAt": "2026-11-17T08:17:38Z",
+  "stars": 149837,
+  "forks": 25160,
+  "openIssues": 753,
+  "pushedAt": "2026-11-18T09:15:40Z",
   "topics": [
     "agents",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 463,
+  "starDelta7d": 494,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
   "languages": {
     "Python": 0.99,
@@ -53,6 +53,16 @@
   },
   "releases": [
     {
+      "tag": "langchain-openai==1.8.1",
+      "name": "langchain-openai==1.8.1",
+      "publishedAt": "2026-11-17T20:39:43Z"
+    },
+    {
+      "tag": "langchain-core==1.8.2",
+      "name": "langchain-core==1.8.2",
+      "publishedAt": "2026-11-17T22:42:53Z"
+    },
+    {
       "tag": "langchain-xai==1.4.0",
       "name": "langchain-xai==1.4.0",
       "publishedAt": "2026-11-15T21:35:20Z"
@@ -66,16 +76,6 @@
       "tag": "langchain-groq==1.2.0",
       "name": "langchain-groq==1.2.0",
       "publishedAt": "2026-11-15T21:49:09Z"
-    },
-    {
-      "tag": "langchain-deepseek==1.2.0",
-      "name": "langchain-deepseek==1.2.0",
-      "publishedAt": "2026-11-15T21:34:41Z"
-    },
-    {
-      "tag": "langchain-core==1.8.1",
-      "name": "langchain-core==1.8.1",
-      "publishedAt": "2026-11-15T14:57:11Z"
     }
   ],
   "starHistory": [
@@ -116,10 +116,6 @@
       "stars": 144296
     },
     {
-      "date": "2026-08-18",
-      "stars": 144426
-    },
-    {
       "date": "2026-08-19",
       "stars": 144508
     },
@@ -128,8 +124,8 @@
       "stars": 144586
     },
     {
-      "date": "2026-08-22",
-      "stars": 144741
+      "date": "2026-08-21",
+      "stars": 144670
     },
     {
       "date": "2026-08-23",
@@ -156,8 +152,8 @@
       "stars": 145184
     },
     {
-      "date": "2026-08-30",
-      "stars": 145264
+      "date": "2026-08-29",
+      "stars": 145223
     },
     {
       "date": "2026-08-31",
@@ -184,8 +180,8 @@
       "stars": 145674
     },
     {
-      "date": "2026-09-07",
-      "stars": 145836
+      "date": "2026-09-06",
+      "stars": 145742
     },
     {
       "date": "2026-09-08",
@@ -216,8 +212,8 @@
       "stars": 146273
     },
     {
-      "date": "2026-09-16",
-      "stars": 146429
+      "date": "2026-09-15",
+      "stars": 146353
     },
     {
       "date": "2026-09-17",
@@ -244,8 +240,8 @@
       "stars": 146845
     },
     {
-      "date": "2026-09-24",
-      "stars": 146961
+      "date": "2026-09-23",
+      "stars": 146913
     },
     {
       "date": "2026-09-25",
@@ -276,8 +272,8 @@
       "stars": 147342
     },
     {
-      "date": "2026-10-03",
-      "stars": 147392
+      "date": "2026-10-02",
+      "stars": 147375
     },
     {
       "date": "2026-10-04",
@@ -304,8 +300,8 @@
       "stars": 147428
     },
     {
-      "date": "2026-10-11",
-      "stars": 147593
+      "date": "2026-10-10",
+      "stars": 147539
     },
     {
       "date": "2026-10-12",
@@ -336,8 +332,8 @@
       "stars": 148007
     },
     {
-      "date": "2026-10-20",
-      "stars": 148111
+      "date": "2026-10-19",
+      "stars": 148060
     },
     {
       "date": "2026-10-21",
@@ -364,8 +360,8 @@
       "stars": 148475
     },
     {
-      "date": "2026-10-28",
-      "stars": 148601
+      "date": "2026-10-27",
+      "stars": 148540
     },
     {
       "date": "2026-10-29",
@@ -392,8 +388,8 @@
       "stars": 148930
     },
     {
-      "date": "2026-11-05",
-      "stars": 149063
+      "date": "2026-11-04",
+      "stars": 148992
     },
     {
       "date": "2026-11-06",
@@ -424,8 +420,8 @@
       "stars": 149396
     },
     {
-      "date": "2026-11-14",
-      "stars": 149481
+      "date": "2026-11-13",
+      "stars": 149436
     },
     {
       "date": "2026-11-15",
@@ -438,6 +434,10 @@
     {
       "date": "2026-11-17",
       "stars": 149759
+    },
+    {
+      "date": "2026-11-18",
+      "stars": 149837
     }
   ],
   "links": {
