@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 114679,
-  "forks": 19025,
-  "openIssues": 6863,
-  "pushedAt": "2026-11-18T09:30:35Z",
+  "stars": 114916,
+  "forks": 19083,
+  "openIssues": 6927,
+  "pushedAt": "2026-11-19T10:02:50Z",
   "topics": [
     "acpx",
     "agent-orchestration",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1643,
+  "starDelta7d": 1651,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/264498616?v=4",
   "languages": {
     "TypeScript": 0.93,
@@ -58,6 +58,11 @@
   },
   "releases": [
     {
+      "tag": "v2026.1117.0",
+      "name": "v2026.1117.0",
+      "publishedAt": "2026-11-18T22:20:29Z"
+    },
+    {
       "tag": "v2026.1106.0",
       "name": "v2026.1106.0",
       "publishedAt": "2026-11-06T22:31:53Z"
@@ -76,11 +81,6 @@
       "tag": "v2026.1005.0",
       "name": "v2026.1005.0",
       "publishedAt": "2026-10-06T16:40:49Z"
-    },
-    {
-      "tag": "v2026.1001.0",
-      "name": "v2026.1001.0",
-      "publishedAt": "2026-10-02T01:54:00Z"
     }
   ],
   "starHistory": [
@@ -239,6 +239,10 @@
     {
       "date": "2026-11-18",
       "stars": 114679
+    },
+    {
+      "date": "2026-11-19",
+      "stars": 114916
     }
   ],
   "links": {

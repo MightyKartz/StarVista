@@ -7,19 +7,19 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 156104,
-  "forks": 25030,
-  "openIssues": 17125,
-  "pushedAt": "2026-11-18T05:25:18Z",
+  "stars": 156236,
+  "forks": 25043,
+  "openIssues": 17019,
+  "pushedAt": "2026-11-19T08:23:13Z",
   "topics": [],
   "license": null,
   "activity": "active",
-  "starDelta7d": 862,
+  "starDelta7d": 844,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
   "languages": {
-    "TypeScript": 0.98,
+    "TypeScript": 0.99,
     "Shell": 0.01,
-    "PowerShell": 0.01,
+    "PowerShell": 0,
     "Dockerfile": 0
   },
   "readmeExcerpt": "[npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square",
@@ -28,6 +28,11 @@
     "text": "claude-code is a TypeScript project focused on Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
   },
   "releases": [
+    {
+      "tag": "v2.1.328",
+      "name": "v2.1.328",
+      "publishedAt": "2026-11-19T01:14:04Z"
+    },
     {
       "tag": "v2.1.327",
       "name": "v2.1.327",
@@ -47,11 +52,6 @@
       "tag": "v2.1.323",
       "name": "v2.1.323",
       "publishedAt": "2026-11-12T22:12:13Z"
-    },
-    {
-      "tag": "v2.1.322",
-      "name": "v2.1.322",
-      "publishedAt": "2026-11-10T02:29:43Z"
     }
   ],
   "starHistory": [
@@ -92,10 +92,6 @@
       "stars": 141579
     },
     {
-      "date": "2026-08-19",
-      "stars": 141915
-    },
-    {
       "date": "2026-08-20",
       "stars": 142043
     },
@@ -104,8 +100,8 @@
       "stars": 142167
     },
     {
-      "date": "2026-08-23",
-      "stars": 142577
+      "date": "2026-08-22",
+      "stars": 142312
     },
     {
       "date": "2026-08-24",
@@ -132,8 +128,8 @@
       "stars": 143339
     },
     {
-      "date": "2026-08-31",
-      "stars": 143512
+      "date": "2026-08-30",
+      "stars": 143426
     },
     {
       "date": "2026-09-01",
@@ -160,8 +156,8 @@
       "stars": 144202
     },
     {
-      "date": "2026-09-08",
-      "stars": 144406
+      "date": "2026-09-07",
+      "stars": 144309
     },
     {
       "date": "2026-09-09",
@@ -192,8 +188,8 @@
       "stars": 145097
     },
     {
-      "date": "2026-09-17",
-      "stars": 145685
+      "date": "2026-09-16",
+      "stars": 145231
     },
     {
       "date": "2026-09-18",
@@ -220,8 +216,8 @@
       "stars": 147712
     },
     {
-      "date": "2026-09-25",
-      "stars": 148007
+      "date": "2026-09-24",
+      "stars": 147850
     },
     {
       "date": "2026-09-26",
@@ -252,8 +248,8 @@
       "stars": 148911
     },
     {
-      "date": "2026-10-04",
-      "stars": 149315
+      "date": "2026-10-03",
+      "stars": 149011
     },
     {
       "date": "2026-10-05",
@@ -280,8 +276,8 @@
       "stars": 149951
     },
     {
-      "date": "2026-10-12",
-      "stars": 150301
+      "date": "2026-10-11",
+      "stars": 150111
     },
     {
       "date": "2026-10-13",
@@ -312,8 +308,8 @@
       "stars": 152302
     },
     {
-      "date": "2026-10-21",
-      "stars": 152701
+      "date": "2026-10-20",
+      "stars": 152804
     },
     {
       "date": "2026-10-22",
@@ -340,8 +336,8 @@
       "stars": 153504
     },
     {
-      "date": "2026-10-29",
-      "stars": 153791
+      "date": "2026-10-28",
+      "stars": 153659
     },
     {
       "date": "2026-10-30",
@@ -368,8 +364,8 @@
       "stars": 154469
     },
     {
-      "date": "2026-11-06",
-      "stars": 154730
+      "date": "2026-11-05",
+      "stars": 154597
     },
     {
       "date": "2026-11-07",
@@ -400,8 +396,8 @@
       "stars": 155500
     },
     {
-      "date": "2026-11-15",
-      "stars": 155725
+      "date": "2026-11-14",
+      "stars": 155613
     },
     {
       "date": "2026-11-16",
@@ -414,6 +410,10 @@
     {
       "date": "2026-11-18",
       "stars": 156104
+    },
+    {
+      "date": "2026-11-19",
+      "stars": 156236
     }
   ],
   "links": {

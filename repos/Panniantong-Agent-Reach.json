@@ -1,0 +1,83 @@
+{
+  "id": "Panniantong/Agent-Reach",
+  "slug": "Panniantong-Agent-Reach",
+  "owner": "Panniantong",
+  "name": "Agent-Reach",
+  "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+  "archived": false,
+  "primaryLanguage": "Python",
+  "languageColor": "#3572a5",
+  "stars": 113165,
+  "forks": 10156,
+  "openIssues": 144,
+  "pushedAt": "2026-11-08T02:17:48Z",
+  "topics": [
+    "agent-infrastructure",
+    "ai-agent",
+    "ai-search",
+    "automation",
+    "bilibili",
+    "claude-code",
+    "cli",
+    "cursor",
+    "free-api",
+    "llm-tools",
+    "mcp",
+    "python",
+    "reddit-scraper",
+    "twitter-scraper",
+    "web-scraper",
+    "xiaohongshu",
+    "youtube-transcript"
+  ],
+  "license": "MIT",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/73925474?v=4",
+  "languages": {
+    "Python": 0.98,
+    "Shell": 0.02
+  },
+  "readmeExcerpt": "👁️ Agent Reach",
+  "summary": {
+    "mode": "template",
+    "text": "Agent-Reach is a Python project focused on Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. It is tagged with agent-infrastructure, ai-agent, and ai-search."
+  },
+  "releases": [
+    {
+      "tag": "v1.6.1",
+      "name": "v1.6.1",
+      "publishedAt": "2026-11-01T07:24:15Z"
+    },
+    {
+      "tag": "v1.6.0",
+      "name": "v1.6.0",
+      "publishedAt": "2026-10-23T06:45:50Z"
+    },
+    {
+      "tag": "v1.5.0",
+      "name": "v1.5.0 — 能力层:多后端路由 + 真体检 + OpenCLI",
+      "publishedAt": "2026-06-11T12:29:59Z"
+    },
+    {
+      "tag": "v1.4.2",
+      "name": "v1.4.2 — 诚实瘦身：移除失修渠道，新增转写与 doctor --json",
+      "publishedAt": "2026-06-10T08:02:48Z"
+    },
+    {
+      "tag": "v1.4.1",
+      "name": "v1.4.1 — 修复源码安装失败(wheel 重复打包)",
+      "publishedAt": "2026-06-10T03:47:52Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-11-19",
+      "stars": 113165
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/Panniantong/Agent-Reach",
+    "homepage": null
+  }
+}
