@@ -7,14 +7,14 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 142060,
-  "forks": 20968,
-  "openIssues": 115,
-  "pushedAt": "2026-11-19T10:09:59Z",
+  "stars": 142175,
+  "forks": 20992,
+  "openIssues": 111,
+  "pushedAt": "2026-11-20T09:56:41Z",
   "topics": [],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 754,
+  "starDelta7d": 757,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/19957?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -27,6 +27,7 @@
     "HTML": 0,
     "Python": 0,
     "PowerShell": 0,
+    "PLpgSQL": 0,
     "Awk": 0,
     "Dockerfile": 0,
     "jq": 0
@@ -37,6 +38,11 @@
     "text": "gstack is a TypeScript project focused on Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA."
   },
   "releases": [
+    {
+      "tag": "v1.102.0.0",
+      "name": "gstack v1.102.0.0",
+      "publishedAt": "2026-11-19T19:07:31Z"
+    },
     {
       "tag": "v1.101.0.0",
       "name": "gstack v1.101.0.0",
@@ -56,11 +62,6 @@
       "tag": "v1.99.4.0",
       "name": "gstack v1.99.4.0",
       "publishedAt": "2026-11-15T01:08:54Z"
-    },
-    {
-      "tag": "v1.99.3.0",
-      "name": "gstack v1.99.3.0",
-      "publishedAt": "2026-11-13T20:05:39Z"
     }
   ],
   "starHistory": [
@@ -101,10 +102,6 @@
       "stars": 128160
     },
     {
-      "date": "2026-08-20",
-      "stars": 128760
-    },
-    {
       "date": "2026-08-21",
       "stars": 128937
     },
@@ -113,8 +110,8 @@
       "stars": 129092
     },
     {
-      "date": "2026-08-24",
-      "stars": 129341
+      "date": "2026-08-23",
+      "stars": 129219
     },
     {
       "date": "2026-08-25",
@@ -141,8 +138,8 @@
       "stars": 130372
     },
     {
-      "date": "2026-09-01",
-      "stars": 130683
+      "date": "2026-08-31",
+      "stars": 130519
     },
     {
       "date": "2026-09-02",
@@ -169,8 +166,8 @@
       "stars": 131831
     },
     {
-      "date": "2026-09-09",
-      "stars": 132184
+      "date": "2026-09-08",
+      "stars": 132010
     },
     {
       "date": "2026-09-10",
@@ -201,8 +198,8 @@
       "stars": 133275
     },
     {
-      "date": "2026-09-18",
-      "stars": 133507
+      "date": "2026-09-17",
+      "stars": 133396
     },
     {
       "date": "2026-09-19",
@@ -229,8 +226,8 @@
       "stars": 134052
     },
     {
-      "date": "2026-09-26",
-      "stars": 134223
+      "date": "2026-09-25",
+      "stars": 134143
     },
     {
       "date": "2026-09-27",
@@ -261,8 +258,8 @@
       "stars": 134840
     },
     {
-      "date": "2026-10-05",
-      "stars": 135256
+      "date": "2026-10-04",
+      "stars": 134968
     },
     {
       "date": "2026-10-06",
@@ -289,8 +286,8 @@
       "stars": 135880
     },
     {
-      "date": "2026-10-13",
-      "stars": 136215
+      "date": "2026-10-12",
+      "stars": 136078
     },
     {
       "date": "2026-10-14",
@@ -321,8 +318,8 @@
       "stars": 137000
     },
     {
-      "date": "2026-10-22",
-      "stars": 137237
+      "date": "2026-10-21",
+      "stars": 137112
     },
     {
       "date": "2026-10-23",
@@ -349,8 +346,8 @@
       "stars": 137988
     },
     {
-      "date": "2026-10-30",
-      "stars": 138224
+      "date": "2026-10-29",
+      "stars": 138102
     },
     {
       "date": "2026-10-31",
@@ -377,8 +374,8 @@
       "stars": 139561
     },
     {
-      "date": "2026-11-07",
-      "stars": 140540
+      "date": "2026-11-06",
+      "stars": 140241
     },
     {
       "date": "2026-11-08",
@@ -409,8 +406,8 @@
       "stars": 141493
     },
     {
-      "date": "2026-11-16",
-      "stars": 141749
+      "date": "2026-11-15",
+      "stars": 141607
     },
     {
       "date": "2026-11-17",
@@ -423,6 +420,10 @@
     {
       "date": "2026-11-19",
       "stars": 142060
+    },
+    {
+      "date": "2026-11-20",
+      "stars": 142175
     }
   ],
   "links": {

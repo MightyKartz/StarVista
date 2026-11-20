@@ -1,0 +1,82 @@
+{
+  "id": "pbakaus/impeccable",
+  "slug": "pbakaus-impeccable",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+  "archived": false,
+  "primaryLanguage": "Rust",
+  "languageColor": "#dea584",
+  "stars": 113721,
+  "forks": 6774,
+  "openIssues": 72,
+  "pushedAt": "2026-11-20T09:50:59Z",
+  "topics": [
+    "agent-skills",
+    "ai",
+    "anti-slop",
+    "design",
+    "slop"
+  ],
+  "license": "Apache-2.0",
+  "activity": "active",
+  "starDelta7d": null,
+  "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43004?v=4",
+  "languages": {
+    "Rust": 0.75,
+    "JavaScript": 0.23,
+    "TypeScript": 0.01,
+    "CSS": 0,
+    "HTML": 0,
+    "Shell": 0,
+    "Batchfile": 0,
+    "Python": 0,
+    "Svelte": 0,
+    "Astro": 0,
+    "Vue": 0,
+    "Swift": 0,
+    "Dart": 0
+  },
+  "readmeExcerpt": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, and catch AI slop before it ships.",
+  "summary": {
+    "mode": "template",
+    "text": "impeccable is a Rust project focused on The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. It is tagged with agent-skills, ai, and anti-slop."
+  },
+  "releases": [
+    {
+      "tag": "skill-v4.10.0",
+      "name": "Skill 4.10.0",
+      "publishedAt": "2026-11-18T22:26:52Z"
+    },
+    {
+      "tag": "engine-v0.1.28",
+      "name": "impeccable engine engine-v0.1.28",
+      "publishedAt": "2026-11-19T18:16:28Z"
+    },
+    {
+      "tag": "engine-v0.1.27",
+      "name": "impeccable engine engine-v0.1.27",
+      "publishedAt": "2026-11-18T20:54:38Z"
+    },
+    {
+      "tag": "cli-v4.10.0",
+      "name": "CLI 4.10.0",
+      "publishedAt": "2026-11-18T21:27:49Z"
+    },
+    {
+      "tag": "loop-v0.2.0",
+      "name": "Impeccable Loop 0.2.0",
+      "publishedAt": "2026-11-18T21:08:51Z"
+    }
+  ],
+  "starHistory": [
+    {
+      "date": "2026-11-20",
+      "stars": 113721
+    }
+  ],
+  "links": {
+    "repo": "https://github.com/pbakaus/impeccable",
+    "homepage": "https://impeccable.style"
+  }
+}

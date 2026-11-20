@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 150590,
-  "forks": 13526,
+  "stars": 150757,
+  "forks": 13545,
   "openIssues": 220,
-  "pushedAt": "2026-11-18T20:12:32Z",
+  "pushedAt": "2026-11-19T16:00:16Z",
   "topics": [
     "ai",
     "copilot",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1153,
+  "starDelta7d": 1155,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
   "languages": {
     "Python": 0.98,
@@ -35,6 +35,11 @@
     "text": "spec-kit is a Python project focused on 💫 Toolkit to help you get started with SDD or any other process!. It is tagged with ai, copilot, and development."
   },
   "releases": [
+    {
+      "tag": "v1.4.3",
+      "name": "Spec Kit - 1.4.3",
+      "publishedAt": "2026-11-19T14:31:35Z"
+    },
     {
       "tag": "v1.4.2",
       "name": "Spec Kit - 1.4.2",
@@ -54,11 +59,6 @@
       "tag": "v1.3.3",
       "name": "Spec Kit - 1.3.3",
       "publishedAt": "2026-11-09T20:40:19Z"
-    },
-    {
-      "tag": "v1.3.2",
-      "name": "Spec Kit - 1.3.2",
-      "publishedAt": "2026-11-06T17:24:25Z"
     }
   ],
   "starHistory": [
@@ -99,10 +99,6 @@
       "stars": 129247
     },
     {
-      "date": "2026-08-20",
-      "stars": 130346
-    },
-    {
       "date": "2026-08-21",
       "stars": 130543
     },
@@ -111,8 +107,8 @@
       "stars": 130699
     },
     {
-      "date": "2026-08-24",
-      "stars": 130984
+      "date": "2026-08-23",
+      "stars": 130843
     },
     {
       "date": "2026-08-25",
@@ -139,8 +135,8 @@
       "stars": 132231
     },
     {
-      "date": "2026-09-01",
-      "stars": 132698
+      "date": "2026-08-31",
+      "stars": 132411
     },
     {
       "date": "2026-09-02",
@@ -167,8 +163,8 @@
       "stars": 133770
     },
     {
-      "date": "2026-09-09",
-      "stars": 134300
+      "date": "2026-09-08",
+      "stars": 133981
     },
     {
       "date": "2026-09-10",
@@ -199,8 +195,8 @@
       "stars": 137150
     },
     {
-      "date": "2026-09-18",
-      "stars": 137690
+      "date": "2026-09-17",
+      "stars": 137463
     },
     {
       "date": "2026-09-19",
@@ -227,8 +223,8 @@
       "stars": 138639
     },
     {
-      "date": "2026-09-26",
-      "stars": 138939
+      "date": "2026-09-25",
+      "stars": 138814
     },
     {
       "date": "2026-09-27",
@@ -259,8 +255,8 @@
       "stars": 139892
     },
     {
-      "date": "2026-10-05",
-      "stars": 140161
+      "date": "2026-10-04",
+      "stars": 140042
     },
     {
       "date": "2026-10-06",
@@ -287,8 +283,8 @@
       "stars": 140763
     },
     {
-      "date": "2026-10-13",
-      "stars": 141043
+      "date": "2026-10-12",
+      "stars": 140898
     },
     {
       "date": "2026-10-14",
@@ -319,8 +315,8 @@
       "stars": 142011
     },
     {
-      "date": "2026-10-22",
-      "stars": 142352
+      "date": "2026-10-21",
+      "stars": 142209
     },
     {
       "date": "2026-10-23",
@@ -347,8 +343,8 @@
       "stars": 143431
     },
     {
-      "date": "2026-10-30",
-      "stars": 143990
+      "date": "2026-10-29",
+      "stars": 143769
     },
     {
       "date": "2026-10-31",
@@ -375,8 +371,8 @@
       "stars": 147571
     },
     {
-      "date": "2026-11-07",
-      "stars": 148269
+      "date": "2026-11-06",
+      "stars": 148024
     },
     {
       "date": "2026-11-08",
@@ -407,8 +403,8 @@
       "stars": 149734
     },
     {
-      "date": "2026-11-16",
-      "stars": 150009
+      "date": "2026-11-15",
+      "stars": 149836
     },
     {
       "date": "2026-11-17",
@@ -421,6 +417,10 @@
     {
       "date": "2026-11-19",
       "stars": 150590
+    },
+    {
+      "date": "2026-11-20",
+      "stars": 150757
     }
   ],
   "links": {

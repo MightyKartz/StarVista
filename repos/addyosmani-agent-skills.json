@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 119045,
-  "forks": 12400,
-  "openIssues": 118,
+  "stars": 119272,
+  "forks": 12418,
+  "openIssues": 122,
   "pushedAt": "2026-11-18T20:06:38Z",
   "topics": [
     "agent-skills",
@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 2789,
+  "starDelta7d": 2340,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/110953?v=4",
   "languages": {
     "JavaScript": 0.76,
@@ -270,6 +270,10 @@
     {
       "date": "2026-11-19",
       "stars": 119045
+    },
+    {
+      "date": "2026-11-20",
+      "stars": 119272
     }
   ],
   "links": {
