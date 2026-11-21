@@ -3,14 +3,14 @@
   "slug": "firecrawl-firecrawl",
   "owner": "firecrawl",
   "name": "firecrawl",
-  "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+  "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 204667,
-  "forks": 10729,
-  "openIssues": 870,
-  "pushedAt": "2026-11-20T03:28:33Z",
+  "stars": 205619,
+  "forks": 10754,
+  "openIssues": 893,
+  "pushedAt": "2026-11-21T09:49:49Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "active",
-  "starDelta7d": 3277,
+  "starDelta7d": 3975,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4",
   "languages": {
     "TypeScript": 0.73,
@@ -60,7 +60,7 @@
   "readmeExcerpt": "<img src=\"https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawllogo.png\" height=\"200\" >",
   "summary": {
     "mode": "template",
-    "text": "firecrawl is a TypeScript project focused on Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. It is tagged with ai, ai-agents, and ai-crawler."
+    "text": "firecrawl is a TypeScript project focused on Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. It is tagged with ai, ai-agents, and ai-crawler."
   },
   "releases": [
     {
@@ -127,10 +127,6 @@
       "stars": 167832
     },
     {
-      "date": "2026-08-21",
-      "stars": 170147
-    },
-    {
       "date": "2026-08-22",
       "stars": 170611
     },
@@ -139,8 +135,8 @@
       "stars": 171007
     },
     {
-      "date": "2026-08-25",
-      "stars": 171913
+      "date": "2026-08-24",
+      "stars": 171443
     },
     {
       "date": "2026-08-26",
@@ -167,8 +163,8 @@
       "stars": 174576
     },
     {
-      "date": "2026-09-02",
-      "stars": 175399
+      "date": "2026-09-01",
+      "stars": 174985
     },
     {
       "date": "2026-09-03",
@@ -195,8 +191,8 @@
       "stars": 177757
     },
     {
-      "date": "2026-09-10",
-      "stars": 178515
+      "date": "2026-09-09",
+      "stars": 178122
     },
     {
       "date": "2026-09-11",
@@ -227,8 +223,8 @@
       "stars": 181409
     },
     {
-      "date": "2026-09-19",
-      "stars": 182080
+      "date": "2026-09-18",
+      "stars": 181778
     },
     {
       "date": "2026-09-20",
@@ -255,8 +251,8 @@
       "stars": 184433
     },
     {
-      "date": "2026-09-27",
-      "stars": 185251
+      "date": "2026-09-26",
+      "stars": 184844
     },
     {
       "date": "2026-09-28",
@@ -287,8 +283,8 @@
       "stars": 188371
     },
     {
-      "date": "2026-10-06",
-      "stars": 189015
+      "date": "2026-10-05",
+      "stars": 188717
     },
     {
       "date": "2026-10-07",
@@ -315,8 +311,8 @@
       "stars": 190649
     },
     {
-      "date": "2026-10-14",
-      "stars": 191319
+      "date": "2026-10-13",
+      "stars": 190979
     },
     {
       "date": "2026-10-15",
@@ -347,8 +343,8 @@
       "stars": 193593
     },
     {
-      "date": "2026-10-23",
-      "stars": 194412
+      "date": "2026-10-22",
+      "stars": 194016
     },
     {
       "date": "2026-10-24",
@@ -375,8 +371,8 @@
       "stars": 196522
     },
     {
-      "date": "2026-10-31",
-      "stars": 197207
+      "date": "2026-10-30",
+      "stars": 196855
     },
     {
       "date": "2026-11-01",
@@ -403,8 +399,8 @@
       "stars": 199064
     },
     {
-      "date": "2026-11-08",
-      "stars": 199609
+      "date": "2026-11-07",
+      "stars": 199347
     },
     {
       "date": "2026-11-09",
@@ -435,8 +431,8 @@
       "stars": 201885
     },
     {
-      "date": "2026-11-17",
-      "stars": 202468
+      "date": "2026-11-16",
+      "stars": 202182
     },
     {
       "date": "2026-11-18",
@@ -449,6 +445,10 @@
     {
       "date": "2026-11-20",
       "stars": 204667
+    },
+    {
+      "date": "2026-11-21",
+      "stars": 205619
     }
   ],
   "links": {

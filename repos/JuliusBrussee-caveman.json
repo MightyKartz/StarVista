@@ -7,9 +7,9 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 121656,
-  "forks": 7112,
-  "openIssues": 108,
+  "stars": 121856,
+  "forks": 7107,
+  "openIssues": 109,
   "pushedAt": "2026-11-20T07:32:16Z",
   "topics": [
     "ai",
@@ -25,7 +25,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 2108,
+  "starDelta7d": 2099,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
     "Go": 0.48,
@@ -411,6 +411,10 @@
     {
       "date": "2026-11-20",
       "stars": 121656
+    },
+    {
+      "date": "2026-11-21",
+      "stars": 121856
     }
   ],
   "links": {

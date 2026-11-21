@@ -5,12 +5,12 @@
   "name": "clash-verge-rev",
   "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
   "archived": false,
-  "primaryLanguage": "Rust",
-  "languageColor": "#dea584",
-  "stars": 159514,
-  "forks": 11491,
-  "openIssues": 581,
-  "pushedAt": "2026-11-20T08:39:09Z",
+  "primaryLanguage": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 159687,
+  "forks": 11487,
+  "openIssues": 582,
+  "pushedAt": "2026-11-21T07:11:15Z",
   "topics": [
     "clash",
     "clash-meta",
@@ -23,11 +23,11 @@
   ],
   "license": "GPL-3.0",
   "activity": "active",
-  "starDelta7d": 1362,
+  "starDelta7d": 1373,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
   "languages": {
-    "Rust": 0.46,
     "TypeScript": 0.46,
+    "Rust": 0.46,
     "JavaScript": 0.05,
     "NSIS": 0.01,
     "Shell": 0.01,
@@ -37,7 +37,7 @@
   "readmeExcerpt": "Continuation of Clash Verge",
   "summary": {
     "mode": "template",
-    "text": "clash-verge-rev is a Rust project focused on A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience. It is tagged with clash, clash-meta, and clash-verge."
+    "text": "clash-verge-rev is a TypeScript project focused on A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience. It is tagged with clash, clash-meta, and clash-verge."
   },
   "releases": [
     {
@@ -104,10 +104,6 @@
       "stars": 138028
     },
     {
-      "date": "2026-08-21",
-      "stars": 139125
-    },
-    {
       "date": "2026-08-22",
       "stars": 139312
     },
@@ -116,8 +112,8 @@
       "stars": 139503
     },
     {
-      "date": "2026-08-25",
-      "stars": 139923
+      "date": "2026-08-24",
+      "stars": 139708
     },
     {
       "date": "2026-08-26",
@@ -144,8 +140,8 @@
       "stars": 141252
     },
     {
-      "date": "2026-09-02",
-      "stars": 141654
+      "date": "2026-09-01",
+      "stars": 141455
     },
     {
       "date": "2026-09-03",
@@ -172,8 +168,8 @@
       "stars": 143007
     },
     {
-      "date": "2026-09-10",
-      "stars": 143490
+      "date": "2026-09-09",
+      "stars": 143256
     },
     {
       "date": "2026-09-11",
@@ -204,8 +200,8 @@
       "stars": 145004
     },
     {
-      "date": "2026-09-19",
-      "stars": 145382
+      "date": "2026-09-18",
+      "stars": 145198
     },
     {
       "date": "2026-09-20",
@@ -232,8 +228,8 @@
       "stars": 147205
     },
     {
-      "date": "2026-09-27",
-      "stars": 147658
+      "date": "2026-09-26",
+      "stars": 147382
     },
     {
       "date": "2026-09-28",
@@ -264,8 +260,8 @@
       "stars": 149114
     },
     {
-      "date": "2026-10-06",
-      "stars": 149460
+      "date": "2026-10-05",
+      "stars": 149284
     },
     {
       "date": "2026-10-07",
@@ -292,8 +288,8 @@
       "stars": 150748
     },
     {
-      "date": "2026-10-14",
-      "stars": 151219
+      "date": "2026-10-13",
+      "stars": 151004
     },
     {
       "date": "2026-10-15",
@@ -324,8 +320,8 @@
       "stars": 152849
     },
     {
-      "date": "2026-10-23",
-      "stars": 153297
+      "date": "2026-10-22",
+      "stars": 153074
     },
     {
       "date": "2026-10-24",
@@ -352,8 +348,8 @@
       "stars": 154777
     },
     {
-      "date": "2026-10-31",
-      "stars": 155256
+      "date": "2026-10-30",
+      "stars": 155029
     },
     {
       "date": "2026-11-01",
@@ -380,8 +376,8 @@
       "stars": 156654
     },
     {
-      "date": "2026-11-08",
-      "stars": 157039
+      "date": "2026-11-07",
+      "stars": 156847
     },
     {
       "date": "2026-11-09",
@@ -412,8 +408,8 @@
       "stars": 158514
     },
     {
-      "date": "2026-11-17",
-      "stars": 158927
+      "date": "2026-11-16",
+      "stars": 158688
     },
     {
       "date": "2026-11-18",
@@ -426,6 +422,10 @@
     {
       "date": "2026-11-20",
       "stars": 159514
+    },
+    {
+      "date": "2026-11-21",
+      "stars": 159687
     }
   ],
   "links": {
