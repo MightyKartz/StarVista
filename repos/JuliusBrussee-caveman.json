@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Go",
   "languageColor": "#00add8",
-  "stars": 121856,
-  "forks": 7107,
-  "openIssues": 109,
-  "pushedAt": "2026-11-20T07:32:16Z",
+  "stars": 122045,
+  "forks": 7118,
+  "openIssues": 110,
+  "pushedAt": "2026-11-22T06:55:27Z",
   "topics": [
     "ai",
     "anthropic",
@@ -25,10 +25,10 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 2099,
+  "starDelta7d": 1805,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
   "languages": {
-    "Go": 0.48,
+    "Go": 0.5,
     "JavaScript": 0.26,
     "TypeScript": 0.14,
     "Python": 0.1,
@@ -46,6 +46,21 @@
   },
   "releases": [
     {
+      "tag": "v4.2.0",
+      "name": "Caveman 4.2.0",
+      "publishedAt": "2026-11-22T07:10:51Z"
+    },
+    {
+      "tag": "middleware-ts-v1.2.0",
+      "name": "@caveman-ai/middleware 1.2.0",
+      "publishedAt": "2026-11-22T06:45:04Z"
+    },
+    {
+      "tag": "bin-v4.2.0",
+      "name": "bin-v4.2.0",
+      "publishedAt": "2026-11-22T06:54:00Z"
+    },
+    {
       "tag": "v4.1.0",
       "name": "Caveman 4.1.0",
       "publishedAt": "2026-11-08T04:17:28Z"
@@ -54,21 +69,6 @@
       "tag": "middleware-ts-v1.1.0",
       "name": "@caveman-ai/middleware 1.1.0",
       "publishedAt": "2026-11-08T04:09:41Z"
-    },
-    {
-      "tag": "middleware-python-v1.0.1",
-      "name": "caveman-middleware 1.0.1",
-      "publishedAt": "2026-11-08T04:09:44Z"
-    },
-    {
-      "tag": "bin-v4.1.0",
-      "name": "bin-v4.1.0",
-      "publishedAt": "2026-11-07T03:39:48Z"
-    },
-    {
-      "tag": "bin-v4.0.2",
-      "name": "bin-v4.0.2",
-      "publishedAt": "2026-10-23T05:22:07Z"
     }
   ],
   "starHistory": [
@@ -415,6 +415,10 @@
     {
       "date": "2026-11-21",
       "stars": 121856
+    },
+    {
+      "date": "2026-11-22",
+      "stars": 122045
     }
   ],
   "links": {

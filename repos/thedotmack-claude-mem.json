@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 118735,
-  "forks": 10315,
-  "openIssues": 73,
-  "pushedAt": "2026-11-21T03:04:47Z",
+  "stars": 118920,
+  "forks": 10339,
+  "openIssues": 78,
+  "pushedAt": "2026-11-22T09:21:45Z",
   "topics": [
     "ai",
     "ai-agents",
@@ -35,7 +35,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 1808,
+  "starDelta7d": 1723,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/683968?v=4",
   "languages": {
     "TypeScript": 0.66,
@@ -63,6 +63,11 @@
   },
   "releases": [
     {
+      "tag": "v16.0.3",
+      "name": "v16.0.3",
+      "publishedAt": "2026-11-21T20:42:59Z"
+    },
+    {
       "tag": "v16.0.2",
       "name": "v16.0.2",
       "publishedAt": "2026-11-20T18:53:48Z"
@@ -81,11 +86,6 @@
       "tag": "v15.21.0",
       "name": "v15.21.0",
       "publishedAt": "2026-11-17T20:54:27Z"
-    },
-    {
-      "tag": "v15.20.0",
-      "name": "v15.20.0",
-      "publishedAt": "2026-11-17T18:46:24Z"
     }
   ],
   "starHistory": [
@@ -168,6 +168,10 @@
     {
       "date": "2026-11-21",
       "stars": 118735
+    },
+    {
+      "date": "2026-11-22",
+      "stars": 118920
     }
   ],
   "links": {

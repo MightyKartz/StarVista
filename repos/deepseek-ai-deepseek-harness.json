@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 284866,
-  "forks": 35407,
+  "stars": 285290,
+  "forks": 35475,
   "openIssues": 0,
-  "pushedAt": "2026-11-18T12:48:10Z",
+  "pushedAt": "2026-11-22T03:18:55Z",
   "topics": [
     "ai-agents",
     "cordis",
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 4087,
+  "starDelta7d": 3965,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4",
   "languages": {
     "TypeScript": 0.95,
@@ -27,8 +27,8 @@
     "Python": 0.01,
     "JavaScript": 0.01,
     "Swift": 0.01,
-    "C#": 0,
     "PowerShell": 0,
+    "C#": 0,
     "C++": 0,
     "NSIS": 0,
     "Shell": 0,
@@ -43,6 +43,11 @@
     "text": "deepseek-harness is a TypeScript project focused on DeepSeek Harness: Everything is a Plugin. It is tagged with ai-agents, cordis, and dsh."
   },
   "releases": [
+    {
+      "tag": "dsh-v0.2.3-alpha.1",
+      "name": "v0.2.3-alpha.1",
+      "publishedAt": "2026-11-22T03:19:36Z"
+    },
     {
       "tag": "dsh-v0.2.2-rc.5",
       "name": "v0.2.2-rc.5",
@@ -62,21 +67,12 @@
       "tag": "dsh-v0.2.2-rc.2",
       "name": "v0.2.2-rc.2",
       "publishedAt": "2026-11-11T11:33:06Z"
-    },
-    {
-      "tag": "dsh-v0.2.2-rc.1",
-      "name": "v0.2.2-rc.1",
-      "publishedAt": "2026-11-04T13:07:14Z"
     }
   ],
   "starHistory": [
     {
       "date": "2026-08-16",
       "stars": 117350
-    },
-    {
-      "date": "2026-08-22",
-      "stars": 181733
     },
     {
       "date": "2026-08-23",
@@ -131,8 +127,8 @@
       "stars": 211485
     },
     {
-      "date": "2026-09-06",
-      "stars": 213401
+      "date": "2026-09-05",
+      "stars": 212525
     },
     {
       "date": "2026-09-07",
@@ -251,8 +247,8 @@
       "stars": 243630
     },
     {
-      "date": "2026-10-07",
-      "stars": 244851
+      "date": "2026-10-06",
+      "stars": 244252
     },
     {
       "date": "2026-10-08",
@@ -371,8 +367,8 @@
       "stars": 273216
     },
     {
-      "date": "2026-11-07",
-      "stars": 275263
+      "date": "2026-11-06",
+      "stars": 274374
     },
     {
       "date": "2026-11-08",
@@ -429,6 +425,10 @@
     {
       "date": "2026-11-21",
       "stars": 284866
+    },
+    {
+      "date": "2026-11-22",
+      "stars": 285290
     }
   ],
   "links": {
