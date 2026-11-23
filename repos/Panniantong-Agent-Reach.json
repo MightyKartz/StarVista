@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 113165,
-  "forks": 10156,
-  "openIssues": 144,
-  "pushedAt": "2026-11-08T02:17:48Z",
+  "stars": 114135,
+  "forks": 10250,
+  "openIssues": 160,
+  "pushedAt": "2026-11-22T15:12:07Z",
   "topics": [
     "agent-infrastructure",
     "ai-agent",
@@ -31,7 +31,7 @@
     "youtube-transcript"
   ],
   "license": "MIT",
-  "activity": "stable",
+  "activity": "active",
   "starDelta7d": null,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/73925474?v=4",
   "languages": {
@@ -86,6 +86,10 @@
     {
       "date": "2026-11-22",
       "stars": 113165
+    },
+    {
+      "date": "2026-11-23",
+      "stars": 114135
     }
   ],
   "links": {

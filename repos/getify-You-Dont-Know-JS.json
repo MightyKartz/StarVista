@@ -7,8 +7,8 @@
   "archived": false,
   "primaryLanguage": null,
   "languageColor": null,
-  "stars": 184866,
-  "forks": 33307,
+  "stars": 184867,
+  "forks": 33303,
   "openIssues": 2,
   "pushedAt": "2026-10-31T16:14:40Z",
   "topics": [
@@ -28,7 +28,7 @@
   ],
   "license": null,
   "activity": "stable",
-  "starDelta7d": 12,
+  "starDelta7d": 13,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/150330?v=4",
   "languages": {},
   "readmeExcerpt": "This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the second edition of the book series:",
@@ -125,6 +125,10 @@
     {
       "date": "2026-11-22",
       "stars": 184866
+    },
+    {
+      "date": "2026-11-23",
+      "stars": 184867
     }
   ],
   "links": {

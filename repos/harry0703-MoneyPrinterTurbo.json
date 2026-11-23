@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 145027,
-  "forks": 23326,
-  "openIssues": 102,
-  "pushedAt": "2026-11-22T01:46:31Z",
+  "stars": 145171,
+  "forks": 23348,
+  "openIssues": 92,
+  "pushedAt": "2026-11-23T06:26:42Z",
   "topics": [
     "ai-video-generator",
     "content-creation",
@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1351,
+  "starDelta7d": 1264,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4",
   "languages": {
     "Python": 0.99,
@@ -45,6 +45,11 @@
     "text": "MoneyPrinterTurbo is a Python project focused on 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. It is tagged with ai-video-generator, content-creation, and ffmpeg."
   },
   "releases": [
+    {
+      "tag": "v1.3.11",
+      "name": "v1.3.11",
+      "publishedAt": "2026-11-23T06:29:51Z"
+    },
     {
       "tag": "v1.3.10",
       "name": "v1.3.10",
@@ -64,11 +69,6 @@
       "tag": "v1.3.7",
       "name": "v1.3.7",
       "publishedAt": "2026-09-13T12:26:39Z"
-    },
-    {
-      "tag": "v1.3.6",
-      "name": "v1.3.6",
-      "publishedAt": "2026-09-02T14:02:02Z"
     }
   ],
   "starHistory": [
@@ -129,8 +129,8 @@
       "stars": 118630
     },
     {
-      "date": "2026-08-31",
-      "stars": 118921
+      "date": "2026-09-01",
+      "stars": 119161
     },
     {
       "date": "2026-09-02",
@@ -165,12 +165,12 @@
       "stars": 121698
     },
     {
-      "date": "2026-09-10",
-      "stars": 122066
-    },
-    {
       "date": "2026-09-11",
       "stars": 122340
+    },
+    {
+      "date": "2026-09-12",
+      "stars": 122588
     },
     {
       "date": "2026-09-13",
@@ -201,16 +201,16 @@
       "stars": 124629
     },
     {
-      "date": "2026-09-20",
-      "stars": 124768
-    },
-    {
       "date": "2026-09-21",
       "stars": 124898
     },
     {
       "date": "2026-09-22",
       "stars": 125025
+    },
+    {
+      "date": "2026-09-23",
+      "stars": 125251
     },
     {
       "date": "2026-09-24",
@@ -237,10 +237,6 @@
       "stars": 126770
     },
     {
-      "date": "2026-09-30",
-      "stars": 127193
-    },
-    {
       "date": "2026-10-01",
       "stars": 127744
     },
@@ -251,6 +247,10 @@
     {
       "date": "2026-10-03",
       "stars": 128136
+    },
+    {
+      "date": "2026-10-04",
+      "stars": 128317
     },
     {
       "date": "2026-10-05",
@@ -267,10 +267,6 @@
     {
       "date": "2026-10-08",
       "stars": 129276
-    },
-    {
-      "date": "2026-10-09",
-      "stars": 129261
     },
     {
       "date": "2026-10-10",
@@ -293,6 +289,10 @@
       "stars": 130629
     },
     {
+      "date": "2026-10-15",
+      "stars": 131033
+    },
+    {
       "date": "2026-10-16",
       "stars": 131827
     },
@@ -303,10 +303,6 @@
     {
       "date": "2026-10-18",
       "stars": 132490
-    },
-    {
-      "date": "2026-10-19",
-      "stars": 132923
     },
     {
       "date": "2026-10-20",
@@ -333,16 +329,16 @@
       "stars": 134938
     },
     {
+      "date": "2026-10-26",
+      "stars": 135208
+    },
+    {
       "date": "2026-10-27",
       "stars": 135584
     },
     {
       "date": "2026-10-28",
       "stars": 135956
-    },
-    {
-      "date": "2026-10-29",
-      "stars": 136202
     },
     {
       "date": "2026-10-30",
@@ -373,12 +369,12 @@
       "stars": 139445
     },
     {
-      "date": "2026-11-07",
-      "stars": 140387
+      "date": "2026-11-06",
+      "stars": 140003
     },
     {
-      "date": "2026-11-08",
-      "stars": 140864
+      "date": "2026-11-07",
+      "stars": 140387
     },
     {
       "date": "2026-11-09",
@@ -413,8 +409,8 @@
       "stars": 143907
     },
     {
-      "date": "2026-11-18",
-      "stars": 144327
+      "date": "2026-11-17",
+      "stars": 144121
     },
     {
       "date": "2026-11-19",
@@ -431,6 +427,10 @@
     {
       "date": "2026-11-22",
       "stars": 145027
+    },
+    {
+      "date": "2026-11-23",
+      "stars": 145171
     }
   ],
   "links": {

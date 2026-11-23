@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 151738,
-  "forks": 14580,
-  "openIssues": 1692,
-  "pushedAt": "2026-11-21T21:27:31Z",
+  "stars": 152245,
+  "forks": 14635,
+  "openIssues": 1708,
+  "pushedAt": "2026-11-23T00:39:23Z",
   "topics": [
     "ai-agents",
     "antigravity",
@@ -35,7 +35,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 3749,
+  "starDelta7d": 3593,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/297659074?v=4",
   "languages": {
     "Python": 1,
@@ -108,8 +108,8 @@
       "stars": 111307
     },
     {
-      "date": "2026-08-28",
-      "stars": 111837
+      "date": "2026-08-29",
+      "stars": 112108
     },
     {
       "date": "2026-08-30",
@@ -168,10 +168,6 @@
       "stars": 117070
     },
     {
-      "date": "2026-09-13",
-      "stars": 116296
-    },
-    {
       "date": "2026-09-14",
       "stars": 116534
     },
@@ -182,6 +178,10 @@
     {
       "date": "2026-09-16",
       "stars": 118140
+    },
+    {
+      "date": "2026-09-17",
+      "stars": 118669
     },
     {
       "date": "2026-09-18",
@@ -228,10 +228,6 @@
       "stars": 121971
     },
     {
-      "date": "2026-09-29",
-      "stars": 122234
-    },
-    {
       "date": "2026-09-30",
       "stars": 122587
     },
@@ -254,6 +250,10 @@
     {
       "date": "2026-10-05",
       "stars": 123889
+    },
+    {
+      "date": "2026-10-06",
+      "stars": 124155
     },
     {
       "date": "2026-10-07",
@@ -282,10 +282,6 @@
     {
       "date": "2026-10-13",
       "stars": 126001
-    },
-    {
-      "date": "2026-10-14",
-      "stars": 126264
     },
     {
       "date": "2026-10-15",
@@ -328,6 +324,10 @@
       "stars": 134018
     },
     {
+      "date": "2026-10-25",
+      "stars": 134597
+    },
+    {
       "date": "2026-10-26",
       "stars": 135535
     },
@@ -342,10 +342,6 @@
     {
       "date": "2026-10-29",
       "stars": 138122
-    },
-    {
-      "date": "2026-10-30",
-      "stars": 138983
     },
     {
       "date": "2026-10-31",
@@ -400,12 +396,12 @@
       "stars": 146386
     },
     {
-      "date": "2026-11-14",
-      "stars": 147420
+      "date": "2026-11-13",
+      "stars": 146937
     },
     {
-      "date": "2026-11-15",
-      "stars": 147989
+      "date": "2026-11-14",
+      "stars": 147420
     },
     {
       "date": "2026-11-16",
@@ -434,10 +430,14 @@
     {
       "date": "2026-11-22",
       "stars": 151738
+    },
+    {
+      "date": "2026-11-23",
+      "stars": 152245
     }
   ],
   "links": {
     "repo": "https://github.com/Graphify-Labs/graphify",
-    "homepage": "https://www.graphify.com"
+    "homepage": "graphify.com"
   }
 }
