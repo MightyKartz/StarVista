@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "JavaScript",
   "languageColor": "#f1e05a",
-  "stars": 175117,
-  "forks": 78761,
-  "openIssues": 247,
-  "pushedAt": "2026-11-23T07:46:52Z",
+  "stars": 175124,
+  "forks": 78752,
+  "openIssues": 246,
+  "pushedAt": "2026-11-24T10:05:05Z",
   "topics": [
     "bootstrap",
     "css",
@@ -25,10 +25,10 @@
   "starDelta7d": 49,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/2918581?v=4",
   "languages": {
-    "JavaScript": 0.28,
+    "JavaScript": 0.29,
     "MDX": 0.27,
-    "Astro": 0.11,
-    "CSS": 0.1,
+    "CSS": 0.11,
+    "Astro": 0.1,
     "TypeScript": 0.1,
     "SCSS": 0.09,
     "HTML": 0.04,
@@ -40,6 +40,11 @@
     "text": "bootstrap is a JavaScript project focused on The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. It is tagged with bootstrap, css, and css-framework."
   },
   "releases": [
+    {
+      "tag": "v6.0.0-alpha.2",
+      "name": "v6.0.0-alpha.2",
+      "publishedAt": "2026-11-23T22:00:36Z"
+    },
     {
       "tag": "v5.3.9",
       "name": "v5.3.9",
@@ -59,11 +64,6 @@
       "tag": "v5.3.6",
       "name": "v5.3.6",
       "publishedAt": "2025-05-05T19:26:30Z"
-    },
-    {
-      "tag": "v5.3.5",
-      "name": "v5.3.5",
-      "publishedAt": "2025-04-04T18:23:13Z"
     }
   ],
   "starHistory": [
@@ -108,12 +108,8 @@
       "stars": 174639
     },
     {
-      "date": "2026-08-24",
-      "stars": 174640
-    },
-    {
-      "date": "2026-08-26",
-      "stars": 174656
+      "date": "2026-08-25",
+      "stars": 174643
     },
     {
       "date": "2026-08-27",
@@ -140,8 +136,8 @@
       "stars": 174688
     },
     {
-      "date": "2026-09-03",
-      "stars": 174709
+      "date": "2026-09-02",
+      "stars": 174699
     },
     {
       "date": "2026-09-04",
@@ -164,7 +160,7 @@
       "stars": 174746
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-09-09",
       "stars": 174757
     },
     {
@@ -192,8 +188,8 @@
       "stars": 174818
     },
     {
-      "date": "2026-09-18",
-      "stars": 174842
+      "date": "2026-09-17",
+      "stars": 174828
     },
     {
       "date": "2026-09-19",
@@ -220,8 +216,8 @@
       "stars": 174895
     },
     {
-      "date": "2026-09-26",
-      "stars": 174919
+      "date": "2026-09-25",
+      "stars": 174909
     },
     {
       "date": "2026-09-27",
@@ -248,8 +244,8 @@
       "stars": 174972
     },
     {
-      "date": "2026-10-04",
-      "stars": 174986
+      "date": "2026-10-03",
+      "stars": 174984
     },
     {
       "date": "2026-10-05",
@@ -276,8 +272,8 @@
       "stars": 174806
     },
     {
-      "date": "2026-10-12",
-      "stars": 174813
+      "date": "2026-10-11",
+      "stars": 174814
     },
     {
       "date": "2026-10-13",
@@ -304,8 +300,8 @@
       "stars": 174925
     },
     {
-      "date": "2026-10-20",
-      "stars": 175017
+      "date": "2026-10-19",
+      "stars": 174999
     },
     {
       "date": "2026-10-21",
@@ -332,8 +328,8 @@
       "stars": 175015
     },
     {
-      "date": "2026-10-28",
-      "stars": 175020
+      "date": "2026-10-27",
+      "stars": 175017
     },
     {
       "date": "2026-10-29",
@@ -356,8 +352,8 @@
       "stars": 174967
     },
     {
-      "date": "2026-11-04",
-      "stars": 174967
+      "date": "2026-11-03",
+      "stars": 174968
     },
     {
       "date": "2026-11-05",
@@ -384,7 +380,7 @@
       "stars": 175028
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-11",
       "stars": 175041
     },
     {
@@ -412,8 +408,8 @@
       "stars": 175084
     },
     {
-      "date": "2026-11-20",
-      "stars": 175090
+      "date": "2026-11-19",
+      "stars": 175089
     },
     {
       "date": "2026-11-21",
@@ -426,6 +422,10 @@
     {
       "date": "2026-11-23",
       "stars": 175117
+    },
+    {
+      "date": "2026-11-24",
+      "stars": 175124
     }
   ],
   "links": {

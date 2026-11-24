@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 149985,
-  "forks": 25158,
-  "openIssues": 786,
-  "pushedAt": "2026-11-23T08:20:50Z",
+  "stars": 149958,
+  "forks": 25164,
+  "openIssues": 780,
+  "pushedAt": "2026-11-24T08:38:10Z",
   "topics": [
     "agents",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 368,
+  "starDelta7d": 199,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
   "languages": {
     "Python": 0.99,
@@ -53,29 +53,29 @@
   },
   "releases": [
     {
-      "tag": "langchain-openrouter==0.3.0",
-      "name": "langchain-openrouter==0.3.0",
-      "publishedAt": "2026-11-19T15:03:19Z"
+      "tag": "langchain-text-splitters==1.2.0",
+      "name": "langchain-text-splitters==1.2.0",
+      "publishedAt": "2026-11-23T16:11:44Z"
     },
     {
-      "tag": "langchain-openai==1.8.5",
-      "name": "langchain-openai==1.8.5",
-      "publishedAt": "2026-11-19T23:16:20Z"
+      "tag": "langchain-tests==1.2.0",
+      "name": "langchain-tests==1.2.0",
+      "publishedAt": "2026-11-23T16:14:24Z"
     },
     {
-      "tag": "langchain-openai==1.8.4",
-      "name": "langchain-openai==1.8.4",
-      "publishedAt": "2026-11-19T21:36:51Z"
+      "tag": "langchain-qdrant==1.2.0",
+      "name": "langchain-qdrant==1.2.0",
+      "publishedAt": "2026-11-23T17:04:39Z"
     },
     {
-      "tag": "langchain-openai==1.8.3",
-      "name": "langchain-openai==1.8.3",
-      "publishedAt": "2026-11-19T00:38:57Z"
+      "tag": "langchain-perplexity==1.5.0",
+      "name": "langchain-perplexity==1.5.0",
+      "publishedAt": "2026-11-23T16:51:03Z"
     },
     {
-      "tag": "langchain-core==1.8.4",
-      "name": "langchain-core==1.8.4",
-      "publishedAt": "2026-11-19T22:35:57Z"
+      "tag": "langchain-ollama==1.2.0",
+      "name": "langchain-ollama==1.2.0",
+      "publishedAt": "2026-11-23T16:16:05Z"
     }
   ],
   "starHistory": [
@@ -120,12 +120,8 @@
       "stars": 144797
     },
     {
-      "date": "2026-08-24",
-      "stars": 144856
-    },
-    {
-      "date": "2026-08-26",
-      "stars": 144992
+      "date": "2026-08-25",
+      "stars": 144922
     },
     {
       "date": "2026-08-27",
@@ -152,8 +148,8 @@
       "stars": 145406
     },
     {
-      "date": "2026-09-03",
-      "stars": 145555
+      "date": "2026-09-02",
+      "stars": 145475
     },
     {
       "date": "2026-09-04",
@@ -176,8 +172,8 @@
       "stars": 145914
     },
     {
-      "date": "2026-09-10",
-      "stars": 146042
+      "date": "2026-09-09",
+      "stars": 145985
     },
     {
       "date": "2026-09-11",
@@ -204,8 +200,8 @@
       "stars": 146429
     },
     {
-      "date": "2026-09-18",
-      "stars": 146574
+      "date": "2026-09-17",
+      "stars": 146493
     },
     {
       "date": "2026-09-19",
@@ -232,8 +228,8 @@
       "stars": 146961
     },
     {
-      "date": "2026-09-26",
-      "stars": 147076
+      "date": "2026-09-25",
+      "stars": 147023
     },
     {
       "date": "2026-09-27",
@@ -260,8 +256,8 @@
       "stars": 147375
     },
     {
-      "date": "2026-10-04",
-      "stars": 147422
+      "date": "2026-10-03",
+      "stars": 147392
     },
     {
       "date": "2026-10-05",
@@ -288,8 +284,8 @@
       "stars": 147539
     },
     {
-      "date": "2026-10-12",
-      "stars": 147665
+      "date": "2026-10-11",
+      "stars": 147593
     },
     {
       "date": "2026-10-13",
@@ -316,8 +312,8 @@
       "stars": 148007
     },
     {
-      "date": "2026-10-20",
-      "stars": 148111
+      "date": "2026-10-19",
+      "stars": 148060
     },
     {
       "date": "2026-10-21",
@@ -344,8 +340,8 @@
       "stars": 148475
     },
     {
-      "date": "2026-10-28",
-      "stars": 148601
+      "date": "2026-10-27",
+      "stars": 148540
     },
     {
       "date": "2026-10-29",
@@ -368,8 +364,8 @@
       "stars": 148872
     },
     {
-      "date": "2026-11-04",
-      "stars": 148992
+      "date": "2026-11-03",
+      "stars": 148930
     },
     {
       "date": "2026-11-05",
@@ -396,8 +392,8 @@
       "stars": 149296
     },
     {
-      "date": "2026-11-12",
-      "stars": 149396
+      "date": "2026-11-11",
+      "stars": 149343
     },
     {
       "date": "2026-11-13",
@@ -424,8 +420,8 @@
       "stars": 149837
     },
     {
-      "date": "2026-11-20",
-      "stars": 149958
+      "date": "2026-11-19",
+      "stars": 149881
     },
     {
       "date": "2026-11-21",
@@ -438,6 +434,10 @@
     {
       "date": "2026-11-23",
       "stars": 149985
+    },
+    {
+      "date": "2026-11-24",
+      "stars": 149958
     }
   ],
   "links": {
