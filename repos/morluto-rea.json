@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 476407,
-  "forks": 116034,
-  "openIssues": 1175,
-  "pushedAt": "2026-11-24T12:24:59Z",
+  "stars": 477797,
+  "forks": 116256,
+  "openIssues": 1189,
+  "pushedAt": "2026-11-25T11:07:45Z",
   "topics": [
     "agent-skills",
     "ai",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 11274,
+  "starDelta7d": 10599,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/76467478?v=4",
   "languages": {
     "TypeScript": 0.91,
@@ -49,8 +49,8 @@
     "C": 0,
     "Shell": 0,
     "Assembly": 0,
-    "Go Template": 0,
     "Linker Script": 0,
+    "Go Template": 0,
     "C#": 0,
     "Objective-C": 0,
     "Go": 0,
@@ -266,6 +266,10 @@
     {
       "date": "2026-11-24",
       "stars": 476407
+    },
+    {
+      "date": "2026-11-25",
+      "stars": 477797
     }
   ],
   "links": {

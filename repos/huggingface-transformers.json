@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 169273,
-  "forks": 35282,
-  "openIssues": 1144,
-  "pushedAt": "2026-11-24T12:27:30Z",
+  "stars": 169302,
+  "forks": 35294,
+  "openIssues": 1157,
+  "pushedAt": "2026-11-25T11:11:04Z",
   "topics": [
     "audio",
     "deep-learning",
@@ -34,7 +34,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 146,
+  "starDelta7d": 96,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
   "languages": {
     "Python": 1,
@@ -49,6 +49,11 @@
     "text": "transformers is a Python project focused on 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. . It is tagged with audio, deep-learning, and deepseek."
   },
   "releases": [
+    {
+      "tag": "v5.24.1",
+      "name": "Patch release v5.24.1",
+      "publishedAt": "2026-11-24T16:13:08Z"
+    },
     {
       "tag": "v5.24.0",
       "name": "Release v5.24.0",
@@ -68,11 +73,6 @@
       "tag": "v5.22.1",
       "name": "Patch release v5.22.1",
       "publishedAt": "2026-10-30T09:36:03Z"
-    },
-    {
-      "tag": "v5.22.0",
-      "name": "v5.22.0: Mistral Large 4 (Le Chonk)",
-      "publishedAt": "2026-10-29T14:15:39Z"
     }
   ],
   "starHistory": [
@@ -117,12 +117,8 @@
       "stars": 164348
     },
     {
-      "date": "2026-08-25",
-      "stars": 164409
-    },
-    {
-      "date": "2026-08-27",
-      "stars": 164498
+      "date": "2026-08-26",
+      "stars": 164443
     },
     {
       "date": "2026-08-28",
@@ -149,8 +145,8 @@
       "stars": 164707
     },
     {
-      "date": "2026-09-04",
-      "stars": 164770
+      "date": "2026-09-03",
+      "stars": 164734
     },
     {
       "date": "2026-09-05",
@@ -173,8 +169,8 @@
       "stars": 165018
     },
     {
-      "date": "2026-09-11",
-      "stars": 165104
+      "date": "2026-09-10",
+      "stars": 165059
     },
     {
       "date": "2026-09-12",
@@ -201,8 +197,8 @@
       "stars": 166272
     },
     {
-      "date": "2026-09-19",
-      "stars": 166314
+      "date": "2026-09-18",
+      "stars": 166274
     },
     {
       "date": "2026-09-20",
@@ -229,8 +225,8 @@
       "stars": 166625
     },
     {
-      "date": "2026-09-27",
-      "stars": 166709
+      "date": "2026-09-26",
+      "stars": 166659
     },
     {
       "date": "2026-09-28",
@@ -257,8 +253,8 @@
       "stars": 166912
     },
     {
-      "date": "2026-10-05",
-      "stars": 166960
+      "date": "2026-10-04",
+      "stars": 166935
     },
     {
       "date": "2026-10-06",
@@ -285,8 +281,8 @@
       "stars": 167434
     },
     {
-      "date": "2026-10-13",
-      "stars": 167627
+      "date": "2026-10-12",
+      "stars": 167549
     },
     {
       "date": "2026-10-14",
@@ -313,8 +309,8 @@
       "stars": 167839
     },
     {
-      "date": "2026-10-21",
-      "stars": 167931
+      "date": "2026-10-20",
+      "stars": 167883
     },
     {
       "date": "2026-10-22",
@@ -341,8 +337,8 @@
       "stars": 168226
     },
     {
-      "date": "2026-10-29",
-      "stars": 168326
+      "date": "2026-10-28",
+      "stars": 168267
     },
     {
       "date": "2026-10-30",
@@ -365,8 +361,8 @@
       "stars": 168483
     },
     {
-      "date": "2026-11-05",
-      "stars": 168561
+      "date": "2026-11-04",
+      "stars": 168523
     },
     {
       "date": "2026-11-06",
@@ -393,8 +389,8 @@
       "stars": 168797
     },
     {
-      "date": "2026-11-13",
-      "stars": 168937
+      "date": "2026-11-12",
+      "stars": 168892
     },
     {
       "date": "2026-11-14",
@@ -421,8 +417,8 @@
       "stars": 169239
     },
     {
-      "date": "2026-11-21",
-      "stars": 169336
+      "date": "2026-11-20",
+      "stars": 169310
     },
     {
       "date": "2026-11-22",
@@ -435,6 +431,10 @@
     {
       "date": "2026-11-24",
       "stars": 169273
+    },
+    {
+      "date": "2026-11-25",
+      "stars": 169302
     }
   ],
   "links": {

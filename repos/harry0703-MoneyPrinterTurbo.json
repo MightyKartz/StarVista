@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 145359,
-  "forks": 23388,
-  "openIssues": 91,
-  "pushedAt": "2026-11-24T01:59:01Z",
+  "stars": 145607,
+  "forks": 23438,
+  "openIssues": 90,
+  "pushedAt": "2026-11-25T08:37:28Z",
   "topics": [
     "ai-video-generator",
     "content-creation",
@@ -29,14 +29,17 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1238,
+  "starDelta7d": 1280,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4928832?v=4",
   "languages": {
     "Python": 0.99,
     "CSS": 0,
+    "Rust": 0,
+    "Shell": 0,
+    "PowerShell": 0,
     "Dockerfile": 0,
     "Batchfile": 0,
-    "Shell": 0,
+    "JavaScript": 0,
     "HTML": 0
   },
   "readmeExcerpt": "只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。",
@@ -101,10 +104,6 @@
       "stars": 114699
     },
     {
-      "date": "2026-08-25",
-      "stars": 116028
-    },
-    {
       "date": "2026-08-26",
       "stars": 116523
     },
@@ -129,8 +128,8 @@
       "stars": 118921
     },
     {
-      "date": "2026-09-02",
-      "stars": 119603
+      "date": "2026-09-01",
+      "stars": 119161
     },
     {
       "date": "2026-09-03",
@@ -165,8 +164,8 @@
       "stars": 122066
     },
     {
-      "date": "2026-09-12",
-      "stars": 122588
+      "date": "2026-09-11",
+      "stars": 122340
     },
     {
       "date": "2026-09-13",
@@ -201,8 +200,8 @@
       "stars": 124768
     },
     {
-      "date": "2026-09-22",
-      "stars": 125025
+      "date": "2026-09-21",
+      "stars": 124898
     },
     {
       "date": "2026-09-23",
@@ -237,8 +236,8 @@
       "stars": 127193
     },
     {
-      "date": "2026-10-02",
-      "stars": 128015
+      "date": "2026-10-01",
+      "stars": 127744
     },
     {
       "date": "2026-10-03",
@@ -269,8 +268,8 @@
       "stars": 129261
     },
     {
-      "date": "2026-10-11",
-      "stars": 129551
+      "date": "2026-10-10",
+      "stars": 129387
     },
     {
       "date": "2026-10-12",
@@ -305,8 +304,8 @@
       "stars": 132923
     },
     {
-      "date": "2026-10-21",
-      "stars": 133548
+      "date": "2026-10-20",
+      "stars": 133242
     },
     {
       "date": "2026-10-22",
@@ -341,8 +340,8 @@
       "stars": 136202
     },
     {
-      "date": "2026-10-31",
-      "stars": 136696
+      "date": "2026-10-30",
+      "stars": 136390
     },
     {
       "date": "2026-11-01",
@@ -377,8 +376,8 @@
       "stars": 140864
     },
     {
-      "date": "2026-11-10",
-      "stars": 141785
+      "date": "2026-11-09",
+      "stars": 141277
     },
     {
       "date": "2026-11-11",
@@ -413,8 +412,8 @@
       "stars": 144327
     },
     {
-      "date": "2026-11-20",
-      "stars": 144777
+      "date": "2026-11-19",
+      "stars": 144608
     },
     {
       "date": "2026-11-21",
@@ -431,6 +430,10 @@
     {
       "date": "2026-11-24",
       "stars": 145359
+    },
+    {
+      "date": "2026-11-25",
+      "stars": 145607
     }
   ],
   "links": {

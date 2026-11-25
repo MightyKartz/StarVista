@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 117539,
-  "forks": 13112,
-  "openIssues": 26,
-  "pushedAt": "2026-11-23T22:34:56Z",
+  "stars": 118070,
+  "forks": 13178,
+  "openIssues": 24,
+  "pushedAt": "2026-11-25T10:56:22Z",
   "topics": [
     "ai",
     "audiobook",
@@ -33,8 +33,8 @@
     "workflow"
   ],
   "license": "AGPL-3.0",
-  "activity": "active",
-  "starDelta7d": null,
+  "activity": "fast-rising",
+  "starDelta7d": 4922,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4178343?v=4",
   "languages": {
     "Python": 0.55,
@@ -118,6 +118,10 @@
     {
       "date": "2026-11-24",
       "stars": 117539
+    },
+    {
+      "date": "2026-11-25",
+      "stars": 118070
     }
   ],
   "links": {

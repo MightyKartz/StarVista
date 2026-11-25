@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 135306,
-  "forks": 8651,
-  "openIssues": 9528,
-  "pushedAt": "2026-11-24T12:28:55Z",
+  "stars": 137124,
+  "forks": 8769,
+  "openIssues": 9777,
+  "pushedAt": "2026-11-25T11:15:20Z",
   "topics": [
     "agent-ide",
     "ai-agents",
@@ -35,19 +35,19 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 8061,
+  "starDelta7d": 8797,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
-    "TypeScript": 0.96,
+    "TypeScript": 0.95,
     "JavaScript": 0.03,
     "Swift": 0,
     "CSS": 0,
     "Python": 0,
     "PowerShell": 0,
     "Kotlin": 0,
+    "C": 0,
     "HTML": 0,
     "Shell": 0,
-    "C": 0,
     "C++": 0,
     "Rust": 0,
     "Ruby": 0,
@@ -64,6 +64,11 @@
     "text": "orca is a TypeScript project focused on Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime. It is tagged with agent-ide, ai-agents, and automation."
   },
   "releases": [
+    {
+      "tag": "v1.4.274",
+      "name": "v1.4.274",
+      "publishedAt": "2026-11-24T22:52:16Z"
+    },
     {
       "tag": "v1.4.273",
       "name": "v1.4.273",
@@ -83,11 +88,6 @@
       "tag": "android-v0.0.69",
       "name": "Orca Mobile Android android-v0.0.69",
       "publishedAt": "2026-11-23T23:42:09Z"
-    },
-    {
-      "tag": "v1.4.271",
-      "name": "v1.4.271",
-      "publishedAt": "2026-11-22T20:13:44Z"
     }
   ],
   "starHistory": [
@@ -210,6 +210,10 @@
     {
       "date": "2026-11-24",
       "stars": 135306
+    },
+    {
+      "date": "2026-11-25",
+      "stars": 137124
     }
   ],
   "links": {
