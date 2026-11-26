@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 157058,
-  "forks": 10252,
-  "openIssues": 753,
-  "pushedAt": "2026-11-25T10:43:30Z",
+  "stars": 157357,
+  "forks": 10269,
+  "openIssues": 770,
+  "pushedAt": "2026-11-26T05:17:57Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1637,
+  "starDelta7d": 1649,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
     "Rust": 0.63,
@@ -50,6 +50,11 @@
     "text": "cc-switch is a Rust project focused on A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io. It is tagged with ai-tools, claude-code, and codex."
   },
   "releases": [
+    {
+      "tag": "v4.0.42",
+      "name": "CC Switch v4.0.42",
+      "publishedAt": "2026-11-25T13:27:43Z"
+    },
     {
       "tag": "v4.0.41",
       "name": "CC Switch v4.0.41",
@@ -69,11 +74,6 @@
       "tag": "v4.0.38",
       "name": "CC Switch v4.0.38",
       "publishedAt": "2026-11-21T13:35:14Z"
-    },
-    {
-      "tag": "v4.0.37",
-      "name": "CC Switch v4.0.37",
-      "publishedAt": "2026-11-20T15:10:02Z"
     }
   ],
   "starHistory": [
@@ -118,12 +118,8 @@
       "stars": 128866
     },
     {
-      "date": "2026-08-26",
-      "stars": 129403
-    },
-    {
-      "date": "2026-08-28",
-      "stars": 129884
+      "date": "2026-08-27",
+      "stars": 129713
     },
     {
       "date": "2026-08-29",
@@ -150,8 +146,8 @@
       "stars": 130807
     },
     {
-      "date": "2026-09-05",
-      "stars": 131119
+      "date": "2026-09-04",
+      "stars": 130996
     },
     {
       "date": "2026-09-06",
@@ -174,8 +170,8 @@
       "stars": 132050
     },
     {
-      "date": "2026-09-12",
-      "stars": 132419
+      "date": "2026-09-11",
+      "stars": 132259
     },
     {
       "date": "2026-09-13",
@@ -202,8 +198,8 @@
       "stars": 133477
     },
     {
-      "date": "2026-09-20",
-      "stars": 133754
+      "date": "2026-09-19",
+      "stars": 133602
     },
     {
       "date": "2026-09-21",
@@ -230,8 +226,8 @@
       "stars": 136971
     },
     {
-      "date": "2026-09-28",
-      "stars": 137907
+      "date": "2026-09-27",
+      "stars": 137328
     },
     {
       "date": "2026-09-29",
@@ -258,8 +254,8 @@
       "stars": 139860
     },
     {
-      "date": "2026-10-06",
-      "stars": 140373
+      "date": "2026-10-05",
+      "stars": 140137
     },
     {
       "date": "2026-10-07",
@@ -286,8 +282,8 @@
       "stars": 143110
     },
     {
-      "date": "2026-10-14",
-      "stars": 144011
+      "date": "2026-10-13",
+      "stars": 143589
     },
     {
       "date": "2026-10-15",
@@ -314,8 +310,8 @@
       "stars": 146556
     },
     {
-      "date": "2026-10-22",
-      "stars": 147434
+      "date": "2026-10-21",
+      "stars": 146985
     },
     {
       "date": "2026-10-23",
@@ -342,8 +338,8 @@
       "stars": 149574
     },
     {
-      "date": "2026-10-30",
-      "stars": 150238
+      "date": "2026-10-29",
+      "stars": 149906
     },
     {
       "date": "2026-10-31",
@@ -366,8 +362,8 @@
       "stars": 151710
     },
     {
-      "date": "2026-11-06",
-      "stars": 152271
+      "date": "2026-11-05",
+      "stars": 151995
     },
     {
       "date": "2026-11-07",
@@ -394,8 +390,8 @@
       "stars": 153827
     },
     {
-      "date": "2026-11-14",
-      "stars": 154319
+      "date": "2026-11-13",
+      "stars": 154112
     },
     {
       "date": "2026-11-15",
@@ -422,8 +418,8 @@
       "stars": 155961
     },
     {
-      "date": "2026-11-22",
-      "stars": 156273
+      "date": "2026-11-21",
+      "stars": 156114
     },
     {
       "date": "2026-11-23",
@@ -436,6 +432,10 @@
     {
       "date": "2026-11-25",
       "stars": 157058
+    },
+    {
+      "date": "2026-11-26",
+      "stars": 157357
     }
   ],
   "links": {

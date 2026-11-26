@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 117321,
-  "forks": 13381,
-  "openIssues": 421,
-  "pushedAt": "2026-11-25T05:14:01Z",
+  "stars": 117809,
+  "forks": 13443,
+  "openIssues": 422,
+  "pushedAt": "2026-11-26T05:14:14Z",
   "topics": [
     "cli",
     "cti",
@@ -31,7 +31,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 3347,
+  "starDelta7d": 3439,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/48293496?v=4",
   "languages": {
     "Python": 0.97,
@@ -104,6 +104,10 @@
     {
       "date": "2026-11-25",
       "stars": 117321
+    },
+    {
+      "date": "2026-11-26",
+      "stars": 117809
     }
   ],
   "links": {

@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 118070,
-  "forks": 13178,
-  "openIssues": 24,
-  "pushedAt": "2026-11-25T10:56:22Z",
+  "stars": 118655,
+  "forks": 13235,
+  "openIssues": 19,
+  "pushedAt": "2026-11-26T10:21:49Z",
   "topics": [
     "ai",
     "audiobook",
@@ -34,7 +34,7 @@
   ],
   "license": "AGPL-3.0",
   "activity": "fast-rising",
-  "starDelta7d": 4922,
+  "starDelta7d": 4890,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4178343?v=4",
   "languages": {
     "Python": 0.55,
@@ -58,7 +58,7 @@
     "Mako": 0,
     "Smarty": 0
   },
-  "readmeExcerpt": "VoiceStudio AI voice studio. On your device. Clone, design, dub, dictate, transcribe and narrate in 646 languages. Runs on your laptop, desktop, servers, phone, tablets and more Website · Download · Get started · Docs · VoiceStudio Pro · VoiceStudio Cloud 🇬🇧 English · 🇨🇳 简体中文 · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇷🇺 Русский · 🇸🇦 العربية · 🇩🇪 Deutsch · 🇪🇸 Español · 🇫🇷 Français · 🇮🇳 हिन्दी 🇮🇩 Bahasa Indonesia · 🇮🇹 Italiano · 🇳🇱 Nederlands · 🇵🇱 Polski · 🇵🇹 Português · 🇹🇭 ไทย · 🇹🇷...",
+  "readmeExcerpt": "VoiceStudio AI voice studio. On your device. Clone, design, dub, dictate, transcribe and narrate in 646 languages. Runs on your laptop, desktop, servers, phone, tablets and more 🎉 Black Friday: 50% off VoiceStudio Pro (1 year) and Lifetime with code BLACKFRIDAY50 , until 1 Dec, 23:59 UTC. See Pro → Website · Download · Get started · Docs · VoiceStudio Pro · VoiceStudio Cloud 🇬🇧 English · 🇨🇳 简体中文 · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇷🇺 Русский · 🇸🇦 العربية · 🇩🇪 Deutsch · 🇪🇸 Español · 🇫🇷 Fran...",
   "summary": {
     "mode": "template",
     "text": "VoiceStudio is a Python project focused on VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. It is tagged with ai, audiobook, and cuda."
@@ -122,6 +122,10 @@
     {
       "date": "2026-11-25",
       "stars": 118070
+    },
+    {
+      "date": "2026-11-26",
+      "stars": 118655
     }
   ],
   "links": {

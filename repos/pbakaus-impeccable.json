@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 116572,
-  "forks": 6966,
-  "openIssues": 72,
-  "pushedAt": "2026-11-25T07:50:46Z",
+  "stars": 117198,
+  "forks": 7015,
+  "openIssues": 74,
+  "pushedAt": "2026-11-26T08:28:41Z",
   "topics": [
     "agent-skills",
     "ai",
@@ -44,6 +44,21 @@
   },
   "releases": [
     {
+      "tag": "skill-v4.11.1",
+      "name": "Skill 4.11.1",
+      "publishedAt": "2026-11-26T01:59:33Z"
+    },
+    {
+      "tag": "engine-v0.1.31",
+      "name": "impeccable engine engine-v0.1.31",
+      "publishedAt": "2026-11-26T00:35:11Z"
+    },
+    {
+      "tag": "cli-v4.11.1",
+      "name": "CLI 4.11.1",
+      "publishedAt": "2026-11-26T01:58:12Z"
+    },
+    {
       "tag": "skill-v4.11.0",
       "name": "Skill 4.11.0",
       "publishedAt": "2026-11-24T19:11:40Z"
@@ -52,21 +67,6 @@
       "tag": "engine-v0.1.30",
       "name": "impeccable engine engine-v0.1.30",
       "publishedAt": "2026-11-24T18:27:29Z"
-    },
-    {
-      "tag": "engine-v0.1.29",
-      "name": "impeccable engine engine-v0.1.29",
-      "publishedAt": "2026-11-24T09:00:18Z"
-    },
-    {
-      "tag": "cli-v4.11.0",
-      "name": "CLI 4.11.0",
-      "publishedAt": "2026-11-24T19:10:29Z"
-    },
-    {
-      "tag": "loop-v0.2.1",
-      "name": "Impeccable Loop 0.2.1",
-      "publishedAt": "2026-11-22T21:59:11Z"
     }
   ],
   "starHistory": [
@@ -93,6 +93,10 @@
     {
       "date": "2026-11-25",
       "stars": 116572
+    },
+    {
+      "date": "2026-11-26",
+      "stars": 117198
     }
   ],
   "links": {
