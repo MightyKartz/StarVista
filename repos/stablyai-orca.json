@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "TypeScript",
   "languageColor": "#3178c6",
-  "stars": 139364,
-  "forks": 8922,
-  "openIssues": 10145,
-  "pushedAt": "2026-11-26T10:53:35Z",
+  "stars": 141587,
+  "forks": 9064,
+  "openIssues": 10140,
+  "pushedAt": "2026-11-27T10:51:41Z",
   "topics": [
     "agent-ide",
     "ai-agents",
@@ -35,7 +35,7 @@
   ],
   "license": "MIT",
   "activity": "fast-rising",
-  "starDelta7d": 10076,
+  "starDelta7d": 11234,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
   "languages": {
     "TypeScript": 0.96,
@@ -51,8 +51,8 @@
     "C++": 0,
     "Rust": 0,
     "Ruby": 0,
-    "Dockerfile": 0,
     "NSIS": 0,
+    "Dockerfile": 0,
     "Objective-C": 0,
     "Java": 0,
     "Batchfile": 0,
@@ -64,6 +64,11 @@
     "text": "orca is a TypeScript project focused on Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime. It is tagged with agent-ide, ai-agents, and automation."
   },
   "releases": [
+    {
+      "tag": "v1.4.279",
+      "name": "v1.4.279",
+      "publishedAt": "2026-11-27T03:56:08Z"
+    },
     {
       "tag": "v1.4.278",
       "name": "v1.4.278",
@@ -83,11 +88,6 @@
       "tag": "v1.4.274",
       "name": "v1.4.274",
       "publishedAt": "2026-11-24T22:52:16Z"
-    },
-    {
-      "tag": "v1.4.273",
-      "name": "v1.4.273",
-      "publishedAt": "2026-11-24T10:20:48Z"
     }
   ],
   "starHistory": [
@@ -218,6 +218,10 @@
     {
       "date": "2026-11-26",
       "stars": 139364
+    },
+    {
+      "date": "2026-11-27",
+      "stars": 141587
     }
   ],
   "links": {

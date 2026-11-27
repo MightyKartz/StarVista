@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 153587,
-  "forks": 14767,
-  "openIssues": 1759,
-  "pushedAt": "2026-11-25T13:52:46Z",
+  "stars": 154042,
+  "forks": 14824,
+  "openIssues": 1751,
+  "pushedAt": "2026-11-27T02:53:36Z",
   "topics": [
     "ai-agents",
     "antigravity",
@@ -35,19 +35,24 @@
   ],
   "license": "Apache-2.0",
   "activity": "active",
-  "starDelta7d": 3232,
+  "starDelta7d": 3203,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/297659074?v=4",
   "languages": {
     "Python": 1,
     "TypeScript": 0,
     "Dockerfile": 0
   },
-  "readmeExcerpt": "Read this in other languages",
+  "readmeExcerpt": "Website: graphify.com &nbsp;&middot;&nbsp; Docs: docs.graphify.com",
   "summary": {
     "mode": "template",
     "text": "graphify is a Python project focused on Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. It is tagged with ai-agents, antigravity, and ast."
   },
   "releases": [
+    {
+      "tag": "v0.9.121",
+      "name": "v0.9.121",
+      "publishedAt": "2026-11-26T19:38:53Z"
+    },
     {
       "tag": "v0.9.120",
       "name": "v0.9.120",
@@ -67,11 +72,6 @@
       "tag": "v0.9.115",
       "name": "v0.9.115",
       "publishedAt": "2026-11-21T21:27:32Z"
-    },
-    {
-      "tag": "v0.9.114",
-      "name": "graphify 0.9.114",
-      "publishedAt": "2026-11-20T21:22:45Z"
     }
   ],
   "starHistory": [
@@ -92,10 +92,6 @@
       "stars": 109593
     },
     {
-      "date": "2026-08-27",
-      "stars": 111307
-    },
-    {
       "date": "2026-08-28",
       "stars": 111837
     },
@@ -108,8 +104,8 @@
       "stars": 112401
     },
     {
-      "date": "2026-09-01",
-      "stars": 113132
+      "date": "2026-08-31",
+      "stars": 112789
     },
     {
       "date": "2026-09-02",
@@ -168,8 +164,8 @@
       "stars": 116829
     },
     {
-      "date": "2026-09-17",
-      "stars": 118669
+      "date": "2026-09-16",
+      "stars": 118140
     },
     {
       "date": "2026-09-18",
@@ -228,8 +224,8 @@
       "stars": 122891
     },
     {
-      "date": "2026-10-03",
-      "stars": 123395
+      "date": "2026-10-02",
+      "stars": 123164
     },
     {
       "date": "2026-10-04",
@@ -284,8 +280,8 @@
       "stars": 127012
     },
     {
-      "date": "2026-10-18",
-      "stars": 127926
+      "date": "2026-10-17",
+      "stars": 127341
     },
     {
       "date": "2026-10-19",
@@ -344,8 +340,8 @@
       "stars": 140196
     },
     {
-      "date": "2026-11-03",
-      "stars": 141452
+      "date": "2026-11-02",
+      "stars": 140764
     },
     {
       "date": "2026-11-04",
@@ -404,8 +400,8 @@
       "stars": 149276
     },
     {
-      "date": "2026-11-19",
-      "stars": 150355
+      "date": "2026-11-18",
+      "stars": 149861
     },
     {
       "date": "2026-11-20",
@@ -434,6 +430,10 @@
     {
       "date": "2026-11-26",
       "stars": 153587
+    },
+    {
+      "date": "2026-11-27",
+      "stars": 154042
     }
   ],
   "links": {

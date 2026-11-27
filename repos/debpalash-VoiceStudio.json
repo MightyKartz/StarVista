@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 118655,
-  "forks": 13235,
-  "openIssues": 19,
-  "pushedAt": "2026-11-26T10:21:49Z",
+  "stars": 119120,
+  "forks": 13300,
+  "openIssues": 9,
+  "pushedAt": "2026-11-27T08:58:04Z",
   "topics": [
     "ai",
     "audiobook",
@@ -34,11 +34,11 @@
   ],
   "license": "AGPL-3.0",
   "activity": "fast-rising",
-  "starDelta7d": 4890,
+  "starDelta7d": 4235,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/4178343?v=4",
   "languages": {
     "Python": 0.55,
-    "TypeScript": 0.25,
+    "TypeScript": 0.26,
     "Swift": 0.06,
     "Kotlin": 0.06,
     "JavaScript": 0.05,
@@ -126,6 +126,10 @@
     {
       "date": "2026-11-26",
       "stars": 118655
+    },
+    {
+      "date": "2026-11-27",
+      "stars": 119120
     }
   ],
   "links": {

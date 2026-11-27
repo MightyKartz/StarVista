@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 157357,
-  "forks": 10269,
-  "openIssues": 770,
-  "pushedAt": "2026-11-26T05:17:57Z",
+  "stars": 157589,
+  "forks": 10297,
+  "openIssues": 774,
+  "pushedAt": "2026-11-27T08:56:40Z",
   "topics": [
     "ai-tools",
     "claude-code",
@@ -34,10 +34,10 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 1649,
+  "starDelta7d": 1628,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
   "languages": {
-    "Rust": 0.63,
+    "Rust": 0.64,
     "TypeScript": 0.36,
     "HTML": 0.01,
     "CSS": 0,
@@ -50,6 +50,11 @@
     "text": "cc-switch is a Rust project focused on A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io. It is tagged with ai-tools, claude-code, and codex."
   },
   "releases": [
+    {
+      "tag": "v4.0.43",
+      "name": "CC Switch v4.0.43",
+      "publishedAt": "2026-11-26T15:29:48Z"
+    },
     {
       "tag": "v4.0.42",
       "name": "CC Switch v4.0.42",
@@ -69,11 +74,6 @@
       "tag": "v4.0.39",
       "name": "CC Switch v4.0.39",
       "publishedAt": "2026-11-22T13:42:30Z"
-    },
-    {
-      "tag": "v4.0.38",
-      "name": "CC Switch v4.0.38",
-      "publishedAt": "2026-11-21T13:35:14Z"
     }
   ],
   "starHistory": [
@@ -118,12 +118,8 @@
       "stars": 128866
     },
     {
-      "date": "2026-08-27",
-      "stars": 129713
-    },
-    {
-      "date": "2026-08-29",
-      "stars": 130002
+      "date": "2026-08-28",
+      "stars": 129884
     },
     {
       "date": "2026-08-30",
@@ -150,8 +146,8 @@
       "stars": 130996
     },
     {
-      "date": "2026-09-06",
-      "stars": 131248
+      "date": "2026-09-05",
+      "stars": 131119
     },
     {
       "date": "2026-09-07",
@@ -174,8 +170,8 @@
       "stars": 132259
     },
     {
-      "date": "2026-09-13",
-      "stars": 132575
+      "date": "2026-09-12",
+      "stars": 132419
     },
     {
       "date": "2026-09-14",
@@ -202,8 +198,8 @@
       "stars": 133602
     },
     {
-      "date": "2026-09-21",
-      "stars": 133898
+      "date": "2026-09-20",
+      "stars": 133754
     },
     {
       "date": "2026-09-22",
@@ -230,8 +226,8 @@
       "stars": 137328
     },
     {
-      "date": "2026-09-29",
-      "stars": 138429
+      "date": "2026-09-28",
+      "stars": 137907
     },
     {
       "date": "2026-09-30",
@@ -258,8 +254,8 @@
       "stars": 140137
     },
     {
-      "date": "2026-10-07",
-      "stars": 140605
+      "date": "2026-10-06",
+      "stars": 140373
     },
     {
       "date": "2026-10-08",
@@ -286,8 +282,8 @@
       "stars": 143589
     },
     {
-      "date": "2026-10-15",
-      "stars": 144498
+      "date": "2026-10-14",
+      "stars": 144011
     },
     {
       "date": "2026-10-16",
@@ -314,8 +310,8 @@
       "stars": 146985
     },
     {
-      "date": "2026-10-23",
-      "stars": 147849
+      "date": "2026-10-22",
+      "stars": 147434
     },
     {
       "date": "2026-10-24",
@@ -342,8 +338,8 @@
       "stars": 149906
     },
     {
-      "date": "2026-10-31",
-      "stars": 150514
+      "date": "2026-10-30",
+      "stars": 150238
     },
     {
       "date": "2026-11-01",
@@ -366,8 +362,8 @@
       "stars": 151995
     },
     {
-      "date": "2026-11-07",
-      "stars": 152476
+      "date": "2026-11-06",
+      "stars": 152271
     },
     {
       "date": "2026-11-08",
@@ -394,8 +390,8 @@
       "stars": 154112
     },
     {
-      "date": "2026-11-15",
-      "stars": 154523
+      "date": "2026-11-14",
+      "stars": 154319
     },
     {
       "date": "2026-11-16",
@@ -422,8 +418,8 @@
       "stars": 156114
     },
     {
-      "date": "2026-11-23",
-      "stars": 156560
+      "date": "2026-11-22",
+      "stars": 156273
     },
     {
       "date": "2026-11-24",
@@ -436,6 +432,10 @@
     {
       "date": "2026-11-26",
       "stars": 157357
+    },
+    {
+      "date": "2026-11-27",
+      "stars": 157589
     }
   ],
   "links": {
