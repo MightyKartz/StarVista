@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Python",
   "languageColor": "#3572a5",
-  "stars": 191554,
-  "forks": 13407,
-  "openIssues": 1531,
-  "pushedAt": "2026-11-27T00:14:35Z",
+  "stars": 191721,
+  "forks": 13415,
+  "openIssues": 1554,
+  "pushedAt": "2026-11-27T12:50:49Z",
   "topics": [
     "awesome",
     "github",
@@ -19,7 +19,7 @@
   ],
   "license": null,
   "activity": "active",
-  "starDelta7d": 1437,
+  "starDelta7d": 1428,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/8255800?v=4",
   "languages": {
     "Python": 1
@@ -30,6 +30,11 @@
     "text": "HelloGitHub is a Python project focused on :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. It is tagged with awesome, github, and hellogithub."
   },
   "releases": [
+    {
+      "tag": "vol.128",
+      "name": "第 128 期",
+      "publishedAt": "2026-11-27T12:51:21Z"
+    },
     {
       "tag": "vol.127",
       "name": "第 127 期",
@@ -49,11 +54,6 @@
       "tag": "vol.124",
       "name": "第 124 期",
       "publishedAt": "2026-08-02T07:59:51Z"
-    },
-    {
-      "tag": "vol.123",
-      "name": "第 123 期",
-      "publishedAt": "2026-06-29T00:36:02Z"
     }
   ],
   "starHistory": [
@@ -98,12 +98,8 @@
       "stars": 172344
     },
     {
-      "date": "2026-08-28",
-      "stars": 173448
-    },
-    {
-      "date": "2026-08-30",
-      "stars": 173687
+      "date": "2026-08-29",
+      "stars": 173526
     },
     {
       "date": "2026-08-31",
@@ -130,8 +126,8 @@
       "stars": 174788
     },
     {
-      "date": "2026-09-07",
-      "stars": 175172
+      "date": "2026-09-06",
+      "stars": 174947
     },
     {
       "date": "2026-09-08",
@@ -154,8 +150,8 @@
       "stars": 176108
     },
     {
-      "date": "2026-09-14",
-      "stars": 176450
+      "date": "2026-09-13",
+      "stars": 176260
     },
     {
       "date": "2026-09-15",
@@ -182,8 +178,8 @@
       "stars": 177635
     },
     {
-      "date": "2026-09-22",
-      "stars": 178033
+      "date": "2026-09-21",
+      "stars": 177850
     },
     {
       "date": "2026-09-23",
@@ -210,8 +206,8 @@
       "stars": 178935
     },
     {
-      "date": "2026-09-30",
-      "stars": 179305
+      "date": "2026-09-29",
+      "stars": 179115
     },
     {
       "date": "2026-10-01",
@@ -238,8 +234,8 @@
       "stars": 180354
     },
     {
-      "date": "2026-10-08",
-      "stars": 180733
+      "date": "2026-10-07",
+      "stars": 180544
     },
     {
       "date": "2026-10-09",
@@ -266,8 +262,8 @@
       "stars": 181999
     },
     {
-      "date": "2026-10-16",
-      "stars": 182402
+      "date": "2026-10-15",
+      "stars": 182215
     },
     {
       "date": "2026-10-17",
@@ -294,8 +290,8 @@
       "stars": 183620
     },
     {
-      "date": "2026-10-24",
-      "stars": 184011
+      "date": "2026-10-23",
+      "stars": 183801
     },
     {
       "date": "2026-10-25",
@@ -322,8 +318,8 @@
       "stars": 185679
     },
     {
-      "date": "2026-11-01",
-      "stars": 186074
+      "date": "2026-10-31",
+      "stars": 185877
     },
     {
       "date": "2026-11-02",
@@ -346,8 +342,8 @@
       "stars": 187204
     },
     {
-      "date": "2026-11-08",
-      "stars": 187554
+      "date": "2026-11-07",
+      "stars": 187385
     },
     {
       "date": "2026-11-09",
@@ -374,8 +370,8 @@
       "stars": 188746
     },
     {
-      "date": "2026-11-16",
-      "stars": 189229
+      "date": "2026-11-15",
+      "stars": 188984
     },
     {
       "date": "2026-11-17",
@@ -402,8 +398,8 @@
       "stars": 190463
     },
     {
-      "date": "2026-11-24",
-      "stars": 190940
+      "date": "2026-11-23",
+      "stars": 190702
     },
     {
       "date": "2026-11-25",
@@ -416,6 +412,10 @@
     {
       "date": "2026-11-27",
       "stars": 191554
+    },
+    {
+      "date": "2026-11-28",
+      "stars": 191721
     }
   ],
   "links": {

@@ -3,14 +3,14 @@
   "slug": "ohmyzsh-ohmyzsh",
   "owner": "ohmyzsh",
   "name": "ohmyzsh",
-  "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+  "description": "🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
   "archived": false,
   "primaryLanguage": "Shell",
   "languageColor": null,
-  "stars": 190944,
-  "forks": 27126,
-  "openIssues": 185,
-  "pushedAt": "2026-11-26T15:29:17Z",
+  "stars": 190888,
+  "forks": 27063,
+  "openIssues": 113,
+  "pushedAt": "2026-11-28T04:26:18Z",
   "topics": [
     "cli",
     "cli-app",
@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "activity": "active",
-  "starDelta7d": 244,
+  "starDelta7d": 174,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/22552083?v=4",
   "languages": {
     "Shell": 0.99,
@@ -40,7 +40,7 @@
   "readmeExcerpt": "Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.",
   "summary": {
     "mode": "template",
-    "text": "ohmyzsh is a Shell project focused on 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. It is tagged with cli, cli-app, and oh-my-zsh."
+    "text": "ohmyzsh is a Shell project focused on 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. It is tagged with cli, cli-app, and oh-my-zsh."
   },
   "releases": [],
   "starHistory": [
@@ -85,12 +85,8 @@
       "stars": 189316
     },
     {
-      "date": "2026-08-28",
-      "stars": 189417
-    },
-    {
-      "date": "2026-08-30",
-      "stars": 189451
+      "date": "2026-08-29",
+      "stars": 189429
     },
     {
       "date": "2026-08-31",
@@ -117,8 +113,8 @@
       "stars": 189552
     },
     {
-      "date": "2026-09-07",
-      "stars": 189606
+      "date": "2026-09-06",
+      "stars": 189568
     },
     {
       "date": "2026-09-08",
@@ -141,8 +137,8 @@
       "stars": 189679
     },
     {
-      "date": "2026-09-14",
-      "stars": 189707
+      "date": "2026-09-13",
+      "stars": 189703
     },
     {
       "date": "2026-09-15",
@@ -169,8 +165,8 @@
       "stars": 189836
     },
     {
-      "date": "2026-09-22",
-      "stars": 189874
+      "date": "2026-09-21",
+      "stars": 189855
     },
     {
       "date": "2026-09-23",
@@ -197,8 +193,8 @@
       "stars": 189970
     },
     {
-      "date": "2026-09-30",
-      "stars": 189998
+      "date": "2026-09-29",
+      "stars": 189985
     },
     {
       "date": "2026-10-01",
@@ -225,8 +221,8 @@
       "stars": 190181
     },
     {
-      "date": "2026-10-08",
-      "stars": 190227
+      "date": "2026-10-07",
+      "stars": 190206
     },
     {
       "date": "2026-10-09",
@@ -253,8 +249,8 @@
       "stars": 190131
     },
     {
-      "date": "2026-10-16",
-      "stars": 190037
+      "date": "2026-10-15",
+      "stars": 190026
     },
     {
       "date": "2026-10-17",
@@ -281,8 +277,8 @@
       "stars": 190108
     },
     {
-      "date": "2026-10-24",
-      "stars": 190141
+      "date": "2026-10-23",
+      "stars": 190134
     },
     {
       "date": "2026-10-25",
@@ -309,8 +305,8 @@
       "stars": 190236
     },
     {
-      "date": "2026-11-01",
-      "stars": 190277
+      "date": "2026-10-31",
+      "stars": 190256
     },
     {
       "date": "2026-11-02",
@@ -333,8 +329,8 @@
       "stars": 190335
     },
     {
-      "date": "2026-11-08",
-      "stars": 190361
+      "date": "2026-11-07",
+      "stars": 190339
     },
     {
       "date": "2026-11-09",
@@ -361,8 +357,8 @@
       "stars": 190614
     },
     {
-      "date": "2026-11-16",
-      "stars": 190645
+      "date": "2026-11-15",
+      "stars": 190647
     },
     {
       "date": "2026-11-17",
@@ -389,8 +385,8 @@
       "stars": 190787
     },
     {
-      "date": "2026-11-24",
-      "stars": 190802
+      "date": "2026-11-23",
+      "stars": 190872
     },
     {
       "date": "2026-11-25",
@@ -403,6 +399,10 @@
     {
       "date": "2026-11-27",
       "stars": 190944
+    },
+    {
+      "date": "2026-11-28",
+      "stars": 190888
     }
   ],
   "links": {

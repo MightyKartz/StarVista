@@ -7,10 +7,10 @@
   "archived": false,
   "primaryLanguage": "Rust",
   "languageColor": "#dea584",
-  "stars": 117766,
-  "forks": 7059,
+  "stars": 118250,
+  "forks": 7079,
   "openIssues": 78,
-  "pushedAt": "2026-11-27T10:40:37Z",
+  "pushedAt": "2026-11-28T03:53:52Z",
   "topics": [
     "agent-skills",
     "ai",
@@ -20,7 +20,7 @@
   ],
   "license": "Apache-2.0",
   "activity": "fast-rising",
-  "starDelta7d": 4045,
+  "starDelta7d": 4025,
   "ownerAvatarUrl": "https://avatars.githubusercontent.com/u/43004?v=4",
   "languages": {
     "Rust": 0.72,
@@ -44,6 +44,11 @@
   },
   "releases": [
     {
+      "tag": "engine-v0.1.32",
+      "name": "impeccable engine engine-v0.1.32",
+      "publishedAt": "2026-11-28T03:30:04Z"
+    },
+    {
       "tag": "skill-v4.11.1",
       "name": "Skill 4.11.1",
       "publishedAt": "2026-11-26T01:59:33Z"
@@ -62,11 +67,6 @@
       "tag": "skill-v4.11.0",
       "name": "Skill 4.11.0",
       "publishedAt": "2026-11-24T19:11:40Z"
-    },
-    {
-      "tag": "engine-v0.1.30",
-      "name": "impeccable engine engine-v0.1.30",
-      "publishedAt": "2026-11-24T18:27:29Z"
     }
   ],
   "starHistory": [
@@ -101,6 +101,10 @@
     {
       "date": "2026-11-27",
       "stars": 117766
+    },
+    {
+      "date": "2026-11-28",
+      "stars": 118250
     }
   ],
   "links": {
